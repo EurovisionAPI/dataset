@@ -1,0 +1,32 @@
+{
+  "id": 9,
+  "country": "SM",
+  "broadcaster": null,
+  "artist": "Michele Perniola",
+  "artistPeople": [
+    "Michele Perniola"
+  ],
+  "song": "O",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9UXMp_nTbsE",
+    "https://www.youtube-nocookie.com/embed/CNSnHXZMAZo"
+  ],
+  "bpm": 111,
+  "tone": "G major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Antonio Carozza",
+    "Massimiliano Messieri"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Antonio Carozza",
+    "Michele Perniola",
+    "Piero Romitelli"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

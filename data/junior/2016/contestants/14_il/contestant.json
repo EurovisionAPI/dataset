@@ -1,0 +1,29 @@
+{
+  "id": 14,
+  "country": "IL",
+  "broadcaster": null,
+  "artist": "Shir & Tim",
+  "artistPeople": [
+    "Shir & Tim"
+  ],
+  "song": "Follow My Heart",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dKK2K1OEKv4",
+    "https://www.youtube-nocookie.com/embed/d3bl8lAJW2I"
+  ],
+  "bpm": 113,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Dor Daniel"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Noam Horev"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

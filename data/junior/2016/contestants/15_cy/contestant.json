@@ -1,0 +1,31 @@
+{
+  "id": 15,
+  "country": "CY",
+  "broadcaster": null,
+  "artist": "George Michaelides",
+  "artistPeople": [
+    "George Michaelides"
+  ],
+  "song": "Dance Floor",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FiNmDC2-aUQ",
+    "https://www.youtube-nocookie.com/embed/fy-RLUSXR-Y",
+    "https://www.youtube-nocookie.com/embed/1fRWHVHCymc"
+  ],
+  "bpm": 106,
+  "tone": "F major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Andreas Anastasiou"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Andreas Anastasiou",
+    "George Michaelides"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": 11,
+  "country": "NL",
+  "broadcaster": null,
+  "artist": "Kimberly Nieuwenhuis",
+  "artistPeople": [
+    "Kimberly Nieuwenhuis"
+  ],
+  "song": "Goed",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7vvgsc8lNRc"
+  ],
+  "bpm": 80,
+  "tone": "C# minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Kimberly Nieuwenhuis"
+  ]
+}

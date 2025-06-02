@@ -1,0 +1,14 @@
+{
+  "year": 2004,
+  "arena": "Håkons Hall",
+  "city": "Lillehammer",
+  "country": "NO",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2004.png",
+  "presenters": [
+    "Stian Barsnes Simonsen",
+    "Nadia Hasnaoui"
+  ],
+  "broadcasters": null
+}

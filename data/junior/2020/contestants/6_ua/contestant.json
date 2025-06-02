@@ -1,0 +1,28 @@
+{
+  "id": 6,
+  "country": "UA",
+  "broadcaster": null,
+  "artist": "Oleksandr Balabanov",
+  "artistPeople": [
+    "Oleksandr Balabanov"
+  ],
+  "song": "Vidkryvai",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nqCjSZemWZ0",
+    "https://www.youtube-nocookie.com/embed/Bp8eMID9ghQ"
+  ],
+  "bpm": null,
+  "tone": null,
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Mykhailo Klymenko",
+    "Oleksandr Balabanov"
+  ]
+}

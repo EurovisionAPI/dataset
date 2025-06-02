@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "country": "GE",
+  "broadcaster": null,
+  "artist": "The Funkids",
+  "artistPeople": [
+    "Ketevan Samkharadze",
+    "Nino Dashniani",
+    "Luka Karmazanashvili",
+    "Elene Arachashvili"
+  ],
+  "song": "Funky Lemonade",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ayPE5t1plck",
+    "https://www.youtube-nocookie.com/embed/6dWFV25ANbk"
+  ],
+  "bpm": 148,
+  "tone": "G major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Giga Kukhianidze",
+    "The Funkids"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Nana Tsintsadze",
+    "The Funkids"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

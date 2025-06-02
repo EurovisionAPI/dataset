@@ -1,0 +1,27 @@
+{
+  "id": 12,
+  "country": "LT",
+  "broadcaster": null,
+  "artist": "Lina Joy",
+  "artistPeople": [
+    "Lina Joy"
+  ],
+  "song": "Kai miestas snaudžia",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/y80skUaUz1w",
+    "https://www.youtube-nocookie.com/embed/uQ1oVv0GEzw",
+    "https://www.youtube-nocookie.com/embed/HXgJhYjfCcc",
+    "https://www.youtube-nocookie.com/embed/mafH0EZpnDo"
+  ],
+  "bpm": 122,
+  "tone": "C# minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

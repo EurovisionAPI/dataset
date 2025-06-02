@@ -1,0 +1,33 @@
+{
+  "id": 5,
+  "country": "RO",
+  "broadcaster": null,
+  "artist": "New Star Music",
+  "artistPeople": [
+    "Teodora Roxana Sima",
+    "Diana Ioana Prepelitsa",
+    "Liviu Mircea Teodorescu",
+    "Cristian Sanda-Gorun"
+  ],
+  "song": "Povestea mea",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pNhpEDpXMds",
+    "https://www.youtube-nocookie.com/embed/JPUiaBYSQ0A"
+  ],
+  "bpm": 134,
+  "tone": "E♭ minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Cristian Sanda-Gorun",
+    "Diana Ioana Prepelitsa",
+    "Liviu Mircea Teodorescu",
+    "Teodora Roxana Sima"
+  ]
+}

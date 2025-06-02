@@ -1,0 +1,31 @@
+{
+  "id": 11,
+  "country": "PL",
+  "broadcaster": null,
+  "artist": "Dominik Arim",
+  "artistPeople": [
+    "Dominik Arim"
+  ],
+  "song": "All Together",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UZjyPt5bblc",
+    "https://www.youtube-nocookie.com/embed/IlmSD38577U",
+    "https://www.youtube-nocookie.com/embed/9Fp5IqnGtiw",
+    "https://www.youtube-nocookie.com/embed/5SFUX5OWKTY"
+  ],
+  "bpm": 84,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Sławomir Sokołowski"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Aldona Dąbrowska"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

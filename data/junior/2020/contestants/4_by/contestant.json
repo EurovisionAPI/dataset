@@ -1,0 +1,31 @@
+{
+  "id": 4,
+  "country": "BY",
+  "broadcaster": null,
+  "artist": "Arina Pehtereva",
+  "artistPeople": [
+    "Arina Pehtereva"
+  ],
+  "song": "Aliens",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4fshKc8KQUM",
+    "https://www.youtube-nocookie.com/embed/QSTEKWuXcPI",
+    "https://www.youtube-nocookie.com/embed/MLs4RjqqCBQ"
+  ],
+  "bpm": 95,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Daniil Zabela"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Arina Pehtereva",
+    "Daniil Zabela"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": 0,
+  "country": "MT",
+  "broadcaster": null,
+  "artist": "Destiny Chukunyere",
+  "artistPeople": [
+    "Destiny Chukunyere"
+  ],
+  "song": "Not My Soul",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/85Sxw9asfX0",
+    "https://www.youtube-nocookie.com/embed/yoasvA5nutU",
+    "https://www.youtube-nocookie.com/embed/VFL6j60BQls"
+  ],
+  "bpm": 122,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Destiny Chukunyere",
+    "Elton Zarb"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Destiny Chukunyere",
+    "Matthew Mercieca"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

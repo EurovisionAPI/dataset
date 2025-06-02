@@ -1,0 +1,27 @@
+{
+  "id": 1,
+  "country": "GB",
+  "broadcaster": null,
+  "artist": "Cory Spedding",
+  "artistPeople": [
+    "Cory Spedding"
+  ],
+  "song": "The Best Is Yet to Come",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OBqIBWHZYlM",
+    "https://www.youtube-nocookie.com/embed/Dzb33E95Z7I"
+  ],
+  "bpm": 108,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Cory Spedding"
+  ]
+}

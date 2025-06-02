@@ -1,0 +1,31 @@
+{
+  "id": 3,
+  "country": "GE",
+  "broadcaster": null,
+  "artist": "Mariam Kakhelishvili",
+  "artistPeople": [
+    "Mariam Kakhelishvili"
+  ],
+  "song": "Mari Dari",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ULc3TUY-7Ho",
+    "https://www.youtube-nocookie.com/embed/yr07WBOZYeg",
+    "https://www.youtube-nocookie.com/embed/ukNzjqP5qeo"
+  ],
+  "bpm": 116,
+  "tone": "D major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Giiorgi Kukhianidze",
+    "Mariam Kakhelisvhili"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Giiorgi Kukhianidze"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

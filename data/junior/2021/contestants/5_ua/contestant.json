@@ -1,0 +1,31 @@
+{
+  "id": 5,
+  "country": "UA",
+  "broadcaster": null,
+  "artist": "Olena Usenko",
+  "artistPeople": [
+    "Olena Usenko"
+  ],
+  "song": "Vazhil",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tYBeJ_VBzgs",
+    "https://www.youtube-nocookie.com/embed/UdDhkA7K7g0",
+    "https://www.youtube-nocookie.com/embed/fn6jcGL-fRg"
+  ],
+  "bpm": 173,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Kateryna Komar",
+    "Olena Usenko"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Olena Usenko"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

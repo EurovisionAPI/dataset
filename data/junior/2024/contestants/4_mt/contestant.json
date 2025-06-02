@@ -1,0 +1,33 @@
+{
+  "id": 4,
+  "country": "MT",
+  "broadcaster": null,
+  "artist": "Ramires Sciberras",
+  "artistPeople": [
+    "Ramires Sciberras"
+  ],
+  "song": "Stilla ċkejkna",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wSa4ulh5y98",
+    "https://www.youtube-nocookie.com/embed/-UqLKvz_7-E",
+    "https://www.youtube-nocookie.com/embed/tGIrl8foSAc",
+    "https://www.youtube-nocookie.com/embed/eGiNI1w2NjU",
+    "https://www.youtube-nocookie.com/embed/xjdE1Abtffk"
+  ],
+  "bpm": 136,
+  "tone": "F# major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Aleandro Spiteri Monsigneur",
+    "Peter Borg"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Lon Kirkop"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

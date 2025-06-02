@@ -1,0 +1,33 @@
+{
+  "id": 4,
+  "country": "GB",
+  "broadcaster": null,
+  "artist": "Freya Skye",
+  "artistPeople": [
+    "Freya Skye"
+  ],
+  "song": "Lose My Head",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/P1u0VmKySBs",
+    "https://www.youtube-nocookie.com/embed/-p_L-vr3Mdc",
+    "https://www.youtube-nocookie.com/embed/kC-EyZJK9bo",
+    "https://www.youtube-nocookie.com/embed/6me5sHRuLFw",
+    "https://www.youtube-nocookie.com/embed/cBprBAuO-Fw",
+    "https://www.youtube-nocookie.com/embed/ooZS_Au6Wpo"
+  ],
+  "bpm": 110,
+  "tone": "C minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Amber Van Day",
+    "Deepend",
+    "Jack Hawitt"
+  ]
+}

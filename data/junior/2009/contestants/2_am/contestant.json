@@ -1,0 +1,27 @@
+{
+  "id": 2,
+  "country": "AM",
+  "broadcaster": null,
+  "artist": "Luara Hayrapetyan",
+  "artistPeople": [
+    "Luara Hayrapetyan"
+  ],
+  "song": "Barcelona",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yvaxURpZhC0",
+    "https://www.youtube-nocookie.com/embed/rio_fZPNTMc"
+  ],
+  "bpm": 62,
+  "tone": "G major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Luara Hayrapetyan"
+  ]
+}

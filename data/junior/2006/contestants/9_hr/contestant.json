@@ -1,0 +1,27 @@
+{
+  "id": 9,
+  "country": "HR",
+  "broadcaster": null,
+  "artist": "Mateo Đido",
+  "artistPeople": [
+    "Mateo Đido"
+  ],
+  "song": "Lea",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pTKmyvrqaxU",
+    "https://www.youtube-nocookie.com/embed/7pSmLXnH2Sc"
+  ],
+  "bpm": 176,
+  "tone": "B♭ minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Mateo Ðido"
+  ]
+}

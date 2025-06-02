@@ -1,0 +1,15 @@
+{
+  "year": 2023,
+  "arena": "Palais Nikaïa",
+  "city": "Nice",
+  "country": "FR",
+  "intendedCountry": null,
+  "slogan": "Heroes",
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2023.png",
+  "presenters": [
+    "Olivier Minne",
+    "Laury Thilleman",
+    "Ophenya"
+  ],
+  "broadcasters": null
+}

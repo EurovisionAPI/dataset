@@ -1,0 +1,30 @@
+{
+  "id": 12,
+  "country": "ME",
+  "broadcaster": null,
+  "artist": "Jana Mirković",
+  "artistPeople": [
+    "Jana Mirković"
+  ],
+  "song": "Oluja",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/V74zqK58jNE",
+    "https://www.youtube-nocookie.com/embed/7rDBWx9Hfa0"
+  ],
+  "bpm": 110,
+  "tone": "C major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Mirsad Serhatlić"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Boban Novović",
+    "Jana Mirković"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

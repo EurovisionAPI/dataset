@@ -1,0 +1,31 @@
+{
+  "id": 4,
+  "country": "UA",
+  "broadcaster": null,
+  "artist": "Andranik Alexanyan",
+  "artistPeople": [
+    "Andranik Alexanyan"
+  ],
+  "song": "Try topoli, try surmy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7K9ylQJDupY",
+    "https://www.youtube-nocookie.com/embed/43fYlcVge5g"
+  ],
+  "bpm": 80,
+  "tone": "C major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Aleksanyan Andranik",
+    "Zlotnyk Sophia"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Anastasiya Kravchenko",
+    "Maria Kravchenko"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

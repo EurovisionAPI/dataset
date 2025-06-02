@@ -1,0 +1,29 @@
+{
+  "id": 2,
+  "country": "ES",
+  "broadcaster": null,
+  "artist": "Soleá",
+  "artistPeople": [
+    "Soleá Fernández Moreno"
+  ],
+  "song": "Palante",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bh_IlmYoyTY",
+    "https://www.youtube-nocookie.com/embed/kaW8m4-fExQ"
+  ],
+  "bpm": 100,
+  "tone": "F# minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Bruno Valverde",
+    "César G. Ross",
+    "Hajar Sbihi"
+  ]
+}

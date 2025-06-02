@@ -1,0 +1,38 @@
+{
+  "id": 15,
+  "country": "BG",
+  "broadcaster": null,
+  "artist": "Denislava & Martin",
+  "artistPeople": [
+    "Denislava Dimitrova",
+    "Martin Stoyanov"
+  ],
+  "song": "Voice Of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uTBxt-ECdho",
+    "https://www.youtube-nocookie.com/embed/Q4nwYL-zZnE",
+    "https://www.youtube-nocookie.com/embed/tyfQe7g9ZaU"
+  ],
+  "bpm": 90,
+  "tone": "A♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Davor Jordanovski",
+    "Vasil Garvanilev",
+    "Vasil Garvanliev",
+    "Vesna Malinova"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Davor Jordanovski",
+    "Stan Stefanov",
+    "Vasil Garvanilev",
+    "Vasil Garvanilev",
+    "Vesna Malinova"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

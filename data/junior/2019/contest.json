@@ -1,0 +1,15 @@
+{
+  "year": 2019,
+  "arena": "Arena Gliwice",
+  "city": "Gliwice-Silesia",
+  "country": "PL",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2019.png",
+  "presenters": [
+    "Ida Nowakowska",
+    "Aleksander Sikora",
+    "Roksana Węgiel"
+  ],
+  "broadcasters": null
+}

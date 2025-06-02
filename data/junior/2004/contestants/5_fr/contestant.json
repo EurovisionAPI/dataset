@@ -1,0 +1,28 @@
+{
+  "id": 5,
+  "country": "FR",
+  "broadcaster": null,
+  "artist": "Thomas Pontier",
+  "artistPeople": [
+    "Thomas Pontier"
+  ],
+  "song": "Si on voulait bien",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/W-2LsAQhnv4",
+    "https://www.youtube-nocookie.com/embed/zfvEDFSaoZk",
+    "https://www.youtube-nocookie.com/embed/M9JrHouByHA"
+  ],
+  "bpm": 138,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Thomas Pontier"
+  ]
+}

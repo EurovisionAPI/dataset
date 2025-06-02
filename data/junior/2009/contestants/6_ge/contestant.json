@@ -1,0 +1,36 @@
+{
+  "id": 6,
+  "country": "GE",
+  "broadcaster": null,
+  "artist": "Group Princesses",
+  "artistPeople": [
+    "Mariam Bokeria",
+    "Mariam Gurgenidze",
+    "Liza Kenia",
+    "Elene Makashvili",
+    "Lizi Ramishvili",
+    "Ana Tkeshelashvili"
+  ],
+  "song": "Lurji Prinveli",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/C2XNBMOFS4I",
+    "https://www.youtube-nocookie.com/embed/01GUje6pmp0"
+  ],
+  "bpm": 136,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Elene Makashvili",
+    "Zaza Tsurtsumia"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Irina Sanikidze",
+    "Liza Kenia"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

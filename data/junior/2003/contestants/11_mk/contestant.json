@@ -1,0 +1,27 @@
+{
+  "id": 11,
+  "country": "MK",
+  "broadcaster": null,
+  "artist": "Marija & Viktorija",
+  "artistPeople": [
+    "Marija & Viktorija"
+  ],
+  "song": "Ti ne me poznavaš",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GMjPkYBpDUo",
+    "https://www.youtube-nocookie.com/embed/T50dHu4VBJA"
+  ],
+  "bpm": 135,
+  "tone": "C minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Irena Galabovska"
+  ]
+}

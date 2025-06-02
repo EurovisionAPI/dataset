@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "country": "ES",
+  "broadcaster": null,
+  "artist": "Sandra Valero",
+  "artistPeople": [
+    "Sandra Valero"
+  ],
+  "song": "Loviu",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DLw4kS1PSNQ",
+    "https://www.youtube-nocookie.com/embed/nirNhAbJJQI",
+    "https://www.youtube-nocookie.com/embed/e_RCwv2s7aw",
+    "https://www.youtube-nocookie.com/embed/7pQtVIY2YTM"
+  ],
+  "bpm": 175,
+  "tone": "F major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Alejandro Martínez Valderrama",
+    "David Parejo Martín",
+    "Diego Cantero",
+    "Luis Vicente Ramiro"
+  ]
+}

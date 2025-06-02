@@ -1,0 +1,36 @@
+{
+  "id": 2,
+  "country": "AM",
+  "broadcaster": null,
+  "artist": "Yan Girls",
+  "artistPeople": [
+    "Kamilla Davtyan",
+    "Nancy Mnatsakanyan",
+    "Nané Andreasyan",
+    "Syuzanna Nikoyan",
+    "Aida"
+  ],
+  "song": "Do It My Way",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Sv-YCSEyT6Q",
+    "https://www.youtube-nocookie.com/embed/SvYG6I0tc-I",
+    "https://www.youtube-nocookie.com/embed/6lLsmo0JXiw",
+    "https://www.youtube-nocookie.com/embed/CvRXdDtFkuA"
+  ],
+  "bpm": 76,
+  "tone": "D major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Tokionine"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Maléna",
+    "Vahram Petrosyan"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

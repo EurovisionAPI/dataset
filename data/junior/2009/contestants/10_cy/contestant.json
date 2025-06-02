@@ -1,0 +1,29 @@
+{
+  "id": 10,
+  "country": "CY",
+  "broadcaster": null,
+  "artist": "Rafaella Costa",
+  "artistPeople": [
+    "Rafaella Costa"
+  ],
+  "song": "Thalassa, helios, aeras, fotia",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zQrSKrxwa58",
+    "https://www.youtube-nocookie.com/embed/py_1VB3P0kk"
+  ],
+  "bpm": 126,
+  "tone": "A♭ minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Martha Paradisioti"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Rafaella Costa"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

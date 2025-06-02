@@ -1,0 +1,13 @@
+{
+  "year": 2015,
+  "arena": "Arena Armeec",
+  "city": "Sofia",
+  "country": "BG",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2015.png",
+  "presenters": [
+    "Poli Genova"
+  ],
+  "broadcasters": null
+}

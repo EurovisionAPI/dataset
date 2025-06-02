@@ -1,0 +1,29 @@
+{
+  "id": 7,
+  "country": "PT",
+  "broadcaster": null,
+  "artist": "Nicolas Alves",
+  "artistPeople": [
+    "Nicolas Alves"
+  ],
+  "song": "Anos 70",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wBOLE0mvc6M",
+    "https://www.youtube-nocookie.com/embed/Gu7oAdJy7K0",
+    "https://www.youtube-nocookie.com/embed/nEeO17pL4mg"
+  ],
+  "bpm": 133,
+  "tone": "A♭ minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Agir",
+    "Carolina Deslandes"
+  ]
+}

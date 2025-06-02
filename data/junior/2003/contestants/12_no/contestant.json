@@ -1,0 +1,26 @@
+{
+  "id": 12,
+  "country": "NO",
+  "broadcaster": null,
+  "artist": "2U",
+  "artistPeople": [
+    "Charlot Daysh",
+    "Joakim Harestad Haukaas"
+  ],
+  "song": "Sinnsykt gal forelsket",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Bx25CaaN3g4",
+    "https://www.youtube-nocookie.com/embed/Fp6CPxukCdQ"
+  ],
+  "bpm": 105,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

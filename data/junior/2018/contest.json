@@ -1,0 +1,15 @@
+{
+  "year": 2018,
+  "arena": "Minsk Arena",
+  "city": "Minsk",
+  "country": "BY",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2018.png",
+  "presenters": [
+    "Eugene Perlin",
+    "Helena Meraai",
+    "Zena"
+  ],
+  "broadcasters": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": 5,
+  "country": "LT",
+  "broadcaster": null,
+  "artist": "Bartas",
+  "artistPeople": [
+    "Nojus Bartaška"
+  ],
+  "song": "Oki Doki",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PYw-QAlLZlQ",
+    "https://www.youtube-nocookie.com/embed/33H624BGNGw"
+  ],
+  "bpm": 129,
+  "tone": "B♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Arvydas Martinėnas",
+    "Nojus Bartaška"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Nojus Bartaška",
+    "Rūta Lukoševičiūtė"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

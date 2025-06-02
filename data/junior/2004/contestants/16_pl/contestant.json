@@ -1,0 +1,33 @@
+{
+  "id": 16,
+  "country": "PL",
+  "broadcaster": null,
+  "artist": "KWADro",
+  "artistPeople": [
+    "Anna Klamczynska",
+    "Weronika Bochat",
+    "Kamila Piątkowska",
+    "Dominika Rydz"
+  ],
+  "song": "Łap życie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/aTmALwbQKJQ",
+    "https://www.youtube-nocookie.com/embed/O92W8VOkT1Q"
+  ],
+  "bpm": 102,
+  "tone": "B minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Anna Klamczynska",
+    "Dominika Rydz",
+    "Kamila Piątkowska",
+    "Weronika Bochat"
+  ]
+}

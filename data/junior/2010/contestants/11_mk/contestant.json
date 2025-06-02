@@ -1,0 +1,27 @@
+{
+  "id": 11,
+  "country": "MK",
+  "broadcaster": null,
+  "artist": "Anja Veterova",
+  "artistPeople": [
+    "Anja Veterova"
+  ],
+  "song": "Еооо, Еооо",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/G1wUu9qF7W0",
+    "https://www.youtube-nocookie.com/embed/oVMyU7xgIWE"
+  ],
+  "bpm": 128,
+  "tone": "D major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Anja Veterova"
+  ]
+}

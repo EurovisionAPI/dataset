@@ -1,0 +1,31 @@
+{
+  "id": 7,
+  "country": "KZ",
+  "broadcaster": null,
+  "artist": "Alinur Khamzin & Beknur Zhanibekuly",
+  "artistPeople": [
+    "Alinur Khamzin",
+    "Beknur Zhanibekuly"
+  ],
+  "song": "Ertegı älemı",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/I-oRMHgnEnw",
+    "https://www.youtube-nocookie.com/embed/DDM5aZ8eAko"
+  ],
+  "bpm": 130,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Nurbolat Qanay"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Gabriel Boileau Cloutier",
+    "Nurbolat Qanay"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

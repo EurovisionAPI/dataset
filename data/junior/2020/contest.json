@@ -1,0 +1,15 @@
+{
+  "year": 2020,
+  "arena": "Studio 5 at TVP Headquarters",
+  "city": "Warsaw",
+  "country": "PL",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2020.png",
+  "presenters": [
+    "Ida Nowakowska-Herndon",
+    "Rafał Brzozowski",
+    "Małgorzata Tomaszewska"
+  ],
+  "broadcasters": null
+}

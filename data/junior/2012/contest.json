@@ -1,0 +1,14 @@
+{
+  "year": 2012,
+  "arena": "Heineken Music Hall",
+  "city": "Amsterdam",
+  "country": "NL",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2012.png",
+  "presenters": [
+    "Ewout Genemans",
+    "Kim-Lian van der Meij"
+  ],
+  "broadcasters": null
+}

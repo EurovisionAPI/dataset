@@ -1,0 +1,33 @@
+{
+  "id": 10,
+  "country": "AZ",
+  "broadcaster": null,
+  "artist": "Omar\u00A0& Suada",
+  "artistPeople": [
+    "Omar Sultanov",
+    "Suada Alekberova"
+  ],
+  "song": "Girls and Boys",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/E9uLxzR7SiY",
+    "https://www.youtube-nocookie.com/embed/siJVWdPlEiY",
+    "https://www.youtube-nocookie.com/embed/18RZcsn9cNg"
+  ],
+  "bpm": 102,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Jessica Appla",
+    "Simon Ellis"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Jessica Appla",
+    "Zahra Badalbeyli"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

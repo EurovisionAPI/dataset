@@ -1,0 +1,32 @@
+{
+  "id": 11,
+  "country": "MT",
+  "broadcaster": null,
+  "artist": "Ike & Kaya",
+  "artistPeople": [
+    "Ike Mizzi",
+    "Kaya Gouder Curmi"
+  ],
+  "song": "My Home",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qjx0GLz1FFc",
+    "https://www.youtube-nocookie.com/embed/ZLCMTzFapeA",
+    "https://www.youtube-nocookie.com/embed/funA8OwU0hI"
+  ],
+  "bpm": 93,
+  "tone": "D major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Cyprian Cassar"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Matt 'MUXU' Mercieca",
+    "Owen Leuellen"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

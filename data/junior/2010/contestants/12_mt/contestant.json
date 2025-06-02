@@ -1,0 +1,27 @@
+{
+  "id": 12,
+  "country": "MT",
+  "broadcaster": null,
+  "artist": "Nicole Azzopardi",
+  "artistPeople": [
+    "Nicole Azzopardi"
+  ],
+  "song": "Knock Knock!....Boom! Boom!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bkXYU0pwvtg",
+    "https://www.youtube-nocookie.com/embed/xNqlItHPM60"
+  ],
+  "bpm": 98,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Nicole Azzopardi"
+  ]
+}

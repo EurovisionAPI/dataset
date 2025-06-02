@@ -1,0 +1,28 @@
+{
+  "id": 13,
+  "country": "GE",
+  "broadcaster": null,
+  "artist": "Giorgi Rostiashvili",
+  "artistPeople": [
+    "Giorgi Rostiashvili"
+  ],
+  "song": "We Need Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gYT5Orfd0zY",
+    "https://www.youtube-nocookie.com/embed/jiLlNU8Nlrg"
+  ],
+  "bpm": 92,
+  "tone": "F minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Dato Evgenidze",
+    "David Evgenidze"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 10,
+  "country": "PT",
+  "broadcaster": null,
+  "artist": "Simão Oliveira",
+  "artistPeople": [
+    "Simão Oliveira"
+  ],
+  "song": "O Rapaz",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Y8o_PFzQfnU",
+    "https://www.youtube-nocookie.com/embed/1LWzU9ubjVg"
+  ],
+  "bpm": 78,
+  "tone": "E minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Diogo Clemente",
+    "Fernando Daniel"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Diogo Clemente"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

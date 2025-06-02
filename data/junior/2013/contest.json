@@ -1,0 +1,14 @@
+{
+  "year": 2013,
+  "arena": "Palace Ukraina",
+  "city": "Kyiv",
+  "country": "UA",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2013.png",
+  "presenters": [
+    "Timur Miroshnychenko",
+    "Zlata Ognevich"
+  ],
+  "broadcasters": null
+}

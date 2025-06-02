@@ -1,0 +1,35 @@
+{
+  "id": 12,
+  "country": "PT",
+  "broadcaster": null,
+  "artist": "Júlia Machado",
+  "artistPeople": [
+    "Júlia Machado"
+  ],
+  "song": "Where I Belong",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jtMQkxHMR2M",
+    "https://www.youtube-nocookie.com/embed/h4Ry3o_ksUE",
+    "https://www.youtube-nocookie.com/embed/2Vk74TQ94BA"
+  ],
+  "bpm": 140,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Aurora Pinto",
+    "Fernando Daniel",
+    "João Direitinho",
+    "Luís Pereira"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Aurora Pinto",
+    "Fernando Daniel",
+    "João Direitinho"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

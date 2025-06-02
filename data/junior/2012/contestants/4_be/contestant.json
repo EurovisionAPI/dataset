@@ -1,0 +1,29 @@
+{
+  "id": 4,
+  "country": "BE",
+  "broadcaster": null,
+  "artist": "Fabian",
+  "artistPeople": [
+    "Fabian Feyaerts"
+  ],
+  "song": "Abracadabra",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wBovZq4y9Jw",
+    "https://www.youtube-nocookie.com/embed/qVBikLQStos"
+  ],
+  "bpm": 101,
+  "tone": "B minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Fabian Feyaerts",
+    "Jeroen Swinnen",
+    "Stefaan Fernande"
+  ]
+}

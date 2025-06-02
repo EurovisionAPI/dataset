@@ -1,0 +1,31 @@
+{
+  "id": 4,
+  "country": "RU",
+  "broadcaster": null,
+  "artist": "Alisa Kozhikina",
+  "artistPeople": [
+    "Alisa Kozhikina"
+  ],
+  "song": "Dreamer",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IgHyJ5dfcck",
+    "https://www.youtube-nocookie.com/embed/QcHz8aAJ-6s"
+  ],
+  "bpm": 83,
+  "tone": "C major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Alisa Kozhikina",
+    "Maxim Fadeev"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Alisa Kozhikina",
+    "Olga Seryabkina"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

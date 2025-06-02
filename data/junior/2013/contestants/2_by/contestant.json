@@ -1,0 +1,31 @@
+{
+  "id": 2,
+  "country": "BY",
+  "broadcaster": null,
+  "artist": "Ilya Volkov",
+  "artistPeople": [
+    "Ilya Volkov"
+  ],
+  "song": "Poy so mnoy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lx5hM-M8LtY",
+    "https://www.youtube-nocookie.com/embed/BCm3jOZf_XQ",
+    "https://www.youtube-nocookie.com/embed/c98U87lamAg"
+  ],
+  "bpm": 128,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Ilya Volkov",
+    "Valery Shmat"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Ilya Volkov"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

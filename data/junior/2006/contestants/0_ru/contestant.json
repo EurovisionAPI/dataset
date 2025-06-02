@@ -1,0 +1,29 @@
+{
+  "id": 0,
+  "country": "RU",
+  "broadcaster": null,
+  "artist": "Tolmachevy Twins",
+  "artistPeople": [
+    "Anastasiya Tolmacheva",
+    "Maria Tolmacheva"
+  ],
+  "song": "Vesenniy Jazz",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xQmKJlyq1Ug",
+    "https://www.youtube-nocookie.com/embed/15be86rapg0"
+  ],
+  "bpm": 140,
+  "tone": "E minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Anastasiya Tolmacheva",
+    "Maria Tolmacheva"
+  ]
+}

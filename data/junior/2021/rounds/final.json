@@ -1,0 +1,369 @@
+{
+  "name": null,
+  "date": "2021-12-19",
+  "time": "15:00:00",
+  "disqualifieds": null,
+  "performances": [
+    {
+      "contestantId": 0,
+      "running": 9,
+      "place": 1,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 1,
+      "running": 3,
+      "place": 2,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 2,
+      "running": 13,
+      "place": 3,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 3,
+      "running": 2,
+      "place": 4,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 4,
+      "running": 14,
+      "place": 5,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 5,
+      "running": 12,
+      "place": 6,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 6,
+      "running": 7,
+      "place": 7,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 7,
+      "running": 10,
+      "place": 8,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 8,
+      "running": 18,
+      "place": 9,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 9,
+      "running": 5,
+      "place": 10,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 10,
+      "running": 19,
+      "place": 11,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 11,
+      "running": 4,
+      "place": 12,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 12,
+      "running": 17,
+      "place": 13,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 13,
+      "running": 11,
+      "place": 14,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 14,
+      "running": 16,
+      "place": 15,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 15,
+      "running": 6,
+      "place": 16,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 16,
+      "running": 1,
+      "place": 17,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 17,
+      "running": 8,
+      "place": 18,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 18,
+      "running": 15,
+      "place": 19,
+      "scores": [
+        {
+          "name": "total",
+          "votes": null
+        },
+        {
+          "name": "online",
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "votes": null
+        }
+      ]
+    }
+  ]
+}

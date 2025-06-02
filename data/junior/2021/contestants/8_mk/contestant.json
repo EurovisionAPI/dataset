@@ -1,0 +1,32 @@
+{
+  "id": 8,
+  "country": "MK",
+  "broadcaster": null,
+  "artist": "Dajte Muzika",
+  "artistPeople": [
+    "Anastasija Džabirski",
+    "Filip Popovski",
+    "Kristina Mukaetova",
+    "Miha Gigov"
+  ],
+  "song": "Green Forces",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bsHPzngVq04",
+    "https://www.youtube-nocookie.com/embed/OAiptSTIuWU"
+  ],
+  "bpm": 121,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Robert Bilbilov"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Robin Zimbakov"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

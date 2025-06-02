@@ -1,0 +1,29 @@
+{
+  "id": 6,
+  "country": "BE",
+  "broadcaster": null,
+  "artist": "Femke",
+  "artistPeople": [
+    "Femke"
+  ],
+  "song": "Een kusje meer",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YbZCZjrGiiw",
+    "https://www.youtube-nocookie.com/embed/5TNS2uVe0CU"
+  ],
+  "bpm": 133,
+  "tone": "A♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Femke Verschueren",
+    "Peter Gillis",
+    "Vincent Goeminne"
+  ]
+}

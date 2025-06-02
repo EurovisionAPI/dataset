@@ -1,0 +1,35 @@
+{
+  "id": 4,
+  "country": "GE",
+  "broadcaster": null,
+  "artist": "Smile Shop",
+  "artistPeople": [
+    "Mariam Shavladze",
+    "Ana Kvantaliani",
+    "Saba Chachua",
+    "Mariam Samushia",
+    "Luka Gogiberidze",
+    "Tamta Diasamidze"
+  ],
+  "song": "Give Me Your Smile",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mV3fSzqmX6o",
+    "https://www.youtube-nocookie.com/embed/Lrb6I5KiBBA"
+  ],
+  "bpm": 92,
+  "tone": "G major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Giorgi Kukhianidze"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Giorgi Kukhianidze",
+    "Smile Shop"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

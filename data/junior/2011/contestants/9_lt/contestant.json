@@ -1,0 +1,30 @@
+{
+  "id": 9,
+  "country": "LT",
+  "broadcaster": null,
+  "artist": "Paulina Skrabytė",
+  "artistPeople": [
+    "Paulina Skrabytė"
+  ],
+  "song": "Debesys",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tWr64a1sI5o",
+    "https://www.youtube-nocookie.com/embed/GNJZCUh17p8"
+  ],
+  "bpm": 138,
+  "tone": "F major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Mindaugas Lapinskis",
+    "Paulina Skrabytė"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Paulina Skrabytė"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

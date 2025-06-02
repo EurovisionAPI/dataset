@@ -1,0 +1,33 @@
+{
+  "id": 0,
+  "country": "FR",
+  "broadcaster": null,
+  "artist": "Lissandro",
+  "artistPeople": [
+    "Lissandro Formica"
+  ],
+  "song": "Oh Maman!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4dgVbV1rRxs",
+    "https://www.youtube-nocookie.com/embed/v7RiOk-JTq8",
+    "https://www.youtube-nocookie.com/embed/TtrO6mjucc4",
+    "https://www.youtube-nocookie.com/embed/5fADsiaUVSM",
+    "https://www.youtube-nocookie.com/embed/XHs9phBCg3o"
+  ],
+  "bpm": 93,
+  "tone": "F minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Frédéric Chateau"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Barbara Pravi",
+    "Frédéric Chateau"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

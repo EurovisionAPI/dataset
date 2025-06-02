@@ -1,0 +1,26 @@
+{
+  "id": 5,
+  "country": "BY",
+  "broadcaster": null,
+  "artist": "Dasha, Alina\u00A0& Karina",
+  "artistPeople": [
+    "Dasha",
+    "Alina\u00A0& Karina"
+  ],
+  "song": "Serdtse Belarusi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/feV2LmAZSe8",
+    "https://www.youtube-nocookie.com/embed/wsQHVIOT6rA"
+  ],
+  "bpm": 75,
+  "tone": "B♭ minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

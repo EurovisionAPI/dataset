@@ -1,0 +1,31 @@
+{
+  "id": 8,
+  "country": "DE",
+  "broadcaster": null,
+  "artist": "Fia",
+  "artistPeople": [
+    "Fia Marielin"
+  ],
+  "song": "Ohne Worte",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/igPLKJCSLTE",
+    "https://www.youtube-nocookie.com/embed/Kvbv327cBV8",
+    "https://www.youtube-nocookie.com/embed/SM4EsxFFWY8",
+    "https://www.youtube-nocookie.com/embed/NHICWkEE9Dc"
+  ],
+  "bpm": 104,
+  "tone": "C minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "David Jürgens",
+    "Martin Fliegenschmidt",
+    "Sascha Seelemann"
+  ]
+}

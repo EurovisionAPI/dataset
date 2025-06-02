@@ -1,0 +1,25 @@
+{
+  "id": 13,
+  "country": "GR",
+  "broadcaster": null,
+  "artist": "Niki Yiannouchu",
+  "artistPeople": [
+    "Niki Yiannouchu"
+  ],
+  "song": "Kapoia nychta",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/J4o7w_GQaWI",
+    "https://www.youtube-nocookie.com/embed/NNWYkLlLVf0"
+  ],
+  "bpm": 175,
+  "tone": "D major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

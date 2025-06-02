@@ -1,0 +1,33 @@
+{
+  "id": 13,
+  "country": "UA",
+  "broadcaster": null,
+  "artist": "Sofia Rol",
+  "artistPeople": [
+    "Sofia Rol"
+  ],
+  "song": "Planet Craves for Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SnFTlD-R4i8",
+    "https://www.youtube-nocookie.com/embed/dd_6MPlQ1vg",
+    "https://www.youtube-nocookie.com/embed/bh1GN-ykPRY"
+  ],
+  "bpm": 130,
+  "tone": "B♭ minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Ruslan Kvinta"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Sandra Bjurman",
+    "Sofia Rol",
+    "Vitalii Kurovskyi",
+    "Yevgeny Matyushenko"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

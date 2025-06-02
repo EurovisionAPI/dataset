@@ -1,0 +1,29 @@
+{
+  "id": 5,
+  "country": "SE",
+  "broadcaster": null,
+  "artist": "Mimmi Sandén",
+  "artistPeople": [
+    "Mimmi Sandén"
+  ],
+  "song": "Du",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bMHdpD7wUKY",
+    "https://www.youtube-nocookie.com/embed/_BGjP0urK_4"
+  ],
+  "bpm": 146,
+  "tone": "C minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Alexander Kronlund",
+    "Ali Payami",
+    "Mimmi Sandén"
+  ]
+}

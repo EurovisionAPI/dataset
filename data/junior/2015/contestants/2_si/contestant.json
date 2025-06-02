@@ -1,0 +1,33 @@
+{
+  "id": 2,
+  "country": "SI",
+  "broadcaster": null,
+  "artist": "Lina Kuduzović",
+  "artistPeople": [
+    "Lina Kuduzović"
+  ],
+  "song": "Prva ljubezen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YCgR94sJRlA",
+    "https://www.youtube-nocookie.com/embed/u9xx6O4_JGM"
+  ],
+  "bpm": 116,
+  "tone": "G major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Krešimir Tomec",
+    "Lina Kuduzović",
+    "Maraaya"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Lina Kuduzović",
+    "Maraaya",
+    "Sebina Kuduzović"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": 12,
+  "country": "NL",
+  "broadcaster": null,
+  "artist": "Marissa",
+  "artistPeople": [
+    "Marissa Grasdijk"
+  ],
+  "song": "1 dag",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WTOgQH5LGNc",
+    "https://www.youtube-nocookie.com/embed/MwBtgRWeifs"
+  ],
+  "bpm": 198,
+  "tone": "F major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Marissa Grasdijk"
+  ]
+}

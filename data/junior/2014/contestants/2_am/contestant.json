@@ -1,0 +1,31 @@
+{
+  "id": 2,
+  "country": "AM",
+  "broadcaster": null,
+  "artist": "Betty",
+  "artistPeople": [
+    "Elizabeth Danielyan"
+  ],
+  "song": "People of the Sun",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6Fj9GEjmnNY",
+    "https://www.youtube-nocookie.com/embed/hNIh3zudmjM"
+  ],
+  "bpm": 130,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Elizabeth Danielyan",
+    "Mane Hakobyan"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Avet Barseghyan",
+    "Elizabeth Danielyan"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

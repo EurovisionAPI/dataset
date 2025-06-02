@@ -1,0 +1,27 @@
+{
+  "id": 13,
+  "country": "CY",
+  "broadcaster": null,
+  "artist": "Yiorgos Ioannides",
+  "artistPeople": [
+    "Yiorgos Ioannides"
+  ],
+  "song": "I mousiki dinei ftera",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KEQR5eV3GNg",
+    "https://www.youtube-nocookie.com/embed/RwZXPNUve3E"
+  ],
+  "bpm": 147,
+  "tone": "B♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Yiorgos Ioannides"
+  ]
+}

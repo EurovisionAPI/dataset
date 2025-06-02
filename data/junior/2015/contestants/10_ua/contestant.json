@@ -1,0 +1,32 @@
+{
+  "id": 10,
+  "country": "UA",
+  "broadcaster": null,
+  "artist": "Anna Trincher",
+  "artistPeople": [
+    "Anna Trincher"
+  ],
+  "song": "Pochny z sebe",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/B8zbOL9t_VA",
+    "https://www.youtube-nocookie.com/embed/NEu7k6XHJQI",
+    "https://www.youtube-nocookie.com/embed/kuz9YRsq3yU"
+  ],
+  "bpm": 118,
+  "tone": "A♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Anna Trincher",
+    "Olena Topolya",
+    "Vadim Lisitsa"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Olena Topolya"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

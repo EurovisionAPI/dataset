@@ -1,0 +1,29 @@
+{
+  "id": 8,
+  "country": "PL",
+  "broadcaster": null,
+  "artist": "Ala Tracz",
+  "artistPeople": [
+    "Ala Tracz"
+  ],
+  "song": "I'll Be Standing",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wisOIodsOQU",
+    "https://www.youtube-nocookie.com/embed/hyuYGWC14nk",
+    "https://www.youtube-nocookie.com/embed/VfPqzgpjf6k"
+  ],
+  "bpm": 122,
+  "tone": "C major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Andrzej Gromala",
+    "Sara Chmiel-Gromala"
+  ]
+}

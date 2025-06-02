@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "country": "NL",
+  "broadcaster": null,
+  "artist": "Rachel",
+  "artistPeople": [
+    "Rachel Traets"
+  ],
+  "song": "Teenager",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dKFViBAUcl0",
+    "https://www.youtube-nocookie.com/embed/sCs4LOH_oqg"
+  ],
+  "bpm": 134,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Joachim Vermeulen Windsant",
+    "Maarten Hove",
+    "Rachel Traets",
+    "Willem Laseroms"
+  ]
+}

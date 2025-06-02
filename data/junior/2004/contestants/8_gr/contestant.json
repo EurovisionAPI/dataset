@@ -1,0 +1,29 @@
+{
+  "id": 8,
+  "country": "GR",
+  "broadcaster": null,
+  "artist": "Secret Band",
+  "artistPeople": [
+    "Andreas Kefalas",
+    "Antonis Skrivanos",
+    "Giorgos Kotsougianis"
+  ],
+  "song": "O palios mou eaftos",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MmPIlsb4ey0",
+    "https://www.youtube-nocookie.com/embed/6Dy6D7UPooY"
+  ],
+  "bpm": 154,
+  "tone": "A♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Andreas Kefalas"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2,
+  "country": "AU",
+  "broadcaster": null,
+  "artist": "Jael",
+  "artistPeople": [
+    "Jael Wena"
+  ],
+  "song": "Champion",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/H4og985UOrs",
+    "https://www.youtube-nocookie.com/embed/2lWqfWtPE1s"
+  ],
+  "bpm": 150,
+  "tone": "A♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "MSquared"
+  ]
+}

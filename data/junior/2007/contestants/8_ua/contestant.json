@@ -1,0 +1,27 @@
+{
+  "id": 8,
+  "country": "UA",
+  "broadcaster": null,
+  "artist": "Ilona Halytska",
+  "artistPeople": [
+    "Ilona Halytska"
+  ],
+  "song": "Urok hlamuru",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9wWIfJgjcLo",
+    "https://www.youtube-nocookie.com/embed/d03zvhjdlqg"
+  ],
+  "bpm": 156,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Ilona Halytska"
+  ]
+}

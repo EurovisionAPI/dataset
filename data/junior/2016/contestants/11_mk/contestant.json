@@ -1,0 +1,30 @@
+{
+  "id": 11,
+  "country": "MK",
+  "broadcaster": null,
+  "artist": "Martija Stanojković",
+  "artistPeople": [
+    "Martija Stanojković"
+  ],
+  "song": "Love Will Lead Our Way",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HoyRtTWnLQs",
+    "https://www.youtube-nocookie.com/embed/urJm7AmfXUw"
+  ],
+  "bpm": 80,
+  "tone": "B♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Aleksandar Masevski"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Aleksandar Masevski",
+    "Marija Stanojkovic"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

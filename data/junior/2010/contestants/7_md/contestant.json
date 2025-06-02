@@ -1,0 +1,32 @@
+{
+  "id": 7,
+  "country": "MD",
+  "broadcaster": null,
+  "artist": "Ștefan Roșcovan",
+  "artistPeople": [
+    "Ștefănel Roșcovan"
+  ],
+  "song": "Ali Baba",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/J_pOtU6GMQY",
+    "https://www.youtube-nocookie.com/embed/qk8ywmvnv18",
+    "https://www.youtube-nocookie.com/embed/8P8oF2Ywfqk"
+  ],
+  "bpm": 98,
+  "tone": "D major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Nicolae Caragia",
+    "Ștefănel Roșcovan"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Daniela Doroftei",
+    "Ștefănel Roșcovan"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

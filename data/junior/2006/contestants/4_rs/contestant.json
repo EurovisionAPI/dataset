@@ -1,0 +1,25 @@
+{
+  "id": 4,
+  "country": "RS",
+  "broadcaster": null,
+  "artist": "Neustrašivi učitelji stranih jezika",
+  "artistPeople": [
+    "Neustrašivi učitelji stranih jezika"
+  ],
+  "song": "Učimo strane jezike",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9ViBx27Welk",
+    "https://www.youtube-nocookie.com/embed/d9EajJ7Km6I"
+  ],
+  "bpm": 160,
+  "tone": "A♭ minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

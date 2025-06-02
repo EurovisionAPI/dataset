@@ -1,0 +1,38 @@
+{
+  "id": 4,
+  "country": "AZ",
+  "broadcaster": null,
+  "artist": "Sona Azizova",
+  "artistPeople": [
+    "Sona Azizova"
+  ],
+  "song": "One Of Those Days",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VPl_uEJgk9k",
+    "https://www.youtube-nocookie.com/embed/Pdr4WekVnOw",
+    "https://www.youtube-nocookie.com/embed/5QAKYfAcuTM"
+  ],
+  "bpm": 109,
+  "tone": "A♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Francisco Faria",
+    "Hampus Eurenius",
+    "Maria Broberg",
+    "Martin Wiik"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Francisco Faria",
+    "Hampus Eurenius",
+    "Javid Shahbazbayov",
+    "Maria Broberg",
+    "Martin Wiik",
+    "Sona Azizova"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

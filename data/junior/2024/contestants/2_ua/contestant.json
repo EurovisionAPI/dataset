@@ -1,0 +1,30 @@
+{
+  "id": 2,
+  "country": "UA",
+  "broadcaster": null,
+  "artist": "Artem Kotenko",
+  "artistPeople": [
+    "Artem Kotenko"
+  ],
+  "song": "Hear Me Now",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wXAjWwMuHqE",
+    "https://www.youtube-nocookie.com/embed/jWiAEQlXMvA",
+    "https://www.youtube-nocookie.com/embed/gix32xT9Gfg",
+    "https://www.youtube-nocookie.com/embed/SR8_DHYXvMI",
+    "https://www.youtube-nocookie.com/embed/KWYtPysWzpk"
+  ],
+  "bpm": 134,
+  "tone": "F# minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Svitlana Tarabarova"
+  ]
+}

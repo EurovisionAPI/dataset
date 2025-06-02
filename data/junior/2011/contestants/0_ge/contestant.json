@@ -1,0 +1,38 @@
+{
+  "id": 0,
+  "country": "GE",
+  "broadcaster": null,
+  "artist": "Candy",
+  "artistPeople": [
+    "Irina Khechanovi",
+    "Mariam Gvaladze",
+    "Ana Khanchalyan",
+    "Gvantsa Saneblidze",
+    "Irina Kovalenko"
+  ],
+  "song": "Candy Music",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5Cs5XeJJlsQ",
+    "https://www.youtube-nocookie.com/embed/wUR5zrWW0aA",
+    "https://www.youtube-nocookie.com/embed/Fe_LKoHrwCo"
+  ],
+  "bpm": 142,
+  "tone": "C# minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "George Kukhianidze"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Ana Khanchalyan",
+    "Gvantsa Saneblidze",
+    "Irina Khechanovi",
+    "Irina Kovalenko",
+    "Mariam Gvaladze"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

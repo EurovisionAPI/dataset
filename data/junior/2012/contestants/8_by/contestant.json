@@ -1,0 +1,30 @@
+{
+  "id": 8,
+  "country": "BY",
+  "broadcaster": null,
+  "artist": "Egor Zheshko",
+  "artistPeople": [
+    "Egor Zheshko"
+  ],
+  "song": "A more",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sm-bmrXe9rg",
+    "https://www.youtube-nocookie.com/embed/Ec36Hf45Ujk"
+  ],
+  "bpm": 106,
+  "tone": "F major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Egor Zheshko",
+    "Valery Shmat"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Egor Zheshko"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8,
+  "country": "AM",
+  "broadcaster": null,
+  "artist": "Karina Ignatyan",
+  "artistPeople": [
+    "Karina Ignatyan"
+  ],
+  "song": "Colours Of Your Dream",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sWNEG54GEto",
+    "https://www.youtube-nocookie.com/embed/Up_ZZSKRapE",
+    "https://www.youtube-nocookie.com/embed/lzcdH0Gy1Mk"
+  ],
+  "bpm": 116,
+  "tone": "C major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Taras Demchuk"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Avet Barseghyan",
+    "Margarita Doroshevich"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

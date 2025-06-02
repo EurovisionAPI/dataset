@@ -1,0 +1,29 @@
+{
+  "id": 5,
+  "country": "GE",
+  "broadcaster": null,
+  "artist": "Sandra Gadelia",
+  "artistPeople": [
+    "Sandra Gadelia"
+  ],
+  "song": "You Are Not Alone",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uY1kz_zs8-k",
+    "https://www.youtube-nocookie.com/embed/HBA8jeq1UY0"
+  ],
+  "bpm": 115,
+  "tone": "B♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Giorgi Kukhianidze"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Temo Sajaia"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

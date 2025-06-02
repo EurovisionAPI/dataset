@@ -1,0 +1,31 @@
+{
+  "id": 2,
+  "country": "GE",
+  "broadcaster": null,
+  "artist": "Mariam Bigvava",
+  "artistPeople": [
+    "Mariam Bigvava"
+  ],
+  "song": "I Believe",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_wws-yaXqkk",
+    "https://www.youtube-nocookie.com/embed/Mh7ThOnQObY",
+    "https://www.youtube-nocookie.com/embed/fUxUglDuPGM"
+  ],
+  "bpm": 85,
+  "tone": "F major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Giorgi Kukhianidze"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Beni Kadagidze",
+    "Iru Khechanovi"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

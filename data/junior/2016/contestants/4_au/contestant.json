@@ -1,0 +1,29 @@
+{
+  "id": 4,
+  "country": "AU",
+  "broadcaster": null,
+  "artist": "Alexa Curtis",
+  "artistPeople": [
+    "Alexa Curtis"
+  ],
+  "song": "We Are",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6ZnxAW3MZ_c",
+    "https://www.youtube-nocookie.com/embed/59f8ZMKsQg0"
+  ],
+  "bpm": 106,
+  "tone": "F major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Ali Tamposi",
+    "Boi-1da",
+    "Tania Doko"
+  ]
+}

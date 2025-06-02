@@ -1,0 +1,28 @@
+{
+  "id": 9,
+  "country": "CY",
+  "broadcaster": null,
+  "artist": "Elena Mannouri & Charis Savva",
+  "artistPeople": [
+    "Elena Mannouri & Charis Savva"
+  ],
+  "song": "Gioupi gia!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NLDWhFkfqVQ",
+    "https://www.youtube-nocookie.com/embed/iEgritc-_ck"
+  ],
+  "bpm": 115,
+  "tone": "G major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Charis Savva",
+    "Elena Mannouri"
+  ]
+}

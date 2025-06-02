@@ -1,0 +1,31 @@
+{
+  "id": 5,
+  "country": "AM",
+  "broadcaster": null,
+  "artist": "Misha",
+  "artistPeople": [
+    "Misha"
+  ],
+  "song": "Boomerang",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3Tdi9lHfvbQ",
+    "https://www.youtube-nocookie.com/embed/hI7OyIHYg-Y"
+  ],
+  "bpm": 136,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Vahram Petrosyan"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Artur Aghek",
+    "Avet Barseghyan",
+    "David Tserunyan"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

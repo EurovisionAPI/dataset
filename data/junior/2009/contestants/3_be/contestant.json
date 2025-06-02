@@ -1,0 +1,30 @@
+{
+  "id": 3,
+  "country": "BE",
+  "broadcaster": null,
+  "artist": "Laura Omloop",
+  "artistPeople": [
+    "Laura Omloop"
+  ],
+  "song": "Zo verliefd (Yodelo)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/h8Jv2LKjOdw",
+    "https://www.youtube-nocookie.com/embed/Y4lOFfiVyRY"
+  ],
+  "bpm": 108,
+  "tone": "C minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Alain Vande Putte",
+    "Laura Omloop",
+    "Miguel Wiels",
+    "Peter Gillis"
+  ]
+}

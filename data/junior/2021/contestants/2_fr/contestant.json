@@ -1,0 +1,31 @@
+{
+  "id": 2,
+  "country": "FR",
+  "broadcaster": null,
+  "artist": "Enzo",
+  "artistPeople": [
+    "Henzo Hilaire"
+  ],
+  "song": "Tic Tac",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ny8ndanVbNA",
+    "https://www.youtube-nocookie.com/embed/lB_IbLP2c1c",
+    "https://www.youtube-nocookie.com/embed/EqyLPIj3wW8"
+  ],
+  "bpm": 134,
+  "tone": "E♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Alban Lico"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Alban Lico",
+    "Léa Ivanne"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

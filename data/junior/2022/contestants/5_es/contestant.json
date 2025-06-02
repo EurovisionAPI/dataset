@@ -1,0 +1,31 @@
+{
+  "id": 5,
+  "country": "ES",
+  "broadcaster": null,
+  "artist": "Carlos Higes",
+  "artistPeople": [
+    "Carlos Higes"
+  ],
+  "song": "Señorita",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uxPnSuDQQz8",
+    "https://www.youtube-nocookie.com/embed/Kod8QeXFR3M",
+    "https://www.youtube-nocookie.com/embed/FOGhz8NxPOE",
+    "https://www.youtube-nocookie.com/embed/owabe3RVp_Q"
+  ],
+  "bpm": 104,
+  "tone": "E♭ minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Michael James Down",
+    "Primoz Poglajen",
+    "Will Taylor"
+  ]
+}

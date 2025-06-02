@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "country": "PL",
+  "broadcaster": null,
+  "artist": "Sara James",
+  "artistPeople": [
+    "Sara James"
+  ],
+  "song": "Somebody",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BiCHFmWuz40",
+    "https://www.youtube-nocookie.com/embed/vH5u7-A_-LY",
+    "https://www.youtube-nocookie.com/embed/6nnm9wtG5CM",
+    "https://www.youtube-nocookie.com/embed/QufX2c9Ct94",
+    "https://www.youtube-nocookie.com/embed/RAY5Fp6DNZs"
+  ],
+  "bpm": 123,
+  "tone": "E major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Dominic Buczkowski-Wojtaszek",
+    "Jan Bielecki",
+    "Patryk Kumór"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Patryk Kumór",
+    "Tom Martin"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

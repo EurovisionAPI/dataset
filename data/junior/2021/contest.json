@@ -1,0 +1,15 @@
+{
+  "year": 2021,
+  "arena": "La Seine Musicale",
+  "city": "Paris",
+  "country": "FR",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2021.png",
+  "presenters": [
+    "Carla Lazzari",
+    "Élodie Gossuin",
+    "Olivier Minne"
+  ],
+  "broadcasters": null
+}

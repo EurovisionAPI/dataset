@@ -1,0 +1,35 @@
+{
+  "id": 8,
+  "country": "IT",
+  "broadcaster": null,
+  "artist": "Simone Grande",
+  "artistPeople": [
+    "Simone Grande"
+  ],
+  "song": "Pigiama Party",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oTxr7PG2X30",
+    "https://www.youtube-nocookie.com/embed/GN0J5TRHosU",
+    "https://www.youtube-nocookie.com/embed/PJki8CVF740",
+    "https://www.youtube-nocookie.com/embed/X0ffI0myG_M",
+    "https://www.youtube-nocookie.com/embed/eyKej4AMzlM"
+  ],
+  "bpm": 104,
+  "tone": "A major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Alex Uhlmann",
+    "Luca Mattioni",
+    "Pablo Meneguzzo"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Luca Mattioni",
+    "Pablo Meneguzzo"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

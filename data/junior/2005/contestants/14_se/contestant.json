@@ -1,0 +1,29 @@
+{
+  "id": 14,
+  "country": "SE",
+  "broadcaster": null,
+  "artist": "M+",
+  "artistPeople": [
+    "Maria Josefson",
+    "Maria Chabo"
+  ],
+  "song": "Gränslös kärlek",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8vQrWyYuhyc",
+    "https://www.youtube-nocookie.com/embed/V0QxyFN4C2o"
+  ],
+  "bpm": 75,
+  "tone": "B♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Maria Chabo",
+    "Maria Josefson"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8,
+  "country": "SE",
+  "broadcaster": null,
+  "artist": "Erik Rapp",
+  "artistPeople": [
+    "Erik Magnus Rapp"
+  ],
+  "song": "Faller",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Rvo8dLS25HM",
+    "https://www.youtube-nocookie.com/embed/KArWV2ubCwo"
+  ],
+  "bpm": 130,
+  "tone": "A♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Erik Magnus Rapp",
+    "Johan Jamtberg",
+    "Mikael Gunneras"
+  ]
+}

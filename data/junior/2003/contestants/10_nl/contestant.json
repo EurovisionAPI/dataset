@@ -1,0 +1,27 @@
+{
+  "id": 10,
+  "country": "NL",
+  "broadcaster": null,
+  "artist": "Roel Felius",
+  "artistPeople": [
+    "Roel Felius"
+  ],
+  "song": "Mijn ogen zeggen alles",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZiG11wvtlMM",
+    "https://www.youtube-nocookie.com/embed/cAzUrv06SKc"
+  ],
+  "bpm": 140,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Roel Felius"
+  ]
+}

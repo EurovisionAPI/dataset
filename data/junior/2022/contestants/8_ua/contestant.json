@@ -1,0 +1,32 @@
+{
+  "id": 8,
+  "country": "UA",
+  "broadcaster": null,
+  "artist": "Zlata Dziunka",
+  "artistPeople": [
+    "Zlata Dziunka"
+  ],
+  "song": "Nezlamna",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FPXTFXvp0aM",
+    "https://www.youtube-nocookie.com/embed/5h2o8AAIKJc",
+    "https://www.youtube-nocookie.com/embed/mgldhUHch6Y",
+    "https://www.youtube-nocookie.com/embed/EHBZz-dv2JI"
+  ],
+  "bpm": 142,
+  "tone": "E♭ minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Illaria"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Illaria",
+    "Zlata Dziunka"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

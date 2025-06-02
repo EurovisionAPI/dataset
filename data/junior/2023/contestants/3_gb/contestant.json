@@ -1,0 +1,33 @@
+{
+  "id": 3,
+  "country": "GB",
+  "broadcaster": null,
+  "artist": "Stand Uniqu3",
+  "artistPeople": [
+    "Hayla Essen Danns",
+    "Maisie Farr",
+    "Yazmin Farrah Rene"
+  ],
+  "song": "Back To Life",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lVvtVoR77Qs",
+    "https://www.youtube-nocookie.com/embed/6wLZNo2_-6c",
+    "https://www.youtube-nocookie.com/embed/TnpU5YJhm2Y",
+    "https://www.youtube-nocookie.com/embed/zUJLt_5aiYQ"
+  ],
+  "bpm": 104,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Jack Hawitt",
+    "Jakke Erixson",
+    "Sky Adams"
+  ]
+}

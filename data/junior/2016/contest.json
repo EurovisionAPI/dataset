@@ -1,0 +1,14 @@
+{
+  "year": 2016,
+  "arena": "Mediterranean Conference Centre",
+  "city": "Valletta",
+  "country": "MT",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2016.png",
+  "presenters": [
+    "Ben Camille",
+    "Valerie Vella"
+  ],
+  "broadcasters": null
+}

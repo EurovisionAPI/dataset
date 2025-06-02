@@ -1,0 +1,24 @@
+{
+  "id": 7,
+  "country": "SE",
+  "broadcaster": null,
+  "artist": "Frida Sandén",
+  "artistPeople": [
+    "Frida Sandén"
+  ],
+  "song": "Nu eller aldrig",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-yMAhp-6A_A"
+  ],
+  "bpm": 81,
+  "tone": "B minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

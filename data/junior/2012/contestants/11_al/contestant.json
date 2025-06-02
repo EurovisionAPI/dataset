@@ -1,0 +1,31 @@
+{
+  "id": 11,
+  "country": "AL",
+  "broadcaster": null,
+  "artist": "Igzidora Gjeta",
+  "artistPeople": [
+    "Igzidora Gjeta"
+  ],
+  "song": "Kam një këngë vetëm për ju",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/p3AjiJiQPnM",
+    "https://www.youtube-nocookie.com/embed/ALqCQAS6Ri8",
+    "https://www.youtube-nocookie.com/embed/TLXZ25DQFxc"
+  ],
+  "bpm": 98,
+  "tone": "B♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Xhavit Ujkani"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Igzidora Gjeta",
+    "Jorgo Papingji"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

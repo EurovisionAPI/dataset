@@ -1,0 +1,29 @@
+{
+  "id": 7,
+  "country": "GE",
+  "broadcaster": null,
+  "artist": "Tamar Edilashvili",
+  "artistPeople": [
+    "Tamar Edilashvili"
+  ],
+  "song": "Your Voice",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9YxluL89od0",
+    "https://www.youtube-nocookie.com/embed/1YVRWHB8DF4"
+  ],
+  "bpm": 135,
+  "tone": "G major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Sopho Toroshelidze"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Aleksandre Lordkipanidze"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": 17,
+  "country": "LV",
+  "broadcaster": null,
+  "artist": "Mārtiņš Tālbergs & C",
+  "artistPeople": [
+    "Mārtiņš Tālbergs & C-Stones Juniors"
+  ],
+  "song": "Stones Juniors",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rK9umVpnRHQ",
+    "https://www.youtube-nocookie.com/embed/TNxmQRD9vHg"
+  ],
+  "bpm": 154,
+  "tone": "B major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Mārtiņš Tālbergs"
+  ]
+}

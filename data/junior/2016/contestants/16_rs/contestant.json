@@ -1,0 +1,30 @@
+{
+  "id": 16,
+  "country": "RS",
+  "broadcaster": null,
+  "artist": "Dunja Jeličić",
+  "artistPeople": [
+    "Dunja Jeličić"
+  ],
+  "song": "U la la la",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zvBUPFyAkoE",
+    "https://www.youtube-nocookie.com/embed/UdsY1cLC9gE"
+  ],
+  "bpm": 137,
+  "tone": "G major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Vladimir Graić"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Dunja Jeličić",
+    "Leontina Vukomanović"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

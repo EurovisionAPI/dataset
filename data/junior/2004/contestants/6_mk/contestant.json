@@ -1,0 +1,27 @@
+{
+  "id": 6,
+  "country": "MK",
+  "broadcaster": null,
+  "artist": "Martina Siljanovska",
+  "artistPeople": [
+    "Martina Siljanovska"
+  ],
+  "song": "Zabava",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vrT1e7sItxs",
+    "https://www.youtube-nocookie.com/embed/lvz_vfWP5qA"
+  ],
+  "bpm": 170,
+  "tone": "F minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Martina Siljanovska"
+  ]
+}

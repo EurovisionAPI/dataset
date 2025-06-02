@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "country": "GE",
+  "broadcaster": null,
+  "artist": "Grigol Kipshidze",
+  "artistPeople": [
+    "Grigol Kipshidze"
+  ],
+  "song": "Voice of the Heart",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Yp5zEzeoze8",
+    "https://www.youtube-nocookie.com/embed/0ZUXjTaKoJk"
+  ],
+  "bpm": 174,
+  "tone": "C major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Giga Kukhianidze"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Temo Sajaia"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

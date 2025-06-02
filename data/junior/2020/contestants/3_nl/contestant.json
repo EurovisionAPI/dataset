@@ -1,0 +1,31 @@
+{
+  "id": 3,
+  "country": "NL",
+  "broadcaster": null,
+  "artist": "Unity",
+  "artistPeople": [
+    "Demi van den Bos",
+    "Jayda Monteira da Silva",
+    "Maud Noordam",
+    "Naomi Traa"
+  ],
+  "song": "Best Friends",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sKbmPakIq7Y",
+    "https://www.youtube-nocookie.com/embed/8Zkt4Otb-Xg",
+    "https://www.youtube-nocookie.com/embed/mOnRCc-o4co"
+  ],
+  "bpm": 101,
+  "tone": "F# major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Robert Dorn"
+  ]
+}

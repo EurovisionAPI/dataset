@@ -1,0 +1,31 @@
+{
+  "id": 3,
+  "country": "MT",
+  "broadcaster": null,
+  "artist": "Federica Falzon",
+  "artistPeople": [
+    "Federica Falzon"
+  ],
+  "song": "Diamonds",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wadHSXst3qk",
+    "https://www.youtube-nocookie.com/embed/0Kz4VRp3Xmc"
+  ],
+  "bpm": 68,
+  "tone": "E major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Elton Zarb",
+    "Gillian Attard"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Federica Falzon",
+    "Matt Muxu Mercieca"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

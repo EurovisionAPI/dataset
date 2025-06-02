@@ -1,0 +1,27 @@
+{
+  "id": 17,
+  "country": "PT",
+  "broadcaster": null,
+  "artist": "Rita Laranjeira",
+  "artistPeople": [
+    "Rita Laranjeira"
+  ],
+  "song": "Gosto de Tudo (Já Não Gosto de Nada)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lsvXQRH3sJQ",
+    "https://www.youtube-nocookie.com/embed/TAa066pIOTc"
+  ],
+  "bpm": 132,
+  "tone": "G major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "João Só"
+  ]
+}

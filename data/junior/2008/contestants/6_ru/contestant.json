@@ -1,0 +1,25 @@
+{
+  "id": 6,
+  "country": "RU",
+  "broadcaster": null,
+  "artist": "Mihail Puntov",
+  "artistPeople": [
+    "Mihail Puntov"
+  ],
+  "song": "Spit angel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/i4wmnK7n3wE",
+    "https://www.youtube-nocookie.com/embed/SMX2Cp3G9-U"
+  ],
+  "bpm": 83,
+  "tone": "G major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

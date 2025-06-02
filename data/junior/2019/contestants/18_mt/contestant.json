@@ -1,0 +1,33 @@
+{
+  "id": 18,
+  "country": "MT",
+  "broadcaster": null,
+  "artist": "Eliana Gomez Blanco",
+  "artistPeople": [
+    "Eliana Gomez Blanco"
+  ],
+  "song": "We Are More",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PBkC768pyvI",
+    "https://www.youtube-nocookie.com/embed/wu4TBECwLqA"
+  ],
+  "bpm": 92,
+  "tone": "C# minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Jonas Thander",
+    "Rachel Suter"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Joe Julian Farrugia",
+    "Jonas Thander",
+    "Kevin Lee",
+    "Rachel Suter"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": 0,
+  "country": "BY",
+  "broadcaster": null,
+  "artist": "Alexey Zhigalkovich",
+  "artistPeople": [
+    "Alexey Zhigalkovich"
+  ],
+  "song": "S druz'yami",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-SqnGcd-HBs",
+    "https://www.youtube-nocookie.com/embed/COLz2U89ggA",
+    "https://www.youtube-nocookie.com/embed/QNwb9ET3JI8"
+  ],
+  "bpm": 139,
+  "tone": "C major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": 13,
+  "country": "IL",
+  "broadcaster": null,
+  "artist": "Noam Dadon",
+  "artistPeople": [
+    "Noam Dadon"
+  ],
+  "song": "Children Like These",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/a_PQk5nkRZo",
+    "https://www.youtube-nocookie.com/embed/xl_DGyDsJ6g"
+  ],
+  "bpm": 85,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Eden Hason"
+  ]
+}

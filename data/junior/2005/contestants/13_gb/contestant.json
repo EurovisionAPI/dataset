@@ -1,0 +1,27 @@
+{
+  "id": 13,
+  "country": "GB",
+  "broadcaster": null,
+  "artist": "Joni Fuller",
+  "artistPeople": [
+    "Joni Fuller"
+  ],
+  "song": "How Does It Feel?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WRGjrpU3X58",
+    "https://www.youtube-nocookie.com/embed/bDEsRT-9L04"
+  ],
+  "bpm": 164,
+  "tone": "F# major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Joni Fuller"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 3,
+  "country": "FR",
+  "broadcaster": null,
+  "artist": "Titouan",
+  "artistPeople": [
+    "Titouan Hervo"
+  ],
+  "song": "Comme ci, comme ça",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/U54ifNXEO-c",
+    "https://www.youtube-nocookie.com/embed/vrR7wcud-pc",
+    "https://www.youtube-nocookie.com/embed/VOl83V_vfxU",
+    "https://www.youtube-nocookie.com/embed/il4Cd--Vtno",
+    "https://www.youtube-nocookie.com/embed/1TLCha9jx7c"
+  ],
+  "bpm": 91,
+  "tone": "G major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Malory Legardinier"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Malory Legardinier",
+    "Marie Bastide"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

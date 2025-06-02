@@ -1,0 +1,27 @@
+{
+  "id": 11,
+  "country": "DE",
+  "broadcaster": null,
+  "artist": "Susan",
+  "artistPeople": [
+    "Susan Oseloff"
+  ],
+  "song": "Stronger With You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fYaqf42-I4Q",
+    "https://www.youtube-nocookie.com/embed/3oFz9l0eoJg"
+  ],
+  "bpm": 114,
+  "tone": "D major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Levent Geiger"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 6,
+  "country": "NL",
+  "broadcaster": null,
+  "artist": "Tess",
+  "artistPeople": [
+    "Tess Gaerthé"
+  ],
+  "song": "Stupid",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/D9M2Jr627L4",
+    "https://www.youtube-nocookie.com/embed/8ErVJ93qAzw",
+    "https://www.youtube-nocookie.com/embed/3zRSHBd83UY"
+  ],
+  "bpm": 112,
+  "tone": "F# major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Tess Gaerthé"
+  ]
+}

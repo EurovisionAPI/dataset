@@ -1,0 +1,27 @@
+{
+  "id": 3,
+  "country": "RU",
+  "broadcaster": null,
+  "artist": "Lerika",
+  "artistPeople": [
+    "Valeriia Engalycheva"
+  ],
+  "song": "Sensation",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FvR6Yv-dLFo",
+    "https://www.youtube-nocookie.com/embed/DUNNZr5omUg"
+  ],
+  "bpm": 130,
+  "tone": "B♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Valeriia Engalycheva"
+  ]
+}

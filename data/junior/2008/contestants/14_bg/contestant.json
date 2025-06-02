@@ -1,0 +1,27 @@
+{
+  "id": 14,
+  "country": "BG",
+  "broadcaster": null,
+  "artist": "Krastyana Krasteva",
+  "artistPeople": [
+    "Krastyana Krasteva"
+  ],
+  "song": "Edna mechta",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VFNRT50niVk",
+    "https://www.youtube-nocookie.com/embed/y2FxR-N28ug"
+  ],
+  "bpm": 75,
+  "tone": "B♭ minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Krastyana Krasteva"
+  ]
+}

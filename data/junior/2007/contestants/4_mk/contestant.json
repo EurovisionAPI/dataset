@@ -1,0 +1,28 @@
+{
+  "id": 4,
+  "country": "MK",
+  "broadcaster": null,
+  "artist": "Rosica Kulakova & Dimitar Stojmenovski",
+  "artistPeople": [
+    "Rosica Kulakova & Dimitar Stojmenovski"
+  ],
+  "song": "Ding Ding Dong",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OzrfJqmgU5w",
+    "https://www.youtube-nocookie.com/embed/G1jlZAOWJMc"
+  ],
+  "bpm": 91,
+  "tone": "F# major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Dimitar Stojmenovski",
+    "Rosica Kulakova"
+  ]
+}

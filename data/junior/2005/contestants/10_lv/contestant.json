@@ -1,0 +1,31 @@
+{
+  "id": 10,
+  "country": "LV",
+  "broadcaster": null,
+  "artist": "Kids4Rock",
+  "artistPeople": [
+    "Monta Beļinska",
+    "Daniēls Groza",
+    "Zane Ošiņa",
+    "Edijs Beļinskis"
+  ],
+  "song": "Es esmu maza jauka meitene",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QPOWQi20Z4g",
+    "https://www.youtube-nocookie.com/embed/kMwcwOw557Y"
+  ],
+  "bpm": 105,
+  "tone": "C major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Daniēls Groza",
+    "Monta Beļinska"
+  ]
+}

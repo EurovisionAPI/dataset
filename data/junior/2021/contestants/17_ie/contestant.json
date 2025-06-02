@@ -1,0 +1,34 @@
+{
+  "id": 17,
+  "country": "IE",
+  "broadcaster": null,
+  "artist": "Maiú Levi Lawlor",
+  "artistPeople": [
+    "Maiú Levi Lawlor"
+  ],
+  "song": "Saor",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tmR7WgFkNAY",
+    "https://www.youtube-nocookie.com/embed/pBLfYGxOfQU"
+  ],
+  "bpm": 168,
+  "tone": "B major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Brendan McCarthy",
+    "Cyprian Cassar",
+    "Lesley Ann Halvey",
+    "Niall Mooney"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Anna Banks",
+    "Lauren White Murphy",
+    "Niall Mooney"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

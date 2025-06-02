@@ -1,0 +1,35 @@
+{
+  "id": 6,
+  "country": "BG",
+  "broadcaster": null,
+  "artist": "Bon",
+  "artistPeople": [
+    "Nicol Rizova",
+    "Isabel Markova",
+    "Monica Yarabanova",
+    "Blagovesta Dimitrova",
+    "Joanna Lacheva",
+    "Dea Maistorska",
+    "Marina Baltadzi",
+    "Nicol Kusheva"
+  ],
+  "song": "Bon",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1GU2223JcBM",
+    "https://www.youtube-nocookie.com/embed/8hZj9fbRrWo",
+    "https://www.youtube-nocookie.com/embed/onr84F83Jsw"
+  ],
+  "bpm": 128,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Bon-Bon"
+  ]
+}

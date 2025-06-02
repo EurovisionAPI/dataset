@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "country": "FR",
+  "broadcaster": null,
+  "artist": "Angélina",
+  "artistPeople": [
+    "Angélina Nava"
+  ],
+  "song": "Jamais Sans Toi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZjUb0Q1NAXg",
+    "https://www.youtube-nocookie.com/embed/LDR9_dX4m1s"
+  ],
+  "bpm": 106,
+  "tone": "G major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Age Ali",
+    "Comblat",
+    "Fico",
+    "Stawski"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 17,
+  "country": "GB-WLS",
+  "broadcaster": null,
+  "artist": "Erin Mai",
+  "artistPeople": [
+    "Erin Mai"
+  ],
+  "song": "Calon yn Curo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/l6eyRQYx4nM",
+    "https://www.youtube-nocookie.com/embed/jNS2_eOFeD8",
+    "https://www.youtube-nocookie.com/embed/daBziB7HAfU"
+  ],
+  "bpm": 115,
+  "tone": "E major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Jonathan Gregory",
+    "Sylvia Strand"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Ed Holden"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

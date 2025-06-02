@@ -1,0 +1,28 @@
+{
+  "id": 12,
+  "country": "SE",
+  "broadcaster": null,
+  "artist": "Julia Kedhammar",
+  "artistPeople": [
+    "Julia Kedhammar"
+  ],
+  "song": "Du är inte ensam",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GSZbmIoAQiI",
+    "https://www.youtube-nocookie.com/embed/TGEIJfwrXwI"
+  ],
+  "bpm": 125,
+  "tone": "E major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Julia Kedhammar",
+    "Thomas G:son"
+  ]
+}

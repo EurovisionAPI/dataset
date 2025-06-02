@@ -1,0 +1,33 @@
+{
+  "id": 0,
+  "country": "GE",
+  "broadcaster": null,
+  "artist": "Andria Putkaradze",
+  "artistPeople": [
+    "Andria Putkaradze"
+  ],
+  "song": "To My Mom",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9_HAidm8FE0",
+    "https://www.youtube-nocookie.com/embed/6jq6TASI5jo",
+    "https://www.youtube-nocookie.com/embed/1Ox7uAnLfAg",
+    "https://www.youtube-nocookie.com/embed/t3GSdehTLUQ",
+    "https://www.youtube-nocookie.com/embed/gC_WL8MRge0"
+  ],
+  "bpm": 96,
+  "tone": "B♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Giorgi Kukhianidze"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Giorgi Kukhianidze",
+    "Maka Davitaia"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

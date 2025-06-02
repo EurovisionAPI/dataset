@@ -1,0 +1,27 @@
+{
+  "id": 4,
+  "country": "BY",
+  "broadcaster": null,
+  "artist": "Daniil Kozlov",
+  "artistPeople": [
+    "Daniil Kozlov"
+  ],
+  "song": "Muzyki svet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6y3ixvmPykI",
+    "https://www.youtube-nocookie.com/embed/ckT9ADENoa0"
+  ],
+  "bpm": 142,
+  "tone": "A major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Daniil Kozlov"
+  ]
+}

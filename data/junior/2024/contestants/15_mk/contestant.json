@@ -1,0 +1,32 @@
+{
+  "id": 15,
+  "country": "MK",
+  "broadcaster": null,
+  "artist": "Ana & Aleksej",
+  "artistPeople": [
+    "Ana Vanchevska",
+    "Aleksej Ivanovski"
+  ],
+  "song": "Marathon",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1HYc31zselw",
+    "https://www.youtube-nocookie.com/embed/-I28HZidxc0",
+    "https://www.youtube-nocookie.com/embed/p3g4uGlV9wk",
+    "https://www.youtube-nocookie.com/embed/N4NpRFZJ5So"
+  ],
+  "bpm": 92,
+  "tone": "F major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Lazar Cvetkovski"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Magdalena Cvetkovska"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

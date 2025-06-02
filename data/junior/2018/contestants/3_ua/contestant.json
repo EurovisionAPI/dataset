@@ -1,0 +1,32 @@
+{
+  "id": 3,
+  "country": "UA",
+  "broadcaster": null,
+  "artist": "Darina Krasnovetska",
+  "artistPeople": [
+    "Darina Krasnovetska"
+  ],
+  "song": "Say Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/96NI4RNrG3U",
+    "https://www.youtube-nocookie.com/embed/CiONYF4ej2c",
+    "https://www.youtube-nocookie.com/embed/IC3zcuieoeE"
+  ],
+  "bpm": 110,
+  "tone": "F minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Mykhailo Klymenko"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Darina Krasnovetska",
+    "Mykhailo Klymenko",
+    "Volodymyr Sharykov"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

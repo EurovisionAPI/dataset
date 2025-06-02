@@ -1,0 +1,34 @@
+{
+  "id": 6,
+  "country": "IT",
+  "broadcaster": null,
+  "artist": "Melissa & Marco",
+  "artistPeople": [
+    "Melissa Di Pasca",
+    "Marco Boni"
+  ],
+  "song": "What Is Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5i6AdZeGUU8",
+    "https://www.youtube-nocookie.com/embed/fXzZsJMZl0E"
+  ],
+  "bpm": 83,
+  "tone": "E major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Franco Fasano",
+    "Marco Iardella"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Fabrizio Palaferri",
+    "Marco Boni",
+    "Mario Gardini",
+    "Melissa Di Pasca"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

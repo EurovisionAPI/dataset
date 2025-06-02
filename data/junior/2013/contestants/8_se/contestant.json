@@ -1,0 +1,27 @@
+{
+  "id": 8,
+  "country": "SE",
+  "broadcaster": null,
+  "artist": "Eliias",
+  "artistPeople": [
+    "Elias Elffors Elfström"
+  ],
+  "song": "Det är dit vi ska",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4OU0xewdG_0",
+    "https://www.youtube-nocookie.com/embed/Ebpohpjf3w0"
+  ],
+  "bpm": 128,
+  "tone": "E♭ major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Elias Elffors Elfström"
+  ]
+}

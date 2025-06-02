@@ -1,0 +1,30 @@
+{
+  "id": 3,
+  "country": "BY",
+  "broadcaster": null,
+  "artist": "Ruslan Aslanov",
+  "artistPeople": [
+    "Ruslan Aslanov"
+  ],
+  "song": "Volshebstvo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/poQxR2VSvVg",
+    "https://www.youtube-nocookie.com/embed/hBCadq0v9Sc"
+  ],
+  "bpm": null,
+  "tone": null,
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Ruslan Kvinta"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Ruslan Aslanov",
+    "Vitaliy Kurovskiy"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

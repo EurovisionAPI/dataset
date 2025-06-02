@@ -1,0 +1,31 @@
+{
+  "id": 8,
+  "country": "BG",
+  "broadcaster": null,
+  "artist": "Lidia Ganeva",
+  "artistPeople": [
+    "Lidia Ganeva"
+  ],
+  "song": "Magical Day",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YfbkU1Km4xk",
+    "https://www.youtube-nocookie.com/embed/qMwjTU1T2W8",
+    "https://www.youtube-nocookie.com/embed/Z9ec4ChMUec"
+  ],
+  "bpm": 120,
+  "tone": "B major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Vladimir Ampov"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Iliya Grigorov",
+    "Vladimir Ampov"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}
