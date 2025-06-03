@@ -1,0 +1,31 @@
+{
+  "id": 12,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Lale Andersen",
+  "artistPeople": [
+    "Liese-Lotte Helene Berta Bunnenberg"
+  ],
+  "song": "Einmal sehen wir uns wieder",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FGAfCD0mzVc",
+    "https://www.youtube-nocookie.com/embed/z7vL7pMBzmw"
+  ],
+  "bpm": 126,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Wolf Mittler"
+  ],
+  "composers": [
+    "Rudolf Maluck"
+  ],
+  "conductor": "Franck Pourcel",
+  "dancers": null,
+  "lyricists": [
+    "Ernst Bader"
+  ],
+  "spokesperson": "Heinz Schenk",
+  "stageDirector": null,
+  "writers": null
+}

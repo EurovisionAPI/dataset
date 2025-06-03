@@ -1,0 +1,41 @@
+{
+  "id": 3,
+  "country": "NL",
+  "broadcaster": "NOS",
+  "artist": "Sandra & Andres",
+  "artistPeople": [
+    "Dries Holten",
+    "Barbara Alexandra Reemer"
+  ],
+  "song": "Als het om de liefde gaat",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qXRl5l-I8S4",
+    "https://www.youtube-nocookie.com/embed/n7LKCMtWlA0",
+    "https://www.youtube-nocookie.com/embed/bdO0Gr4IIc4",
+    "https://www.youtube-nocookie.com/embed/z3x45N40zwE",
+    "https://www.youtube-nocookie.com/embed/xoIxE2s6qz0",
+    "https://www.youtube-nocookie.com/embed/l3RhHvQBR6o"
+  ],
+  "bpm": 108,
+  "tone": "Eb major",
+  "backings": [
+    "Judith Damsté",
+    "Titia Dekker",
+    "Wanda Stellaard",
+    "Yvonne Keeley"
+  ],
+  "commentators": [
+    "Pim Jacobs"
+  ],
+  "composers": [
+    "Dries Holten"
+  ],
+  "conductor": "Harry van Hoof",
+  "dancers": null,
+  "lyricists": [
+    "Hans van Hemert"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

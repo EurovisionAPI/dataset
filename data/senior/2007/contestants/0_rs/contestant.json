@@ -1,0 +1,39 @@
+{
+  "id": 0,
+  "country": "RS",
+  "broadcaster": "RTS",
+  "artist": "Marija Šerifović",
+  "artistPeople": [
+    "Marija Šerifović"
+  ],
+  "song": "Molitva",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vWj58UP_ENY",
+    "https://www.youtube-nocookie.com/embed/8x1zp29ToOI",
+    "https://www.youtube-nocookie.com/embed/5fAULruWW6o",
+    "https://www.youtube-nocookie.com/embed/aUD-aq56Opk"
+  ],
+  "bpm": 152,
+  "tone": "D major",
+  "backings": [
+    "Ana Milenković",
+    "Ivana Selakov",
+    "Ksenija Milošević",
+    "Sanja Bogosavljević",
+    "Suzana Dinić"
+  ],
+  "commentators": [
+    "Duška Vučinić-Lučić"
+  ],
+  "composers": [
+    "Vladimir Graić"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Saša Milošević Mare"
+  ],
+  "spokesperson": "Maja Nikolić",
+  "stageDirector": "Gorčin Stojanović",
+  "writers": null
+}

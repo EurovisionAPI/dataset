@@ -1,0 +1,43 @@
+{
+  "id": 14,
+  "country": "RS",
+  "broadcaster": "RTS",
+  "artist": "Hurricane",
+  "artistPeople": [
+    "Ivana Nikolić",
+    "Ksenija Knežević",
+    "Sanja Vučić"
+  ],
+  "song": "Loco Loco",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Q1lkpIqf7a4",
+    "https://www.youtube-nocookie.com/embed/khnpL7HqN5I",
+    "https://www.youtube-nocookie.com/embed/FSTMz-_kbVQ",
+    "https://www.youtube-nocookie.com/embed/ZFd2oLqqJ1U",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/eavdW6P1dek",
+    "https://www.youtube-nocookie.com/embed/COIfeAylSGQ"
+  ],
+  "bpm": 104,
+  "tone": "F# minor",
+  "backings": [
+    "Jelena Pajić",
+    "Mladen Lukić",
+    "Olga Popović"
+  ],
+  "commentators": [
+    "Duška Vučinić-Lučić"
+  ],
+  "composers": [
+    "Darko Dimitrov",
+    "Nemanja Antonić"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Sanja Vučić"
+  ],
+  "spokesperson": "Dragana Kosjerina",
+  "stageDirector": "Miodrag Kolarić",
+  "writers": null
+}

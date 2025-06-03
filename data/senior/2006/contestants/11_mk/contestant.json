@@ -1,0 +1,39 @@
+{
+  "id": 11,
+  "country": "MK",
+  "broadcaster": "MKRTV",
+  "artist": "Elena Risteska",
+  "artistPeople": [
+    "Elena Risteska Ivanovska"
+  ],
+  "song": "Ninanajna",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/meOfoHemzQY",
+    "https://www.youtube-nocookie.com/embed/_4lqAUJi76Q",
+    "https://www.youtube-nocookie.com/embed/cBnA5hQpe7k",
+    "https://www.youtube-nocookie.com/embed/sElO9D2iH3c"
+  ],
+  "bpm": 100,
+  "tone": "E major",
+  "backings": [
+    "Aleksandra Pileva",
+    "Kiro Pavlov",
+    "Maja Sazdanovska",
+    "Marina Georgievska",
+    "Mirjana Popaleksova"
+  ],
+  "commentators": [
+    "Karolina Petkovska"
+  ],
+  "composers": [
+    "Darko Dimitrov"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Rade Vrčakovski"
+  ],
+  "spokesperson": "Martin Vučić",
+  "stageDirector": null,
+  "writers": null
+}

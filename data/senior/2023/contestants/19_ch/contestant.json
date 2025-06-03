@@ -1,0 +1,46 @@
+{
+  "id": 19,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Remo Forrer",
+  "artistPeople": [
+    "Remo Forrer"
+  ],
+  "song": "Watergun",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/l4NDErv49mk",
+    "https://www.youtube-nocookie.com/embed/_8-Sbc_GZMc",
+    "https://www.youtube-nocookie.com/embed/LWiW2GDNZ0s",
+    "https://www.youtube-nocookie.com/embed/KcqugezA6oo",
+    "https://www.youtube-nocookie.com/embed/2k5Ejl5q-gk",
+    "https://www.youtube-nocookie.com/embed/XcgewU5FekE",
+    "https://www.youtube-nocookie.com/embed/8DQF09cco-U"
+  ],
+  "bpm": 138,
+  "tone": "Ab minor",
+  "backings": null,
+  "commentators": [
+    "Ellis Cavallini",
+    "Gian-Andrea Costa",
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Priscilla Formaz",
+    "Sven Epiney"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Ellinea Siambalis",
+    "Kenny Lantz",
+    "Lovisa Bengtsson",
+    "Marco Wihlborg"
+  ],
+  "lyricists": null,
+  "spokesperson": "Chiara Dubey",
+  "stageDirector": "Sacha Jean-Baptiste",
+  "writers": [
+    "Argyle Singh",
+    "Ashley Hicklin",
+    "Mikołaj Trybulec"
+  ]
+}

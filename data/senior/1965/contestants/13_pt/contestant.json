@@ -1,0 +1,32 @@
+{
+  "id": 13,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Simone de Oliveira",
+  "artistPeople": [
+    "Simone de Oliveira"
+  ],
+  "song": "Sol de inverno",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/T-fdSwQ39IY",
+    "https://www.youtube-nocookie.com/embed/7xNAwW1Oiqw",
+    "https://www.youtube-nocookie.com/embed/vcnJxu-3eUQ"
+  ],
+  "bpm": 168,
+  "tone": "Eb major",
+  "backings": null,
+  "commentators": [
+    "Gomes Ferreira"
+  ],
+  "composers": [
+    "Carlos Nóbrega e Sousa"
+  ],
+  "conductor": "Fernando de Carvalho",
+  "dancers": null,
+  "lyricists": [
+    "Jerónimo Bragança"
+  ],
+  "spokesperson": "Maria Manuela Furtado",
+  "stageDirector": null,
+  "writers": null
+}

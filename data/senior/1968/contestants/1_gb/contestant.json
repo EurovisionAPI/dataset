@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Cliff Richard",
+  "artistPeople": [
+    "Harry Rodger Webb"
+  ],
+  "song": "Congratulations",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_xJcE9tnY6E",
+    "https://www.youtube-nocookie.com/embed/WgmjyX_7qNM",
+    "https://www.youtube-nocookie.com/embed/sFFzWF09rHc",
+    "https://www.youtube-nocookie.com/embed/gn37JaJmFv8",
+    "https://www.youtube-nocookie.com/embed/rFsD2c_Vky4"
+  ],
+  "bpm": 98,
+  "tone": "A major",
+  "backings": [
+    "Barbara Moore",
+    "Betty Prescott",
+    "Margo Quantrell"
+  ],
+  "commentators": null,
+  "composers": null,
+  "conductor": "Norrie Paramor",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Michael Aspel",
+  "stageDirector": null,
+  "writers": [
+    "Bill Martin",
+    "Phil Coulter"
+  ]
+}

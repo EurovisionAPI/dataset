@@ -1,0 +1,16 @@
+{
+  "year": 1990,
+  "arena": "Koncertna Dvorana Vatroslav Lisinski",
+  "city": "Zagreb",
+  "country": "YU",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1990.png",
+  "presenters": [
+    "Olivar Mlakar",
+    "Helga Vlahovic"
+  ],
+  "broadcasters": [
+    "JRT"
+  ]
+}

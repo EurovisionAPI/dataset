@@ -1,0 +1,32 @@
+{
+  "id": 19,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Jahn Teigen",
+  "artistPeople": [
+    "Jahn Teigen"
+  ],
+  "song": "Mil etter mil",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dVj8tlXQ1Vg",
+    "https://www.youtube-nocookie.com/embed/vCEYyIHMmRs",
+    "https://www.youtube-nocookie.com/embed/oGkxrfjbF2M",
+    "https://www.youtube-nocookie.com/embed/XDTRDqWf85g",
+    "https://www.youtube-nocookie.com/embed/jrHm3h8rm6Y"
+  ],
+  "bpm": 127,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Bjørn Scheele"
+  ],
+  "composers": null,
+  "conductor": "Carsten Klouman",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Egil Teige",
+  "stageDirector": null,
+  "writers": [
+    "Kai Eide"
+  ]
+}

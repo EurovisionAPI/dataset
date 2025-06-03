@@ -1,0 +1,38 @@
+{
+  "id": 3,
+  "country": "AM",
+  "broadcaster": "AMPTV",
+  "artist": "Sirusho",
+  "artistPeople": [
+    "Sirouhi Harutyunyan"
+  ],
+  "song": "Qele, Qele",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bridO-wD7c8",
+    "https://www.youtube-nocookie.com/embed/ThF5xAxOQRI",
+    "https://www.youtube-nocookie.com/embed/avBaOmCMP8I",
+    "https://www.youtube-nocookie.com/embed/NYqa0B5QTLc",
+    "https://www.youtube-nocookie.com/embed/FdqAzqL6PKc"
+  ],
+  "bpm": 124,
+  "tone": "A minor",
+  "backings": [
+    "Razmik Amyan",
+    "Tigran Petrosyan"
+  ],
+  "commentators": [
+    "Felix Khachatryan",
+    "Hrachuhi Utmazyan"
+  ],
+  "composers": [
+    "H.A. Der-Hovagimian"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Sirusho"
+  ],
+  "spokesperson": "Hrachuhi Utmazyan",
+  "stageDirector": "Sergey Mandrik",
+  "writers": null
+}

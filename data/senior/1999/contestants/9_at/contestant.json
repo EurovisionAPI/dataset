@@ -1,0 +1,36 @@
+{
+  "id": 9,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "Bobbie Singer",
+  "artistPeople": [
+    "Tina Schoßer"
+  ],
+  "song": "Reflection",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CW16dLyp_04",
+    "https://www.youtube-nocookie.com/embed/sZRFJ_ICX_I",
+    "https://www.youtube-nocookie.com/embed/zxUYAknzGjw"
+  ],
+  "bpm": 113,
+  "tone": "E major",
+  "backings": [
+    "Adele Razkövi",
+    "Juci Janoska",
+    "Markus Gartner",
+    "Monika Ballwein",
+    "Titus Vadon"
+  ],
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Dodo Roščić",
+  "stageDirector": null,
+  "writers": [
+    "Dave Moskin"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 11,
+  "country": "YU",
+  "broadcaster": "JRT",
+  "artist": "Vice Vukov",
+  "artistPeople": [
+    "Vice Vukov"
+  ],
+  "song": "Čežnja",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5b0zoAKgkEs",
+    "https://www.youtube-nocookie.com/embed/E2dgBaC1l3Q"
+  ],
+  "bpm": 104,
+  "tone": "C minor",
+  "backings": null,
+  "commentators": [
+    "Miloje Orlović",
+    "Mladen Delić",
+    "Tomaž Terček"
+  ],
+  "composers": [
+    "Julio Marić"
+  ],
+  "conductor": "Radivoj Spasić",
+  "dancers": null,
+  "lyricists": [
+    "Žarko Roje"
+  ],
+  "spokesperson": "Ljubo Jelčić",
+  "stageDirector": null,
+  "writers": null
+}

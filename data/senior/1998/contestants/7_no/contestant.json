@@ -1,0 +1,37 @@
+{
+  "id": 7,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Lars A. Fredriksen",
+  "artistPeople": [
+    "Lars Fredriksen"
+  ],
+  "song": "Alltid sommer",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GA07JYQIlJQ",
+    "https://www.youtube-nocookie.com/embed/PVGuSGl6I2o",
+    "https://www.youtube-nocookie.com/embed/EaB86VY-RMY",
+    "https://www.youtube-nocookie.com/embed/adBsRdAEAiY",
+    "https://www.youtube-nocookie.com/embed/pDFOqduTzAg"
+  ],
+  "bpm": 125,
+  "tone": "A major",
+  "backings": [
+    "Håvard Gryting"
+  ],
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "composers": [
+    "David Eriksen",
+    "Per-Kristian Ottestad"
+  ],
+  "conductor": "Geir Langslet",
+  "dancers": null,
+  "lyricists": [
+    "Linda Andernach Johansen"
+  ],
+  "spokesperson": "Ragnhild Sælthun Fjørtoft",
+  "stageDirector": null,
+  "writers": null
+}

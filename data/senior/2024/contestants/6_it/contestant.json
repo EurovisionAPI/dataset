@@ -1,0 +1,46 @@
+{
+  "id": 6,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Angelina Mango",
+  "artistPeople": [
+    "Angelina Mango"
+  ],
+  "song": "La noia",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zp1FXHjkjpQ",
+    "https://www.youtube-nocookie.com/embed/psiytW9Or2s",
+    "https://www.youtube-nocookie.com/embed/jwfjNjV5DIw",
+    "https://www.youtube-nocookie.com/embed/OKzWskcTTA8",
+    "https://www.youtube-nocookie.com/embed/bW5-uEKLEX8",
+    "https://www.youtube-nocookie.com/embed/surRzzku4Ig",
+    "https://www.youtube-nocookie.com/embed/nzFlWZMo1FU"
+  ],
+  "bpm": 112,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": [
+    "Gabriele Corsi",
+    "Mara Maionchi"
+  ],
+  "composers": [
+    "Angelina Mango",
+    "Dario Faini",
+    "Francesca Calearo"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Arianna Forte",
+    "Flaminia Genoese",
+    "Kelly De Nigro",
+    "Martina Toderi",
+    "Valentina Vernia"
+  ],
+  "lyricists": [
+    "Angelina Mango",
+    "Francesca Calearo"
+  ],
+  "spokesperson": "Mario Acampa",
+  "stageDirector": "Mecnun Giasar",
+  "writers": null
+}

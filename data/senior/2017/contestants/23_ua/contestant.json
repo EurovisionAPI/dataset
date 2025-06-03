@@ -1,0 +1,39 @@
+{
+  "id": 23,
+  "country": "UA",
+  "broadcaster": "UA:PBC",
+  "artist": "O.Torvald",
+  "artistPeople": null,
+  "song": "Time",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mogNLkIEI0k",
+    "https://www.youtube-nocookie.com/embed/iRW8mhIPbHU",
+    "https://www.youtube-nocookie.com/embed/AbTzFSMc5cQ",
+    "https://www.youtube-nocookie.com/embed/VKCIsDLd_Vo",
+    "https://www.youtube-nocookie.com/embed/t4vcONZWePs",
+    "https://www.youtube-nocookie.com/embed/iZN_pAjOj30",
+    "https://www.youtube-nocookie.com/embed/wq-YqbDSw1c"
+  ],
+  "bpm": 102,
+  "tone": "F# major",
+  "backings": [
+    "Dasha Mineyeva"
+  ],
+  "commentators": [
+    "Andrii Horodyskyi",
+    "Tetyana Terekhova"
+  ],
+  "composers": [
+    "Denys Myzyuk",
+    "Yevhen Halych",
+    "Zhenia Galych"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Yevhen Kamenchuk"
+  ],
+  "spokesperson": "Zlata Ognevich",
+  "stageDirector": null,
+  "writers": null
+}

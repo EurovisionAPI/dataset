@@ -1,0 +1,37 @@
+{
+  "id": 18,
+  "country": "BA",
+  "broadcaster": "RTVBIH",
+  "artist": "Alma Čardžić",
+  "artistPeople": [
+    "Alma Čardžić"
+  ],
+  "song": "Goodbye",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tHS530-kzG4",
+    "https://www.youtube-nocookie.com/embed/IawYjShkLmA",
+    "https://www.youtube-nocookie.com/embed/riRqmCkmZXg",
+    "https://www.youtube-nocookie.com/embed/vgm5ZFjoCFo"
+  ],
+  "bpm": 129,
+  "tone": "Bb major",
+  "backings": [
+    "Milić Vukašinović",
+    "Zeljka Katavic-Pilj"
+  ],
+  "commentators": [
+    "Diana Grković-Foretić"
+  ],
+  "composers": [
+    "Milić Vukašinović",
+    "Sinan Alimanović"
+  ],
+  "conductor": "Sinan Alimanović",
+  "dancers": null,
+  "lyricists": [
+    "Milić Vukašinović"
+  ],
+  "spokesperson": "Segmedina Srna",
+  "stageDirector": null,
+  "writers": null
+}

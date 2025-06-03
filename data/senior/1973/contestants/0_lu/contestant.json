@@ -1,0 +1,42 @@
+{
+  "id": 0,
+  "country": "LU",
+  "broadcaster": "CLT",
+  "artist": "Anne-Marie David",
+  "artistPeople": [
+    "Anne-Marie David"
+  ],
+  "song": "Tu te reconnaîtras",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9vYgc3ViGFA",
+    "https://www.youtube-nocookie.com/embed/zn1svLVprUk",
+    "https://www.youtube-nocookie.com/embed/a91VKA2xAHo",
+    "https://www.youtube-nocookie.com/embed/HubL-CSuTNI",
+    "https://www.youtube-nocookie.com/embed/MJBvjZjGN_w",
+    "https://www.youtube-nocookie.com/embed/6qjv6YsRmhQ",
+    "https://www.youtube-nocookie.com/embed/Q6F9Vo0WW80"
+  ],
+  "bpm": 98,
+  "tone": "Eb minor",
+  "backings": [
+    "Dominique Poulain",
+    "Francine Chantereau",
+    "Georges Costa",
+    "Martine Latorre",
+    "Michel Costa"
+  ],
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "composers": [
+    "Claude Morgan"
+  ],
+  "conductor": "Pierre Cao",
+  "dancers": null,
+  "lyricists": [
+    "Vline Buggy"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

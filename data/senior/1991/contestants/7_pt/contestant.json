@@ -1,0 +1,37 @@
+{
+  "id": 7,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Dulce",
+  "artistPeople": [
+    "Dulce José Silva Pontes"
+  ],
+  "song": "Lusitana Paixão",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GKxMDD0B8jY",
+    "https://www.youtube-nocookie.com/embed/LBekeaBZrzE",
+    "https://www.youtube-nocookie.com/embed/xwz5csdIy-E",
+    "https://www.youtube-nocookie.com/embed/XPqffXlK3kI"
+  ],
+  "bpm": 134,
+  "tone": "F# minor",
+  "backings": [
+    "Guilherme Inês"
+  ],
+  "commentators": [
+    "Ana do Carmo"
+  ],
+  "composers": [
+    "Jorge Quintela",
+    "José da Ponte"
+  ],
+  "conductor": "Fernando Correia Martins",
+  "dancers": null,
+  "lyricists": [
+    "Fred Micaelo",
+    "José da Ponte"
+  ],
+  "spokesperson": "Maria Margarida Gaspar",
+  "stageDirector": null,
+  "writers": null
+}

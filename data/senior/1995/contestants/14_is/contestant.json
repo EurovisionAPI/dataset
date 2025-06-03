@@ -1,0 +1,39 @@
+{
+  "id": 14,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Bó Halldórsson",
+  "artistPeople": [
+    "Björgvin Helgi Halldórsson"
+  ],
+  "song": "Núna",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mt4-SJMcmtQ",
+    "https://www.youtube-nocookie.com/embed/_Rt0PuoIxYI",
+    "https://www.youtube-nocookie.com/embed/ghHtLSgh8_o"
+  ],
+  "bpm": 124,
+  "tone": "G major",
+  "backings": [
+    "Berglind Björk Jónasdóttir",
+    "Erna Þórarinsdóttir",
+    "Eyjólfur Kristjánsson",
+    "Guðrún Gunnarsdóttir",
+    "Stefán Hilmarsson"
+  ],
+  "commentators": [
+    "Jakob Frímann Magnússon"
+  ],
+  "composers": [
+    "Björgvin Halldórsson",
+    "Ed Welch"
+  ],
+  "conductor": "Frank McNamara",
+  "dancers": null,
+  "lyricists": [
+    "Jón Örn Marinósson"
+  ],
+  "spokesperson": "Áslaug Dóra Eyjólfsdóttir",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,16 @@
+{
+  "year": 1988,
+  "arena": "Simmonscourt Pavillion, Royal Dublin Society",
+  "city": "Dublin",
+  "country": "IE",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1988.png",
+  "presenters": [
+    "Pat Kenny",
+    "Michelle Rocca"
+  ],
+  "broadcasters": [
+    "RTÉ"
+  ]
+}

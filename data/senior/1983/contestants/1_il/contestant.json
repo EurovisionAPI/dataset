@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "country": "IL",
+  "broadcaster": "IBA",
+  "artist": "Ofra Haza",
+  "artistPeople": [
+    "Ofra Haza"
+  ],
+  "song": "Hi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/z81U2sLEtdY",
+    "https://www.youtube-nocookie.com/embed/Oa2Greug8R4",
+    "https://www.youtube-nocookie.com/embed/McjcRwvfMWY",
+    "https://www.youtube-nocookie.com/embed/rE5DXfC2Ehg",
+    "https://www.youtube-nocookie.com/embed/XaQLGWCtVkA"
+  ],
+  "bpm": 112,
+  "tone": "Bb minor",
+  "backings": [
+    "Danny Balfolski",
+    "Sasi Keshet",
+    "Shlomo Maman",
+    "Sima Amiel",
+    "Vardina Cohe"
+  ],
+  "commentators": null,
+  "composers": [
+    "Avi Toledano"
+  ],
+  "conductor": "Silvio Nanssi Brandes",
+  "dancers": null,
+  "lyricists": [
+    "Ehud Manor"
+  ],
+  "spokesperson": "Yitzhak Shim'oni",
+  "stageDirector": null,
+  "writers": null
+}

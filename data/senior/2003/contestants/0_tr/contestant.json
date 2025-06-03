@@ -1,0 +1,40 @@
+{
+  "id": 0,
+  "country": "TR",
+  "broadcaster": "TRT",
+  "artist": "Sertab Erener",
+  "artistPeople": [
+    "Sertab Erener"
+  ],
+  "song": "Everyway That I Can",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/j0_QrKnqd5E",
+    "https://www.youtube-nocookie.com/embed/bRAjf9rFA58",
+    "https://www.youtube-nocookie.com/embed/I-NwnvR1_CY",
+    "https://www.youtube-nocookie.com/embed/R-lPvsyMg-g",
+    "https://www.youtube-nocookie.com/embed/JvvTi4lwPPs"
+  ],
+  "bpm": 95,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "composers": [
+    "Demir Demirkan",
+    "Sertab Erener"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Anja von Geldern",
+    "Christina Van Leyen",
+    "Claudia Kraxner",
+    "Özge Fışkın"
+  ],
+  "lyricists": [
+    "Demir Demirkan"
+  ],
+  "spokesperson": "Meltem Ersan Yazgan",
+  "stageDirector": null,
+  "writers": null
+}

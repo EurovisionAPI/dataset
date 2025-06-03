@@ -1,0 +1,31 @@
+{
+  "id": 17,
+  "country": "SK",
+  "broadcaster": "STV",
+  "artist": "Marcel Palonder",
+  "artistPeople": [
+    "Marcel Palonder"
+  ],
+  "song": "Kým nás máš",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oGWic-_QXI8",
+    "https://www.youtube-nocookie.com/embed/N_0H25ehV0Q"
+  ],
+  "bpm": 92,
+  "tone": "Ab major",
+  "backings": null,
+  "commentators": [
+    "Juraj Čurný"
+  ],
+  "composers": [
+    "Juraj Burian"
+  ],
+  "conductor": "Juraj Burian",
+  "dancers": null,
+  "lyricists": [
+    "Jozef Urban"
+  ],
+  "spokesperson": "Alena Heribanová",
+  "stageDirector": null,
+  "writers": null
+}

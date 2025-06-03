@@ -1,0 +1,40 @@
+{
+  "id": 16,
+  "country": "AZ",
+  "broadcaster": "İctimai",
+  "artist": "Samra",
+  "artistPeople": [
+    "Samra Rahimli (Səmra Rəhimli)"
+  ],
+  "song": "Miracle",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cB8eSLyffsI",
+    "https://www.youtube-nocookie.com/embed/Dix6XJ_Uo-w",
+    "https://www.youtube-nocookie.com/embed/fmaRaN0MbbI",
+    "https://www.youtube-nocookie.com/embed/3xDd70HvDvc",
+    "https://www.youtube-nocookie.com/embed/vgAF2qQB_rg"
+  ],
+  "bpm": 96,
+  "tone": "F minor",
+  "backings": [
+    "Dea Norberg",
+    "Jessica Marberger",
+    "Lars Säfsund",
+    "Patrik Riber",
+    "Zain Odelstål"
+  ],
+  "commentators": [
+    "Azer Suleymanli"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Tural Asadov",
+  "stageDirector": "Roine Söderlundh",
+  "writers": [
+    "Amir Aly",
+    "Henrik Wikström",
+    "Jakke Erixson"
+  ]
+}

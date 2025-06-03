@@ -1,0 +1,40 @@
+{
+  "id": 39,
+  "country": "LV",
+  "broadcaster": "LTV",
+  "artist": "Intars Busulis",
+  "artistPeople": [
+    "Intars Busulis"
+  ],
+  "song": "Probka",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fTajw--jk8M",
+    "https://www.youtube-nocookie.com/embed/uubxd_8P97M",
+    "https://www.youtube-nocookie.com/embed/wrFOFPCNjLs",
+    "https://www.youtube-nocookie.com/embed/CCC2JGBl4do"
+  ],
+  "bpm": 143,
+  "tone": "G minor",
+  "backings": [
+    "Gints Pabērzs",
+    "Jolanta Strikaite",
+    "Kārlis Lācis",
+    "Kaspars Zemītis",
+    "Vineta Elksne"
+  ],
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "composers": [
+    "Kārlis Lācis"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Jānis Elsbergs",
+    "Sergej Timofejev"
+  ],
+  "spokesperson": "Roberto Meloni",
+  "stageDirector": "Viktors Runtulis",
+  "writers": null
+}

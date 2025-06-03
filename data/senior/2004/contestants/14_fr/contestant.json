@@ -1,0 +1,32 @@
+{
+  "id": 14,
+  "country": "FR",
+  "broadcaster": "France 3",
+  "artist": "Jonatan Cerrada",
+  "artistPeople": [
+    "Jonatan Cerrada Moreno"
+  ],
+  "song": "A Chaque Pas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vrzC1oGWX_I"
+  ],
+  "bpm": 141,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Elsa Fayer",
+    "Laurent Ruquier"
+  ],
+  "composers": [
+    "Ben 'Jammin' Robbins",
+    "Steve Balsamo"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Jonatan Cerrada"
+  ],
+  "spokesperson": "Alex Taylor",
+  "stageDirector": "Kamel Ouali",
+  "writers": null
+}

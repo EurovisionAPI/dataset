@@ -1,0 +1,37 @@
+{
+  "id": 5,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "David Civera",
+  "artistPeople": [
+    "David Civera"
+  ],
+  "song": "Dile que la quiero",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iwM-FH9tabs",
+    "https://www.youtube-nocookie.com/embed/2_JnPtcwAw4",
+    "https://www.youtube-nocookie.com/embed/kAaENJMo77c"
+  ],
+  "bpm": 105,
+  "tone": "C major",
+  "backings": [
+    "Belinda Sánchez Leal",
+    "Eva Gomariz",
+    "Susana Ribalta"
+  ],
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Irina Grusza",
+    "Irina Riatchancheva"
+  ],
+  "lyricists": null,
+  "spokesperson": "Jennifer Rope",
+  "stageDirector": null,
+  "writers": [
+    "Alejandro Abad"
+  ]
+}

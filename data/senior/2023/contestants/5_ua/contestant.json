@@ -1,0 +1,42 @@
+{
+  "id": 5,
+  "country": "UA",
+  "broadcaster": "UA:PBC",
+  "artist": "Tvorchi",
+  "artistPeople": [
+    "Jimoh Augustus Kehinde (Джімо Аугустус Кехінде)"
+  ],
+  "song": "Heart of Steel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/I2oqDpefJ1s",
+    "https://www.youtube-nocookie.com/embed/neIscK1hNxs",
+    "https://www.youtube-nocookie.com/embed/sZAEBbwDKMY",
+    "https://www.youtube-nocookie.com/embed/q6QFVqWX2gM",
+    "https://www.youtube-nocookie.com/embed/PBJ7VsyTehE",
+    "https://www.youtube-nocookie.com/embed/EhG-sf8lOPY",
+    "https://www.youtube-nocookie.com/embed/x8bDTl_F_Kk"
+  ],
+  "bpm": 78,
+  "tone": "Ab minor",
+  "backings": [
+    "Andrii Podkaliuk",
+    "Oleksandra Makarovska"
+  ],
+  "commentators": [
+    "Timur Miroshnychenko"
+  ],
+  "composers": [
+    "Andrii Hutsuliak"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Andrii Veselyi",
+    "Dima Barkalov"
+  ],
+  "lyricists": [
+    "Jeffery Augustus Kenny"
+  ],
+  "spokesperson": "Zlata Ognevich",
+  "stageDirector": "German Nenov, Iryna Dyachuk",
+  "writers": null
+}

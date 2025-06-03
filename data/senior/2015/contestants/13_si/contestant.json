@@ -1,0 +1,43 @@
+{
+  "id": 13,
+  "country": "SI",
+  "broadcaster": "RTVSLO",
+  "artist": "Maraaya",
+  "artistPeople": [
+    "Marjetka Vovk"
+  ],
+  "song": "Here for You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/y1c7gDOaFY0",
+    "https://www.youtube-nocookie.com/embed/lTuHbVKYgY0",
+    "https://www.youtube-nocookie.com/embed/-oOQKYopwJ4",
+    "https://www.youtube-nocookie.com/embed/vp8yqWPbv6k",
+    "https://www.youtube-nocookie.com/embed/MmqcAbe0jKc",
+    "https://www.youtube-nocookie.com/embed/MkOtwHLa6_c"
+  ],
+  "bpm": 156,
+  "tone": "F# major",
+  "backings": [
+    "Karin Zemljič",
+    "Manca Špik",
+    "Nika Zorjan"
+  ],
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "composers": [
+    "Charlie Mason",
+    "Marjetka Vovk",
+    "Raay"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Lara Slekovec"
+  ],
+  "lyricists": [
+    "Raay"
+  ],
+  "spokesperson": "Tinkara Kovač",
+  "stageDirector": "Urška Žnidaršič",
+  "writers": null
+}

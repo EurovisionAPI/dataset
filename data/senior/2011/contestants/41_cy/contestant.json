@@ -1,0 +1,37 @@
+{
+  "id": 41,
+  "country": "CY",
+  "broadcaster": "CyBC",
+  "artist": "Christos Mylordos",
+  "artistPeople": [
+    "Christos Mylordos"
+  ],
+  "song": "San Aggelos S'agapisa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1t0czUf9nJU",
+    "https://www.youtube-nocookie.com/embed/fmGLd3zqW9Q"
+  ],
+  "bpm": 162,
+  "tone": "E minor",
+  "backings": [
+    "Aggelos Agathangelou",
+    "Antoniou Antonis",
+    "Chrissie Andreou",
+    "Christos Nicolao",
+    "Pavlos Polichrinis"
+  ],
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "composers": [
+    "Andreas Anastasiou"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Michalis Antoniou"
+  ],
+  "spokesperson": "Loukas Hamatsos",
+  "stageDirector": "Fotis Nikolaou",
+  "writers": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": 0,
+  "country": "UA",
+  "broadcaster": "NTU",
+  "artist": "Ruslana",
+  "artistPeople": [
+    "Ruslana Stepanivna Lyzhychko"
+  ],
+  "song": "Wild Dances",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VD6of9YQMMc",
+    "https://www.youtube-nocookie.com/embed/QYqB1eyN8B4",
+    "https://www.youtube-nocookie.com/embed/6JBNNmuc5_M",
+    "https://www.youtube-nocookie.com/embed/3rk0oO69Y2c",
+    "https://www.youtube-nocookie.com/embed/clEGEoHNZgo",
+    "https://www.youtube-nocookie.com/embed/kUCuuA9i_SU",
+    "https://www.youtube-nocookie.com/embed/lLwnomUKHiE"
+  ],
+  "bpm": 172,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Rodion Pryntsevsky"
+  ],
+  "composers": [
+    "Ruslana"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Fayney",
+    "Jamie Maher",
+    "Oleksandr Ksenofontov",
+    "Ruslana",
+    "Sherena Dugani"
+  ],
+  "spokesperson": "Pavlo Shylko",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,1300 @@
+{
+  "name": null,
+  "date": "2022-05-10",
+  "time": "19:00:00",
+  "disqualifieds": null,
+  "performances": [
+    {
+      "contestantId": 0,
+      "running": 6,
+      "place": 1,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 20,
+            "AM": 19,
+            "AT": 12,
+            "BG": 12,
+            "HR": 19,
+            "DK": 19,
+            "FR": 20,
+            "GR": 13,
+            "IS": 22,
+            "IT": 19,
+            "LV": 24,
+            "LT": 24,
+            "MD": 24,
+            "NL": 20,
+            "NO": 16,
+            "PT": 19,
+            "SI": 17,
+            "CH": 18
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 8,
+            "AM": 12,
+            "AT": 12,
+            "BG": 12,
+            "HR": 12,
+            "DK": 12,
+            "FR": 10,
+            "GR": 10,
+            "IS": 12,
+            "IT": 12,
+            "LV": 12,
+            "LT": 12,
+            "MD": 12,
+            "NL": 12,
+            "NO": 10,
+            "PT": 12,
+            "SI": 10,
+            "CH": 10
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 12,
+            "AM": 7,
+            "AT": 0,
+            "BG": 0,
+            "HR": 7,
+            "DK": 7,
+            "FR": 10,
+            "GR": 3,
+            "IS": 10,
+            "IT": 7,
+            "LV": 12,
+            "LT": 12,
+            "MD": 12,
+            "NL": 8,
+            "NO": 6,
+            "PT": 7,
+            "SI": 7,
+            "CH": 8
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 10,
+      "running": 8,
+      "place": 2,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 13,
+            "AM": 16,
+            "AT": 13,
+            "BG": 7,
+            "HR": 5,
+            "DK": 16,
+            "FR": 12,
+            "GR": 10,
+            "IS": 15,
+            "IT": 14,
+            "LV": 6,
+            "LT": 14,
+            "MD": 10,
+            "NO": 9,
+            "PT": 16,
+            "SI": 13,
+            "CH": 14,
+            "UA": 18
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 3,
+            "AM": 4,
+            "AT": 5,
+            "BG": 3,
+            "HR": 3,
+            "DK": 4,
+            "FR": 4,
+            "GR": 4,
+            "IS": 8,
+            "IT": 4,
+            "LV": 3,
+            "LT": 6,
+            "MD": 8,
+            "NO": 1,
+            "PT": 8,
+            "SI": 3,
+            "CH": 2,
+            "UA": 6
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 10,
+            "AM": 12,
+            "AT": 8,
+            "BG": 4,
+            "HR": 2,
+            "DK": 12,
+            "FR": 8,
+            "GR": 6,
+            "IS": 7,
+            "IT": 10,
+            "LV": 3,
+            "LT": 8,
+            "MD": 2,
+            "NO": 8,
+            "PT": 8,
+            "SI": 10,
+            "CH": 12,
+            "UA": 12
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 7,
+      "running": 15,
+      "place": 3,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 18,
+            "AM": 18,
+            "AT": 6,
+            "BG": 17,
+            "HR": 8,
+            "DK": 10,
+            "FR": 13,
+            "IS": 2,
+            "IT": 15,
+            "LV": 10,
+            "LT": 6,
+            "MD": 9,
+            "NL": 15,
+            "NO": 24,
+            "PT": 9,
+            "SI": 13,
+            "CH": 10,
+            "UA": 8
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 10,
+            "AM": 10,
+            "AT": 0,
+            "BG": 7,
+            "HR": 0,
+            "DK": 0,
+            "FR": 1,
+            "IS": 0,
+            "IT": 3,
+            "LV": 0,
+            "LT": 0,
+            "MD": 1,
+            "NL": 3,
+            "NO": 12,
+            "PT": 4,
+            "SI": 8,
+            "CH": 0,
+            "UA": 1
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 8,
+            "AM": 8,
+            "AT": 6,
+            "BG": 10,
+            "HR": 8,
+            "DK": 10,
+            "FR": 12,
+            "IS": 2,
+            "IT": 12,
+            "LV": 10,
+            "LT": 6,
+            "MD": 8,
+            "NL": 12,
+            "NO": 12,
+            "PT": 5,
+            "SI": 5,
+            "CH": 10,
+            "UA": 7
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 8,
+      "running": 10,
+      "place": 4,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 9,
+            "AM": 18,
+            "AT": 11,
+            "BG": 11,
+            "HR": 13,
+            "DK": 11,
+            "FR": 14,
+            "GR": 8,
+            "IS": 8,
+            "IT": 6,
+            "LV": 11,
+            "LT": 15,
+            "MD": 9,
+            "NL": 16,
+            "NO": 12,
+            "SI": 8,
+            "CH": 16,
+            "UA": 12
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 5,
+            "AM": 8,
+            "AT": 1,
+            "BG": 6,
+            "HR": 1,
+            "DK": 3,
+            "FR": 8,
+            "GR": 3,
+            "IS": 2,
+            "IT": 6,
+            "LV": 6,
+            "LT": 8,
+            "MD": 4,
+            "NL": 6,
+            "NO": 2,
+            "SI": 2,
+            "CH": 12,
+            "UA": 4
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 4,
+            "AM": 10,
+            "AT": 10,
+            "BG": 5,
+            "HR": 12,
+            "DK": 8,
+            "FR": 6,
+            "GR": 5,
+            "IS": 6,
+            "IT": 0,
+            "LV": 5,
+            "LT": 7,
+            "MD": 5,
+            "NL": 10,
+            "NO": 10,
+            "SI": 6,
+            "CH": 4,
+            "UA": 8
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 19,
+      "running": 17,
+      "place": 5,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 14,
+            "AT": 20,
+            "BG": 18,
+            "HR": 6,
+            "DK": 7,
+            "FR": 19,
+            "GR": 8,
+            "IS": 6,
+            "IT": 15,
+            "LV": 6,
+            "LT": 4,
+            "MD": 13,
+            "NL": 12,
+            "NO": 12,
+            "PT": 8,
+            "SI": 1,
+            "CH": 6,
+            "UA": 12
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 7,
+            "AT": 8,
+            "BG": 10,
+            "HR": 5,
+            "DK": 5,
+            "FR": 12,
+            "GR": 8,
+            "IS": 3,
+            "IT": 7,
+            "LV": 4,
+            "LT": 4,
+            "MD": 7,
+            "NL": 8,
+            "NO": 5,
+            "PT": 5,
+            "SI": 0,
+            "CH": 5,
+            "UA": 2
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 7,
+            "AT": 12,
+            "BG": 8,
+            "HR": 1,
+            "DK": 2,
+            "FR": 7,
+            "GR": 0,
+            "IS": 3,
+            "IT": 8,
+            "LV": 2,
+            "LT": 0,
+            "MD": 6,
+            "NL": 4,
+            "NO": 7,
+            "PT": 3,
+            "SI": 1,
+            "CH": 1,
+            "UA": 10
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 9,
+      "running": 16,
+      "place": 6,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 4,
+            "AM": 9,
+            "AT": 11,
+            "BG": 11,
+            "HR": 7,
+            "DK": 13,
+            "FR": 5,
+            "GR": 8,
+            "IS": 22,
+            "IT": 5,
+            "LV": 14,
+            "LT": 8,
+            "MD": 17,
+            "NL": 13,
+            "PT": 9,
+            "SI": 6,
+            "CH": 7,
+            "UA": 8
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 2,
+            "AM": 3,
+            "AT": 7,
+            "BG": 4,
+            "HR": 7,
+            "DK": 10,
+            "FR": 2,
+            "GR": 7,
+            "IS": 10,
+            "IT": 5,
+            "LV": 7,
+            "LT": 5,
+            "MD": 10,
+            "NL": 7,
+            "PT": 7,
+            "SI": 4,
+            "CH": 0,
+            "UA": 7
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 2,
+            "AM": 6,
+            "AT": 4,
+            "BG": 7,
+            "HR": 0,
+            "DK": 3,
+            "FR": 3,
+            "GR": 1,
+            "IS": 12,
+            "IT": 0,
+            "LV": 7,
+            "LT": 3,
+            "MD": 7,
+            "NL": 6,
+            "PT": 2,
+            "SI": 2,
+            "CH": 7,
+            "UA": 1
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 13,
+      "running": 3,
+      "place": 7,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 1,
+            "AM": 7,
+            "AT": 4,
+            "BG": 5,
+            "HR": 16,
+            "DK": 13,
+            "FR": 8,
+            "GR": 5,
+            "IS": 13,
+            "IT": 3,
+            "LV": 11,
+            "MD": 6,
+            "NL": 7,
+            "NO": 13,
+            "PT": 12,
+            "SI": 17,
+            "CH": 6,
+            "UA": 12
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 1,
+            "AM": 7,
+            "AT": 4,
+            "BG": 5,
+            "HR": 6,
+            "DK": 8,
+            "FR": 6,
+            "GR": 5,
+            "IS": 5,
+            "IT": 1,
+            "LV": 10,
+            "MD": 6,
+            "NL": 5,
+            "NO": 8,
+            "PT": 6,
+            "SI": 5,
+            "CH": 3,
+            "UA": 12
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 0,
+            "AM": 0,
+            "AT": 0,
+            "BG": 0,
+            "HR": 10,
+            "DK": 5,
+            "FR": 2,
+            "GR": 0,
+            "IS": 8,
+            "IT": 2,
+            "LV": 1,
+            "MD": 0,
+            "NL": 2,
+            "NO": 5,
+            "PT": 6,
+            "SI": 12,
+            "CH": 3,
+            "UA": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 6,
+      "running": 9,
+      "place": 8,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 0,
+            "AM": 7,
+            "AT": 10,
+            "BG": 9,
+            "HR": 10,
+            "DK": 6,
+            "FR": 7,
+            "GR": 13,
+            "IS": 7,
+            "IT": 15,
+            "LV": 8,
+            "LT": 8,
+            "NL": 10,
+            "NO": 7,
+            "PT": 11,
+            "SI": 7,
+            "CH": 7,
+            "UA": 12
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 0,
+            "AM": 6,
+            "AT": 10,
+            "BG": 8,
+            "HR": 10,
+            "DK": 6,
+            "FR": 7,
+            "GR": 6,
+            "IS": 7,
+            "IT": 10,
+            "LV": 8,
+            "LT": 7,
+            "NL": 10,
+            "NO": 6,
+            "PT": 10,
+            "SI": 7,
+            "CH": 7,
+            "UA": 10
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 0,
+            "AM": 1,
+            "AT": 0,
+            "BG": 1,
+            "HR": 0,
+            "DK": 0,
+            "FR": 0,
+            "GR": 7,
+            "IS": 0,
+            "IT": 5,
+            "LV": 0,
+            "LT": 1,
+            "NL": 0,
+            "NO": 1,
+            "PT": 1,
+            "SI": 0,
+            "CH": 0,
+            "UA": 2
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 16,
+      "running": 4,
+      "place": 9,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 6,
+            "AM": 6,
+            "AT": 10,
+            "BG": 12,
+            "HR": 6,
+            "DK": 7,
+            "FR": 5,
+            "GR": 0,
+            "IS": 6,
+            "IT": 6,
+            "LV": 4,
+            "LT": 13,
+            "MD": 10,
+            "NL": 9,
+            "NO": 4,
+            "PT": 4,
+            "SI": 4,
+            "UA": 6
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 0,
+            "AM": 1,
+            "AT": 3,
+            "BG": 0,
+            "HR": 0,
+            "DK": 1,
+            "FR": 0,
+            "GR": 0,
+            "IS": 1,
+            "IT": 0,
+            "LV": 0,
+            "LT": 3,
+            "MD": 0,
+            "NL": 2,
+            "NO": 0,
+            "PT": 0,
+            "SI": 0,
+            "UA": 0
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 6,
+            "AM": 5,
+            "AT": 7,
+            "BG": 12,
+            "HR": 6,
+            "DK": 6,
+            "FR": 5,
+            "GR": 0,
+            "IS": 5,
+            "IT": 6,
+            "LV": 4,
+            "LT": 10,
+            "MD": 10,
+            "NL": 7,
+            "NO": 4,
+            "PT": 4,
+            "SI": 4,
+            "UA": 6
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 22,
+      "running": 14,
+      "place": 10,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 5,
+            "AM": 3,
+            "AT": 2,
+            "BG": 0,
+            "HR": 4,
+            "DK": 11,
+            "FR": 7,
+            "GR": 0,
+            "IT": 0,
+            "LV": 13,
+            "LT": 6,
+            "MD": 3,
+            "NL": 9,
+            "NO": 9,
+            "PT": 12,
+            "SI": 0,
+            "CH": 7,
+            "UA": 12
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 0,
+            "AM": 0,
+            "AT": 0,
+            "BG": 0,
+            "HR": 0,
+            "DK": 7,
+            "FR": 3,
+            "GR": 0,
+            "IT": 0,
+            "LV": 5,
+            "LT": 2,
+            "MD": 0,
+            "NL": 4,
+            "NO": 7,
+            "PT": 2,
+            "SI": 0,
+            "CH": 1,
+            "UA": 8
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 5,
+            "AM": 3,
+            "AT": 2,
+            "BG": 0,
+            "HR": 4,
+            "DK": 4,
+            "FR": 4,
+            "GR": 0,
+            "IT": 0,
+            "LV": 8,
+            "LT": 4,
+            "MD": 3,
+            "NL": 5,
+            "NO": 2,
+            "PT": 10,
+            "SI": 0,
+            "CH": 6,
+            "UA": 4
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 25,
+      "running": 11,
+      "place": 11,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 9,
+            "AM": 4,
+            "AT": 9,
+            "BG": 8,
+            "DK": 0,
+            "FR": 0,
+            "GR": 8,
+            "IS": 0,
+            "IT": 4,
+            "LV": 0,
+            "LT": 0,
+            "MD": 0,
+            "NL": 3,
+            "NO": 0,
+            "PT": 1,
+            "SI": 20,
+            "CH": 6,
+            "UA": 3
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 6,
+            "AM": 0,
+            "AT": 6,
+            "BG": 2,
+            "DK": 0,
+            "FR": 0,
+            "GR": 0,
+            "IS": 0,
+            "IT": 0,
+            "LV": 0,
+            "LT": 0,
+            "MD": 0,
+            "NL": 0,
+            "NO": 0,
+            "PT": 1,
+            "SI": 12,
+            "CH": 6,
+            "UA": 0
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 3,
+            "AM": 4,
+            "AT": 3,
+            "BG": 6,
+            "DK": 0,
+            "FR": 0,
+            "GR": 8,
+            "IS": 0,
+            "IT": 4,
+            "LV": 0,
+            "LT": 0,
+            "MD": 0,
+            "NL": 3,
+            "NO": 0,
+            "PT": 0,
+            "SI": 8,
+            "CH": 0,
+            "UA": 3
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 27,
+      "running": 1,
+      "place": 12,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AM": 2,
+            "AT": 2,
+            "BG": 1,
+            "HR": 2,
+            "DK": 0,
+            "FR": 5,
+            "GR": 24,
+            "IS": 0,
+            "IT": 8,
+            "LV": 0,
+            "LT": 0,
+            "MD": 0,
+            "NL": 0,
+            "NO": 0,
+            "PT": 0,
+            "SI": 6,
+            "CH": 8,
+            "UA": 0
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AM": 2,
+            "AT": 2,
+            "BG": 1,
+            "HR": 2,
+            "DK": 0,
+            "FR": 5,
+            "GR": 12,
+            "IS": 0,
+            "IT": 8,
+            "LV": 0,
+            "LT": 0,
+            "MD": 0,
+            "NL": 0,
+            "NO": 0,
+            "PT": 0,
+            "SI": 6,
+            "CH": 8,
+            "UA": 0
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AM": 0,
+            "AT": 0,
+            "BG": 0,
+            "HR": 0,
+            "DK": 0,
+            "FR": 0,
+            "GR": 12,
+            "IS": 0,
+            "IT": 0,
+            "LV": 0,
+            "LT": 0,
+            "MD": 0,
+            "NL": 0,
+            "NO": 0,
+            "PT": 0,
+            "SI": 0,
+            "CH": 0,
+            "UA": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 30,
+      "running": 12,
+      "place": 13,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 0,
+            "AM": 0,
+            "AT": 5,
+            "BG": 2,
+            "HR": 3,
+            "FR": 0,
+            "GR": 0,
+            "IS": 7,
+            "IT": 0,
+            "LV": 8,
+            "LT": 6,
+            "MD": 3,
+            "NL": 0,
+            "NO": 7,
+            "PT": 3,
+            "SI": 1,
+            "CH": 5,
+            "UA": 5
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 0,
+            "AM": 0,
+            "AT": 0,
+            "BG": 0,
+            "HR": 0,
+            "FR": 0,
+            "GR": 0,
+            "IS": 6,
+            "IT": 0,
+            "LV": 2,
+            "LT": 1,
+            "MD": 3,
+            "NL": 0,
+            "NO": 4,
+            "PT": 3,
+            "SI": 1,
+            "CH": 0,
+            "UA": 0
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 0,
+            "AM": 0,
+            "AT": 5,
+            "BG": 2,
+            "HR": 3,
+            "FR": 0,
+            "GR": 0,
+            "IS": 1,
+            "IT": 0,
+            "LV": 6,
+            "LT": 5,
+            "MD": 0,
+            "NL": 0,
+            "NO": 3,
+            "PT": 0,
+            "SI": 0,
+            "CH": 5,
+            "UA": 5
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 31,
+      "running": 2,
+      "place": 14,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 0,
+            "AM": 2,
+            "AT": 1,
+            "BG": 3,
+            "HR": 0,
+            "DK": 1,
+            "FR": 0,
+            "GR": 4,
+            "IS": 4,
+            "IT": 1,
+            "LT": 12,
+            "MD": 4,
+            "NL": 1,
+            "NO": 0,
+            "PT": 12,
+            "SI": 3,
+            "CH": 2,
+            "UA": 5
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 0,
+            "AM": 0,
+            "AT": 0,
+            "BG": 0,
+            "HR": 0,
+            "DK": 0,
+            "FR": 0,
+            "GR": 0,
+            "IS": 0,
+            "IT": 0,
+            "LT": 10,
+            "MD": 0,
+            "NL": 1,
+            "NO": 0,
+            "PT": 0,
+            "SI": 0,
+            "CH": 0,
+            "UA": 5
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 0,
+            "AM": 2,
+            "AT": 1,
+            "BG": 3,
+            "HR": 0,
+            "DK": 1,
+            "FR": 0,
+            "GR": 4,
+            "IS": 4,
+            "IT": 1,
+            "LT": 2,
+            "MD": 4,
+            "NL": 0,
+            "NO": 0,
+            "PT": 12,
+            "SI": 3,
+            "CH": 2,
+            "UA": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 35,
+      "running": 13,
+      "place": 15,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 4,
+            "AM": 5,
+            "BG": 0,
+            "HR": 4,
+            "DK": 2,
+            "FR": 1,
+            "GR": 4,
+            "IS": 4,
+            "IT": 5,
+            "LV": 1,
+            "LT": 0,
+            "MD": 2,
+            "NL": 0,
+            "NO": 3,
+            "PT": 0,
+            "SI": 0,
+            "CH": 4,
+            "UA": 3
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 4,
+            "AM": 5,
+            "BG": 0,
+            "HR": 4,
+            "DK": 2,
+            "FR": 0,
+            "GR": 2,
+            "IS": 4,
+            "IT": 2,
+            "LV": 1,
+            "LT": 0,
+            "MD": 2,
+            "NL": 0,
+            "NO": 3,
+            "PT": 0,
+            "SI": 0,
+            "CH": 4,
+            "UA": 3
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 0,
+            "AM": 0,
+            "BG": 0,
+            "HR": 0,
+            "DK": 0,
+            "FR": 1,
+            "GR": 2,
+            "IS": 0,
+            "IT": 3,
+            "LV": 0,
+            "LT": 0,
+            "MD": 0,
+            "NL": 0,
+            "NO": 0,
+            "PT": 0,
+            "SI": 0,
+            "CH": 0,
+            "UA": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 37,
+      "running": 7,
+      "place": 16,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 13,
+            "AM": 0,
+            "AT": 0,
+            "HR": 0,
+            "DK": 0,
+            "FR": 0,
+            "GR": 11,
+            "IS": 0,
+            "IT": 0,
+            "LV": 0,
+            "LT": 0,
+            "MD": 5,
+            "NL": 0,
+            "NO": 0,
+            "PT": 0,
+            "SI": 0,
+            "CH": 0,
+            "UA": 0
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 12,
+            "AM": 0,
+            "AT": 0,
+            "HR": 0,
+            "DK": 0,
+            "FR": 0,
+            "GR": 1,
+            "IS": 0,
+            "IT": 0,
+            "LV": 0,
+            "LT": 0,
+            "MD": 5,
+            "NL": 0,
+            "NO": 0,
+            "PT": 0,
+            "SI": 0,
+            "CH": 0,
+            "UA": 0
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 1,
+            "AM": 0,
+            "AT": 0,
+            "HR": 0,
+            "DK": 0,
+            "FR": 0,
+            "GR": 10,
+            "IS": 0,
+            "IT": 0,
+            "LV": 0,
+            "LT": 0,
+            "MD": 0,
+            "NL": 0,
+            "NO": 0,
+            "PT": 0,
+            "SI": 0,
+            "CH": 0,
+            "UA": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 39,
+      "running": 5,
+      "place": 17,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 0,
+            "AM": 0,
+            "AT": 0,
+            "BG": 0,
+            "HR": 13,
+            "DK": 0,
+            "FR": 0,
+            "GR": 0,
+            "IS": 0,
+            "IT": 0,
+            "LV": 0,
+            "LT": 0,
+            "MD": 1,
+            "NL": 1,
+            "NO": 0,
+            "PT": 0,
+            "CH": 0,
+            "UA": 0
+          }
+        },
+        {
+          "name": "public",
+          "votes": {
+            "AL": 0,
+            "AM": 0,
+            "AT": 0,
+            "BG": 0,
+            "HR": 8,
+            "DK": 0,
+            "FR": 0,
+            "GR": 0,
+            "IS": 0,
+            "IT": 0,
+            "LV": 0,
+            "LT": 0,
+            "MD": 0,
+            "NL": 0,
+            "NO": 0,
+            "PT": 0,
+            "CH": 0,
+            "UA": 0
+          }
+        },
+        {
+          "name": "jury",
+          "votes": {
+            "AL": 0,
+            "AM": 0,
+            "AT": 0,
+            "BG": 0,
+            "HR": 5,
+            "DK": 0,
+            "FR": 0,
+            "GR": 0,
+            "IS": 0,
+            "IT": 0,
+            "LV": 0,
+            "LT": 0,
+            "MD": 1,
+            "NL": 1,
+            "NO": 0,
+            "PT": 0,
+            "CH": 0,
+            "UA": 0
+          }
+        }
+      ]
+    }
+  ]
+}

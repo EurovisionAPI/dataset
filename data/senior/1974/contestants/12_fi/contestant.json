@@ -1,0 +1,33 @@
+{
+  "id": 12,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Carita",
+  "artistPeople": [
+    "Carita Holmström"
+  ],
+  "song": "Älä mene pois (Keep Me Warm)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UIoOiymvwdw",
+    "https://www.youtube-nocookie.com/embed/5fHMGO274_Y",
+    "https://www.youtube-nocookie.com/embed/FPGDAI_v26w",
+    "https://www.youtube-nocookie.com/embed/5VPzHvMsfjc"
+  ],
+  "bpm": 122,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Matti Paalosmaa"
+  ],
+  "composers": [
+    "Eero Koivistoinen"
+  ],
+  "conductor": "Ossi Runne",
+  "dancers": null,
+  "lyricists": [
+    "Frank Robson"
+  ],
+  "spokesperson": "Aarre Elo",
+  "stageDirector": null,
+  "writers": null
+}

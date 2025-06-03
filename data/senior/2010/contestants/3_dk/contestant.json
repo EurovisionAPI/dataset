@@ -1,0 +1,40 @@
+{
+  "id": 3,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Chanée & N'evergreen",
+  "artistPeople": [
+    "Christina Birch Wongskul",
+    "Tomas Christiansen"
+  ],
+  "song": "In a Moment like This",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nNhIVQ1KBb8",
+    "https://www.youtube-nocookie.com/embed/ZZTRXDNFPco"
+  ],
+  "bpm": 95,
+  "tone": "F# major",
+  "backings": [
+    "Anne Murillo",
+    "Gry Trampedach Jørgensen",
+    "Jaana Vähämäki",
+    "Mads Enggaard"
+  ],
+  "commentators": [
+    "Nicolai Molbech"
+  ],
+  "composers": [
+    "Erik Bernholm",
+    "Henrik Sethsson",
+    "Thomas G:son"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Henrik Sethsson",
+    "Thomas G:son"
+  ],
+  "spokesperson": "Bryan Rice",
+  "stageDirector": null,
+  "writers": null
+}

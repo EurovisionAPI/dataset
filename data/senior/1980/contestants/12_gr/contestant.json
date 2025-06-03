@@ -1,0 +1,35 @@
+{
+  "id": 12,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Anna Vissi and the Epikouri",
+  "artistPeople": [
+    "Anna Vissi"
+  ],
+  "song": "Autostop",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eNJ1CtYhScs",
+    "https://www.youtube-nocookie.com/embed/yn-PgAskTL0"
+  ],
+  "bpm": 185,
+  "tone": "B major",
+  "backings": [
+    "Achilleas Michaelidis",
+    "Eva Tselidou",
+    "Zaharias Michaelidis"
+  ],
+  "commentators": [
+    "Mako Georgiadou"
+  ],
+  "composers": [
+    "Jick Nacassian"
+  ],
+  "conductor": "Jick Nacassian",
+  "dancers": null,
+  "lyricists": [
+    "Rony Sofu"
+  ],
+  "spokesperson": "Niki Venega",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 20,
+  "country": "CY",
+  "broadcaster": "CyBC",
+  "artist": "Minus One",
+  "artistPeople": null,
+  "song": "Alter Ego",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/idUxTqmCFR0",
+    "https://www.youtube-nocookie.com/embed/k8LcNrqiIFE",
+    "https://www.youtube-nocookie.com/embed/PfBh9bKt-Dc",
+    "https://www.youtube-nocookie.com/embed/o5-7wBqWGzw",
+    "https://www.youtube-nocookie.com/embed/vY0640Alw7M"
+  ],
+  "bpm": 130,
+  "tone": "Bb minor",
+  "backings": [
+    "Lars Säfsund"
+  ],
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Loukas Hamatsos",
+  "stageDirector": "Sacha Jean-Baptiste",
+  "writers": [
+    "Antonis Loizides",
+    "Chris J",
+    "Constantinos Amerikanos",
+    "François Micheletto",
+    "Harrys Pari",
+    "Thomas G:son"
+  ]
+}

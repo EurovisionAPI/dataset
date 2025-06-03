@@ -1,0 +1,35 @@
+{
+  "id": 7,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "Blue Danube",
+  "artistPeople": [
+    "Marty Brem",
+    "Rena Mauris",
+    "Sylvia Schramm",
+    "Wolfgang 'Marc' Berry",
+    "Wolfgang Weiss"
+  ],
+  "song": "Du bist Musik",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WyWDQGmKsCQ",
+    "https://www.youtube-nocookie.com/embed/htT-2bhNftU",
+    "https://www.youtube-nocookie.com/embed/Sc_ueEBUpdM",
+    "https://www.youtube-nocookie.com/embed/NZeiqi675hs"
+  ],
+  "bpm": 133,
+  "tone": "F minor",
+  "backings": null,
+  "commentators": [
+    "Günther Ziesel"
+  ],
+  "composers": null,
+  "conductor": "Richard Österreicher",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Jenny Pippal",
+  "stageDirector": null,
+  "writers": [
+    "Klaus Peter Sattler"
+  ]
+}

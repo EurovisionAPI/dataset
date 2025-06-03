@@ -1,0 +1,38 @@
+{
+  "id": 25,
+  "country": "DE",
+  "broadcaster": "NDR",
+  "artist": "Lord Of The Lost",
+  "artistPeople": null,
+  "song": "Blood & Glitter",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dyGR4YWlPEs",
+    "https://www.youtube-nocookie.com/embed/5I9CYu668jA",
+    "https://www.youtube-nocookie.com/embed/x2DFDllgsfM",
+    "https://www.youtube-nocookie.com/embed/lnAliSmSI1A",
+    "https://www.youtube-nocookie.com/embed/LiwpdELrXhw",
+    "https://www.youtube-nocookie.com/embed/hufdMTPP0Es",
+    "https://www.youtube-nocookie.com/embed/jZeEpkan4zQ"
+  ],
+  "bpm": 139,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": [
+    "Peter Urban"
+  ],
+  "composers": [
+    "Chris Harms",
+    "Rupert Keplinger"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Anthony J. Brown",
+    "Chris Harms",
+    "Pi Stoffers",
+    "Rupert Keplinger"
+  ],
+  "spokesperson": "Elton",
+  "stageDirector": "Marvin Dietmann",
+  "writers": null
+}

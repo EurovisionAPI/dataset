@@ -1,0 +1,37 @@
+{
+  "id": 16,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Sixteen",
+  "artistPeople": [
+    "Janusz Witaszek",
+    "Jarosław Pruszkowski",
+    "Mirosław Hoduń",
+    "Renata Dąbkowska",
+    "Tomasz Stryczniewicz"
+  ],
+  "song": "To takie proste",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gC75KUIS8bU",
+    "https://www.youtube-nocookie.com/embed/Jt3skfkHm3E"
+  ],
+  "bpm": 100,
+  "tone": "Eb major",
+  "backings": [
+    "Olga Pruszkowska"
+  ],
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "composers": [
+    "Jarosław Pruszkowski"
+  ],
+  "conductor": "Wieslaw Pieregorólka",
+  "dancers": null,
+  "lyricists": [
+    "Olga Pruszkowska"
+  ],
+  "spokesperson": "Jan Chojnacki",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": 32,
+  "country": "AL",
+  "broadcaster": "RTSH",
+  "artist": "Besa",
+  "artistPeople": [
+    "Besa Kokëdhima"
+  ],
+  "song": "Titan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/aQG22XJIdWw",
+    "https://www.youtube-nocookie.com/embed/nrjFhjpm7D8",
+    "https://www.youtube-nocookie.com/embed/I7qCO7Ml2jI",
+    "https://www.youtube-nocookie.com/embed/98f8GTo3dWw",
+    "https://www.youtube-nocookie.com/embed/AEe5Ki5dmvM",
+    "https://www.youtube-nocookie.com/embed/6RE4lN3MBDI",
+    "https://www.youtube-nocookie.com/embed/7rEDP1lSoDQ"
+  ],
+  "bpm": 82,
+  "tone": "G major",
+  "backings": [
+    "Kevon",
+    "Sofia Mountassir"
+  ],
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "composers": [
+    "Alias Lj",
+    "Besa Kokëdhima",
+    "Gia Koka",
+    "Kledi Bahiti"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Riina Harju",
+    "Sofia Ruija",
+    "Yasmin Janatuinen"
+  ],
+  "lyricists": [
+    "Gia Koka"
+  ],
+  "spokesperson": "Andri Xhahu",
+  "stageDirector": "Fredrik Rydman, Melissa Thompson, Reija Wäre",
+  "writers": null
+}

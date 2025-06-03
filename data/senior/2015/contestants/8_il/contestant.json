@@ -1,0 +1,37 @@
+{
+  "id": 8,
+  "country": "IL",
+  "broadcaster": "IBA",
+  "artist": "Nadav Guedj",
+  "artistPeople": [
+    "Nadav Guedj"
+  ],
+  "song": "Golden Boy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-w-2K9U8UIs",
+    "https://www.youtube-nocookie.com/embed/5bi1lK91bas",
+    "https://www.youtube-nocookie.com/embed/NdxOCTezeTg",
+    "https://www.youtube-nocookie.com/embed/1k2aW-F1DPc",
+    "https://www.youtube-nocookie.com/embed/QGhBpM7BWY8"
+  ],
+  "bpm": 115,
+  "tone": "Ab minor",
+  "backings": [
+    "Hananel Edri",
+    "Imri Ziv"
+  ],
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Adam Cohen",
+    "Dor Raybi",
+    "Tomer Tenenboym"
+  ],
+  "lyricists": null,
+  "spokesperson": "Ofer Nachshon",
+  "stageDirector": "Doron Medalie",
+  "writers": [
+    "Doron Medalie"
+  ]
+}

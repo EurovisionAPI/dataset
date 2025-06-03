@@ -1,0 +1,30 @@
+{
+  "id": 13,
+  "country": "IL",
+  "broadcaster": "IBA",
+  "artist": "Harel Skaat",
+  "artistPeople": [
+    "Harel Skaat"
+  ],
+  "song": "Milim",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Tj0qaNnLk9M",
+    "https://www.youtube-nocookie.com/embed/gaLxjWrv5s8",
+    "https://www.youtube-nocookie.com/embed/GelsXCyV5Nk"
+  ],
+  "bpm": 124,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Tomer Hadadi"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Noam Horev"
+  ],
+  "spokesperson": "Ofer Nachshon",
+  "stageDirector": "Doron Medalie",
+  "writers": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 10,
+  "country": "NL",
+  "broadcaster": "AVROTROS",
+  "artist": "OG3NE",
+  "artistPeople": [
+    "Amy Vol",
+    "Lisa Vol",
+    "Shelley Vol"
+  ],
+  "song": "Lights And Shadows",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_9XsCqGg8ls",
+    "https://www.youtube-nocookie.com/embed/c-VoiE7R9lc",
+    "https://www.youtube-nocookie.com/embed/H8nj5ZD5Fy8",
+    "https://www.youtube-nocookie.com/embed/xbCvozc1Nkk",
+    "https://www.youtube-nocookie.com/embed/aomGUFfkjBU",
+    "https://www.youtube-nocookie.com/embed/WUx1h9YSO00"
+  ],
+  "bpm": 96,
+  "tone": "F# major",
+  "backings": null,
+  "commentators": [
+    "Cornald Maas",
+    "Jan Smit"
+  ],
+  "composers": [
+    "Rick Vol",
+    "Rory de Kievit"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Rick Vol"
+  ],
+  "spokesperson": "Douwe Bob",
+  "stageDirector": "Rolf Meter",
+  "writers": null
+}

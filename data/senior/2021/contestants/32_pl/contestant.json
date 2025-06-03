@@ -1,0 +1,43 @@
+{
+  "id": 32,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Rafał",
+  "artistPeople": [
+    "Rafał Brzozowski"
+  ],
+  "song": "The Ride",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Uy6TeDNvSGo",
+    "https://www.youtube-nocookie.com/embed/zOHwiWElR1A",
+    "https://www.youtube-nocookie.com/embed/xsWwLWaZBq8",
+    "https://www.youtube-nocookie.com/embed/BaK0pJQ8E18",
+    "https://www.youtube-nocookie.com/embed/155wAPcUJF4"
+  ],
+  "bpm": 132,
+  "tone": "F# major",
+  "backings": [
+    "Paweł Skiba"
+  ],
+  "commentators": [
+    "Aleksander Sikora",
+    "Marek Sierocki"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Bartosz Kołecki",
+    "Daniel Borzewski",
+    "Maciej Miśkiewicz",
+    "Miłosz Kuterasiński"
+  ],
+  "lyricists": null,
+  "spokesperson": "Ida Nowakowska",
+  "stageDirector": "Mikołaj Dobrowolski",
+  "writers": [
+    "Clara Rubensson",
+    "Joakim Övrenius",
+    "Johan Mauritzson",
+    "Thomas Karlsson"
+  ]
+}

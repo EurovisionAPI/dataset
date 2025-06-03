@@ -1,0 +1,45 @@
+{
+  "id": 38,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Darude feat. Sebastian Rejman",
+  "artistPeople": [
+    "Toni-Ville Henrik Virtanen",
+    "Sebastian Rejman"
+  ],
+  "song": "Look Away",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VSPhIwOJfRs",
+    "https://www.youtube-nocookie.com/embed/B5hBZC-SIsE",
+    "https://www.youtube-nocookie.com/embed/d4DPGAJhSac",
+    "https://www.youtube-nocookie.com/embed/xJNBlunLhOE",
+    "https://www.youtube-nocookie.com/embed/uxSt5pwHCH8",
+    "https://www.youtube-nocookie.com/embed/lVNu_6X8arI",
+    "https://www.youtube-nocookie.com/embed/-2LpaBLZPc4"
+  ],
+  "bpm": 126,
+  "tone": "Bb minor",
+  "backings": [
+    "Heini Ikonen",
+    "Matti Leino",
+    "Petri Somer"
+  ],
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Krista Siegfrids",
+    "Mikko Silvennoinen"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Etel Röhr"
+  ],
+  "lyricists": null,
+  "spokesperson": "Christoffer Strandberg",
+  "stageDirector": "Reija Wäre",
+  "writers": [
+    "Ville Virtanen",
+    "Sebastian Rejman"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 12,
+  "country": "YU",
+  "broadcaster": "JRT",
+  "artist": "Extra Nena",
+  "artistPeople": [
+    "Snežana Berić"
+  ],
+  "song": "Ljubim Te Pesmama",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wPBe1nEd2ac",
+    "https://www.youtube-nocookie.com/embed/I7_KEBWuY8s",
+    "https://www.youtube-nocookie.com/embed/iDIOoF1jUE0",
+    "https://www.youtube-nocookie.com/embed/CkhGevwrBVU",
+    "https://www.youtube-nocookie.com/embed/Rs1zGUso8sw"
+  ],
+  "bpm": 128,
+  "tone": "B major",
+  "backings": null,
+  "commentators": [
+    "Mladen Popović"
+  ],
+  "composers": [
+    "Radivoje Radivojević"
+  ],
+  "conductor": "Anders Berglund",
+  "dancers": null,
+  "lyricists": [
+    "Gale Janković"
+  ],
+  "spokesperson": "Veselin Mrđen",
+  "stageDirector": null,
+  "writers": null
+}

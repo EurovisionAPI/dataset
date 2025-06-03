@@ -1,0 +1,42 @@
+{
+  "id": 0,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Helena Paparizou",
+  "artistPeople": [
+    "Helena Paparizou"
+  ],
+  "song": "My Number One",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rcOwvZ26KFQ",
+    "https://www.youtube-nocookie.com/embed/r0CmpaSV0tc",
+    "https://www.youtube-nocookie.com/embed/pm34xt--2Ik",
+    "https://www.youtube-nocookie.com/embed/cgxiN5WSxhU"
+  ],
+  "bpm": 113,
+  "tone": "F# minor",
+  "backings": [
+    "Alexandros Panayi",
+    "Sergey Grichenko"
+  ],
+  "commentators": [
+    "Alexandra Pascalidou"
+  ],
+  "composers": [
+    "Christos Dantis",
+    "Manos Psaltakis"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Alexey Nikichanov",
+    "Kristis Koupatos",
+    "Thodoris Panas"
+  ],
+  "lyricists": [
+    "Christos Dantis",
+    "Natalia Germanou"
+  ],
+  "spokesperson": "Alexis Kostalas",
+  "stageDirector": "Fokas Evangelinos",
+  "writers": null
+}

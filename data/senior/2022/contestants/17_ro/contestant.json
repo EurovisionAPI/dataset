@@ -1,0 +1,48 @@
+{
+  "id": 17,
+  "country": "RO",
+  "broadcaster": "TVR",
+  "artist": "WRS",
+  "artistPeople": [
+    "WRS"
+  ],
+  "song": "Llámame",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nPpuwy79sHs",
+    "https://www.youtube-nocookie.com/embed/9Wtx4v81xxU",
+    "https://www.youtube-nocookie.com/embed/4b1Rt5jY6tA",
+    "https://www.youtube-nocookie.com/embed/szrK61U9Vi4",
+    "https://www.youtube-nocookie.com/embed/GlhiGh3Wb5M",
+    "https://www.youtube-nocookie.com/embed/h8BoADlluO0",
+    "https://www.youtube-nocookie.com/embed/qXlyF8sIPIY"
+  ],
+  "bpm": 120,
+  "tone": "F major",
+  "backings": [
+    "Laurian Manta"
+  ],
+  "commentators": [
+    "Bogdan Stănescu",
+    "Kyrie Mendel"
+  ],
+  "composers": [
+    "Alexandru Turcu",
+    "Andrei Ionuț Ursu",
+    "Cezar Gună",
+    "Costel Dominteanu"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Andrei Iulian Angelescu",
+    "Emanuel Neagu",
+    "Ruxandra Anamaria",
+    "Vivienne Meda"
+  ],
+  "lyricists": [
+    "Andrei Ionuț Ursu",
+    "Cezar Gună"
+  ],
+  "spokesperson": null,
+  "stageDirector": "Aurel Badea",
+  "writers": null
+}

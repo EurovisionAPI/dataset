@@ -1,0 +1,36 @@
+{
+  "id": 30,
+  "country": "IE",
+  "broadcaster": "RTÉ",
+  "artist": "Wild Youth",
+  "artistPeople": [
+    "Conor O'Donohoe"
+  ],
+  "song": "We Are One",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/80-4_rjW10U",
+    "https://www.youtube-nocookie.com/embed/ak5Fevs424Y",
+    "https://www.youtube-nocookie.com/embed/FOwA1zwushY",
+    "https://www.youtube-nocookie.com/embed/e4PrSXXkXVM",
+    "https://www.youtube-nocookie.com/embed/ravvXlc6rCc",
+    "https://www.youtube-nocookie.com/embed/ZKywBHU3Vng",
+    "https://www.youtube-nocookie.com/embed/H5l3BroPYmA"
+  ],
+  "bpm": 112,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Niamh Kavanagh",
+  "stageDirector": null,
+  "writers": [
+    "Conor O'Donohoe",
+    "Edward Porter",
+    "Jörgen Elofsson"
+  ]
+}

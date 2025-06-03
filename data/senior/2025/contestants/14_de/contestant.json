@@ -1,0 +1,39 @@
+{
+  "id": 14,
+  "country": "DE",
+  "broadcaster": "NDR",
+  "artist": "Abor & Tynna",
+  "artistPeople": [
+    "Attila Bornemisza",
+    "Tünde Bornemisza"
+  ],
+  "song": "Baller",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3rrWZ6cldsA",
+    "https://www.youtube-nocookie.com/embed/xF_sNQXP5g8",
+    "https://www.youtube-nocookie.com/embed/zJplC4-9Scs",
+    "https://www.youtube-nocookie.com/embed/PrjVpsol5_A",
+    "https://www.youtube-nocookie.com/embed/ETZ96rSw25g",
+    "https://www.youtube-nocookie.com/embed/XSJ7kChv110",
+    "https://www.youtube-nocookie.com/embed/OLotnekiQ7k"
+  ],
+  "bpm": 138,
+  "tone": "C minor",
+  "backings": [
+    "Wanja Janeva"
+  ],
+  "commentators": [
+    "Thorsten Schorn"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Michael Schulte",
+  "stageDirector": "Marvin Dietmann",
+  "writers": [
+    "Attila Bornemisza",
+    "Alexander Hauer",
+    "Tünde Bornemisza"
+  ]
+}

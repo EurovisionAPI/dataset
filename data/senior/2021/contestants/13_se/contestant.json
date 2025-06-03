@@ -1,0 +1,45 @@
+{
+  "id": 13,
+  "country": "SE",
+  "broadcaster": "SVT",
+  "artist": "Tusse",
+  "artistPeople": [
+    "Tousin Michael Chiza"
+  ],
+  "song": "Voices",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NyJRyif6_kk",
+    "https://www.youtube-nocookie.com/embed/m0BfFw3sE_E",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/qYcSLxCwfNE",
+    "https://www.youtube-nocookie.com/embed/ufeuSX6QPBo",
+    "https://www.youtube-nocookie.com/embed/xaLdqaHxxSI",
+    "https://www.youtube-nocookie.com/embed/ebVC3BNNowI"
+  ],
+  "bpm": 90,
+  "tone": "F major",
+  "backings": [
+    "Lars Säfsund"
+  ],
+  "commentators": [
+    "Christer Björkman",
+    "Edward af Sillén"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Fatou Bah",
+    "Keisha von Arnold",
+    "Lamin Holmén",
+    "Timothy Waliggo Kakeeto"
+  ],
+  "lyricists": null,
+  "spokesperson": "Carola",
+  "stageDirector": "Jennie Widegren, Lotta Furebäck, Sacha Jean-Baptiste",
+  "writers": [
+    "Anderz Wrethov",
+    "Jimmy Joker",
+    "Joy Deb",
+    "Linnea Deb"
+  ]
+}

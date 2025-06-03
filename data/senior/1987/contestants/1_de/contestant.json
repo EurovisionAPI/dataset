@@ -1,0 +1,41 @@
+{
+  "id": 1,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Wind",
+  "artistPeople": [
+    "Alexander Heiler",
+    "Andi Lebbing",
+    "Christiane von Kutzsenbach",
+    "Petra Scheeser",
+    "Sami Kalifa"
+  ],
+  "song": "Laß die Sonne in dein Herz",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yPPLLYKMZPc",
+    "https://www.youtube-nocookie.com/embed/tSmb6tgg9gU",
+    "https://www.youtube-nocookie.com/embed/lLKsnjZoKj4",
+    "https://www.youtube-nocookie.com/embed/uRPF_63s3DY",
+    "https://www.youtube-nocookie.com/embed/Jt7ylxet3Xk"
+  ],
+  "bpm": 93,
+  "tone": "F# major",
+  "backings": [
+    "Robert Pilatus"
+  ],
+  "commentators": [
+    "Christoph Deumling",
+    "Lotti Ohnesorge"
+  ],
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Laszlo Bencker",
+  "dancers": null,
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "spokesperson": "Kerstin Schweighöfer",
+  "stageDirector": null,
+  "writers": null
+}

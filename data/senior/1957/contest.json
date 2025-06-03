@@ -1,0 +1,15 @@
+{
+  "year": 1957,
+  "arena": "Großer Sendesaal des Hessischen Rundfunks",
+  "city": "Frankfurt",
+  "country": "DE",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1957.png",
+  "presenters": [
+    "Anaïd Iplicjian"
+  ],
+  "broadcasters": [
+    "ARD"
+  ]
+}

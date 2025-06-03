@@ -1,0 +1,41 @@
+{
+  "id": 5,
+  "country": "NL",
+  "broadcaster": "NOS",
+  "artist": "Ruth Jacott",
+  "artistPeople": [
+    "Ruth Jacott"
+  ],
+  "song": "Vrede",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/r0p3DSR-cFA",
+    "https://www.youtube-nocookie.com/embed/-Sif8fZVf9s",
+    "https://www.youtube-nocookie.com/embed/YfhZ69OWoLo",
+    "https://www.youtube-nocookie.com/embed/qy0vT76pndg",
+    "https://www.youtube-nocookie.com/embed/yllV0ZcYNm4"
+  ],
+  "bpm": 103,
+  "tone": "Eb major",
+  "backings": [
+    "Han van Eijk",
+    "Humphrey Campbell",
+    "Julya Loko",
+    "Pim Roos",
+    "Roq-E Harrell"
+  ],
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "composers": [
+    "Eric van Tijn",
+    "Jochem Fluitsma"
+  ],
+  "conductor": "Harry van Hoof",
+  "dancers": null,
+  "lyricists": [
+    "Henk Westbroek"
+  ],
+  "spokesperson": "Joop van Os",
+  "stageDirector": null,
+  "writers": null
+}

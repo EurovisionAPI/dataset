@@ -1,0 +1,37 @@
+{
+  "id": 7,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Elpida",
+  "artistPeople": [
+    "Elpida Karali"
+  ],
+  "song": "Socrati",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-Zr6NIkPv-Q",
+    "https://www.youtube-nocookie.com/embed/XpmXfeGC6dg",
+    "https://www.youtube-nocookie.com/embed/PoiAcdtl9eQ"
+  ],
+  "bpm": 137,
+  "tone": "F minor",
+  "backings": [
+    "Giannis Samsiaris",
+    "Lia Vissi",
+    "Paulina",
+    "Stelios Goulielmos"
+  ],
+  "commentators": [
+    "Mako Georgiadou"
+  ],
+  "composers": [
+    "Doros Georgiadis"
+  ],
+  "conductor": "Lefteris Halkiadakis",
+  "dancers": null,
+  "lyricists": [
+    "Sofia Tsotu"
+  ],
+  "spokesperson": "Niki Venega",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": 17,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Ellen Nikolaysen",
+  "artistPeople": [
+    "Ellen Nikolaysen"
+  ],
+  "song": "Touch My Life with Summer",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rGGE7hZVP3I",
+    "https://www.youtube-nocookie.com/embed/kWIHvGhSHls",
+    "https://www.youtube-nocookie.com/embed/6BDLfnIFWPo",
+    "https://www.youtube-nocookie.com/embed/Y9h-1l8mV1E"
+  ],
+  "bpm": 104,
+  "tone": "Eb major",
+  "backings": null,
+  "commentators": [
+    "John Andreassen"
+  ],
+  "composers": [
+    "Svein Hundsnes"
+  ],
+  "conductor": "Carsten Klouman",
+  "dancers": null,
+  "lyricists": [
+    "Johnny Sareussen"
+  ],
+  "spokesperson": "Sverre Christophersen",
+  "stageDirector": null,
+  "writers": null
+}

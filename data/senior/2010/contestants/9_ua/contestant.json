@@ -1,0 +1,36 @@
+{
+  "id": 9,
+  "country": "UA",
+  "broadcaster": "NTU",
+  "artist": "Alyosha",
+  "artistPeople": [
+    "Olena Topolia"
+  ],
+  "song": "Sweet People",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NQ2mAuqnXZk",
+    "https://www.youtube-nocookie.com/embed/dJX9NCuLagU",
+    "https://www.youtube-nocookie.com/embed/NT9GFoRbnfc",
+    "https://www.youtube-nocookie.com/embed/GvlOuCeQDWU",
+    "https://www.youtube-nocookie.com/embed/b-NBIJTtH7o"
+  ],
+  "bpm": 120,
+  "tone": "E minor",
+  "backings": null,
+  "commentators": [
+    "Timur Miroshnychenko"
+  ],
+  "composers": [
+    "Olena Kucher",
+    "Borys Kukoba",
+    "Vadim Lisitsa"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Olena Kucher"
+  ],
+  "spokesperson": "Iryna Zhuravska",
+  "stageDirector": null,
+  "writers": null
+}

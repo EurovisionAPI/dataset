@@ -1,0 +1,40 @@
+{
+  "id": 7,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Michał Szpak",
+  "artistPeople": [
+    "Michał Szpak"
+  ],
+  "song": "Color of Your Life",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/87BBmxm7IJU",
+    "https://www.youtube-nocookie.com/embed/Sjup9PJ25LM",
+    "https://www.youtube-nocookie.com/embed/Kj95aWw1T0E",
+    "https://www.youtube-nocookie.com/embed/PweKHhPhIAE",
+    "https://www.youtube-nocookie.com/embed/SQjOzNNciAw"
+  ],
+  "bpm": 83,
+  "tone": "E major",
+  "backings": [
+    "Adrian Adamski",
+    "Ewa Leszczyńska",
+    "Ewelina Osowska",
+    "Oliwia Kędziora",
+    "Weronika Janik"
+  ],
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "composers": [
+    "Andy Palmer"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Kamil Varen"
+  ],
+  "spokesperson": "Anna Popek",
+  "stageDirector": "Radek Kobiałko",
+  "writers": null
+}

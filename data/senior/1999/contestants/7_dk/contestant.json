@@ -1,0 +1,36 @@
+{
+  "id": 7,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Trine Jepsen & Michael Teschl",
+  "artistPeople": [
+    "Michael Teschl",
+    "Trine Jepsen"
+  ],
+  "song": "This Time (I Mean It)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qfwa8iUFnvQ",
+    "https://www.youtube-nocookie.com/embed/6XVTirMDGSA",
+    "https://www.youtube-nocookie.com/embed/2G04pln7jlg"
+  ],
+  "bpm": 100,
+  "tone": "E major",
+  "backings": [
+    "Kenny Lübcke",
+    "Lei Moe",
+    "Lupe Moe",
+    "Peter Busborg"
+  ],
+  "commentators": [
+    "Keld Heick"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Kirsten Siggaard",
+  "stageDirector": null,
+  "writers": [
+    "Ebbe Ravn"
+  ]
+}

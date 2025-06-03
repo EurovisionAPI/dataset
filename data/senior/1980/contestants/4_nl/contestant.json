@@ -1,0 +1,35 @@
+{
+  "id": 4,
+  "country": "NL",
+  "broadcaster": "NOS",
+  "artist": "Maggie MacNeal",
+  "artistPeople": [
+    "Sjoukje Smit-van 't Spijker"
+  ],
+  "song": "Amsterdam",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0pVWW_bj6eE",
+    "https://www.youtube-nocookie.com/embed/IKds-H5XnFw",
+    "https://www.youtube-nocookie.com/embed/UMLQViNFqgo",
+    "https://www.youtube-nocookie.com/embed/ZYdcr9G5o8A"
+  ],
+  "bpm": 162,
+  "tone": "F minor",
+  "backings": null,
+  "commentators": [
+    "Pim Jacobs"
+  ],
+  "composers": [
+    "Frans Smit",
+    "Sjoukje Smit-van 't Spijker",
+    "Robert Verwey"
+  ],
+  "conductor": "Rogier van Otterloo",
+  "dancers": null,
+  "lyricists": [
+    "Alex Alberts"
+  ],
+  "spokesperson": "Flip van der Schalie",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 28,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Fyr og Flamme",
+  "artistPeople": [
+    "Jesper Groth",
+    "Laurits Emanuel Graae"
+  ],
+  "song": "Øve os på hinanden",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/w2ytONrRyww",
+    "https://www.youtube-nocookie.com/embed/l03uV7u4zzA",
+    "https://www.youtube-nocookie.com/embed/wxKPinzits8",
+    "https://www.youtube-nocookie.com/embed/zOHwiWElR1A",
+    "https://www.youtube-nocookie.com/embed/gKaS_T7MnTc",
+    "https://www.youtube-nocookie.com/embed/ivXrG0GpCZE"
+  ],
+  "bpm": 124,
+  "tone": "C major",
+  "backings": [
+    "Line Krogholm",
+    "Marcel Mark Gbekle",
+    "Tilde Vinther"
+  ],
+  "commentators": [
+    "Henrik Milling",
+    "Nicolai Molbech"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Tina Müller",
+  "stageDirector": "Birgitte Næss-Schmidt",
+  "writers": [
+    "Laurits Emanuel"
+  ]
+}

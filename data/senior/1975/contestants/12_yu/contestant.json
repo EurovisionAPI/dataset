@@ -1,0 +1,40 @@
+{
+  "id": 12,
+  "country": "YU",
+  "broadcaster": "JRT",
+  "artist": "Pepel In Kri",
+  "artistPeople": [
+    "Marija Judita Haberl",
+    "Ivo Mojzer",
+    "Nada Žgur",
+    "Oto Pestner",
+    "Palmira Klobovs",
+    "Tadej Hrušovar"
+  ],
+  "song": "Dan ljubezni",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PH89OtPhEk0",
+    "https://www.youtube-nocookie.com/embed/nu7lb3ic-To",
+    "https://www.youtube-nocookie.com/embed/ZrRHKDu9vLI",
+    "https://www.youtube-nocookie.com/embed/1SkO3cYD6F8"
+  ],
+  "bpm": 120,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Milovan Ilić",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "composers": [
+    "Tadej Hrušovar"
+  ],
+  "conductor": "Mario Rijaveć",
+  "dancers": null,
+  "lyricists": [
+    "Dušan Velkaverh"
+  ],
+  "spokesperson": "Dragana Marković",
+  "stageDirector": null,
+  "writers": null
+}

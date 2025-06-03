@@ -1,0 +1,39 @@
+{
+  "id": 6,
+  "country": "NL",
+  "broadcaster": "NOS",
+  "artist": "Bernadette",
+  "artistPeople": [
+    "Bernadette Kraakman"
+  ],
+  "song": "Sing Me a Song",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MCW7GprKIj0",
+    "https://www.youtube-nocookie.com/embed/UIcx8yZXD8g",
+    "https://www.youtube-nocookie.com/embed/RkfhLONE8NA",
+    "https://www.youtube-nocookie.com/embed/iJsy1bBByyA"
+  ],
+  "bpm": 123,
+  "tone": "A major",
+  "backings": [
+    "Cees Stolk",
+    "Dianne Marchal",
+    "Hans Vermeulen",
+    "Julya Loko",
+    "Sandra Reemer"
+  ],
+  "commentators": [
+    "Willem Duys"
+  ],
+  "composers": [
+    "Piet Souer"
+  ],
+  "conductor": "Piet Souer",
+  "dancers": null,
+  "lyricists": [
+    "Martin Duiser"
+  ],
+  "spokesperson": "Flip van der Schalie",
+  "stageDirector": null,
+  "writers": null
+}

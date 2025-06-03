@@ -1,0 +1,48 @@
+{
+  "id": 36,
+  "country": "NL",
+  "broadcaster": "AVROTROS",
+  "artist": "Joost Klein",
+  "artistPeople": [
+    "EenhoornJoost"
+  ],
+  "song": "Europapa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IiHFnmI8pxg",
+    "https://www.youtube-nocookie.com/embed/gT2wY0DjYGo",
+    "https://www.youtube-nocookie.com/embed/BlCtjojn0OQ",
+    "https://www.youtube-nocookie.com/embed/nRdY-UYWdXQ",
+    "https://www.youtube-nocookie.com/embed/13M6IYTcgzU",
+    "https://www.youtube-nocookie.com/embed/T3EgX7A3ThE",
+    "https://www.youtube-nocookie.com/embed/rUZCJhvysZs"
+  ],
+  "bpm": 160,
+  "tone": "B minor",
+  "backings": [
+    "Appie Mussa",
+    "StuntKabouter"
+  ],
+  "commentators": [
+    "Cornald Maas",
+    "Jacqueline Govaert"
+  ],
+  "composers": [
+    "Dylan van Dael",
+    "Paul Elstak",
+    "Teun de Kruif",
+    "Thijmen Melissant"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Indy van Cauwenberg",
+    "Sophia Mason"
+  ],
+  "lyricists": [
+    "Joost Klein",
+    "Maradonnie",
+    "Tim Haars"
+  ],
+  "spokesperson": null,
+  "stageDirector": "Donny Ronny",
+  "writers": null
+}

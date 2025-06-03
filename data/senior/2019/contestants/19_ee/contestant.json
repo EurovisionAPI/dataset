@@ -1,0 +1,48 @@
+{
+  "id": 19,
+  "country": "EE",
+  "broadcaster": "ERR",
+  "artist": "Victor Crone",
+  "artistPeople": [
+    "Victor Fritz-Crone"
+  ],
+  "song": "Storm",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PppvSl3_W4E",
+    "https://www.youtube-nocookie.com/embed/CkdXzuDigNM",
+    "https://www.youtube-nocookie.com/embed/1-7NFt8EAe0",
+    "https://www.youtube-nocookie.com/embed/a4bfC0NPl1I",
+    "https://www.youtube-nocookie.com/embed/1D2Wi9Tm7Xc",
+    "https://www.youtube-nocookie.com/embed/wjcWU9Mq7rU",
+    "https://www.youtube-nocookie.com/embed/Ga4re32dN5k"
+  ],
+  "bpm": 128,
+  "tone": "D major",
+  "backings": [
+    "Dagmar Oja",
+    "Kaido Põldma",
+    "Kaire Vilgats",
+    "Stig Rästa"
+  ],
+  "commentators": [
+    "Aleksandr Hobotov",
+    "Julia Kalenda",
+    "Marko Reikop"
+  ],
+  "composers": [
+    "Sebastian Lestapier",
+    "Stig Rästa",
+    "Vallo Kikas",
+    "Victor Crone"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Fred Krieger",
+    "Stig Rästa",
+    "Victor Crone"
+  ],
+  "spokesperson": "Kelly Sildaru",
+  "stageDirector": "Ove Musting",
+  "writers": null
+}

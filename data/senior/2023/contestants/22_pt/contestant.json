@@ -1,0 +1,43 @@
+{
+  "id": 22,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Mimicat",
+  "artistPeople": [
+    "Marisa Isabel Lopes Mena"
+  ],
+  "song": "Ai coração",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HYfkxX4PFyw",
+    "https://www.youtube-nocookie.com/embed/-uY37gGPkNU",
+    "https://www.youtube-nocookie.com/embed/_NmF5otCtqU",
+    "https://www.youtube-nocookie.com/embed/wa3suiOzAAk",
+    "https://www.youtube-nocookie.com/embed/wLaKG-8LqGE",
+    "https://www.youtube-nocookie.com/embed/2sYeW1HUtic",
+    "https://www.youtube-nocookie.com/embed/XBq9BHhxFSE"
+  ],
+  "bpm": 145,
+  "tone": "F# minor",
+  "backings": null,
+  "commentators": [
+    "José Carlos Malato",
+    "Nuno Galopim"
+  ],
+  "composers": [
+    "Luís Pereira",
+    "Marisa Mena"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Daniel Courinha",
+    "Daniel Gamito Soares",
+    "Inês Gameiro",
+    "Vanda Gameiro"
+  ],
+  "lyricists": [
+    "Marisa Mena"
+  ],
+  "spokesperson": "Maro",
+  "stageDirector": null,
+  "writers": null
+}

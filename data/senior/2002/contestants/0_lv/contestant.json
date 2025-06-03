@@ -1,0 +1,37 @@
+{
+  "id": 0,
+  "country": "LV",
+  "broadcaster": "LTV",
+  "artist": "Marie N",
+  "artistPeople": [
+    "Marija Naumova"
+  ],
+  "song": "I Wanna",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_M-w89U8TEU",
+    "https://www.youtube-nocookie.com/embed/vHzNP9H-wn4",
+    "https://www.youtube-nocookie.com/embed/6vpS06mLRe0",
+    "https://www.youtube-nocookie.com/embed/lXutVF2yiHY",
+    "https://www.youtube-nocookie.com/embed/xpNsJv-dmiQ"
+  ],
+  "bpm": 144,
+  "tone": "G minor",
+  "backings": [
+    "Līga Robežniece"
+  ],
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "composers": [
+    "Marija Naumova"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Marats Samauskis",
+    "Marija Naumova"
+  ],
+  "spokesperson": "Ēriks Niedra",
+  "stageDirector": null,
+  "writers": null
+}

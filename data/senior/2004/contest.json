@@ -1,0 +1,16 @@
+{
+  "year": 2004,
+  "arena": "Abdi Ipekci Sport Center",
+  "city": "Istanbul",
+  "country": "TR",
+  "intendedCountry": null,
+  "slogan": "Under The Same Sky",
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2004.png",
+  "presenters": [
+    "Meltem Cumbul",
+    "Korhan Abay"
+  ],
+  "broadcasters": [
+    "Turkish Radio and Television Corporation (TRT)"
+  ]
+}

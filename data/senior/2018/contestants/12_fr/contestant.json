@@ -1,0 +1,42 @@
+{
+  "id": 12,
+  "country": "FR",
+  "broadcaster": "France 2",
+  "artist": "Madame Monsieur",
+  "artistPeople": [
+    "Émilie Satt",
+    "Jean-Karl Lucas"
+  ],
+  "song": "Mercy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vjLuTtUv0Ns",
+    "https://www.youtube-nocookie.com/embed/6ft3_DOajNY",
+    "https://www.youtube-nocookie.com/embed/poInYpdNXso",
+    "https://www.youtube-nocookie.com/embed/u2l6Bdd32Cc",
+    "https://www.youtube-nocookie.com/embed/lvkyzFsiuLc",
+    "https://www.youtube-nocookie.com/embed/eS7ZVNDtRTo",
+    "https://www.youtube-nocookie.com/embed/mfk9j8xsB1I"
+  ],
+  "bpm": 97,
+  "tone": "A minor",
+  "backings": [
+    "Allyson Ezell",
+    "Noée"
+  ],
+  "commentators": [
+    "Alma",
+    "André Manoukian",
+    "Christophe Willem",
+    "Stéphane Bern"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Élodie Gossuin",
+  "stageDirector": "Stéphane Jarny",
+  "writers": [
+    "Émilie Satt",
+    "Jean-Karl Lucas"
+  ]
+}

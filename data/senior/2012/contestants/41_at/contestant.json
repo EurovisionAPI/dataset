@@ -1,0 +1,37 @@
+{
+  "id": 41,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "Trackshittaz",
+  "artistPeople": [
+    "Lukas Plöchl",
+    "Manuel Hoffelner"
+  ],
+  "song": "Woki mit deim Popo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IaFPwrkzdmk",
+    "https://www.youtube-nocookie.com/embed/jJY95hVb2oo",
+    "https://www.youtube-nocookie.com/embed/qG4cc-JGtKk",
+    "https://www.youtube-nocookie.com/embed/xXNTpXAwhi0"
+  ],
+  "bpm": 121,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Bianca Borghesi",
+    "Conny Aitzetmüller",
+    "Marie-Therese Leopoldsberger"
+  ],
+  "lyricists": null,
+  "spokesperson": "Katharina Bellowitsch",
+  "stageDirector": "Marvin Dietmann",
+  "writers": [
+    "Lukas Plöchl",
+    "Manuel Hoffelner"
+  ]
+}

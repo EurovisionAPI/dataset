@@ -1,0 +1,35 @@
+{
+  "id": 11,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Jahn Teigen & Anita Skorgan",
+  "artistPeople": [
+    "Anita Skorgan",
+    "Jahn Teigen"
+  ],
+  "song": "Adieu",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/AN8ZuJh1fY4",
+    "https://www.youtube-nocookie.com/embed/huf7k1cTTgE",
+    "https://www.youtube-nocookie.com/embed/gTN9JOuOHQo",
+    "https://www.youtube-nocookie.com/embed/iVhupAU1DEw",
+    "https://www.youtube-nocookie.com/embed/QeIxI9873lE"
+  ],
+  "bpm": 86,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Bjørn Scheele"
+  ],
+  "composers": [
+    "Jahn Teigen"
+  ],
+  "conductor": "Sigurd Jansen",
+  "dancers": null,
+  "lyricists": [
+    "Herodes Falsk"
+  ],
+  "spokesperson": "Erik Diesen",
+  "stageDirector": null,
+  "writers": null
+}

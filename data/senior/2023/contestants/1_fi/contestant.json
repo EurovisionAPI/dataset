@@ -1,0 +1,51 @@
+{
+  "id": 1,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Käärijä",
+  "artistPeople": [
+    "Jere Pöyhönen"
+  ],
+  "song": "Cha Cha Cha",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/l6rS8Dv5g-8",
+    "https://www.youtube-nocookie.com/embed/rNrgQm5z07U",
+    "https://www.youtube-nocookie.com/embed/7ferYXj9vAA",
+    "https://www.youtube-nocookie.com/embed/rJHe-iZ5HSI",
+    "https://www.youtube-nocookie.com/embed/KGFkMD2zotU",
+    "https://www.youtube-nocookie.com/embed/wW9CSzNnp8Y",
+    "https://www.youtube-nocookie.com/embed/tRd-BxMFr8g"
+  ],
+  "bpm": 155,
+  "tone": "D major",
+  "backings": [
+    "Aija Puurtinen"
+  ],
+  "commentators": [
+    "Aslak Paltto",
+    "Eva Frantz",
+    "Galyna Sergeyeva",
+    "Heli Huovinen",
+    "Johan Lindroos",
+    "Levan Tvaltvadze",
+    "Mikko Silvennoinen"
+  ],
+  "composers": [
+    "Aleksi Nurmi",
+    "Johannes Naukkarinen",
+    "Jukka Sorsa"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Etel Röhr",
+    "Jesse Wijnans",
+    "Katri Mäkinen",
+    "Matti Maxim"
+  ],
+  "lyricists": [
+    "Jere Pöyhönen"
+  ],
+  "spokesperson": "Bess",
+  "stageDirector": "Fredrik Rydman",
+  "writers": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": 8,
+  "country": "CY",
+  "broadcaster": "CyBC",
+  "artist": "Constantinos",
+  "artistPeople": [
+    "Constantinos Christoforou"
+  ],
+  "song": "Mono Gia Mas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rrodyvd710A",
+    "https://www.youtube-nocookie.com/embed/kspGN8H4XZc",
+    "https://www.youtube-nocookie.com/embed/qUaQlywFRew",
+    "https://www.youtube-nocookie.com/embed/mmMFD1mHC3Q"
+  ],
+  "bpm": 133,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "composers": [
+    "Andreas Giorgallis"
+  ],
+  "conductor": "Stavros Lantsias",
+  "dancers": null,
+  "lyricists": [
+    "Rodoula Papalambrianou"
+  ],
+  "spokesperson": "Marios Skordis",
+  "stageDirector": null,
+  "writers": null
+}

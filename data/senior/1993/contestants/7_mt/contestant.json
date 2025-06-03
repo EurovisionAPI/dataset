@@ -1,0 +1,34 @@
+{
+  "id": 7,
+  "country": "MT",
+  "broadcaster": "PBM",
+  "artist": "William Mangion",
+  "artistPeople": [
+    "William Mangion"
+  ],
+  "song": "This Time",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Bxx_mGpwgi0",
+    "https://www.youtube-nocookie.com/embed/iDhYcPhS-Jg",
+    "https://www.youtube-nocookie.com/embed/l9QAAjLMmGk",
+    "https://www.youtube-nocookie.com/embed/_Byva7zRvT0"
+  ],
+  "bpm": 91,
+  "tone": "F major",
+  "backings": [
+    "Christopher Scicluna",
+    "Debbie Scerri",
+    "Moira Stafrace",
+    "Phyllisienne Brincat"
+  ],
+  "commentators": null,
+  "composers": null,
+  "conductor": "Joseph Sammut",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Kevin Drake",
+  "stageDirector": null,
+  "writers": [
+    "William Mangion"
+  ]
+}

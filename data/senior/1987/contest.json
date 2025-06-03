@@ -1,0 +1,15 @@
+{
+  "year": 1987,
+  "arena": "Palais de Centenaire",
+  "city": "Brussels",
+  "country": "BE",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1987.png",
+  "presenters": [
+    "Viktor Laszlo"
+  ],
+  "broadcasters": [
+    "RTBF"
+  ]
+}

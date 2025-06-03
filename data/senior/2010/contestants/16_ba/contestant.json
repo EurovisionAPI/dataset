@@ -1,0 +1,36 @@
+{
+  "id": 16,
+  "country": "BA",
+  "broadcaster": "BHRT",
+  "artist": "Vukašin Brajić",
+  "artistPeople": [
+    "Vukašin Brajić"
+  ],
+  "song": "Thunder and Lightning",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IPBo9vaN9Vc",
+    "https://www.youtube-nocookie.com/embed/rrjfHgatLxI",
+    "https://www.youtube-nocookie.com/embed/Yy8kowTwyNk"
+  ],
+  "bpm": 94,
+  "tone": "F minor",
+  "backings": [
+    "Danijela Večerinović",
+    "Dunja Gallineo Kajević",
+    "Edvin Hadžić",
+    "Elma Selimović",
+    "Marko Vulinović"
+  ],
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ivana Vidmar",
+  "stageDirector": "Gorčin Stojanović",
+  "writers": [
+    "Edin-Dino Šaran"
+  ]
+}

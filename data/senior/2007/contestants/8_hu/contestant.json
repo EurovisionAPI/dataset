@@ -1,0 +1,37 @@
+{
+  "id": 8,
+  "country": "HU",
+  "broadcaster": "MTV",
+  "artist": "Magdi Rúzsa",
+  "artistPeople": [
+    "Magdolna Rúzsa"
+  ],
+  "song": "Unsubstantial Blues",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2WsuY94n06w",
+    "https://www.youtube-nocookie.com/embed/GZHjdHCCzE8",
+    "https://www.youtube-nocookie.com/embed/sqG_s3z1qck"
+  ],
+  "bpm": 68,
+  "tone": "F# major",
+  "backings": [
+    "Hoffer Péter",
+    "Kovács Barnabás",
+    "Madarász Gábor",
+    "Závodi Gábor"
+  ],
+  "commentators": [
+    "Gábor Gundel Takács"
+  ],
+  "composers": [
+    "Magdi Rúzsa"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Imre Mózsik"
+  ],
+  "spokesperson": "Éva Novodomszky",
+  "stageDirector": null,
+  "writers": null
+}

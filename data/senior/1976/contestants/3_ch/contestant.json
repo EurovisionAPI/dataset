@@ -1,0 +1,35 @@
+{
+  "id": 3,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Peter, Sue & Marc",
+  "artistPeople": [
+    "Marcel Dietrich",
+    "Peter Reber",
+    "Sue Schell"
+  ],
+  "song": "Djambo, Djambo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NeFu25qDIkA",
+    "https://www.youtube-nocookie.com/embed/HvVLxRCnDJc",
+    "https://www.youtube-nocookie.com/embed/IVgizbqmMpk",
+    "https://www.youtube-nocookie.com/embed/agmzxQ4efGc"
+  ],
+  "bpm": 97,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "composers": null,
+  "conductor": "Mario Robbiani",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Michel Stocker",
+  "stageDirector": null,
+  "writers": [
+    "Peter Reber"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 11,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Ann-Christine Nyström",
+  "artistPeople": [
+    "Ann Christine Nyström"
+  ],
+  "song": "Playboy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/w8Uz9f0sLdc",
+    "https://www.youtube-nocookie.com/embed/TQeM2W8fnY0",
+    "https://www.youtube-nocookie.com/embed/SBQsg2Ml0i4",
+    "https://www.youtube-nocookie.com/embed/-cxwOJsq-d4"
+  ],
+  "bpm": 115,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": [
+    "Aarno Walli"
+  ],
+  "composers": null,
+  "conductor": "Ossi Runne",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Poppe Berg",
+  "stageDirector": null,
+  "writers": [
+    "Ossi Runne"
+  ]
+}

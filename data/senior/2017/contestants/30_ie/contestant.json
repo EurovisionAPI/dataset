@@ -1,0 +1,40 @@
+{
+  "id": 30,
+  "country": "IE",
+  "broadcaster": "RTÉ",
+  "artist": "Brendan Murray",
+  "artistPeople": [
+    "Brendan Murray"
+  ],
+  "song": "Dying To Try",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EOpZikqrfOA",
+    "https://www.youtube-nocookie.com/embed/g0qTZaBTPRs",
+    "https://www.youtube-nocookie.com/embed/0WXCk_7v6zo",
+    "https://www.youtube-nocookie.com/embed/7mTRVjX44r4",
+    "https://www.youtube-nocookie.com/embed/rMm3xWVuLEU",
+    "https://www.youtube-nocookie.com/embed/qglb2vro94w"
+  ],
+  "bpm": 164,
+  "tone": "F minor",
+  "backings": [
+    "Alison Vard Miller",
+    "Graham Kelly",
+    "Jules Edwards",
+    "Margot Daly",
+    "Shane McDaid"
+  ],
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Nicky Byrne",
+  "stageDirector": "Nicoline Refsing",
+  "writers": [
+    "James Newman",
+    "Jörgen Elofsson"
+  ]
+}

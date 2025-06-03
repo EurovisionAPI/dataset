@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "country": "SE",
+  "broadcaster": "SR",
+  "artist": "Lill Lindfors & Svante Thuresson",
+  "artistPeople": [
+    "Maj Lillemor Lindfors",
+    "Svante Thuresson"
+  ],
+  "song": "Nygammal vals",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hPfg829wkC0",
+    "https://www.youtube-nocookie.com/embed/OqqX14-OSJ4"
+  ],
+  "bpm": 172,
+  "tone": "G major",
+  "backings": [
+    "Sahib Shihab"
+  ],
+  "commentators": [
+    "Sven Lindahl"
+  ],
+  "composers": [
+    "Bengt Arne Wallin"
+  ],
+  "conductor": "Gert Ove Andersson",
+  "dancers": null,
+  "lyricists": [
+    "Björn Lindroth"
+  ],
+  "spokesperson": "Edvard Matz",
+  "stageDirector": null,
+  "writers": null
+}

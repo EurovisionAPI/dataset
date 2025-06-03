@@ -1,0 +1,30 @@
+{
+  "id": 8,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Inge Brück",
+  "artistPeople": [
+    "Inge Brück"
+  ],
+  "song": "Anouschka",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/snx9B6tKuGU",
+    "https://www.youtube-nocookie.com/embed/yEof5Fkw8eQ",
+    "https://www.youtube-nocookie.com/embed/7vk2XsZ00Vk"
+  ],
+  "bpm": 123,
+  "tone": "B major",
+  "backings": null,
+  "commentators": [
+    "Hans-Joachim Rauschenbach"
+  ],
+  "composers": null,
+  "conductor": "Hans Blum",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Karin Tietze-Ludwig",
+  "stageDirector": null,
+  "writers": [
+    "Hans Blum"
+  ]
+}

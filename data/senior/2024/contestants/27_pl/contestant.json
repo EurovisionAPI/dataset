@@ -1,0 +1,43 @@
+{
+  "id": 27,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Luna",
+  "artistPeople": [
+    "Luna Wielgomas"
+  ],
+  "song": "The Tower",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ESKG8Uo1YaU",
+    "https://www.youtube-nocookie.com/embed/IhvDkF9XZx0",
+    "https://www.youtube-nocookie.com/embed/vZnRm53k0Es",
+    "https://www.youtube-nocookie.com/embed/kwynNHP2MSA",
+    "https://www.youtube-nocookie.com/embed/xLtgnzJLEr8",
+    "https://www.youtube-nocookie.com/embed/x2CPrSnGmPk",
+    "https://www.youtube-nocookie.com/embed/EVxlhRe2XMk"
+  ],
+  "bpm": 156,
+  "tone": "F major",
+  "backings": [
+    "Maciej Starnawski",
+    "Marta Dywicka"
+  ],
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Angus Simpson",
+    "Jordan Garcia",
+    "Julia Żytko"
+  ],
+  "lyricists": null,
+  "spokesperson": "Viki Gabor",
+  "stageDirector": "Jerry Reeve",
+  "writers": [
+    "Aleksandra Katarzyna Wielgomas",
+    "Maxwell Cooke",
+    "Paul Dixon"
+  ]
+}

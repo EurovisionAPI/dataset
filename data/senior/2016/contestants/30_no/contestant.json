@@ -1,0 +1,41 @@
+{
+  "id": 30,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Agnete",
+  "artistPeople": [
+    "Agnete Kristin Johnsen"
+  ],
+  "song": "Icebreaker",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ACLcqZMwCSo",
+    "https://www.youtube-nocookie.com/embed/S2GUS-3T7cU",
+    "https://www.youtube-nocookie.com/embed/3KSh0Z8c_00",
+    "https://www.youtube-nocookie.com/embed/uptjPZuyrdk",
+    "https://www.youtube-nocookie.com/embed/A3bjhMC6-j8"
+  ],
+  "bpm": 178,
+  "tone": "F# minor",
+  "backings": [
+    "Charlotte Bredesen",
+    "Gabriel Alares",
+    "Ingunn Dalland",
+    "Nicoline Berg Kaasin"
+  ],
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Sara Christine Einbu"
+  ],
+  "lyricists": null,
+  "spokesperson": "Elisabeth Andreassen",
+  "stageDirector": "Mattias Carlsson",
+  "writers": [
+    "Agnete Kristin Johnsen",
+    "Gabriel Alares",
+    "Ian Curnow"
+  ]
+}

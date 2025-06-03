@@ -1,0 +1,16 @@
+{
+  "year": 2001,
+  "arena": "Parkenstadion",
+  "city": "Copenhagen",
+  "country": "DK",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2001.png",
+  "presenters": [
+    "Natasja Crone",
+    "Søren Pilmark"
+  ],
+  "broadcasters": [
+    "DR"
+  ]
+}

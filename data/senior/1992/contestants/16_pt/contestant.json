@@ -1,0 +1,39 @@
+{
+  "id": 16,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Dina",
+  "artistPeople": [
+    "Ondina Veloso"
+  ],
+  "song": "Amor d'água fresca",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4hPdvWVCE80",
+    "https://www.youtube-nocookie.com/embed/fv1_O0u1CkI",
+    "https://www.youtube-nocookie.com/embed/8Dvp4jdV0ag",
+    "https://www.youtube-nocookie.com/embed/DyoKXKO1aSk"
+  ],
+  "bpm": 140,
+  "tone": "Bb major",
+  "backings": [
+    "Cláudia Veloso",
+    "Diana Cunha Rego",
+    "João Falcato",
+    "Manuel Faria",
+    "Mico da Câmara Pereira"
+  ],
+  "commentators": [
+    "Eládio Clímaco"
+  ],
+  "composers": [
+    "Ondina Veloso"
+  ],
+  "conductor": "Carlos Alberto Moniz",
+  "dancers": null,
+  "lyricists": [
+    "Rosa Lobato de Faria"
+  ],
+  "spokesperson": "Ana Zanatti",
+  "stageDirector": null,
+  "writers": null
+}

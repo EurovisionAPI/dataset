@@ -1,0 +1,37 @@
+{
+  "id": 24,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Ivan & Delfin",
+  "artistPeople": [
+    "Ivan Komarenko",
+    "Łukasz Lazer",
+    "Wojtek 'Olo' Olszewski"
+  ],
+  "song": "Czarna Dziewczyna",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/s2uiE85oWuo"
+  ],
+  "bpm": 172,
+  "tone": "G minor",
+  "backings": [
+    "Aneta Boćwińska-Bartoszuk",
+    "Małgorzata Andrzejewicz",
+    "Radosława Bogusławska"
+  ],
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "composers": [
+    "Łukasz Lazer"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Ivan Komarenko",
+    "Michał Szymański"
+  ],
+  "spokesperson": "Maciej Orłoś",
+  "stageDirector": null,
+  "writers": null
+}

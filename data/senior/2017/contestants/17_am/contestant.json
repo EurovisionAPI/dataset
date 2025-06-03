@@ -1,0 +1,47 @@
+{
+  "id": 17,
+  "country": "AM",
+  "broadcaster": "AMPTV",
+  "artist": "Artsvik",
+  "artistPeople": [
+    "Artsvik Arutyunyan"
+  ],
+  "song": "Fly With Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/g373Libigw8",
+    "https://www.youtube-nocookie.com/embed/yKh8sLLXix4",
+    "https://www.youtube-nocookie.com/embed/Yw6LdDo7HxA",
+    "https://www.youtube-nocookie.com/embed/oUIr7ySgrys",
+    "https://www.youtube-nocookie.com/embed/ewpiB9iDA3E",
+    "https://www.youtube-nocookie.com/embed/jKmzNFR74Yc",
+    "https://www.youtube-nocookie.com/embed/LP4D9OOrTck",
+    "https://www.dailymotion.com/embed/video/x5kentk"
+  ],
+  "bpm": 90,
+  "tone": "A minor",
+  "backings": [
+    "Amaliya Margaryan",
+    "Anushik Ter-Ghukasyan",
+    "Viktoria Pogosyan"
+  ],
+  "commentators": [
+    "Avet Barseghyan",
+    "Gohar Gasparyan"
+  ],
+  "composers": [
+    "Levon Navasardyan",
+    "Lilith Navasardyan"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Fanny Svensson",
+    "Marlene Lindahl"
+  ],
+  "lyricists": [
+    "Avet Barseghyan",
+    "David Tserunyan"
+  ],
+  "spokesperson": "Iveta Mukuchyan",
+  "stageDirector": "Sacha Jean-Baptiste",
+  "writers": null
+}

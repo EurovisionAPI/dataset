@@ -1,0 +1,43 @@
+{
+  "id": 20,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "The Rasmus",
+  "artistPeople": [
+    "Aki Hakala",
+    "Eero Heinonen",
+    "Emilia Suhonen",
+    "Lauri Ylönen"
+  ],
+  "song": "Jezebel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LSi9nfr65FE",
+    "https://www.youtube-nocookie.com/embed/IwHijzdNN2A",
+    "https://www.youtube-nocookie.com/embed/HT786cosYoQ",
+    "https://www.youtube-nocookie.com/embed/XtMfCf3vFbc",
+    "https://www.youtube-nocookie.com/embed/m33Gzhd5Yfw",
+    "https://www.youtube-nocookie.com/embed/oTm4fgYIWGI",
+    "https://www.youtube-nocookie.com/embed/iISZzme2Sr0"
+  ],
+  "bpm": 116,
+  "tone": "E major",
+  "backings": null,
+  "commentators": [
+    "Aslak Paltto",
+    "Eva Frantz",
+    "Heli Huovinen",
+    "Johan Lindroos",
+    "Levan Tvaltvadze",
+    "Mikko Silvennoinen"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Aksel Kankaanranta",
+  "stageDirector": "Fredrik Rydman, Reija Wäre",
+  "writers": [
+    "Desmond Child",
+    "Lauri Ylönen"
+  ]
+}

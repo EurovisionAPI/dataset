@@ -1,0 +1,30 @@
+{
+  "id": 39,
+  "country": "UA",
+  "broadcaster": "UA:PBC",
+  "artist": "Go_A",
+  "artistPeople": [
+    "Kateryna Pavlenko"
+  ],
+  "song": "Solovey",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zNetXPSld50",
+    "https://www.youtube-nocookie.com/embed/w4DXWMVpWGg",
+    "https://www.youtube-nocookie.com/embed/nhI4NA1rEY0",
+    "https://www.youtube-nocookie.com/embed/WWE_0D4yWtI"
+  ],
+  "bpm": 102,
+  "tone": "F# minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Kateryna Pavlenko",
+    "Taras Shevchenko"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 13,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Mary Roos",
+  "artistPeople": [
+    "Marianne Rosemarie Schwab"
+  ],
+  "song": "Aufrecht geh'n",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ag3TeXJOGF4",
+    "https://www.youtube-nocookie.com/embed/Tqu-hLTogLw",
+    "https://www.youtube-nocookie.com/embed/-v36WY0QjCc",
+    "https://www.youtube-nocookie.com/embed/mSIxJ8SnKmo",
+    "https://www.youtube-nocookie.com/embed/tPufxKQnMAs",
+    "https://www.youtube-nocookie.com/embed/BqqXHSXbrug"
+  ],
+  "bpm": 85,
+  "tone": "E major",
+  "backings": [
+    "Jerry Rix"
+  ],
+  "commentators": [
+    "Ado Schlier"
+  ],
+  "composers": [
+    "Michael Reinecke"
+  ],
+  "conductor": "Pierre Cao",
+  "dancers": null,
+  "lyricists": [
+    "Michael Kunze"
+  ],
+  "spokesperson": "Kerstin Schweighöfer",
+  "stageDirector": null,
+  "writers": null
+}

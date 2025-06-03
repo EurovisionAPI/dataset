@@ -1,0 +1,30 @@
+{
+  "id": 22,
+  "country": "LT",
+  "broadcaster": "LRT",
+  "artist": "Aivaras",
+  "artistPeople": [
+    "Aivaras Stepukonis"
+  ],
+  "song": "Happy You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VluwCcgqocc",
+    "https://www.youtube-nocookie.com/embed/bz1FJq8yaJk",
+    "https://www.youtube-nocookie.com/embed/DOKFwJrrkb4"
+  ],
+  "bpm": 120,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Loreta Tarozaitė",
+  "stageDirector": null,
+  "writers": [
+    "Aivaras Stepukonis"
+  ]
+}

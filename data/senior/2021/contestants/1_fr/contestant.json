@@ -1,0 +1,40 @@
+{
+  "id": 1,
+  "country": "FR",
+  "broadcaster": "France 2",
+  "artist": "Barbara Pravi",
+  "artistPeople": [
+    "Barbara Pravi"
+  ],
+  "song": "Voilà",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Unj9WbeLzRU",
+    "https://www.youtube-nocookie.com/embed/-9t_SwPN31s",
+    "https://www.youtube-nocookie.com/embed/NSLvZJPfffY",
+    "https://www.youtube-nocookie.com/embed/WQe8B-uXUWY",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/kTaOHpWz3og",
+    "https://www.youtube-nocookie.com/embed/tJBq2KC-lZU"
+  ],
+  "bpm": 103,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": [
+    "Laurence Boccolini",
+    "Stéphane Bern"
+  ],
+  "composers": [
+    "Barbara Pravi",
+    "Igit"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Barbara Pravi",
+    "Igit",
+    "Lili Poe"
+  ],
+  "spokesperson": "Carla Lazzari",
+  "stageDirector": "Marika Prochet",
+  "writers": null
+}

@@ -1,0 +1,51 @@
+{
+  "id": 12,
+  "country": "LU",
+  "broadcaster": "RTL",
+  "artist": "Tali",
+  "artistPeople": [
+    "Tali Golergant"
+  ],
+  "song": "Fighter",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TCWH3Nq5y9A",
+    "https://www.youtube-nocookie.com/embed/6CNuXpdyYmE",
+    "https://www.youtube-nocookie.com/embed/u6p4dujtvPI",
+    "https://www.youtube-nocookie.com/embed/HV3sORfrREE",
+    "https://www.youtube-nocookie.com/embed/HFAkz6ac7BM",
+    "https://www.youtube-nocookie.com/embed/jhL8QhRFthw",
+    "https://www.youtube-nocookie.com/embed/7n1GT6c2jpQ"
+  ],
+  "bpm": 94,
+  "tone": "F# minor",
+  "backings": null,
+  "commentators": [
+    "Emma Sorgato",
+    "Jerôme Didelot",
+    "Meredith Moss",
+    "Raoul Roos",
+    "Roger Saurfeld",
+    "Sarah Tapp"
+  ],
+  "composers": [
+    "Ana Zimmer",
+    "Dardust",
+    "Manon Romiti"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Luana Manuka",
+    "Mathilde Eggen",
+    "Randy Rocha",
+    "Salaam Paragh",
+    "Simi Simoes"
+  ],
+  "lyricists": [
+    "Ana Zimmer",
+    "Manon Romiti",
+    "Silvio Lisbonne"
+  ],
+  "spokesperson": "Désirée Nosbusch",
+  "stageDirector": "German Nenov",
+  "writers": null
+}

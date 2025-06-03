@@ -1,0 +1,45 @@
+{
+  "id": 25,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Michael Rice",
+  "artistPeople": [
+    "Michael Rice"
+  ],
+  "song": "Bigger Than Us",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HV-eOhTS8Dw",
+    "https://www.youtube-nocookie.com/embed/Y5JPSWYs53A",
+    "https://www.youtube-nocookie.com/embed/-3nIUKVp75U",
+    "https://www.youtube-nocookie.com/embed/WOBhTgSrXJQ",
+    "https://www.youtube-nocookie.com/embed/gr-6bmiMlys",
+    "https://www.youtube-nocookie.com/embed/jCi3U5NhV3M",
+    "https://www.youtube-nocookie.com/embed/JrxpNQxpcQM"
+  ],
+  "bpm": 164,
+  "tone": "F minor",
+  "backings": [
+    "Chin Simon",
+    "Desta Zion Wilson",
+    "Linda Pritchard",
+    "Melanie Wehbe",
+    "Sahlene"
+  ],
+  "commentators": [
+    "Graham Norton",
+    "Rylan Clark",
+    "Scott Mills"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Rylan Clark",
+  "stageDirector": null,
+  "writers": [
+    "Anna-Klara Folin",
+    "John Lundvik",
+    "Jonas Thander",
+    "Laurell Barker"
+  ]
+}

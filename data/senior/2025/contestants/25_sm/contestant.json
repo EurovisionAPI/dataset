@@ -1,0 +1,41 @@
+{
+  "id": 25,
+  "country": "SM",
+  "broadcaster": "SMRTV",
+  "artist": "Gabry Ponte",
+  "artistPeople": [
+    "Gabriele Ponte"
+  ],
+  "song": "Tutta l'Italia",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hq6XIRKmA2A",
+    "https://www.youtube-nocookie.com/embed/-vkDhFhgNX0",
+    "https://www.youtube-nocookie.com/embed/-GK2VVpSqUI",
+    "https://www.youtube-nocookie.com/embed/iUC9eebtpvI",
+    "https://www.youtube-nocookie.com/embed/GLqTTp4HmBQ",
+    "https://www.youtube-nocookie.com/embed/Jt2HjuNcPvA",
+    "https://www.youtube-nocookie.com/embed/fJUSL6xAmrE"
+  ],
+  "bpm": 128,
+  "tone": "F# major",
+  "backings": [
+    "Andrea Bonomo",
+    "Edwyn Roberts Clark",
+    "Gianluigi Fazio"
+  ],
+  "commentators": [
+    "Anna Gaspari",
+    "Gigi Restivo"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Senhit",
+  "stageDirector": null,
+  "writers": [
+    "Andrea Bonomo",
+    "Edwyn Roberts Clark",
+    "Gabriele Ponte"
+  ]
+}

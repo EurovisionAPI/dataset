@@ -1,0 +1,17 @@
+{
+  "year": 2014,
+  "arena": "B&W Hallerna",
+  "city": "Copenhagen",
+  "country": "DK",
+  "intendedCountry": null,
+  "slogan": "Join Us",
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2014.png",
+  "presenters": [
+    "Nikolaj Koppel",
+    "Pilou Asbæk",
+    "Lise Rønne"
+  ],
+  "broadcasters": [
+    "DR"
+  ]
+}

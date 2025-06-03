@@ -1,0 +1,16 @@
+{
+  "year": 2000,
+  "arena": "Globen",
+  "city": "Stockholm",
+  "country": "SE",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2000.png",
+  "presenters": [
+    "Kattis Åhlström",
+    "Anders Lundin"
+  ],
+  "broadcasters": [
+    "SVT"
+  ]
+}

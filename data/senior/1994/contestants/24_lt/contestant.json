@@ -1,0 +1,29 @@
+{
+  "id": 24,
+  "country": "LT",
+  "broadcaster": "LRT",
+  "artist": "Ovidijus Vyšniauskas",
+  "artistPeople": [
+    "Ovidijus Vyšniauskas"
+  ],
+  "song": "Lopšinė mylimai",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PWmh95boVZY",
+    "https://www.youtube-nocookie.com/embed/_zPM5uSoWFQ"
+  ],
+  "bpm": 140,
+  "tone": "G major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Ovidijus Vyšniauskas"
+  ],
+  "conductor": "Tomas Leiburas",
+  "dancers": null,
+  "lyricists": [
+    "Gintaras Zdebskis"
+  ],
+  "spokesperson": "Gitana Balsytė",
+  "stageDirector": null,
+  "writers": null
+}

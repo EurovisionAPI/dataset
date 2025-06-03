@@ -1,0 +1,40 @@
+{
+  "id": 4,
+  "country": "AZ",
+  "broadcaster": "İctimai",
+  "artist": "Safura",
+  "artistPeople": [
+    "Safura Aliyeva"
+  ],
+  "song": "Drip drop",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7zWO-V0dmHg",
+    "https://www.youtube-nocookie.com/embed/54qYAw9qtRc",
+    "https://www.youtube-nocookie.com/embed/OU4AVBHjXgU"
+  ],
+  "bpm": 147,
+  "tone": "Eb minor",
+  "backings": [
+    "Anna Bergenholtz",
+    "Johanna Eriksson",
+    "Marlene Strand",
+    "Samantha Powell"
+  ],
+  "commentators": [
+    "Husniyya Maharramova"
+  ],
+  "composers": [
+    "Anders Bagge",
+    "Stefan Örn"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Denis Khrystyuk"
+  ],
+  "lyricists": [
+    "Sandra Bjurman"
+  ],
+  "spokesperson": "Tamilla Shirinova",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": 5,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "Liane Augustin",
+  "artistPeople": [
+    "Liane Augustin"
+  ],
+  "song": "Die ganze Welt braucht Liebe",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5k8cGWdGL84",
+    "https://www.youtube-nocookie.com/embed/yqXCBIZzD2s",
+    "https://www.youtube-nocookie.com/embed/NVpiFTKK60c"
+  ],
+  "bpm": 110,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": "Willy Fantl",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Karl Bruck",
+  "stageDirector": null,
+  "writers": [
+    "Günther Leopold",
+    "Kurt Werner"
+  ]
+}

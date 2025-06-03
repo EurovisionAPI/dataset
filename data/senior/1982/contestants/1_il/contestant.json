@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "country": "IL",
+  "broadcaster": "IBA",
+  "artist": "Avi Toledano",
+  "artistPeople": [
+    "Avi Toledano"
+  ],
+  "song": "Hora",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pk2qwxC4Cdk",
+    "https://www.youtube-nocookie.com/embed/gt6pL8Za250",
+    "https://www.youtube-nocookie.com/embed/xiXf0c_qb1o",
+    "https://www.youtube-nocookie.com/embed/a4HcDOoUr0Q",
+    "https://www.youtube-nocookie.com/embed/xVfK7R49Hl8"
+  ],
+  "bpm": 125,
+  "tone": "F# minor",
+  "backings": [
+    "Aviva Avidan",
+    "Benjamin Harush",
+    "Lucy Maman",
+    "Revital Yair",
+    "Shlomo Maman"
+  ],
+  "commentators": null,
+  "composers": [
+    "Avi Toledano"
+  ],
+  "conductor": "Silvio Nanssi Brandes",
+  "dancers": null,
+  "lyricists": [
+    "Yoram Taharlev"
+  ],
+  "spokesperson": "Yitzhak Shim'oni",
+  "stageDirector": null,
+  "writers": null
+}

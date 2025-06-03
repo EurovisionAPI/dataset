@@ -1,0 +1,29 @@
+{
+  "id": 16,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "Marty Brem",
+  "artistPeople": [
+    "Marty Brem"
+  ],
+  "song": "Wenn du da bist",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sAYinAsLQZw",
+    "https://www.youtube-nocookie.com/embed/fIZv8U-YN1Q"
+  ],
+  "bpm": 91,
+  "tone": "Eb major",
+  "backings": null,
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "composers": null,
+  "conductor": "Richard Österreicher",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Jenny Pippal",
+  "stageDirector": null,
+  "writers": [
+    "Werner Böhmler"
+  ]
+}

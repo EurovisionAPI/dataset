@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "country": "BE",
+  "broadcaster": "RTBF",
+  "artist": "Urban Trad",
+  "artistPeople": [
+    "Cédric Waterschoot",
+    "Didier Laloy",
+    "Dirk Naessens",
+    "Marie-Sophie Talbot",
+    "Veronica Codesal",
+    "Yves Barbieux"
+  ],
+  "song": "Sanomi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RRQlsvWMWBo",
+    "https://www.youtube-nocookie.com/embed/n9Waz45vAvs"
+  ],
+  "bpm": 172,
+  "tone": "C minor",
+  "backings": null,
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Pierre Hautier"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Corinne Boulangier",
+  "stageDirector": null,
+  "writers": [
+    "Yves Barbieux"
+  ]
+}

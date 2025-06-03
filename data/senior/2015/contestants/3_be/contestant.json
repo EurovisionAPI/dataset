@@ -1,0 +1,44 @@
+{
+  "id": 3,
+  "country": "BE",
+  "broadcaster": "RTBF",
+  "artist": "Loïc Nottet",
+  "artistPeople": [
+    "Loïc Nottet"
+  ],
+  "song": "Rhythm Inside",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/G48p8eNhnd8",
+    "https://www.youtube-nocookie.com/embed/5c_rUBH52C4",
+    "https://www.youtube-nocookie.com/embed/IjH-HYAFICg",
+    "https://www.youtube-nocookie.com/embed/HkwY95RPvzc",
+    "https://www.youtube-nocookie.com/embed/OSIhddmaV0g",
+    "https://www.youtube-nocookie.com/embed/E_POxPSYOWc"
+  ],
+  "bpm": 90,
+  "tone": "D minor",
+  "backings": [
+    "Katie Bernstein",
+    "Michael Storrs",
+    "Nicolas Dorian",
+    "Sarah Covey",
+    "Susanna Marie Cork"
+  ],
+  "commentators": [
+    "Jean-Louis Lahaye",
+    "Maureen Louys",
+    "Peter Van de Veire"
+  ],
+  "composers": [
+    "Loïc Nottet",
+    "Luuk Cox"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Beverly Jo Scott"
+  ],
+  "spokesperson": "Walid",
+  "stageDirector": "Jean-Jacques Marotte",
+  "writers": null
+}

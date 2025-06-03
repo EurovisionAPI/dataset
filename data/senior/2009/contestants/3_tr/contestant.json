@@ -1,0 +1,42 @@
+{
+  "id": 3,
+  "country": "TR",
+  "broadcaster": "TRT",
+  "artist": "Hadise",
+  "artistPeople": [
+    "Hadise Açıkgöz"
+  ],
+  "song": "Düm Tek Tek",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_uYGPl8galc",
+    "https://www.youtube-nocookie.com/embed/uVenGtmBK9M",
+    "https://www.youtube-nocookie.com/embed/isEzhladyzA",
+    "https://www.youtube-nocookie.com/embed/-Nx6iVCaix0"
+  ],
+  "bpm": 115,
+  "tone": "D minor",
+  "backings": [
+    "Eva Smeenk",
+    "Steve Kashala"
+  ],
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "composers": [
+    "Sinan Akçıl"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Olga Potapova",
+    "Svetlana Nikitaeva",
+    "Uğur Yıldıran"
+  ],
+  "lyricists": [
+    "Hadise",
+    "Sinan Akçıl",
+    "Stefaan Fernande"
+  ],
+  "spokesperson": "Meltem Ersan Yazgan",
+  "stageDirector": null,
+  "writers": null
+}

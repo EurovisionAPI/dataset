@@ -1,0 +1,37 @@
+{
+  "id": 35,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Piero Esteriore & the MusicStars",
+  "artistPeople": [
+    "Damian Odermatt",
+    "Piero Esteriore",
+    "Sabrina Auer",
+    "Sergio Luvualu",
+    "Tina Masafret"
+  ],
+  "song": "Celebrate",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EUX3_0KM7fc",
+    "https://www.youtube-nocookie.com/embed/wKrsx87WzAY"
+  ],
+  "bpm": 111,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Alain Morisod",
+    "Claudio Lazzarino",
+    "Daniela Tami",
+    "Jean-Marc Richard",
+    "Marco Fritsche"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Emel Aykanat",
+  "stageDirector": null,
+  "writers": [
+    "Greg Manning"
+  ]
+}

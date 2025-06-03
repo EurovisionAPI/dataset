@@ -1,0 +1,34 @@
+{
+  "id": 7,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Michelle",
+  "artistPeople": [
+    "Tanja Gisela Hewer"
+  ],
+  "song": "Wer Liebe lebt",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TtPKl-RMziE",
+    "https://www.youtube-nocookie.com/embed/7G66SPwVBmQ",
+    "https://www.youtube-nocookie.com/embed/6L-Wk3dK4DM"
+  ],
+  "bpm": 151,
+  "tone": "Ab major",
+  "backings": null,
+  "commentators": [
+    "Peter Urban"
+  ],
+  "composers": [
+    "Gino Trovatello",
+    "Matthias Stingl"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Eva Richter",
+    "Mary Susan Applegate"
+  ],
+  "spokesperson": "Axel Bulthaupt",
+  "stageDirector": null,
+  "writers": null
+}

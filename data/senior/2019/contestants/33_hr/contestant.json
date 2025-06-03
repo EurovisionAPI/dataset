@@ -1,0 +1,43 @@
+{
+  "id": 33,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Roko",
+  "artistPeople": [
+    "Roko"
+  ],
+  "song": "The Dream",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gXT5E8kUgfs",
+    "https://www.youtube-nocookie.com/embed/XH1XfjICYLc",
+    "https://www.youtube-nocookie.com/embed/-mYYWSEAa9s",
+    "https://www.youtube-nocookie.com/embed/fAeNJVv4eVc",
+    "https://www.youtube-nocookie.com/embed/sWpRSYfY7O8",
+    "https://www.youtube-nocookie.com/embed/YttRPqpB_XI",
+    "https://www.youtube-nocookie.com/embed/euZTUPvSt_w"
+  ],
+  "bpm": 114,
+  "tone": "F minor",
+  "backings": [
+    "Jacques Houdek"
+  ],
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "composers": [
+    "Jacques Houdek"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Diego Siqueira",
+    "Endi Schrötter"
+  ],
+  "lyricists": [
+    "Andrea Čubrić",
+    "Charlie Mason",
+    "Jacques Houdek"
+  ],
+  "spokesperson": "Monika Lelas Halambek",
+  "stageDirector": "Leo Mujić",
+  "writers": null
+}

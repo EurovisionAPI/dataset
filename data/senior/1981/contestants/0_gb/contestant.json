@@ -1,0 +1,39 @@
+{
+  "id": 0,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Bucks Fizz",
+  "artistPeople": [
+    "Robert Alan Gubby",
+    "Rita Crudgington",
+    "Jay Aston",
+    "Mike Nolan"
+  ],
+  "song": "Making Your Mind Up",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DszqGGSY4oo",
+    "https://www.youtube-nocookie.com/embed/pACePi441ds",
+    "https://www.youtube-nocookie.com/embed/3qAs340W8Lw",
+    "https://www.youtube-nocookie.com/embed/l16ri1ZcD9g",
+    "https://www.youtube-nocookie.com/embed/kvQCT4vtOlc"
+  ],
+  "bpm": 178,
+  "tone": "A major",
+  "backings": [
+    "Alan Carvell"
+  ],
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "composers": [
+    "John Danter"
+  ],
+  "conductor": "John Coleman",
+  "dancers": null,
+  "lyricists": [
+    "Andy Hill"
+  ],
+  "spokesperson": "Colin Berry",
+  "stageDirector": "Chrissy Wickham",
+  "writers": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": 8,
+  "country": "AU",
+  "broadcaster": "SBS",
+  "artist": "Isaiah",
+  "artistPeople": [
+    "Isaiah Firebrace"
+  ],
+  "song": "Don't Come Easy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YTCP4S1dqwA",
+    "https://www.youtube-nocookie.com/embed/RiXEMYUqa3w",
+    "https://www.youtube-nocookie.com/embed/058Yyhxsi7o",
+    "https://www.youtube-nocookie.com/embed/Ka4-H2GkJpU",
+    "https://www.youtube-nocookie.com/embed/sFOGiI86Tgw",
+    "https://www.youtube-nocookie.com/embed/_qN541n76jE",
+    "https://www.youtube-nocookie.com/embed/KvqYdAlZKtk"
+  ],
+  "bpm": 156,
+  "tone": "D major",
+  "backings": [
+    "Aaron Malone",
+    "Aaron Mendoza",
+    "Daniel Adrian Kelaart"
+  ],
+  "commentators": [
+    "Joel Creasey",
+    "Myf Warhurst"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Lee Lin Chin",
+  "stageDirector": "Marko Panzic, Sacha Jean-Baptiste",
+  "writers": [
+    "Anthony Egizii",
+    "David Musumeci",
+    "Michael Angelo"
+  ]
+}

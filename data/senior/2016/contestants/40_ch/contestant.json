@@ -1,0 +1,45 @@
+{
+  "id": 40,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Rykka",
+  "artistPeople": [
+    "Christina Maria Rieder"
+  ],
+  "song": "The Last of Our Kind",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HZI0_aR7BuA",
+    "https://www.youtube-nocookie.com/embed/S4s8UdJmgQc",
+    "https://www.youtube-nocookie.com/embed/96ENe3EYBE0",
+    "https://www.youtube-nocookie.com/embed/ZyrVrJFoPq4",
+    "https://www.youtube-nocookie.com/embed/y7kxmMyFB9I"
+  ],
+  "bpm": 162,
+  "tone": "A major",
+  "backings": [
+    "Brandy Butler",
+    "Nyssina Swerissen",
+    "Tanja Dankner"
+  ],
+  "commentators": [
+    "Clarissa Tami",
+    "Gabriel Vetter",
+    "Jean-Marc Richard",
+    "Michele Carobbio",
+    "Nicolas Tanner",
+    "Peter Schneider",
+    "Sven Epiney"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Sebalter",
+  "stageDirector": null,
+  "writers": [
+    "Jeff Dawson",
+    "Mike James",
+    "Rykka",
+    "Warne Livesey"
+  ]
+}

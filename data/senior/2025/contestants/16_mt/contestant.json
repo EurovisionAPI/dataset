@@ -1,0 +1,41 @@
+{
+  "id": 16,
+  "country": "MT",
+  "broadcaster": "PBS",
+  "artist": "Miriana Conte",
+  "artistPeople": [
+    "Miriana Conte"
+  ],
+  "song": "Serving",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/povnGP6k0sI",
+    "https://www.youtube-nocookie.com/embed/2AN3vvLORuw",
+    "https://www.youtube-nocookie.com/embed/sLVSwfRRvMA",
+    "https://www.youtube-nocookie.com/embed/rtVF9hLlkH8",
+    "https://www.youtube-nocookie.com/embed/_4lsnIrjrIQ",
+    "https://www.youtube-nocookie.com/embed/VLCV0GV4g9A",
+    "https://www.youtube-nocookie.com/embed/kO_efvmsT4w"
+  ],
+  "bpm": 122,
+  "tone": "E minor",
+  "backings": [
+    "Cruzejude",
+    "Mette Linturi",
+    "Pamela Bezzina",
+    "Sofi Mukasheva",
+    "Tyson Simon"
+  ],
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ingrid Sammut",
+  "stageDirector": "Steven Levi Vella",
+  "writers": [
+    "Benjamin Schmid",
+    "Miriana Conte",
+    "Muxu",
+    "Sarah Evelyn Fullerton"
+  ]
+}

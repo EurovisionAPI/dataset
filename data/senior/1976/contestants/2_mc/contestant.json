@@ -1,0 +1,40 @@
+{
+  "id": 2,
+  "country": "MC",
+  "broadcaster": "TMC",
+  "artist": "Mary Christy",
+  "artistPeople": [
+    "Marie Ruggeri"
+  ],
+  "song": "Toi, la musique et moi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-dLIPZ5Bqmk",
+    "https://www.youtube-nocookie.com/embed/v1Zbd_24q8s",
+    "https://www.youtube-nocookie.com/embed/uW3hdKq1eZQ",
+    "https://www.youtube-nocookie.com/embed/MOJTZCikGZ0",
+    "https://www.youtube-nocookie.com/embed/LWM7-CtdhyA",
+    "https://www.youtube-nocookie.com/embed/MZ5IzElPaB8"
+  ],
+  "bpm": 145,
+  "tone": "Eb major",
+  "backings": [
+    "Catherine Bonnevay",
+    "Dominique Poulain",
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "commentators": [
+    "Jean-Claude Massoulier"
+  ],
+  "composers": [
+    "Georges Costa"
+  ],
+  "conductor": "Raymond Donnez",
+  "dancers": null,
+  "lyricists": [
+    "Gilbert Sinoué"
+  ],
+  "spokesperson": "Carole Chabrier",
+  "stageDirector": null,
+  "writers": null
+}

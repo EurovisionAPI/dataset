@@ -1,0 +1,45 @@
+{
+  "id": 10,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Erika Vikman",
+  "artistPeople": [
+    "Erika Susanna Vikman"
+  ],
+  "song": "Ich komme",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/V3vbVd1ynnk",
+    "https://www.youtube-nocookie.com/embed/4m1c46KAc3o",
+    "https://www.youtube-nocookie.com/embed/Kg3QoTpnqyw",
+    "https://www.youtube-nocookie.com/embed/PFWtYcKb7C8",
+    "https://www.youtube-nocookie.com/embed/5aieMiQOQtk",
+    "https://www.youtube-nocookie.com/embed/ZmqAzTbMe0I",
+    "https://www.youtube-nocookie.com/embed/LZgBfNTZavw"
+  ],
+  "bpm": 147,
+  "tone": "G major",
+  "backings": [
+    "Heini Ikonen",
+    "Jepa Lambert",
+    "Teri Mantere"
+  ],
+  "commentators": [
+    "Aslak Paltto",
+    "Eva Frantz",
+    "Galyna Sergeyeva",
+    "Heli Huovinen",
+    "Johan Lindroos",
+    "Levan Tvaltvadze",
+    "Mikko Silvennoinen"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Jasmin Beloued",
+  "stageDirector": "Sergio Jaen",
+  "writers": [
+    "Christel Roosberg",
+    "Jori Roosberg"
+  ]
+}

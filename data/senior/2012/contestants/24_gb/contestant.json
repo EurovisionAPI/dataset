@@ -1,0 +1,36 @@
+{
+  "id": 24,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Engelbert Humperdinck",
+  "artistPeople": [
+    "Arnold George Dorsey"
+  ],
+  "song": "Love Will Set You Free",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rXw4Q5jbNqQ",
+    "https://www.youtube-nocookie.com/embed/pFNv9pjqZkk"
+  ],
+  "bpm": 120,
+  "tone": "C# minor",
+  "backings": [
+    "Bethany-Rose Harrison",
+    "James Bryan",
+    "Shem Jacobs"
+  ],
+  "commentators": [
+    "Graham Norton",
+    "Sara Cox",
+    "Scott Mills"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Scott Mills",
+  "stageDirector": "Arlene Phillips",
+  "writers": [
+    "Martin Terefe",
+    "Sacha Skarbek"
+  ]
+}

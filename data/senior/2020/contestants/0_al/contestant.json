@@ -1,0 +1,37 @@
+{
+  "id": 0,
+  "country": "AL",
+  "broadcaster": "RTSH",
+  "artist": "Arilena Ara",
+  "artistPeople": [
+    "Arilena Ara"
+  ],
+  "song": "Fall From The Sky",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vXpCWFIY6YE",
+    "https://www.youtube-nocookie.com/embed/VGlDU5ktmIU",
+    "https://www.youtube-nocookie.com/embed/p-E-kIFPrsY",
+    "https://www.youtube-nocookie.com/embed/PpDvYWMHhn0",
+    "https://www.youtube-nocookie.com/embed/7-7fX3K9Ze4",
+    "https://www.youtube-nocookie.com/embed/fxaSkugr7uQ",
+    "https://www.youtube-nocookie.com/embed/rRo8BJGuffM"
+  ],
+  "bpm": 145,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Darko Dimitrov",
+    "Lazar Cvetkoski"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Michael Blue",
+    "Robert Stevenson",
+    "Sam Schummer"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

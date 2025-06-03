@@ -1,0 +1,39 @@
+{
+  "id": 2,
+  "country": "FR",
+  "broadcaster": "TF1",
+  "artist": "Joël Prévost",
+  "artistPeople": [
+    "Jean-Luc Poteau"
+  ],
+  "song": "Il y aura toujours des violons",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QKoU6MzFPVQ",
+    "https://www.youtube-nocookie.com/embed/f_yUlHH_D9Y",
+    "https://www.youtube-nocookie.com/embed/deWavQYDXSE"
+  ],
+  "bpm": 133,
+  "tone": "C major",
+  "backings": [
+    "Dominique Poulain",
+    "Francine Chantereau",
+    "Georges Costa",
+    "Martine Latorre",
+    "Michel Costa"
+  ],
+  "commentators": [
+    "Denise Fabre",
+    "Léon Zitrone"
+  ],
+  "composers": [
+    "Gérard Stern"
+  ],
+  "conductor": "Alain Goraguer",
+  "dancers": null,
+  "lyricists": [
+    "Didier Barbelivien"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,49 @@
+{
+  "id": 3,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Luca Hänni",
+  "artistPeople": [
+    "Luca Hänni"
+  ],
+  "song": "She Got Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8aUYzqAIdoM",
+    "https://www.youtube-nocookie.com/embed/zEGgKQf1cws",
+    "https://www.youtube-nocookie.com/embed/6PxoMWtAC7M",
+    "https://www.youtube-nocookie.com/embed/j7zJoWwbz4Y",
+    "https://www.youtube-nocookie.com/embed/Oae2OMg8Ooo",
+    "https://www.youtube-nocookie.com/embed/BuX_gI1b5NI"
+  ],
+  "bpm": 97,
+  "tone": "F# major",
+  "backings": [
+    "Daniel Asamoah",
+    "David Lei Brandt",
+    "Greg Curtis jr."
+  ],
+  "commentators": [
+    "Bastian Baker",
+    "Clarissa Tami",
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Sebalter",
+    "Sven Epiney"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Hanna Levitt-Collins",
+    "Keisha von Arnold"
+  ],
+  "lyricists": null,
+  "spokesperson": "Gabriel Broggini, Ivan Broggini",
+  "stageDirector": "Sacha Jean-Baptiste",
+  "writers": [
+    "Frazer Mac",
+    "Jon Hällgren",
+    "Laurell Barker",
+    "Luca Hänni",
+    "Lukas Hällgren"
+  ]
+}

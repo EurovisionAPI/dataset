@@ -1,0 +1,37 @@
+{
+  "id": 15,
+  "country": "SE",
+  "broadcaster": "SVT",
+  "artist": "Edin-Ådahl",
+  "artistPeople": [
+    "Bertil Edin",
+    "Frank Ådahl",
+    "Lasse Edin",
+    "Simon Ådahl"
+  ],
+  "song": "Som en vind",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/aeNIR7jebcQ",
+    "https://www.youtube-nocookie.com/embed/jU3WGHZ6xOs",
+    "https://www.youtube-nocookie.com/embed/KtFv_HzqXh8",
+    "https://www.youtube-nocookie.com/embed/Kw4KxFhq8Tk"
+  ],
+  "bpm": 165,
+  "tone": "A major",
+  "backings": [
+    "Katarina Millton-Almgren",
+    "Peter Åhs"
+  ],
+  "commentators": [
+    "Jan Jingryd"
+  ],
+  "composers": null,
+  "conductor": "Curt-Eric Holmquist",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Jan Ellerås",
+  "stageDirector": null,
+  "writers": [
+    "Mikael Wendt"
+  ]
+}

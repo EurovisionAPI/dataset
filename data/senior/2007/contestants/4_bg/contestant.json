@@ -1,0 +1,37 @@
+{
+  "id": 4,
+  "country": "BG",
+  "broadcaster": "BNT",
+  "artist": "Elitsa Todorova & Stoyan Yankulov",
+  "artistPeople": [
+    "Elitsa Todorova",
+    "Stoyan Yankoulov"
+  ],
+  "song": "Water",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CVO3mEj8Udo",
+    "https://www.youtube-nocookie.com/embed/NauYzMInRYA",
+    "https://www.youtube-nocookie.com/embed/kjqOGtPyFNw",
+    "https://www.youtube-nocookie.com/embed/N1ZJmambhSo",
+    "https://www.youtube-nocookie.com/embed/Jrexkp_41BU"
+  ],
+  "bpm": 137,
+  "tone": "Bb minor",
+  "backings": null,
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "composers": [
+    "Elitsa Todorova",
+    "Stoyan Yankoulov"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Elitsa Todorova"
+  ],
+  "spokesperson": "Mira Dobreva",
+  "stageDirector": null,
+  "writers": null
+}

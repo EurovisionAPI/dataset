@@ -1,0 +1,34 @@
+{
+  "id": 17,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Domenico Modugno",
+  "artistPeople": [
+    "Domenico Modugno"
+  ],
+  "song": "Dio, come ti amo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/AFBB52CRaQE",
+    "https://www.youtube-nocookie.com/embed/M1zBfEHoWMY",
+    "https://www.youtube-nocookie.com/embed/QJ1XltJ4p2M",
+    "https://www.youtube-nocookie.com/embed/DtcQc8nYyks",
+    "https://www.youtube-nocookie.com/embed/Mbj4o4K1FRw",
+    "https://www.youtube-nocookie.com/embed/u4cWXpxAXCA",
+    "https://www.youtube-nocookie.com/embed/YJnCez71tmE"
+  ],
+  "bpm": 101,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "composers": null,
+  "conductor": "Angelo Giacomazzi",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Enzo Tortora",
+  "stageDirector": null,
+  "writers": [
+    "Domenico Modugno"
+  ]
+}

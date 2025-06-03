@@ -1,0 +1,34 @@
+{
+  "id": 15,
+  "country": "CY",
+  "broadcaster": "CyBC",
+  "artist": "Lia Vishy",
+  "artistPeople": [
+    "Lia Vissi"
+  ],
+  "song": "To katalava arga",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2fvFeOLF0X0",
+    "https://www.youtube-nocookie.com/embed/ODRNTWZcMM4",
+    "https://www.youtube-nocookie.com/embed/Nf5a20J_hWw"
+  ],
+  "bpm": 132,
+  "tone": "A major",
+  "backings": [
+    "Ioannis Piliouris",
+    "Krini Pafitou",
+    "Stelios Goulielmos"
+  ],
+  "commentators": [
+    "Themis Themistokleous"
+  ],
+  "composers": null,
+  "conductor": "Haris Andreadis",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Anna Partelidou",
+  "stageDirector": null,
+  "writers": [
+    "Lia Vissi"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 13,
+  "country": "BA",
+  "broadcaster": "PBSBIH",
+  "artist": "Feminnem",
+  "artistPeople": [
+    "Ivana Marić",
+    "Neda Parmać",
+    "Pamela Ramljak"
+  ],
+  "song": "Call Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/elPI-5JZCws",
+    "https://www.youtube-nocookie.com/embed/F2Km-nCQY0Y",
+    "https://www.youtube-nocookie.com/embed/13rIzytOwa4",
+    "https://www.youtube-nocookie.com/embed/KvSqRnJGxZc"
+  ],
+  "bpm": 150,
+  "tone": "F minor",
+  "backings": null,
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ana Mirjana Račanović",
+  "stageDirector": null,
+  "writers": [
+    "Andrej Babić"
+  ]
+}

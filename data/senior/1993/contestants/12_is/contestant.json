@@ -1,0 +1,38 @@
+{
+  "id": 12,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Inga",
+  "artistPeople": [
+    "Ingibjörg Stefánsdóttir"
+  ],
+  "song": "Þá veistu svarið",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eRXaQgwLEs4",
+    "https://www.youtube-nocookie.com/embed/2ub8puAqcps",
+    "https://www.youtube-nocookie.com/embed/5Wx9Y5_FzsY"
+  ],
+  "bpm": 103,
+  "tone": "F major",
+  "backings": [
+    "Einar Bragi Bragason",
+    "Erna Þórarinsdóttir",
+    "Eva Ásrún Albertsdóttir",
+    "Eyjólfur Kristjánsson",
+    "Guðrún Gunnarsdóttir"
+  ],
+  "commentators": [
+    "Jakob Frímann Magnússon"
+  ],
+  "composers": [
+    "Jon Kjell Seljeseth"
+  ],
+  "conductor": "Jon Kjell Seljeseth",
+  "dancers": null,
+  "lyricists": [
+    "Friðrik Sturluson"
+  ],
+  "spokesperson": "Guðrún Skúladóttir",
+  "stageDirector": null,
+  "writers": null
+}

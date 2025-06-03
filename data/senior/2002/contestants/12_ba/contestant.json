@@ -1,0 +1,35 @@
+{
+  "id": 12,
+  "country": "BA",
+  "broadcaster": "PBSBIH",
+  "artist": "Maja",
+  "artistPeople": [
+    "Maja Tatić"
+  ],
+  "song": "Na jastuku za dvoje",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yspCMHYa-VI",
+    "https://www.youtube-nocookie.com/embed/JXeM65LCa6w",
+    "https://www.youtube-nocookie.com/embed/EfHrnq2wtGA",
+    "https://www.youtube-nocookie.com/embed/CraY9GylYe4"
+  ],
+  "bpm": 156,
+  "tone": "F major",
+  "backings": [
+    "Tinka Milinović"
+  ],
+  "commentators": [
+    "Ismeta Dervoz-Krvavac"
+  ],
+  "composers": [
+    "Dragan Mijatović"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Ružica Čavić"
+  ],
+  "spokesperson": "Segmedina Srna",
+  "stageDirector": null,
+  "writers": null
+}

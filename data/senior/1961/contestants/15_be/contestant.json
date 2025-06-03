@@ -1,0 +1,33 @@
+{
+  "id": 15,
+  "country": "BE",
+  "broadcaster": "BRT",
+  "artist": "Bob Benny",
+  "artistPeople": [
+    "Emiel Wagemans"
+  ],
+  "song": "September, gouden roos",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lwEBgI8-KLs",
+    "https://www.youtube-nocookie.com/embed/cC54wHamy0I",
+    "https://www.youtube-nocookie.com/embed/6ZNeiCE9u_o"
+  ],
+  "bpm": 101,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Nic Bal",
+    "Robert Beauvais"
+  ],
+  "composers": [
+    "Hans Flower"
+  ],
+  "conductor": "Francis Bay",
+  "dancers": null,
+  "lyricists": [
+    "Wim Brabants"
+  ],
+  "spokesperson": "Ward Bogaert",
+  "stageDirector": null,
+  "writers": null
+}

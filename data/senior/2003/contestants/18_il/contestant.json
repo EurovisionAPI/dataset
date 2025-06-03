@@ -1,0 +1,35 @@
+{
+  "id": 18,
+  "country": "IL",
+  "broadcaster": "IBA",
+  "artist": "Lior Narkis",
+  "artistPeople": [
+    "Lior Narkis"
+  ],
+  "song": "Words For Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4FzOTlfV8-8",
+    "https://www.youtube-nocookie.com/embed/lRV545iVfO0"
+  ],
+  "bpm": 105,
+  "tone": "G minor",
+  "backings": [
+    "Ela Maman",
+    "Maya Avidan",
+    "Meital Patash",
+    "Ortal Ofek",
+    "Viola Lenoir"
+  ],
+  "commentators": null,
+  "composers": [
+    "Yoni Rohe"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Yossi Gispan"
+  ],
+  "spokesperson": "Michal Zoharetz",
+  "stageDirector": null,
+  "writers": null
+}

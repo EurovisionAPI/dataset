@@ -1,0 +1,37 @@
+{
+  "id": 11,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Ami Aspelund",
+  "artistPeople": [
+    "Ami Aspelund"
+  ],
+  "song": "Fantasiaa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/his_Os3J1Yk",
+    "https://www.youtube-nocookie.com/embed/FsCLRNXZ2Gg",
+    "https://www.youtube-nocookie.com/embed/-C7sx0RNp64",
+    "https://www.youtube-nocookie.com/embed/bII1EA2BvoA"
+  ],
+  "bpm": 135,
+  "tone": "C minor",
+  "backings": [
+    "Jokke Seppälä",
+    "Kari Kuusamo",
+    "Pave Maijanen"
+  ],
+  "commentators": [
+    "Erkki Pohjanheimo"
+  ],
+  "composers": [
+    "Kari Kuusamo"
+  ],
+  "conductor": "Ossi Runne",
+  "dancers": null,
+  "lyricists": [
+    "Kaisu Liuhala"
+  ],
+  "spokesperson": "Solveig Herlin",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": 41,
+  "country": "EE",
+  "broadcaster": "ERR",
+  "artist": "Jüri Pootsmann",
+  "artistPeople": [
+    "Jüri Pootsmann"
+  ],
+  "song": "Play",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/g0-j0Eh8VNA",
+    "https://www.youtube-nocookie.com/embed/A8oilbtQptQ",
+    "https://www.youtube-nocookie.com/embed/3Q-2UL9QrP8",
+    "https://www.youtube-nocookie.com/embed/XqXovUS-ZJc",
+    "https://www.youtube-nocookie.com/embed/fUq8TAweZnw",
+    "https://www.youtube-nocookie.com/embed/XiqProXCLiw",
+    "https://www.youtube-nocookie.com/embed/U-NiUBLDOi4"
+  ],
+  "bpm": 90,
+  "tone": "A minor",
+  "backings": [
+    "Dagmar Oja",
+    "Kaire Vilgats",
+    "Silver Laas"
+  ],
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Daniel Levi Viinalass",
+  "stageDirector": null,
+  "writers": [
+    "Fred Krieger",
+    "Stig Rästa",
+    "Vallo Kikas"
+  ]
+}

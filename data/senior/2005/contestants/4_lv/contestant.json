@@ -1,0 +1,31 @@
+{
+  "id": 4,
+  "country": "LV",
+  "broadcaster": "LTV",
+  "artist": "Walters & Kazha",
+  "artistPeople": [
+    "Kārlis Būmeisters",
+    "Valters Frīdenbergs"
+  ],
+  "song": "The War Is Not Over",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/olhn1FWuWNU",
+    "https://www.youtube-nocookie.com/embed/U6LMyPCcB2U",
+    "https://www.youtube-nocookie.com/embed/J9oPsWsPYNo"
+  ],
+  "bpm": 105,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Marie N",
+  "stageDirector": null,
+  "writers": [
+    "Mārtiņš Freimanis"
+  ]
+}

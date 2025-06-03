@@ -1,0 +1,41 @@
+{
+  "id": 14,
+  "country": "RO",
+  "broadcaster": "TVR",
+  "artist": "Voltaj",
+  "artistPeople": null,
+  "song": "De la capăt / All Over Again",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/o7iOFkEymXA",
+    "https://www.youtube-nocookie.com/embed/WA3wOKHpzEU",
+    "https://www.youtube-nocookie.com/embed/Nw6sKQbwQOM",
+    "https://www.youtube-nocookie.com/embed/M-FqEzaRnAo",
+    "https://www.youtube-nocookie.com/embed/FbZ0nXfApww",
+    "https://www.youtube-nocookie.com/embed/Z7QeiOO_ebI"
+  ],
+  "bpm": 140,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Adrian M. Cristescu",
+    "Călin Gavril Goia",
+    "Gabi \"Porcus\" Constantin",
+    "Silviu-Marian Păduraru",
+    "Victor-Răzvan Alstani"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Adrian M. Cristescu",
+    "Andrei-Madalin Leonte",
+    "Călin Gavril Goia",
+    "Gabi \"Porcus\" Constantin",
+    "Monica-Ana Stevens",
+    "Silviu-Marian Păduraru",
+    "Victor-Răzvan Alstani"
+  ],
+  "spokesperson": "Sonia Argint-Ionescu",
+  "stageDirector": "Daniel Klinger",
+  "writers": null
+}

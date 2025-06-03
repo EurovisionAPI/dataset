@@ -1,0 +1,39 @@
+{
+  "id": 3,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Peter, Sue & Marc",
+  "artistPeople": [
+    "Marcel Dietrich",
+    "Peter Reber",
+    "Sue Schell"
+  ],
+  "song": "Io senza te",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gD4INDhQuXw",
+    "https://www.youtube-nocookie.com/embed/Xqf17ZyE-u4",
+    "https://www.youtube-nocookie.com/embed/eY2qPlxMKf8",
+    "https://www.youtube-nocookie.com/embed/rbyCqDdzcE0",
+    "https://www.youtube-nocookie.com/embed/f6O-ZhOLJco"
+  ],
+  "bpm": 136,
+  "tone": "F# major",
+  "backings": null,
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "composers": [
+    "Peter Reber"
+  ],
+  "conductor": "Rolf Zuckowski",
+  "dancers": null,
+  "lyricists": [
+    "Nella Martinetti",
+    "Peter Reber"
+  ],
+  "spokesperson": "Michel Stocker",
+  "stageDirector": null,
+  "writers": null
+}

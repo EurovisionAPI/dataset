@@ -1,0 +1,39 @@
+{
+  "id": 0,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Olsen Brothers",
+  "artistPeople": [
+    "Jørgen Olsen",
+    "Niels Olsen"
+  ],
+  "song": "Fly On The Wings Of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JF8fkHK0AWs",
+    "https://www.youtube-nocookie.com/embed/5sTQ3k7fJDU",
+    "https://www.youtube-nocookie.com/embed/OdGqv_w3zxA",
+    "https://www.youtube-nocookie.com/embed/NkBeXdcjX30",
+    "https://www.youtube-nocookie.com/embed/rp8ny2s2mZg",
+    "https://www.youtube-nocookie.com/embed/C76xn52ZbhA"
+  ],
+  "bpm": 104,
+  "tone": "D major",
+  "backings": [
+    "Bianca Moe",
+    "Christina Krüger-Olsen",
+    "Lei Moe",
+    "Lupe Moe"
+  ],
+  "commentators": [
+    "Keld Heick"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Michael Teschl",
+  "stageDirector": null,
+  "writers": [
+    "Jørgen Olsen"
+  ]
+}

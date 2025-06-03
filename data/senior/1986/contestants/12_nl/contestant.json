@@ -1,0 +1,37 @@
+{
+  "id": 12,
+  "country": "NL",
+  "broadcaster": "NOS",
+  "artist": "Frizzle Sizzle",
+  "artistPeople": [
+    "Karin Vlasblom",
+    "Laura Vlasblom",
+    "Mandy Huydts",
+    "Marjon Keller"
+  ],
+  "song": "Alles heeft ritme",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9E7uTpnMq2s",
+    "https://www.youtube-nocookie.com/embed/87CLD7KYfSA",
+    "https://www.youtube-nocookie.com/embed/g-goRdGqpQE",
+    "https://www.youtube-nocookie.com/embed/B2g5QSCRB5k"
+  ],
+  "bpm": 156,
+  "tone": "A major",
+  "backings": null,
+  "commentators": [
+    "Leo van der Goot"
+  ],
+  "composers": [
+    "Peter Schön",
+    "Rob Ten Bokum"
+  ],
+  "conductor": "Harry van Hoof",
+  "dancers": null,
+  "lyricists": [
+    "Peter Schön"
+  ],
+  "spokesperson": "Joop van Zijl",
+  "stageDirector": null,
+  "writers": null
+}

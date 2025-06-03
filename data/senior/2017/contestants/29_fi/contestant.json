@@ -1,0 +1,34 @@
+{
+  "id": 29,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Norma John",
+  "artistPeople": null,
+  "song": "Blackbird",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ufba0nOz0fQ",
+    "https://www.youtube-nocookie.com/embed/PVwJ3PBr7WE",
+    "https://www.youtube-nocookie.com/embed/ipK0AH-6Dis",
+    "https://www.youtube-nocookie.com/embed/5Eb3UI-N1T8",
+    "https://www.youtube-nocookie.com/embed/y_A93E7yEAA",
+    "https://www.youtube-nocookie.com/embed/B0RD4QwhFNM"
+  ],
+  "bpm": 164,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Mikko Silvennoinen"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Jenni Vartiainen",
+  "stageDirector": "Reija Wäre",
+  "writers": [
+    "Lasse Piirainen",
+    "Leena Tirronen"
+  ]
+}

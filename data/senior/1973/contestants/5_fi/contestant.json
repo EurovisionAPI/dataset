@@ -1,0 +1,33 @@
+{
+  "id": 5,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Marion Rung",
+  "artistPeople": [
+    "Marion Rung"
+  ],
+  "song": "Tom Tom Tom",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5y2RlETV1Zw",
+    "https://www.youtube-nocookie.com/embed/hmMnYdncdmY",
+    "https://www.youtube-nocookie.com/embed/-sUSphLIQW8",
+    "https://www.youtube-nocookie.com/embed/0dDfueCpXjs"
+  ],
+  "bpm": null,
+  "tone": null,
+  "backings": null,
+  "commentators": [
+    "Erkki Pohjanheimo"
+  ],
+  "composers": [
+    "Rauno Lehtinen"
+  ],
+  "conductor": "Ossi Runne",
+  "dancers": null,
+  "lyricists": [
+    "Bob Barratt"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": 16,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Carole Rich",
+  "artistPeople": [
+    "Carol Rich"
+  ],
+  "song": "Moitié moitié",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PxuiJNAkhOo",
+    "https://www.youtube-nocookie.com/embed/KOA5bsQt_N0"
+  ],
+  "bpm": 150,
+  "tone": "F# major",
+  "backings": [
+    "Jean-Jacques Egli"
+  ],
+  "commentators": [
+    "Bernard Thurnheer",
+    "Ezio Guidi",
+    "Serge Moisson"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Michel Stocker",
+  "stageDirector": null,
+  "writers": [
+    "Jean-Jacques Egli"
+  ]
+}

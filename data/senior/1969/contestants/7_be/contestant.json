@@ -1,0 +1,37 @@
+{
+  "id": 7,
+  "country": "BE",
+  "broadcaster": "BRT",
+  "artist": "Louis Neefs",
+  "artistPeople": [
+    "Ludwig Neefs"
+  ],
+  "song": "Jennifer Jennings",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/soyXLmqPUPQ",
+    "https://www.youtube-nocookie.com/embed/a1LPps_j5tM",
+    "https://www.youtube-nocookie.com/embed/AONwwRWFnpA",
+    "https://www.youtube-nocookie.com/embed/h-ukNCLisJM",
+    "https://www.youtube-nocookie.com/embed/UsiXqUlGMAQ",
+    "https://www.youtube-nocookie.com/embed/RZ0Cr1nE6hc",
+    "https://www.youtube-nocookie.com/embed/w6PL9eCZQAM"
+  ],
+  "bpm": 112,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": [
+    "Jan Theys",
+    "Paule Herreman"
+  ],
+  "composers": [
+    "Paul Quintens"
+  ],
+  "conductor": "Francis Bay",
+  "dancers": null,
+  "lyricists": [
+    "Phil van Cauwenbergh"
+  ],
+  "spokesperson": "Ward Bogaert",
+  "stageDirector": null,
+  "writers": null
+}

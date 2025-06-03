@@ -1,0 +1,39 @@
+{
+  "id": 35,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Leonor Andrade",
+  "artistPeople": [
+    "Ella Nor"
+  ],
+  "song": "Há um mar que nos separa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vE-LqXkb0ok",
+    "https://www.youtube-nocookie.com/embed/ijEsLSIaoUQ",
+    "https://www.youtube-nocookie.com/embed/wCRNdxsWNS8",
+    "https://www.youtube-nocookie.com/embed/dYxcffHv05U",
+    "https://www.youtube-nocookie.com/embed/o4rDUPPlWmM",
+    "https://www.youtube-nocookie.com/embed/ETI6rc3-XOo"
+  ],
+  "bpm": 111,
+  "tone": "A minor",
+  "backings": [
+    "Carla Ribeiro",
+    "Pedro Mimoso",
+    "Ricardo Quintas",
+    "Tânia Tavares"
+  ],
+  "commentators": [
+    "Hélder Reis",
+    "Ramón Galarza"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Suzy",
+  "stageDirector": null,
+  "writers": [
+    "Miguel Gameiro"
+  ]
+}

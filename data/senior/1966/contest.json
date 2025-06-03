@@ -1,0 +1,15 @@
+{
+  "year": 1966,
+  "arena": "Grand Auditorium de RTL, Villa Louvigny",
+  "city": "Luxembourg",
+  "country": "LU",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1966.png",
+  "presenters": [
+    "Josiane Shen"
+  ],
+  "broadcasters": [
+    "CLT"
+  ]
+}

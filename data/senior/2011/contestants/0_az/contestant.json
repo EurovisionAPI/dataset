@@ -1,0 +1,43 @@
+{
+  "id": 0,
+  "country": "AZ",
+  "broadcaster": "İctimai",
+  "artist": "Ell/Nikki",
+  "artistPeople": [
+    "Eldar Parviz oglu Gasimov (Eldar Pərviz oğlu Qasımov)",
+    "Nigar Aydin kizi Jamal (Nigar Aydın qızı Camal)"
+  ],
+  "song": "Running Scared",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_0tlQUW5X0U",
+    "https://www.youtube-nocookie.com/embed/eG2uNbNRkAw",
+    "https://www.youtube-nocookie.com/embed/9_d8WAG_ipk",
+    "https://www.youtube-nocookie.com/embed/zwhHXfB1tAo",
+    "https://www.youtube-nocookie.com/embed/MsLZVmoX38s"
+  ],
+  "bpm": 172,
+  "tone": "C major",
+  "backings": [
+    "Åsa Engman",
+    "Jessica Marberger",
+    "Lisa Stadell",
+    "Vera Prada"
+  ],
+  "commentators": [
+    "Leyla Aliyeva"
+  ],
+  "composers": [
+    "Iain Farquharson",
+    "Sandra Bjurman",
+    "Stefan Örn"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Sandra Bjurman",
+    "Stefan Örn"
+  ],
+  "spokesperson": "Safura Alizadeh",
+  "stageDirector": "Filip Adamo, Rennie Mirro",
+  "writers": null
+}

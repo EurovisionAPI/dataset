@@ -1,0 +1,43 @@
+{
+  "id": 5,
+  "country": "BY",
+  "broadcaster": "BTRC",
+  "artist": "Dmitry Koldun",
+  "artistPeople": [
+    "Dmitry Aleksandrovich Koldun (Дзьмітры Аляксандравіч Калдун)"
+  ],
+  "song": "Work Your Magic",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PxON-jTcBPA",
+    "https://www.youtube-nocookie.com/embed/1_NoCkZmNZE",
+    "https://www.youtube-nocookie.com/embed/9Cp4BlfJWr8",
+    "https://www.youtube-nocookie.com/embed/ZOQc-hdTjKE",
+    "https://www.youtube-nocookie.com/embed/dI30IrNfBv0",
+    "https://www.youtube-nocookie.com/embed/VSo7FARfdjs"
+  ],
+  "bpm": 100,
+  "tone": "G minor",
+  "backings": [
+    "Fredrik Olofsson",
+    "Marina Ahverdova"
+  ],
+  "commentators": [
+    "Denis Kurian"
+  ],
+  "composers": [
+    "Dimitris Kontopoulos",
+    "Philipp Kirkorov"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Alexandr Bodyanski",
+    "Ilona Donchenko",
+    "Natalia Donchenko"
+  ],
+  "lyricists": [
+    "Karen Kavaleryan"
+  ],
+  "spokesperson": "Juliana",
+  "stageDirector": "Fokas Evangelinos",
+  "writers": null
+}

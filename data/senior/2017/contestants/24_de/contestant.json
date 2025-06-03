@@ -1,0 +1,39 @@
+{
+  "id": 24,
+  "country": "DE",
+  "broadcaster": "NDR",
+  "artist": "Levina",
+  "artistPeople": [
+    "Isabella Levina Lueen"
+  ],
+  "song": "Perfect Life",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/t1KKjykH6fw",
+    "https://www.youtube-nocookie.com/embed/y7pUKkSrXFY",
+    "https://www.youtube-nocookie.com/embed/t4qUwRS6HRM",
+    "https://www.youtube-nocookie.com/embed/dpESkcTVdkk",
+    "https://www.youtube-nocookie.com/embed/hGKlfc-_6ys",
+    "https://www.youtube-nocookie.com/embed/WP6lTjrPWj0",
+    "https://www.youtube-nocookie.com/embed/UFbtw66W_-o"
+  ],
+  "bpm": 124,
+  "tone": "Eb major",
+  "backings": [
+    "Esther Cowens",
+    "Louise Mills"
+  ],
+  "commentators": [
+    "Peter Urban"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Barbara Schöneberger",
+  "stageDirector": "Marvin Dietmann",
+  "writers": [
+    "Dave Bassett",
+    "Lindsey Ray",
+    "Lindy Robbins"
+  ]
+}

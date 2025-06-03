@@ -1,0 +1,36 @@
+{
+  "id": 6,
+  "country": "IL",
+  "broadcaster": "IBA",
+  "artist": "Kaveret (Poogy)",
+  "artistPeople": [
+    "Alon Oleartchik",
+    "Danny Sanderson",
+    "Efraim Shamir",
+    "Gidi Gov",
+    "Itzhak Klepter",
+    "Meir Fenigstein"
+  ],
+  "song": "Natati La Khayay",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Pc0A5a-lZGo",
+    "https://www.youtube-nocookie.com/embed/orkXG-xXO-k",
+    "https://www.youtube-nocookie.com/embed/wvRiDnvRS5U"
+  ],
+  "bpm": 111,
+  "tone": "E minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Danny Sanderson"
+  ],
+  "conductor": "Yoni Rechter",
+  "dancers": null,
+  "lyricists": [
+    "Alon Oleartchik",
+    "Danny Sanderson"
+  ],
+  "spokesperson": "Yitzhak Shim'oni",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": 16,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Paulo de Carvalho",
+  "artistPeople": [
+    "Paulo da Costa"
+  ],
+  "song": "E depois do adeus",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/97-W9A5qWgI",
+    "https://www.youtube-nocookie.com/embed/ExbffvqzgFQ",
+    "https://www.youtube-nocookie.com/embed/jthlDhHpblo",
+    "https://www.youtube-nocookie.com/embed/twdnZc1xUq0",
+    "https://www.youtube-nocookie.com/embed/WL86uM9Nqf0"
+  ],
+  "bpm": 120,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Artur Agostinho"
+  ],
+  "composers": [
+    "José Calvário"
+  ],
+  "conductor": "José Calvário",
+  "dancers": null,
+  "lyricists": [
+    "José Niza"
+  ],
+  "spokesperson": "Henrique Mendes",
+  "stageDirector": null,
+  "writers": null
+}

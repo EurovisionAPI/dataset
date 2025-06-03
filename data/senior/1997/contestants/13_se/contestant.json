@@ -1,0 +1,34 @@
+{
+  "id": 13,
+  "country": "SE",
+  "broadcaster": "SVT",
+  "artist": "Blond",
+  "artistPeople": [
+    "Gabriel Forss",
+    "Jonas Karlhager",
+    "Patrick Lundström"
+  ],
+  "song": "Bara hon älskar mig",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hyZQpHvOAzo",
+    "https://www.youtube-nocookie.com/embed/ymrYxcC0X8I",
+    "https://www.youtube-nocookie.com/embed/fXtiSPXh-4E"
+  ],
+  "bpm": 146,
+  "tone": "D minor",
+  "backings": [
+    "Peter Hallström"
+  ],
+  "commentators": [
+    "Jan Jingryd"
+  ],
+  "composers": null,
+  "conductor": "Curt-Eric Holmquist",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Gösta Hanson",
+  "stageDirector": null,
+  "writers": [
+    "Stephan Berg"
+  ]
+}

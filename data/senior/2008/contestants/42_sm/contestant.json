@@ -1,0 +1,40 @@
+{
+  "id": 42,
+  "country": "SM",
+  "broadcaster": "SMRTV",
+  "artist": "Miodio",
+  "artistPeople": [
+    "Alessandro Gobbi",
+    "Andrea Marco 'Polly' Pollice",
+    "Francesco Sancisi",
+    "Nicola Della Valle",
+    "Paolo Macina"
+  ],
+  "song": "Complice",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zJO1iA_R95U",
+    "https://www.youtube-nocookie.com/embed/XrlQcI6BeRI",
+    "https://www.youtube-nocookie.com/embed/KEp5xaDFu8o",
+    "https://www.youtube-nocookie.com/embed/51y4A6tPkw8"
+  ],
+  "bpm": 145,
+  "tone": "Bb minor",
+  "backings": [
+    "Aniko Pusztai"
+  ],
+  "commentators": [
+    "Gigi Restivo",
+    "Lia Fiorio"
+  ],
+  "composers": [
+    "Francesco Sancisi"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Nicola Della Valle"
+  ],
+  "spokesperson": "Roberto Moretti",
+  "stageDirector": null,
+  "writers": null
+}

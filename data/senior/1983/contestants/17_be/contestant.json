@@ -1,0 +1,39 @@
+{
+  "id": 17,
+  "country": "BE",
+  "broadcaster": "BRT",
+  "artist": "Pas de Deux",
+  "artistPeople": [
+    "Bernadette Peyskens",
+    "Hilde Van Roy",
+    "Walter Verdin"
+  ],
+  "song": "Rendez-vous",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ek6JUyOBMH8",
+    "https://www.youtube-nocookie.com/embed/9SfRTuaFis4",
+    "https://www.youtube-nocookie.com/embed/loXd5_r47uc",
+    "https://www.youtube-nocookie.com/embed/75NHvComlHo",
+    "https://www.youtube-nocookie.com/embed/BUFjtBhAms8",
+    "https://www.youtube-nocookie.com/embed/B3-b_sjcWQw"
+  ],
+  "bpm": 149,
+  "tone": "E major",
+  "backings": null,
+  "commentators": [
+    "Jacques Mercier",
+    "Luc Appermont"
+  ],
+  "composers": [
+    "Walter Verdin"
+  ],
+  "conductor": "Freddy Sunder",
+  "dancers": null,
+  "lyricists": [
+    "Paul Peyskens",
+    "Walter Verdin"
+  ],
+  "spokesperson": "Anne Ploegaerts",
+  "stageDirector": null,
+  "writers": null
+}

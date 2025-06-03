@@ -1,0 +1,35 @@
+{
+  "id": 32,
+  "country": "BE",
+  "broadcaster": "VRT",
+  "artist": "Axel Hirsoux",
+  "artistPeople": [
+    "Axel Hirsoux"
+  ],
+  "song": "Mother",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wr3m4ghnq6w",
+    "https://www.youtube-nocookie.com/embed/xVxGnTK0830",
+    "https://www.youtube-nocookie.com/embed/uEqjXBH9ahE"
+  ],
+  "bpm": 146,
+  "tone": "E minor",
+  "backings": null,
+  "commentators": [
+    "Jean-Louis Lahaye",
+    "Maureen Louys",
+    "Peter Van de Veire"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Isabelle Beernaert"
+  ],
+  "lyricists": null,
+  "spokesperson": "Angelique Vlieghe",
+  "stageDirector": "Isabelle Beernaert",
+  "writers": [
+    "Ashley Hicklin",
+    "Rafael Artesero Herrero"
+  ]
+}

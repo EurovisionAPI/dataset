@@ -1,0 +1,36 @@
+{
+  "id": 3,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Paola",
+  "artistPeople": [
+    "Paola del Medico"
+  ],
+  "song": "Cinéma",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iy6BqRltwts",
+    "https://www.youtube-nocookie.com/embed/tQJo07Fb5ak",
+    "https://www.youtube-nocookie.com/embed/EStpGumwOAk",
+    "https://www.youtube-nocookie.com/embed/mGJcHm6O9sQ"
+  ],
+  "bpm": 145,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "composers": [
+    "Peter Reber"
+  ],
+  "conductor": "Peter Reber",
+  "dancers": null,
+  "lyricists": [
+    "Peter Reber",
+    "Véronique Müller"
+  ],
+  "spokesperson": "Michel Stocker",
+  "stageDirector": null,
+  "writers": null
+}

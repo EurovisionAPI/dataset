@@ -1,0 +1,29 @@
+{
+  "id": 14,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Conchita Bautista",
+  "artistPeople": [
+    "María Concepción Bautista Fernández"
+  ],
+  "song": "Qué bueno, qué bueno",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GGr7-OObQRw",
+    "https://www.youtube-nocookie.com/embed/LrKkpY5-Fmk"
+  ],
+  "bpm": 155,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Federico Gallo"
+  ],
+  "composers": null,
+  "conductor": "Adolfo Ventas Rodríguez, Claes Rosendahl",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Pepe Palau",
+  "stageDirector": null,
+  "writers": [
+    "Antonio Figueroa Egea"
+  ]
+}

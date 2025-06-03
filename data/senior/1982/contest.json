@@ -1,0 +1,15 @@
+{
+  "year": 1982,
+  "arena": "Harrogate Conference Centre",
+  "city": "Harrogate",
+  "country": "GB",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1982.png",
+  "presenters": [
+    "Jan Leeming"
+  ],
+  "broadcasters": [
+    "BBC"
+  ]
+}

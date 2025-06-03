@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Matt Monro",
+  "artistPeople": [
+    "Terence Parsons"
+  ],
+  "song": "I Love the Little Things",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3aopcEG5Yfc",
+    "https://www.youtube-nocookie.com/embed/0DRJvQFfIAg",
+    "https://www.youtube-nocookie.com/embed/hYj_haXQNaY"
+  ],
+  "bpm": 87,
+  "tone": "Eb major",
+  "backings": null,
+  "commentators": [
+    "David Jacobs"
+  ],
+  "composers": null,
+  "conductor": "Harry Rabinowitz",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Tony Hatch"
+  ]
+}

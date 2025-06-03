@@ -1,0 +1,41 @@
+{
+  "id": 19,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "D'Nash",
+  "artistPeople": [
+    "Esteban Piñero Camacho",
+    "Francisco Javier Álvarez Colinet",
+    "Michael Hennet Sotomayor",
+    "Antonio Martos Ortiz"
+  ],
+  "song": "I Love You Mi Vida",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ze5uXuSSqgg",
+    "https://www.youtube-nocookie.com/embed/uO8CJFJAVBw",
+    "https://www.youtube-nocookie.com/embed/sX7wPaGR8ss",
+    "https://www.youtube-nocookie.com/embed/2zfgqwAQbgM"
+  ],
+  "bpm": 125,
+  "tone": "G major",
+  "backings": [
+    "Noemí Calumarte",
+    "Rebeca Rods"
+  ],
+  "commentators": [
+    "Beatriz Pécker"
+  ],
+  "composers": [
+    "Andreas Rickstrand",
+    "Thomas G:son"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Rebeca Pous del Toro",
+    "Tony Sánchez-Ohlsson"
+  ],
+  "spokesperson": "Ainhoa Arbizu",
+  "stageDirector": null,
+  "writers": null
+}

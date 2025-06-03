@@ -1,0 +1,44 @@
+{
+  "id": 34,
+  "country": "AM",
+  "broadcaster": "AMPTV",
+  "artist": "Sevak Khanagyan",
+  "artistPeople": [
+    "Sevak Khanagyan"
+  ],
+  "song": "Qami",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CYlWiHjUK0c",
+    "https://www.youtube-nocookie.com/embed/olpi6UGmm_Y",
+    "https://www.youtube-nocookie.com/embed/ts11BINWfug",
+    "https://www.youtube-nocookie.com/embed/1TqdRZ6efWc",
+    "https://www.youtube-nocookie.com/embed/nmVNpFptjdk",
+    "https://www.youtube-nocookie.com/embed/jEl2uC8m-bE",
+    "https://www.youtube-nocookie.com/embed/nI2tPJ9Y3HA"
+  ],
+  "bpm": 150,
+  "tone": "F major",
+  "backings": [
+    "Arevik Grigoryan",
+    "Julieta Grigoryan",
+    "Mnats Khanagyan",
+    "Monika Manucharova",
+    "Sevak Musakhanyan"
+  ],
+  "commentators": [
+    "Avet Barseghyan",
+    "Felix Khachatryan"
+  ],
+  "composers": [
+    "Sevak Khanagyan"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Anna Danielyan",
+    "Viktorya Maloyan"
+  ],
+  "spokesperson": "Arsen Grigoryan",
+  "stageDirector": "Arthur Manukyan",
+  "writers": null
+}

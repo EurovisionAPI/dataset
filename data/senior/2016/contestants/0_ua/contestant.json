@@ -1,0 +1,38 @@
+{
+  "id": 0,
+  "country": "UA",
+  "broadcaster": "NTU",
+  "artist": "Jamala",
+  "artistPeople": [
+    "Susana Alimivna Jamaladinova (Суса́на Алі́мівна Джамаладі́нова)"
+  ],
+  "song": "1944",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/B-rnM-MwRHY",
+    "https://www.youtube-nocookie.com/embed/wNECV2h-y58",
+    "https://www.youtube-nocookie.com/embed/iExW72v0BSw",
+    "https://www.youtube-nocookie.com/embed/oxS6eKEOdLQ",
+    "https://www.youtube-nocookie.com/embed/LuTOk_Hny5g",
+    "https://www.youtube-nocookie.com/embed/P11j3HQumzY",
+    "https://www.youtube-nocookie.com/embed/a6drKQuLV3k"
+  ],
+  "bpm": 120,
+  "tone": "G minor",
+  "backings": [
+    "Alina Kosenko",
+    "Oleksandra Makarovska"
+  ],
+  "commentators": [
+    "Tetyana Terekhova",
+    "Timur Miroshnychenko"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Verka Serduchka, Verka's Mom",
+  "stageDirector": "Kostiantyn Tomilchenko, Oleksandr Bratkovskyi",
+  "writers": [
+    "Jamala"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 16,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Britt Synnøve Johansen",
+  "artistPeople": [
+    "Britt Synnøve Johansen"
+  ],
+  "song": "Venners nærhet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DGIUODWyzD4",
+    "https://www.youtube-nocookie.com/embed/ZnVViX5r_fU",
+    "https://www.youtube-nocookie.com/embed/dmKeWpvCMoc",
+    "https://www.youtube-nocookie.com/embed/nhG0iejEamo"
+  ],
+  "bpm": 76,
+  "tone": "G major",
+  "backings": [
+    "Elisabeth Moberg",
+    "Geir Rebbestad",
+    "Jon Dagsland",
+    "Kari Iveland"
+  ],
+  "commentators": [
+    "John Andreassen"
+  ],
+  "composers": [
+    "Inge Enoksen"
+  ],
+  "conductor": "Pete Knutsen",
+  "dancers": null,
+  "lyricists": [
+    "Leiv N. Grøtte"
+  ],
+  "spokesperson": "Sverre Christophersen",
+  "stageDirector": null,
+  "writers": null
+}

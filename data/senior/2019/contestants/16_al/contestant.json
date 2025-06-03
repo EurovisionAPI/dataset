@@ -1,0 +1,38 @@
+{
+  "id": 16,
+  "country": "AL",
+  "broadcaster": "RTSH",
+  "artist": "Jonida Maliqi",
+  "artistPeople": [
+    "Jonida Maliqi"
+  ],
+  "song": "Ktheju tokës",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-NAbYUoxIfg",
+    "https://www.youtube-nocookie.com/embed/eo4aFzAkQkA",
+    "https://www.youtube-nocookie.com/embed/OQFbA7yfzjo",
+    "https://www.youtube-nocookie.com/embed/-vZDCw9Pedw",
+    "https://www.youtube-nocookie.com/embed/eGH20RCBUyI",
+    "https://www.youtube-nocookie.com/embed/P0lToVjUzDM",
+    "https://www.youtube-nocookie.com/embed/BIIORUGI2xY"
+  ],
+  "bpm": 117,
+  "tone": "Eb minor",
+  "backings": [
+    "Artemisa Mithi",
+    "Tiri Gjoci",
+    "Wendi Mancaku"
+  ],
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Andri Xhahu",
+  "stageDirector": null,
+  "writers": [
+    "Eriona Rushiti"
+  ]
+}

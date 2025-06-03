@@ -1,0 +1,38 @@
+{
+  "id": 7,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Silver Convention",
+  "artistPeople": [
+    "Gertrude Wirschinger",
+    "Ramona Kraft",
+    "Rhonda Heath"
+  ],
+  "song": "Telegram",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/G4UJvU9MsRk",
+    "https://www.youtube-nocookie.com/embed/WJ0ntkBFh0A",
+    "https://www.youtube-nocookie.com/embed/FhlXmuopAs0"
+  ],
+  "bpm": 125,
+  "tone": "A major",
+  "backings": [
+    "Gary Unwin",
+    "Martin Harrison",
+    "Sylvester Levai"
+  ],
+  "commentators": [
+    "Werner Veigel"
+  ],
+  "composers": [
+    "Sylvester Levai"
+  ],
+  "conductor": "Ronnie Hazlehurst",
+  "dancers": null,
+  "lyricists": [
+    "Michael Kunze"
+  ],
+  "spokesperson": "Max Schautzer",
+  "stageDirector": null,
+  "writers": null
+}

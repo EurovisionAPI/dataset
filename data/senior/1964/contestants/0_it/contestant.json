@@ -1,0 +1,36 @@
+{
+  "id": 0,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Gigliola Cinquetti",
+  "artistPeople": [
+    "Gigliola Cinquetti"
+  ],
+  "song": "Non ho l'età",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/K-77-jkb_fs",
+    "https://www.youtube-nocookie.com/embed/NLQsb3wiBc8",
+    "https://www.youtube-nocookie.com/embed/OlatXlNvAnU",
+    "https://www.youtube-nocookie.com/embed/TCQx-Hn2coQ",
+    "https://www.youtube-nocookie.com/embed/f0VlC7Wj6j0",
+    "https://www.youtube-nocookie.com/embed/6oj11kNb46A",
+    "https://www.youtube-nocookie.com/embed/gCgKH15uPPI"
+  ],
+  "bpm": 99,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "composers": [
+    "Nicola Salerno"
+  ],
+  "conductor": "Gianfranco Monaldi",
+  "dancers": null,
+  "lyricists": [
+    "Mario Panzeri"
+  ],
+  "spokesperson": "Rosanna Vaudetti",
+  "stageDirector": null,
+  "writers": null
+}

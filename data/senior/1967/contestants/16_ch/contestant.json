@@ -1,0 +1,33 @@
+{
+  "id": 16,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Géraldine",
+  "artistPeople": [
+    "Géraldine Gogly"
+  ],
+  "song": "Quel cœur vas-tu briser ?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gWonRzGuSw4",
+    "https://www.youtube-nocookie.com/embed/WbzXWKtHFFg"
+  ],
+  "bpm": 95,
+  "tone": "Eb major",
+  "backings": null,
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "composers": [
+    "Daniel Faure"
+  ],
+  "conductor": "Hans Möckel",
+  "dancers": null,
+  "lyricists": [
+    "Gérard Gray"
+  ],
+  "spokesperson": "Alexandre Burger",
+  "stageDirector": null,
+  "writers": null
+}

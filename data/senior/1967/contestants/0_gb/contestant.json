@@ -1,0 +1,39 @@
+{
+  "id": 0,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Sandie Shaw",
+  "artistPeople": [
+    "Sandra Ann Goodrich"
+  ],
+  "song": "Puppet on a String",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gPbtFAQekqI",
+    "https://www.youtube-nocookie.com/embed/Ga1kMdJCc_Q",
+    "https://www.youtube-nocookie.com/embed/3pDEqvW5YAU",
+    "https://www.youtube-nocookie.com/embed/rJm2KaQRjGA",
+    "https://www.youtube-nocookie.com/embed/X9VkEww2C2s",
+    "https://www.youtube-nocookie.com/embed/F2QSHg9DyXo",
+    "https://www.youtube-nocookie.com/embed/P6yv1p9AKr4"
+  ],
+  "bpm": 123,
+  "tone": "C minor",
+  "backings": [
+    "Gloria George",
+    "Maggie Stredder",
+    "Marian Davies"
+  ],
+  "commentators": [
+    "Rolf Harris"
+  ],
+  "composers": null,
+  "conductor": "Kenny Woodman",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Michael Aspel",
+  "stageDirector": null,
+  "writers": [
+    "Bill Martin",
+    "Phil Coulter"
+  ]
+}

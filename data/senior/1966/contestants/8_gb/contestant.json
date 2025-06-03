@@ -1,0 +1,31 @@
+{
+  "id": 8,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Kenneth McKellar",
+  "artistPeople": [
+    "Kenneth McKellar"
+  ],
+  "song": "A Man Without Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZGmmW6RFz0E",
+    "https://www.youtube-nocookie.com/embed/AfURdA-KpAQ"
+  ],
+  "bpm": 106,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": [
+    "David Jacobs"
+  ],
+  "composers": [
+    "Cyril Ornadel"
+  ],
+  "conductor": "Harry Rabinowitz",
+  "dancers": null,
+  "lyricists": [
+    "Peter Callander"
+  ],
+  "spokesperson": "Michael Aspel",
+  "stageDirector": null,
+  "writers": null
+}

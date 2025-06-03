@@ -1,0 +1,36 @@
+{
+  "id": 1,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Raphael Gualazzi",
+  "artistPeople": [
+    "Raffaele Gualazzi"
+  ],
+  "song": "Madness Of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TE0uNLp3LuU",
+    "https://www.youtube-nocookie.com/embed/bjJ-0Q6ZVUM"
+  ],
+  "bpm": 144,
+  "tone": "G major",
+  "backings": [
+    "Christian Chicco Marini",
+    "Giuseppe Conte",
+    "Luigi Faggi Grigioni",
+    "Manuele Montanari",
+    "Massimo Valentini"
+  ],
+  "commentators": [
+    "Bob Sinclar",
+    "Raffaella Carrà"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Raffaella Carrà",
+  "stageDirector": null,
+  "writers": [
+    "Raphael Gualazzi"
+  ]
+}

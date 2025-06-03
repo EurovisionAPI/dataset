@@ -1,0 +1,38 @@
+{
+  "id": 11,
+  "country": "YU",
+  "broadcaster": "JRT",
+  "artist": "Korni",
+  "artistPeople": [
+    "Bojan Hreljac",
+    "Josip Bocek",
+    "Kornelije Kovač",
+    "Vladimir Furduj",
+    "Zlatko Pejaković"
+  ],
+  "song": "Generacija '42",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4y8ySFKIEkc",
+    "https://www.youtube-nocookie.com/embed/27ez2U58t3o",
+    "https://www.youtube-nocookie.com/embed/gHCkezEyghU",
+    "https://www.youtube-nocookie.com/embed/IxoxM4lQ6h0",
+    "https://www.youtube-nocookie.com/embed/xNRgEJRif9w"
+  ],
+  "bpm": 91,
+  "tone": "E major",
+  "backings": null,
+  "commentators": [
+    "Milovan Ilić",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "composers": null,
+  "conductor": "Zvonimir Skerl",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Helga Vlahović",
+  "stageDirector": null,
+  "writers": [
+    "Kornelije Kovač"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 7,
+  "country": "LT",
+  "broadcaster": "LRT",
+  "artist": "The Roop",
+  "artistPeople": [
+    "Vaidotas Valiukevičius"
+  ],
+  "song": "Discoteque",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JNweec5olYw",
+    "https://www.youtube-nocookie.com/embed/ZGsjtJn4aAo",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/AWoDP1oBNDc",
+    "https://www.youtube-nocookie.com/embed/CWqrdzNoBKA",
+    "https://www.youtube-nocookie.com/embed/8Kcm-uZSslw",
+    "https://www.youtube-nocookie.com/embed/Uemmx6qy_48"
+  ],
+  "bpm": 115,
+  "tone": "F minor",
+  "backings": [
+    "Mantas Banišauskas",
+    "Robertas Baranauskas"
+  ],
+  "commentators": [
+    "Ramūnas Zilnys"
+  ],
+  "composers": [
+    "Ilkka Wirtanen",
+    "Laisvūnas Černovas",
+    "Mantas Banišauskas",
+    "Robertas Baranauskas",
+    "Vaidotas Valiukevičius"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Marijanas Staniulėnas",
+    "Miglė Praniauskaitė"
+  ],
+  "lyricists": [
+    "Kalle Lindroth",
+    "Mantas Banišauskas",
+    "Vaidotas Valiukevičius"
+  ],
+  "spokesperson": "Andrius Mamontovas",
+  "stageDirector": "Povilas Varvuolis",
+  "writers": null
+}

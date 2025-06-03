@@ -1,0 +1,35 @@
+{
+  "id": 7,
+  "country": "FR",
+  "broadcaster": "France 3",
+  "artist": "Patricia Kaas",
+  "artistPeople": [
+    "Patricia Kaas"
+  ],
+  "song": "Et s'il fallait le faire",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6gee9Qh6iVg",
+    "https://www.youtube-nocookie.com/embed/VkzCKWs2d40",
+    "https://www.youtube-nocookie.com/embed/UQtxVITZk44"
+  ],
+  "bpm": 123,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": [
+    "Cyril Hanouna",
+    "Julien Courbet",
+    "Peggy Olmi",
+    "Yann Renoard"
+  ],
+  "composers": [
+    "Fred Blondin"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Anse Lazio"
+  ],
+  "spokesperson": "Yann Renoard",
+  "stageDirector": null,
+  "writers": null
+}

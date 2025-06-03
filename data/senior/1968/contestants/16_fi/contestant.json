@@ -1,0 +1,33 @@
+{
+  "id": 16,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Kristina Hautala",
+  "artistPeople": [
+    "Kristina Hautala"
+  ],
+  "song": "Kun kello käy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yvhqQZ0PdOA",
+    "https://www.youtube-nocookie.com/embed/-tG6wgYKqvA",
+    "https://www.youtube-nocookie.com/embed/hN3JMXvW5KI",
+    "https://www.youtube-nocookie.com/embed/Obha23us9Vo"
+  ],
+  "bpm": 78,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": [
+    "Aarno Walli"
+  ],
+  "composers": [
+    "Esko Linnavalli"
+  ],
+  "conductor": "Ossi Runne",
+  "dancers": null,
+  "lyricists": [
+    "Juha Vainio"
+  ],
+  "spokesperson": "Poppe Berg",
+  "stageDirector": null,
+  "writers": null
+}

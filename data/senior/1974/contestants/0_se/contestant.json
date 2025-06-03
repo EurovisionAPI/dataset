@@ -1,0 +1,43 @@
+{
+  "id": 0,
+  "country": "SE",
+  "broadcaster": "SR",
+  "artist": "ABBA",
+  "artistPeople": [
+    "Agneta Åse Fältskog",
+    "Anni-Frid Synni Lyngstad",
+    "Göran Bror Benny Andersson",
+    "Björn Kristian Ulvaeus"
+  ],
+  "song": "Waterloo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Kb-Mj0Nd5gw",
+    "https://www.youtube-nocookie.com/embed/Sj_9CiNkkn4",
+    "https://www.youtube-nocookie.com/embed/KUUhu6Fi9ds",
+    "https://www.youtube-nocookie.com/embed/r_rOmxKfslk",
+    "https://www.youtube-nocookie.com/embed/mcssw3utx7o",
+    "https://www.youtube-nocookie.com/embed/9y-8ZiAJiQo",
+    "https://www.youtube-nocookie.com/embed/e_IgEUkIP3s"
+  ],
+  "bpm": 147,
+  "tone": "D major",
+  "backings": [
+    "Ola Brunkert",
+    "Rutger Gunnarsson"
+  ],
+  "commentators": [
+    "Johan Sandström"
+  ],
+  "composers": [
+    "Benny Andersson",
+    "Björn Ulvaeus"
+  ],
+  "conductor": "Sven-Olof Walldoff",
+  "dancers": null,
+  "lyricists": [
+    "Stikkan Anderson"
+  ],
+  "spokesperson": "Sven Lindahl",
+  "stageDirector": null,
+  "writers": null
+}

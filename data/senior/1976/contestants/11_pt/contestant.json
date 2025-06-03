@@ -1,0 +1,36 @@
+{
+  "id": 11,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Carlos do Carmo",
+  "artistPeople": [
+    "Carlos Alberto do Carmo Almeida"
+  ],
+  "song": "Uma flor de verde pinho",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/b2J-3jYcmGU",
+    "https://www.youtube-nocookie.com/embed/bwHmCTZEuG0",
+    "https://www.youtube-nocookie.com/embed/-Wg1SQYxQqo"
+  ],
+  "bpm": 136,
+  "tone": "G major",
+  "backings": [
+    "António Chainho",
+    "José Maria Nóbrega",
+    "Siegfried Sugg"
+  ],
+  "commentators": [
+    "Eládio Clímaco"
+  ],
+  "composers": [
+    "José Niza"
+  ],
+  "conductor": "Thilo Krasmann",
+  "dancers": null,
+  "lyricists": [
+    "Manuel Alegre"
+  ],
+  "spokesperson": "Ana Zanatti",
+  "stageDirector": null,
+  "writers": null
+}

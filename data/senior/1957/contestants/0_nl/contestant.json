@@ -1,0 +1,36 @@
+{
+  "id": 0,
+  "country": "NL",
+  "broadcaster": "NTS",
+  "artist": "Corry Brokken",
+  "artistPeople": [
+    "Corry Brokken"
+  ],
+  "song": "Net als toen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/etHrsNTsJqM",
+    "https://www.youtube-nocookie.com/embed/X-S6b5ua7ns",
+    "https://www.youtube-nocookie.com/embed/h_p-2jWOlFw",
+    "https://www.youtube-nocookie.com/embed/hDWUnFFpCaU",
+    "https://www.youtube-nocookie.com/embed/H4MFnI0cokg"
+  ],
+  "bpm": 120,
+  "tone": "Ab major",
+  "backings": [
+    "Sem Nijveen"
+  ],
+  "commentators": [
+    "Piet te Nuyl Jr."
+  ],
+  "composers": [
+    "Guus Jansen"
+  ],
+  "conductor": "Dolf van der Linden",
+  "dancers": null,
+  "lyricists": [
+    "Willy van Hemert"
+  ],
+  "spokesperson": "Willem Duys",
+  "stageDirector": null,
+  "writers": null
+}

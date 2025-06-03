@@ -1,0 +1,44 @@
+{
+  "id": 16,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Gry Johansen",
+  "artistPeople": [
+    "Gry Johansen"
+  ],
+  "song": "Kloden drejer",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cYzbevgyfJY",
+    "https://www.youtube-nocookie.com/embed/qU4fDyyMszc",
+    "https://www.youtube-nocookie.com/embed/h5waUYNuUYs",
+    "https://www.youtube-nocookie.com/embed/stxBohjJkg0",
+    "https://www.youtube-nocookie.com/embed/IWPa5_4EYdw"
+  ],
+  "bpm": 118,
+  "tone": "D major",
+  "backings": [
+    "Christian Jacobsen",
+    "Flemming Gernyx",
+    "Lars Christensen",
+    "Lei Moe",
+    "Lupe Moe"
+  ],
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "composers": [
+    "Christian Jacobsen",
+    "Flemming Gernyx",
+    "Lars Christensen"
+  ],
+  "conductor": "Allan Botschinsky",
+  "dancers": null,
+  "lyricists": [
+    "Billy Cross",
+    "Christian Jacobsen",
+    "Flemming Gernyx"
+  ],
+  "spokesperson": "Bent Henius",
+  "stageDirector": null,
+  "writers": null
+}

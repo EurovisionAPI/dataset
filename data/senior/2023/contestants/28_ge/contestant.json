@@ -1,0 +1,37 @@
+{
+  "id": 28,
+  "country": "GE",
+  "broadcaster": "GPB",
+  "artist": "Iru",
+  "artistPeople": [
+    "Irina Khechanovi (ირინა ხეჩანოვი)"
+  ],
+  "song": "Echo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HNvGZeEQvfc",
+    "https://www.youtube-nocookie.com/embed/E8kO-QPippo",
+    "https://www.youtube-nocookie.com/embed/vMK4rTAGvj4",
+    "https://www.youtube-nocookie.com/embed/SfxiVscQsiI",
+    "https://www.youtube-nocookie.com/embed/iS1hQyXbKnE",
+    "https://www.youtube-nocookie.com/embed/Ub_bwvOnxYU",
+    "https://www.youtube-nocookie.com/embed/F9AP5DSA9tc"
+  ],
+  "bpm": 145,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": [
+    "Nika Lobiladze"
+  ],
+  "composers": [
+    "George Kukhianidze"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Beni Kadagidze",
+    "Iru Khechanovi"
+  ],
+  "spokesperson": "Iago Waitman",
+  "stageDirector": "Marvin Dietmann",
+  "writers": null
+}

@@ -1,0 +1,16 @@
+{
+  "year": 2003,
+  "arena": "Skonto Olympic Hall",
+  "city": "Riga",
+  "country": "LV",
+  "intendedCountry": null,
+  "slogan": "Magical Rendez-vous",
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2003.png",
+  "presenters": [
+    "Marie N.",
+    "Renars Kaupers"
+  ],
+  "broadcasters": [
+    "LTV"
+  ]
+}

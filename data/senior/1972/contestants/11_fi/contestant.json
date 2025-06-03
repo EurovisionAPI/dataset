@@ -1,0 +1,33 @@
+{
+  "id": 11,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Päivi Paunu and Kim Floor",
+  "artistPeople": [
+    "Kim Floor",
+    "Päivi Paunu"
+  ],
+  "song": "Muistathan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RUomCAgQwKs",
+    "https://www.youtube-nocookie.com/embed/HZ5bmXjGQII"
+  ],
+  "bpm": null,
+  "tone": null,
+  "backings": null,
+  "commentators": [
+    "Heikki Seppälä"
+  ],
+  "composers": [
+    "Juha Flinck",
+    "Nacke Johansson"
+  ],
+  "conductor": "Ossi Runne",
+  "dancers": null,
+  "lyricists": [
+    "Juha Flinck"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

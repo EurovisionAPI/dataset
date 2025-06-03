@@ -1,0 +1,34 @@
+{
+  "id": 2,
+  "country": "RU",
+  "broadcaster": "C1R",
+  "artist": "t.A.T.u.",
+  "artistPeople": [
+    "Elena Sergeevna Katina",
+    "Yulia Olegovna Volkova"
+  ],
+  "song": "Ne Ver', Ne Boisia",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YrN9FPqcjek",
+    "https://www.youtube-nocookie.com/embed/pF1pKFiGXYw",
+    "https://www.youtube-nocookie.com/embed/1DOcdr9SLsA"
+  ],
+  "bpm": 136,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": [
+    "Elena Batinova",
+    "Yuriy Aksuta"
+  ],
+  "composers": [
+    "Valeriy Polienko"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Mars Lasar"
+  ],
+  "spokesperson": "Yana Churikova",
+  "stageDirector": null,
+  "writers": null
+}

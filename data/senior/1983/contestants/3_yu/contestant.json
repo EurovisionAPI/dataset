@@ -1,0 +1,41 @@
+{
+  "id": 3,
+  "country": "YU",
+  "broadcaster": "JRT",
+  "artist": "Danijel",
+  "artistPeople": [
+    "Milan Popović"
+  ],
+  "song": "Džuli",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3mQ2Rdd7nb0",
+    "https://www.youtube-nocookie.com/embed/R0xQH4ZDkuc",
+    "https://www.youtube-nocookie.com/embed/XTMSnIdkrrk",
+    "https://www.youtube-nocookie.com/embed/mSfe7s8ulsk",
+    "https://www.youtube-nocookie.com/embed/ptCP3pkFJCI",
+    "https://www.youtube-nocookie.com/embed/Bh3ludx7A_4"
+  ],
+  "bpm": 90,
+  "tone": "F major",
+  "backings": [
+    "Eleonora Barudžija",
+    "Izolda Barudžija",
+    "Mato Došen"
+  ],
+  "commentators": [
+    "Mladen Popović",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "composers": [
+    "Milan Popović"
+  ],
+  "conductor": "Radovan Papović",
+  "dancers": null,
+  "lyricists": [
+    "Mario Mihaljević"
+  ],
+  "spokesperson": "Boško Negovanović",
+  "stageDirector": null,
+  "writers": null
+}

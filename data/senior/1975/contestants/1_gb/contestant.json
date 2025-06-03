@@ -1,0 +1,33 @@
+{
+  "id": 1,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "The Shadows",
+  "artistPeople": [
+    "Brian Bennett",
+    "Bruce Welch",
+    "Brian Robson Rankin",
+    "John Evans"
+  ],
+  "song": "Let Me Be the One",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/aWHZhyhGBF0",
+    "https://www.youtube-nocookie.com/embed/F_CX_YOAjeg",
+    "https://www.youtube-nocookie.com/embed/59RvRrA4Hf0"
+  ],
+  "bpm": 87,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Pete Murray"
+  ],
+  "composers": null,
+  "conductor": "Alyn Ainsworth",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ray Moore",
+  "stageDirector": null,
+  "writers": [
+    "Paul Curtis"
+  ]
+}

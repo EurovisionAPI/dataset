@@ -1,0 +1,36 @@
+{
+  "id": 6,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Romina & Al Bano",
+  "artistPeople": [
+    "Albano Carrisi",
+    "Romina Power"
+  ],
+  "song": "We'll Live It All Again",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/c-0vMIx0e00",
+    "https://www.youtube-nocookie.com/embed/zwO5WsSFEKg"
+  ],
+  "bpm": 110,
+  "tone": "G minor",
+  "backings": [
+    "Angela Casale",
+    "Rossana Casale"
+  ],
+  "commentators": [
+    "Silvio Noto"
+  ],
+  "composers": [
+    "Detto Mariano"
+  ],
+  "conductor": "Maurizio Fabrizio",
+  "dancers": null,
+  "lyricists": [
+    "Albano Carrisi",
+    "Romina Power"
+  ],
+  "spokesperson": "Rosanna Vaudetti",
+  "stageDirector": null,
+  "writers": null
+}

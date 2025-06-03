@@ -1,0 +1,36 @@
+{
+  "id": 17,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Filipa Azevedo",
+  "artistPeople": [
+    "Filipa Azevedo"
+  ],
+  "song": "Há dias assim",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dI1_UmwKNOM",
+    "https://www.youtube-nocookie.com/embed/wNngyFnyaPM",
+    "https://www.youtube-nocookie.com/embed/jkpZwVQ98rQ",
+    "https://www.youtube-nocookie.com/embed/vQI4X4BL4Qw"
+  ],
+  "bpm": 132,
+  "tone": "B minor",
+  "backings": [
+    "Augusto Madureira",
+    "Patrícia Antunes",
+    "Patrícia Silveira",
+    "Pedro Mimoso"
+  ],
+  "commentators": [
+    "Sérgio Mateus"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ana Galvão",
+  "stageDirector": null,
+  "writers": [
+    "Augusto Madureira"
+  ]
+}

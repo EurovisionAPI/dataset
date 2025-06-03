@@ -1,0 +1,35 @@
+{
+  "id": 23,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Tor Endresen",
+  "artistPeople": [
+    "Tor Endresen"
+  ],
+  "song": "San Francisco",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HdcwLB2kXFs",
+    "https://www.youtube-nocookie.com/embed/EytTUpakZCA",
+    "https://www.youtube-nocookie.com/embed/rttPmwsp6Tk"
+  ],
+  "bpm": 136,
+  "tone": "G major",
+  "backings": [
+    "Marian Lisland"
+  ],
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "composers": [
+    "Arne Myksvoll",
+    "Tor Endresen"
+  ],
+  "conductor": "Geir Langslet",
+  "dancers": null,
+  "lyricists": [
+    "Tor Endresen"
+  ],
+  "spokesperson": "Ragnhild Sælthun Fjørtoft",
+  "stageDirector": null,
+  "writers": null
+}

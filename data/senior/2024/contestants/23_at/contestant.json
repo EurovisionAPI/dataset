@@ -1,0 +1,44 @@
+{
+  "id": 23,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "Kaleen",
+  "artistPeople": [
+    "Marie-Sophie Kreissl"
+  ],
+  "song": "We Will Rave",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VZ6SlZnk_EI",
+    "https://www.youtube-nocookie.com/embed/Kqda15G4T-4",
+    "https://www.youtube-nocookie.com/embed/KqSuRaN9zFk",
+    "https://www.youtube-nocookie.com/embed/96CopzRBOeo",
+    "https://www.youtube-nocookie.com/embed/TxwKjq0bTys",
+    "https://www.youtube-nocookie.com/embed/HA4XfnGxye4",
+    "https://www.youtube-nocookie.com/embed/kkAf_3Vw-1I"
+  ],
+  "bpm": 140,
+  "tone": "Ab major",
+  "backings": [
+    "Dea Norberg"
+  ],
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Bradley Salter",
+    "Chase Vollenweider",
+    "Jaih Betote",
+    "Luca Rainbow"
+  ],
+  "lyricists": null,
+  "spokesperson": "Philipp Hansa",
+  "stageDirector": "Dan Shipton, Marvin Dietmann",
+  "writers": [
+    "Anderz Wrethov",
+    "Jimmy Joker",
+    "Kill J",
+    "Thomas Stengaard"
+  ]
+}

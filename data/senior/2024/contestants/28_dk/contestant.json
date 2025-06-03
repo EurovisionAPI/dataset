@@ -1,0 +1,38 @@
+{
+  "id": 28,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Saba",
+  "artistPeople": [
+    "Anna Saba Lykke Oehlenschlæger"
+  ],
+  "song": "Sand",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4f_phiGot7w",
+    "https://www.youtube-nocookie.com/embed/6ekwBrQ_Ol4",
+    "https://www.youtube-nocookie.com/embed/3pCtdFnv9eQ",
+    "https://www.youtube-nocookie.com/embed/3SFruUcGWDg",
+    "https://www.youtube-nocookie.com/embed/0Vvk2vs3F7E",
+    "https://www.youtube-nocookie.com/embed/rWHmlPXT65Y",
+    "https://www.youtube-nocookie.com/embed/rcGD8ZDEmag"
+  ],
+  "bpm": 114,
+  "tone": "E minor",
+  "backings": [
+    "Melanie Wehbe"
+  ],
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Stéphanie Surrugue",
+  "stageDirector": null,
+  "writers": [
+    "Jonas Thander",
+    "Melanie Wehbe",
+    "Pil Kalinka Nygaard Jeppesen"
+  ]
+}

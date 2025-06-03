@@ -1,0 +1,40 @@
+{
+  "id": 36,
+  "country": "EE",
+  "broadcaster": "ERR",
+  "artist": "Gerli Padar",
+  "artistPeople": [
+    "Gerli Padar"
+  ],
+  "song": "Partners In Crime",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/U_ESE5inG-I",
+    "https://www.youtube-nocookie.com/embed/QNZeE4_YMqk",
+    "https://www.youtube-nocookie.com/embed/eCIeYk7rb1U",
+    "https://www.youtube-nocookie.com/embed/OivGWwz0XVg",
+    "https://www.youtube-nocookie.com/embed/RCejEiFksvQ"
+  ],
+  "bpm": 115,
+  "tone": "E minor",
+  "backings": [
+    "Aleksandr Makarov",
+    "Johanna Münter",
+    "Marko Kiigajaan",
+    "Martin Parmas",
+    "Mirjam Mesak"
+  ],
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "composers": [
+    "Hendrik Sal-Saller"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Berit Veiber"
+  ],
+  "spokesperson": "Laura Põldvere",
+  "stageDirector": null,
+  "writers": null
+}

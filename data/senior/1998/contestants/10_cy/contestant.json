@@ -1,0 +1,39 @@
+{
+  "id": 10,
+  "country": "CY",
+  "broadcaster": "CyBC",
+  "artist": "Michael Hajiyanni",
+  "artistPeople": [
+    "Michalis Hatzigiannis"
+  ],
+  "song": "Genesis",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VfYp4-583mE",
+    "https://www.youtube-nocookie.com/embed/-IDb9G4-Av4",
+    "https://www.youtube-nocookie.com/embed/mdjHiR0kx_E",
+    "https://www.youtube-nocookie.com/embed/C_WpiHcuHlQ"
+  ],
+  "bpm": 97,
+  "tone": "E major",
+  "backings": [
+    "Corinna Avraamidou",
+    "Irini Cacogiannis",
+    "Riana Athanasiou",
+    "Sylvia Theologidou",
+    "Zoë Nicolaidou"
+  ],
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "composers": [
+    "Michael Hajiyanni"
+  ],
+  "conductor": "Costa Cacoyiannis",
+  "dancers": null,
+  "lyricists": [
+    "Zenon Zindilis"
+  ],
+  "spokesperson": "Marina Maleni",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": 18,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Christos Callow & Wave",
+  "artistPeople": [
+    "Christos Callow"
+  ],
+  "song": "Horis skopo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1Cuw59kLtko",
+    "https://www.youtube-nocookie.com/embed/8x7ZSPsm8Fw",
+    "https://www.youtube-nocookie.com/embed/CLk_ssJiWLs"
+  ],
+  "bpm": 129,
+  "tone": "F major",
+  "backings": [
+    "Fotini Savvatianou"
+  ],
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "composers": [
+    "Yiorgos Palaiokastritis"
+  ],
+  "conductor": "Michalis Rozakis",
+  "dancers": null,
+  "lyricists": [
+    "Yiorgos Papayanakis"
+  ],
+  "spokesperson": "Fotini Giannoulatou",
+  "stageDirector": null,
+  "writers": null
+}

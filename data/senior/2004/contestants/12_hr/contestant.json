@@ -1,0 +1,41 @@
+{
+  "id": 12,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Ivan Mikulic",
+  "artistPeople": [
+    "Ivan Mikulić"
+  ],
+  "song": "You Are The Only One",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WnuBcWHRMjY",
+    "https://www.youtube-nocookie.com/embed/qomCjt4tWso",
+    "https://www.youtube-nocookie.com/embed/4xaOgkSf6Ok",
+    "https://www.youtube-nocookie.com/embed/LECnsKwXEY8",
+    "https://www.youtube-nocookie.com/embed/2P4vmPSuCM4",
+    "https://www.youtube-nocookie.com/embed/7rk35Efe9gg"
+  ],
+  "bpm": 107,
+  "tone": "E major",
+  "backings": [
+    "Daria Hodnik",
+    "Dragan Brnas-Fudo",
+    "Ivana Čabraja",
+    "Vladimir Pavelić-Bubi"
+  ],
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "composers": [
+    "Ivan Mikulić",
+    "Vedran Ostojić"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Duško Gruborović"
+  ],
+  "spokesperson": "Barbara Kolar",
+  "stageDirector": null,
+  "writers": null
+}

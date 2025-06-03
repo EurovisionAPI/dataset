@@ -1,0 +1,39 @@
+{
+  "id": 25,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Manel Navarro",
+  "artistPeople": [
+    "Manel Navarro Quesada"
+  ],
+  "song": "Do It for Your Lover",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qAOXHdLdlqQ",
+    "https://www.youtube-nocookie.com/embed/9jO32_trJq4",
+    "https://www.youtube-nocookie.com/embed/AWIupy45Lvg",
+    "https://www.youtube-nocookie.com/embed/SwS45HBhzTs",
+    "https://www.youtube-nocookie.com/embed/crNAKzLULG8",
+    "https://www.youtube-nocookie.com/embed/i0ziyPSnFh4",
+    "https://www.youtube-nocookie.com/embed/13meP5Xo_j4"
+  ],
+  "bpm": 172,
+  "tone": "G major",
+  "backings": [
+    "Alejandro de los Santos",
+    "Álex González"
+  ],
+  "commentators": [
+    "José María Íñigo",
+    "Julia Varela"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Nieves Álvarez",
+  "stageDirector": "Hans Pannecoucke",
+  "writers": [
+    "Antonio Rayo",
+    "Manel Navarro"
+  ]
+}

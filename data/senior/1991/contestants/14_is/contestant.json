@@ -1,0 +1,36 @@
+{
+  "id": 14,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Stefán & Eyfi",
+  "artistPeople": [
+    "Eyjólfur Kristjánsson",
+    "Stefán Hilmarsson"
+  ],
+  "song": "Nina",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qYX-L3dPCNg",
+    "https://www.youtube-nocookie.com/embed/gYku191tkZU",
+    "https://www.youtube-nocookie.com/embed/mM3C8tsJO8w"
+  ],
+  "bpm": 158,
+  "tone": "F# minor",
+  "backings": [
+    "Erna Þórarinsdóttir",
+    "Eva Ásrún Albertsdóttir",
+    "Eyþór Arnalds",
+    "Richard Scobie"
+  ],
+  "commentators": [
+    "Arthúr Björgvin Bollason"
+  ],
+  "composers": null,
+  "conductor": "Jón Ólafsson",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Sigríður Pétursdóttir",
+  "stageDirector": null,
+  "writers": [
+    "Eyjólfur Kristjánsson"
+  ]
+}

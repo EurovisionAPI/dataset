@@ -1,0 +1,37 @@
+{
+  "id": 26,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Suzy",
+  "artistPeople": [
+    "Susana Guerra"
+  ],
+  "song": "Quero Ser Tua",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fhMbHLiEjS4",
+    "https://www.youtube-nocookie.com/embed/GhPS0237eJ4",
+    "https://www.youtube-nocookie.com/embed/n7hPA5iC-Wk",
+    "https://www.youtube-nocookie.com/embed/zSfRFR7UQX4"
+  ],
+  "bpm": 130,
+  "tone": "G minor",
+  "backings": [
+    "Marta Mota",
+    "Sara Campina"
+  ],
+  "commentators": [
+    "Sílvia Alberto"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Luís Filipe Pimenta",
+    "Renato Nobre"
+  ],
+  "lyricists": null,
+  "spokesperson": "Joana Teles",
+  "stageDirector": null,
+  "writers": [
+    "Emanuel"
+  ]
+}

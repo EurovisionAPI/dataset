@@ -1,0 +1,46 @@
+{
+  "id": 13,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Justyna Steczkowska",
+  "artistPeople": [
+    "Justyna Maria Steczkowska"
+  ],
+  "song": "Gaja",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eg5RtEX1zJ0",
+    "https://www.youtube-nocookie.com/embed/NQXhvclWuPE",
+    "https://www.youtube-nocookie.com/embed/YXHHDjiclxA",
+    "https://www.youtube-nocookie.com/embed/cm6ixn7bkWs",
+    "https://www.youtube-nocookie.com/embed/3kTsiKE7AWw",
+    "https://www.youtube-nocookie.com/embed/ewWpPY3l88Q",
+    "https://www.youtube-nocookie.com/embed/Lx-eZN99KTM"
+  ],
+  "bpm": 116,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "composers": [
+    "Dominic Buczkowski-Wojtaszek",
+    "Emilian Waluchowski",
+    "Justyna Steczkowska",
+    "Patryk Kumór"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Jakub Walica",
+    "Krzysztof Jagodziński",
+    "Milena Zdzuj",
+    "Piotr Musiałkowski"
+  ],
+  "lyricists": [
+    "Emilian Waluchowski",
+    "Justyna Steczkowska",
+    "Patryk Kumór"
+  ],
+  "spokesperson": "Aleksandra Budka",
+  "stageDirector": "Jacek Dybowski",
+  "writers": null
+}

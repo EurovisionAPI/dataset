@@ -1,0 +1,35 @@
+{
+  "id": 11,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Alma Lusa",
+  "artistPeople": [
+    "Carlos Ferreirinha",
+    "Carlos Jesus",
+    "Henrique Lopes",
+    "Inês Santos",
+    "José Cid",
+    "Pedro Soares"
+  ],
+  "song": "Se eu te pudesse abraçar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6nvqZJbD29k",
+    "https://www.youtube-nocookie.com/embed/N2DJEH6gUfc",
+    "https://www.youtube-nocookie.com/embed/l1vGC0AU0HU"
+  ],
+  "bpm": 172,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Rui Unas"
+  ],
+  "composers": null,
+  "conductor": "Mike Sergeant",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Lúcia Moniz",
+  "stageDirector": null,
+  "writers": [
+    "José Cid"
+  ]
+}

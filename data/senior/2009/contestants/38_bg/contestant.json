@@ -1,0 +1,45 @@
+{
+  "id": 38,
+  "country": "BG",
+  "broadcaster": "BNT",
+  "artist": "Krassimir Avramov",
+  "artistPeople": [
+    "Krassimir Avramov"
+  ],
+  "song": "Illusion",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ov4QYpIttF0",
+    "https://www.youtube-nocookie.com/embed/8MLp-GepMY8",
+    "https://www.youtube-nocookie.com/embed/97q8ThPBus4",
+    "https://www.youtube-nocookie.com/embed/1KLVhdCIJ6g",
+    "https://www.youtube-nocookie.com/embed/GMgP2n80FwM",
+    "https://www.youtube-nocookie.com/embed/LR9JmWKSNiY"
+  ],
+  "bpm": 130,
+  "tone": "E minor",
+  "backings": [
+    "Albena Veskova",
+    "Anna Lozanova",
+    "Carin Noland",
+    "Petya Buyklieva",
+    "Trey Knight"
+  ],
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "composers": [
+    "Krassimir Avramov",
+    "William Tabanou"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Casie Tabanou",
+    "Krassimir Avramov",
+    "William Tabanou"
+  ],
+  "spokesperson": "Yoanna Dragneva",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": 12,
+  "country": "RO",
+  "broadcaster": "TVR",
+  "artist": "Cezar",
+  "artistPeople": [
+    "Florin Cezar Ouatu"
+  ],
+  "song": "It's My Life",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VgHWFiavqjA",
+    "https://www.youtube-nocookie.com/embed/MpEkUQUmmrM",
+    "https://www.youtube-nocookie.com/embed/u--RjPlm7d8",
+    "https://www.youtube-nocookie.com/embed/N0mba0g7Esk",
+    "https://www.youtube-nocookie.com/embed/eWTpnQtY8qQ"
+  ],
+  "bpm": 135,
+  "tone": "B minor",
+  "backings": [
+    "Alexandra Toma",
+    "Florentin Munteanu",
+    "Sandra Mavhima",
+    "Simona Deaconescu",
+    "Sivu Mititelu"
+  ],
+  "commentators": [
+    "Liana Stanciu"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Sonia Argint-Ionescu",
+  "stageDirector": null,
+  "writers": [
+    "Christian Faur"
+  ]
+}

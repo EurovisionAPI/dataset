@@ -1,0 +1,39 @@
+{
+  "id": 22,
+  "country": "IL",
+  "broadcaster": "IBA",
+  "artist": "Imri Ziv",
+  "artistPeople": [
+    "Imri Ziv"
+  ],
+  "song": "I Feel Alive",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YapnW_zfWJk",
+    "https://www.youtube-nocookie.com/embed/XDURs6wwxJM",
+    "https://www.youtube-nocookie.com/embed/RueNedKCvGA",
+    "https://www.youtube-nocookie.com/embed/KylBM15zvSQ",
+    "https://www.youtube-nocookie.com/embed/kh7ubjvQxtM",
+    "https://www.youtube-nocookie.com/embed/dHL5WeQ00MU"
+  ],
+  "bpm": 125,
+  "tone": "F major",
+  "backings": [
+    "Almog Kapach",
+    "Alon Sharr",
+    "Ido Geva"
+  ],
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Adam Cohen",
+    "Tomer Tenenboym"
+  ],
+  "lyricists": null,
+  "spokesperson": "Ofer Nachshon",
+  "stageDirector": null,
+  "writers": [
+    "Dolev Ram",
+    "Penn Hazut"
+  ]
+}

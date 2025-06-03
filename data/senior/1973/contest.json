@@ -1,0 +1,15 @@
+{
+  "year": 1973,
+  "arena": "Nouveau Théâtre",
+  "city": "Luxembourg",
+  "country": "LU",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1973.png",
+  "presenters": [
+    "Helga Guitton"
+  ],
+  "broadcasters": [
+    "CLT"
+  ]
+}

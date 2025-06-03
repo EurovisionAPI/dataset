@@ -1,0 +1,32 @@
+{
+  "id": 13,
+  "country": "TR",
+  "broadcaster": "TRT",
+  "artist": "Tüzmen",
+  "artistPeople": [
+    "Tarkan Tüzmen"
+  ],
+  "song": "Unutamazsın",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zOa-AtCdSzw",
+    "https://www.youtube-nocookie.com/embed/27LgBugVrXY",
+    "https://www.youtube-nocookie.com/embed/lwH7JgJWUyI"
+  ],
+  "bpm": 148,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": [
+    "Ömer Önder"
+  ],
+  "composers": [
+    "Erdinç Tunç"
+  ],
+  "conductor": "Ümit Eroğlu",
+  "dancers": null,
+  "lyricists": [
+    "Canan Tunç"
+  ],
+  "spokesperson": "Osman Erkan",
+  "stageDirector": null,
+  "writers": null
+}

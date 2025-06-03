@@ -1,0 +1,41 @@
+{
+  "id": 11,
+  "country": "FR",
+  "broadcaster": "France 3",
+  "artist": "Jessy Matador",
+  "artistPeople": [
+    "Jessy Matador"
+  ],
+  "song": "Allez olla olé",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-NlvQ6Ln9fc",
+    "https://www.youtube-nocookie.com/embed/4acm3gcWhAE",
+    "https://www.youtube-nocookie.com/embed/1SDGlpVpQJg"
+  ],
+  "bpm": 129,
+  "tone": "E minor",
+  "backings": [
+    "Jessie Fasano",
+    "Nedjim Mahtallah"
+  ],
+  "commentators": [
+    "Cyril Hanouna",
+    "Peggy Olmi",
+    "Stéphane Bern",
+    "Yann Renoard"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Emilie Capel",
+    "General Benkhoff",
+    "Mistos Capitano"
+  ],
+  "lyricists": null,
+  "spokesperson": "Audrey Chauveau",
+  "stageDirector": null,
+  "writers": [
+    "Hugues Ducamin",
+    "Jacques Ballue"
+  ]
+}

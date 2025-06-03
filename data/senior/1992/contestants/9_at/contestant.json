@@ -1,0 +1,36 @@
+{
+  "id": 9,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "Tony Wegas",
+  "artistPeople": [
+    "Anton Sarközi"
+  ],
+  "song": "Zusammen geh'n",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/afCvloQYc7Y",
+    "https://www.youtube-nocookie.com/embed/ywlAWf9c-AU"
+  ],
+  "bpm": 152,
+  "tone": "A major",
+  "backings": [
+    "Detlef Wiedeke",
+    "Michael Scholz",
+    "Rolf Köhler",
+    "Thorsten Brötzmann"
+  ],
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "composers": [
+    "Dieter Bohlen"
+  ],
+  "conductor": "Leon Ives",
+  "dancers": null,
+  "lyricists": [
+    "Joachim Horn-Bernges"
+  ],
+  "spokesperson": "Andy Lee",
+  "stageDirector": null,
+  "writers": null
+}

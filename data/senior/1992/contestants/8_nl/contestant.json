@@ -1,0 +1,36 @@
+{
+  "id": 8,
+  "country": "NL",
+  "broadcaster": "NOS",
+  "artist": "Humphrey Campbell",
+  "artistPeople": [
+    "Humphrey Campbell"
+  ],
+  "song": "Wijs me de weg",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zR1U48pyxA0",
+    "https://www.youtube-nocookie.com/embed/p77cJBmTCS0",
+    "https://www.youtube-nocookie.com/embed/M_Rq57W66Nc"
+  ],
+  "bpm": 123,
+  "tone": "F minor",
+  "backings": [
+    "Ben Campbell",
+    "Carlo Campbell",
+    "Carmen d'Souza",
+    "Edwin Schimscheimer",
+    "Ruth Jacott"
+  ],
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "composers": null,
+  "conductor": "Harry van Hoof",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Herman Slager",
+  "stageDirector": null,
+  "writers": [
+    "Edwin Schimscheimer"
+  ]
+}

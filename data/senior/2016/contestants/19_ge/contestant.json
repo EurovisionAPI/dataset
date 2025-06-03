@@ -1,0 +1,37 @@
+{
+  "id": 19,
+  "country": "GE",
+  "broadcaster": "GPB",
+  "artist": "Nika Kocharov & Young Georgian Lolitaz",
+  "artistPeople": null,
+  "song": "Midnight Gold",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rviE2-9eiTI",
+    "https://www.youtube-nocookie.com/embed/y5VynlW6Xeo",
+    "https://www.youtube-nocookie.com/embed/ftDB6D7RXso",
+    "https://www.youtube-nocookie.com/embed/rpAHfm-2Smc",
+    "https://www.youtube-nocookie.com/embed/b05aIgM7RXs",
+    "https://www.youtube-nocookie.com/embed/CQ6G2nbWTvw"
+  ],
+  "bpm": 127,
+  "tone": "A minor",
+  "backings": [
+    "Lars Säfsund"
+  ],
+  "commentators": [
+    "Nika Katsia",
+    "Tuta Chkheidze"
+  ],
+  "composers": [
+    "Kote Kalandadze",
+    "Thomas G:son"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Kote Kalandadze"
+  ],
+  "spokesperson": "Nina Sublatti",
+  "stageDirector": "Sacha Jean-Baptiste",
+  "writers": null
+}

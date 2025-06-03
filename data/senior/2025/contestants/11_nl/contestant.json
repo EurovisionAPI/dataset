@@ -1,0 +1,40 @@
+{
+  "id": 11,
+  "country": "NL",
+  "broadcaster": "AVROTROS",
+  "artist": "Claude",
+  "artistPeople": [
+    "Claude Kiambe"
+  ],
+  "song": "C'est La Vie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LiTQVJwxvfE",
+    "https://www.youtube-nocookie.com/embed/Wb8-gbgan80",
+    "https://www.youtube-nocookie.com/embed/hEHwr5k9pd0",
+    "https://www.youtube-nocookie.com/embed/hpxK4wxQ6ho",
+    "https://www.youtube-nocookie.com/embed/M9RltC34EmE",
+    "https://www.youtube-nocookie.com/embed/WAOKhNh9IqU",
+    "https://www.youtube-nocookie.com/embed/jRYb6PYEMmY"
+  ],
+  "bpm": 124,
+  "tone": "A major",
+  "backings": null,
+  "commentators": [
+    "Cornald Maas"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Emma Evelein",
+    "Lungssu Yen"
+  ],
+  "lyricists": null,
+  "spokesperson": "Chantal Janzen",
+  "stageDirector": "Pim Brassien",
+  "writers": [
+    "Arno Krabman",
+    "Claude Kiambe",
+    "Joren van der Voort",
+    "Léon Palmen"
+  ]
+}

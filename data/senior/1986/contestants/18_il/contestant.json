@@ -1,0 +1,37 @@
+{
+  "id": 18,
+  "country": "IL",
+  "broadcaster": "IBA",
+  "artist": "Moti Galadi & Sarai Tzuriel",
+  "artistPeople": [
+    "Moti Giladi",
+    "Sarai Tzuriel"
+  ],
+  "song": "Yavoh Yom",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9b-9IUqeHVQ",
+    "https://www.youtube-nocookie.com/embed/8RM0eJccgnQ",
+    "https://www.youtube-nocookie.com/embed/3GzlyyhcaU4",
+    "https://www.youtube-nocookie.com/embed/Vo3EKg0kmhw"
+  ],
+  "bpm": 88,
+  "tone": "D minor",
+  "backings": [
+    "Guy Yafe",
+    "Reuven Gvirtz",
+    "Revital Shpindler",
+    "Sima Amiel"
+  ],
+  "commentators": null,
+  "composers": [
+    "Yoram Zadok"
+  ],
+  "conductor": "Yoram Zadok",
+  "dancers": null,
+  "lyricists": [
+    "Moti Giladi"
+  ],
+  "spokesperson": "Yitzhak Shim'oni",
+  "stageDirector": null,
+  "writers": null
+}

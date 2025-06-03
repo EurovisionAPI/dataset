@@ -1,0 +1,42 @@
+{
+  "id": 10,
+  "country": "MD",
+  "broadcaster": "TRM",
+  "artist": "Aliona Moon",
+  "artistPeople": [
+    "Aliona Munteanu"
+  ],
+  "song": "O mie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xckgLUv73Jc",
+    "https://www.youtube-nocookie.com/embed/a2MAIExkd7I",
+    "https://www.youtube-nocookie.com/embed/GJFlPTC6544",
+    "https://www.youtube-nocookie.com/embed/DtUPtVl-61o",
+    "https://www.youtube-nocookie.com/embed/QnovBLZsnpc",
+    "https://www.youtube-nocookie.com/embed/o9TOg45p2cE",
+    "https://www.youtube-nocookie.com/embed/o9TOg45p2cE"
+  ],
+  "bpm": 128,
+  "tone": "Bb major",
+  "backings": [
+    "Iuri Ribac",
+    "Mircea Palamari",
+    "Vladimir Hinou"
+  ],
+  "commentators": [
+    "Lidia Scarlat"
+  ],
+  "composers": [
+    "Pasha Parfeni"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Vadim Tsurkan"
+  ],
+  "lyricists": [
+    "Yuliana Scutaru"
+  ],
+  "spokesperson": "Olivia Furtună",
+  "stageDirector": "Pasha Parfeni",
+  "writers": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": 25,
+  "country": "IL",
+  "broadcaster": "IBA",
+  "artist": "David D'or",
+  "artistPeople": [
+    "David Nehaisi"
+  ],
+  "song": "Le'ha'amin",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5NrtXPjwLB4",
+    "https://www.youtube-nocookie.com/embed/SxB6W8N1nR8",
+    "https://www.youtube-nocookie.com/embed/_utBiCgYg0Y",
+    "https://www.youtube-nocookie.com/embed/7zYLXpB4Ceo"
+  ],
+  "bpm": 90,
+  "tone": "F# major",
+  "backings": [
+    "Karni Postel",
+    "Merav Shalom",
+    "Raz Meirman",
+    "Tali Tevlov-Azulay",
+    "Tomer Bachar"
+  ],
+  "commentators": null,
+  "composers": [
+    "David D'or",
+    "Ofer Meiri"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "David D'or"
+  ],
+  "spokesperson": "Merav Miller",
+  "stageDirector": null,
+  "writers": null
+}

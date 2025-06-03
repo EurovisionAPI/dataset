@@ -1,0 +1,34 @@
+{
+  "id": 18,
+  "country": "MK",
+  "broadcaster": "MKRTV",
+  "artist": "Karolina",
+  "artistPeople": [
+    "Karolina Gočeva"
+  ],
+  "song": "Od Nas Zavisi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mImHt3wyg38",
+    "https://www.youtube-nocookie.com/embed/jM07RkQ3HF0",
+    "https://www.youtube-nocookie.com/embed/NO8NkX_Oz8Q",
+    "https://www.youtube-nocookie.com/embed/4g25h6dHgOs",
+    "https://www.youtube-nocookie.com/embed/jKbP8h7Tmkg"
+  ],
+  "bpm": 75,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Milanka Rašik"
+  ],
+  "composers": [
+    "Nikola Perevski"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Vladimir Krstevski"
+  ],
+  "spokesperson": "Biljana Debarlieva",
+  "stageDirector": null,
+  "writers": null
+}

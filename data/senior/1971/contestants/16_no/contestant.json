@@ -1,0 +1,31 @@
+{
+  "id": 16,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Hanne Krogh",
+  "artistPeople": [
+    "Hanne Krogh Sundbø"
+  ],
+  "song": "Lykken er...",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EkPyjhT2Yy4",
+    "https://www.youtube-nocookie.com/embed/uQDk5eZXo-U",
+    "https://www.youtube-nocookie.com/embed/XASPuA7Hq74",
+    "https://www.youtube-nocookie.com/embed/is4iQ3QEKzQ"
+  ],
+  "bpm": 126,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": [
+    "Sverre Christophersen"
+  ],
+  "composers": null,
+  "conductor": "Arne Joachim Bendiksen",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Arne Bendiksen"
+  ]
+}

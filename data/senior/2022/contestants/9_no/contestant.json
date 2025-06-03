@@ -1,0 +1,43 @@
+{
+  "id": 9,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Subwoolfer",
+  "artistPeople": [
+    "Gaute Ormåsen",
+    "Ben Adams"
+  ],
+  "song": "Give That Wolf a Banana",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/adCU2rQyDeY",
+    "https://www.youtube-nocookie.com/embed/sDvXhZtcp0w",
+    "https://www.youtube-nocookie.com/embed/6FW_WgHLgvM",
+    "https://www.youtube-nocookie.com/embed/FJjo8s3fKUM",
+    "https://www.youtube-nocookie.com/embed/tQcw0XWp3Tc",
+    "https://www.youtube-nocookie.com/embed/qjPwsn88KjM",
+    "https://www.youtube-nocookie.com/embed/sVVSZpj-kqQ"
+  ],
+  "bpm": 124,
+  "tone": "C minor",
+  "backings": [
+    "DJ Astronaut"
+  ],
+  "commentators": [
+    "Marte Stokstad"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Albertine Lundgren",
+    "Anne-Marit Tynes",
+    "Simen Gloppen"
+  ],
+  "lyricists": null,
+  "spokesperson": "TIX",
+  "stageDirector": "Mattias Carlsson",
+  "writers": [
+    "DJ Astronaut",
+    "Jim",
+    "Keith"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 15,
+  "country": "AZ",
+  "broadcaster": "İctimai",
+  "artist": "Nadir Rustamli",
+  "artistPeople": [
+    "Nadir Rəşid oğlu Rüstəmli"
+  ],
+  "song": "Fade To Black",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tegPzHEL4ms",
+    "https://www.youtube-nocookie.com/embed/ILbQwIau1Ms",
+    "https://www.youtube-nocookie.com/embed/TGd1AFKR_-E",
+    "https://www.youtube-nocookie.com/embed/AGlwpf1iVhU",
+    "https://www.youtube-nocookie.com/embed/lwpI5KO6F40"
+  ],
+  "bpm": 130,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": [
+    "Murad Arif"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Luc Boris André"
+  ],
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": "Mads Enggaard",
+  "writers": [
+    "Anderz Wrethov",
+    "Andreas Johansson",
+    "Sebastian Schub",
+    "Thomas Stengaard"
+  ]
+}

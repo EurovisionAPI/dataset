@@ -1,0 +1,40 @@
+{
+  "id": 8,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Basim",
+  "artistPeople": [
+    "Anis Basim Moujahid"
+  ],
+  "song": "Cliche Love Song",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jnCTsJkieY4",
+    "https://www.youtube-nocookie.com/embed/KRHKkYrXSjM",
+    "https://www.youtube-nocookie.com/embed/h9DzXQjjuLg"
+  ],
+  "bpm": 112,
+  "tone": "Eb major",
+  "backings": [
+    "Andy Roda",
+    "Ayoe Angelica",
+    "Marcel Mark Gbekle"
+  ],
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Ivan Spahi",
+    "Tobias Ellehammer"
+  ],
+  "lyricists": null,
+  "spokesperson": "Sofie Lassen-Kahlke",
+  "stageDirector": "Birgitte Næss-Schmidt",
+  "writers": [
+    "Basim",
+    "Daniel Fält",
+    "Kim Nowak-Zorde",
+    "Lasse Lindorff"
+  ]
+}

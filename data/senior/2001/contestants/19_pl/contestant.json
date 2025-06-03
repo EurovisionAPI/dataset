@@ -1,0 +1,32 @@
+{
+  "id": 19,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Piasek",
+  "artistPeople": [
+    "Andrzej Piaseczny"
+  ],
+  "song": "2 Long",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zGuVO2W44yo"
+  ],
+  "bpm": 97,
+  "tone": "E major",
+  "backings": [
+    "Patrycja Gola"
+  ],
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "composers": [
+    "Robert Chojnacki"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Andrzej Piaseczny"
+  ],
+  "spokesperson": "Maciej Orłoś",
+  "stageDirector": null,
+  "writers": null
+}

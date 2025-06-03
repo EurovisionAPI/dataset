@@ -1,0 +1,29 @@
+{
+  "id": 3,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Christa Williams",
+  "artistPeople": [
+    "Rita Maria Braun"
+  ],
+  "song": "Irgendwoher",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xHb8J0Mw_oE",
+    "https://www.youtube-nocookie.com/embed/UYIKF7oaN0A"
+  ],
+  "bpm": 164,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": [
+    "Theodor Haller"
+  ],
+  "composers": null,
+  "conductor": "Franck Pourcel",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Boris Acquadro",
+  "stageDirector": null,
+  "writers": [
+    "Lothar Löffler"
+  ]
+}

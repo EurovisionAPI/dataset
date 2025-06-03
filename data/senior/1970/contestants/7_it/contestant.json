@@ -1,0 +1,33 @@
+{
+  "id": 7,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Gianni Morandi",
+  "artistPeople": [
+    "Gianluigi Morandi"
+  ],
+  "song": "Occhi di ragazza",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UO57JtKbWTQ",
+    "https://www.youtube-nocookie.com/embed/oz82TmYfx-0",
+    "https://www.youtube-nocookie.com/embed/kEo00o8e_W0"
+  ],
+  "bpm": 98,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "composers": [
+    "Lucio Dalla"
+  ],
+  "conductor": "Mario Capuano",
+  "dancers": null,
+  "lyricists": [
+    "Gianfranco Baldazzi",
+    "Sergio Bardotti"
+  ],
+  "spokesperson": "Enzo Tortora",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": 17,
+  "country": "FR",
+  "broadcaster": "France 3",
+  "artist": "Louisa Baileche",
+  "artistPeople": [
+    "Louisa Baïleche"
+  ],
+  "song": "Monts Et Merveilles",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gYuc67k-wYc"
+  ],
+  "bpm": 152,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Isabelle Mergault",
+    "Laurent Ruquier"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Sandrine François",
+  "stageDirector": null,
+  "writers": [
+    "Hocine Hallaf"
+  ]
+}

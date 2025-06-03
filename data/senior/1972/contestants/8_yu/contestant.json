@@ -1,0 +1,35 @@
+{
+  "id": 8,
+  "country": "YU",
+  "broadcaster": "JRT",
+  "artist": "Tereza",
+  "artistPeople": [
+    "Téréza"
+  ],
+  "song": "Muzika i ti",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ns24mfDkgWA",
+    "https://www.youtube-nocookie.com/embed/ELQZOZglYl0",
+    "https://www.youtube-nocookie.com/embed/n6OwpI8Awsw",
+    "https://www.youtube-nocookie.com/embed/ttMPRY0R1dw"
+  ],
+  "bpm": 108,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Milovan Ilić",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "composers": [
+    "Nikica Kalogjera"
+  ],
+  "conductor": "Nikica Kalogjera",
+  "dancers": null,
+  "lyricists": [
+    "Ivan Krajač"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

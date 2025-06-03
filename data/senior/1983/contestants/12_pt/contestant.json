@@ -1,0 +1,32 @@
+{
+  "id": 12,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Armando Gama",
+  "artistPeople": [
+    "Armando António Capelo Dinis da Gama"
+  ],
+  "song": "Esta balada que te dou",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hyhMqYd-MXw",
+    "https://www.youtube-nocookie.com/embed/WtPIMgmnvu0",
+    "https://www.youtube-nocookie.com/embed/U016GvvExdc",
+    "https://www.youtube-nocookie.com/embed/WRFhdvBQWlU",
+    "https://www.youtube-nocookie.com/embed/JTe5VeXU1pg"
+  ],
+  "bpm": 84,
+  "tone": "E major",
+  "backings": null,
+  "commentators": [
+    "Eládio Clímaco"
+  ],
+  "composers": null,
+  "conductor": "Mike Sergeant",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "João Abel da Fonseca",
+  "stageDirector": null,
+  "writers": [
+    "Armando Gama"
+  ]
+}

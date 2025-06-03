@@ -1,0 +1,29 @@
+{
+  "id": 6,
+  "country": "BE",
+  "broadcaster": "VRT",
+  "artist": "Hooverphonic",
+  "artistPeople": [
+    "Luka Cruysberghs"
+  ],
+  "song": "Release Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lAqjksxc4iA"
+  ],
+  "bpm": 134,
+  "tone": "E minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Alex Callier",
+    "Luka Cruysberghs"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Alex Callier"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

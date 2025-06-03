@@ -1,0 +1,16 @@
+{
+  "year": 2005,
+  "arena": "Palace of Sports",
+  "city": "Kiev",
+  "country": "UA",
+  "intendedCountry": null,
+  "slogan": "Awakening",
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2005.png",
+  "presenters": [
+    "Maria Efrosinina",
+    "Pavlo Shylko"
+  ],
+  "broadcasters": [
+    "National Television Company of Ukraine (NTU)"
+  ]
+}

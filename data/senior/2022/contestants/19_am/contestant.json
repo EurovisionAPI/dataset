@@ -1,0 +1,46 @@
+{
+  "id": 19,
+  "country": "AM",
+  "broadcaster": "AMPTV",
+  "artist": "Rosa Linn",
+  "artistPeople": [
+    "Rosa Kostandyan (Ռոզա Կոստանդյան)"
+  ],
+  "song": "Snap",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DAJ6vfmD_ic",
+    "https://www.youtube-nocookie.com/embed/gVqGKkm7xBE",
+    "https://www.youtube-nocookie.com/embed/ug5Tein5Ams",
+    "https://www.youtube-nocookie.com/embed/--eH76tgoNw",
+    "https://www.youtube-nocookie.com/embed/YazbijPyVJ4",
+    "https://www.youtube-nocookie.com/embed/RkM2fiIRH8Q",
+    "https://www.youtube-nocookie.com/embed/xWek4MuitG4"
+  ],
+  "bpm": 172,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Garik Papoyan",
+    "Hrachuhi Utmazyan"
+  ],
+  "composers": [
+    "Allie Crystal",
+    "Courtney Harrell",
+    "Larzz Principato",
+    "Rosa Linn",
+    "Tamar Kaprelian"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Allie Crystal",
+    "Courtney Harrell",
+    "Jeremy Dusoulet",
+    "Larzz Principato",
+    "Rosa Linn",
+    "Tamar Kaprelian"
+  ],
+  "spokesperson": "Garik Papoyan",
+  "stageDirector": "Dan Shipton, Marvin Dietmann",
+  "writers": null
+}

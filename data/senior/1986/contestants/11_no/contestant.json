@@ -1,0 +1,38 @@
+{
+  "id": 11,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Ketil Stokkan",
+  "artistPeople": [
+    "Ketil Stokkan"
+  ],
+  "song": "Romeo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pUyWpaVwU7M",
+    "https://www.youtube-nocookie.com/embed/SuSWd6As1_s",
+    "https://www.youtube-nocookie.com/embed/s2QzHdU8g9I",
+    "https://www.youtube-nocookie.com/embed/0ij_GiH9j5E",
+    "https://www.youtube-nocookie.com/embed/PEGY1a93lhg"
+  ],
+  "bpm": 123,
+  "tone": "B major",
+  "backings": [
+    "Frank Ådahl",
+    "Jonny Nymoen",
+    "Kari Gjærum",
+    "Olav Klingen",
+    "Sigvart Dagsland"
+  ],
+  "commentators": [
+    "Knut Bjørnsen"
+  ],
+  "composers": null,
+  "conductor": "Egil Monn-Iversen",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Nina Matheson",
+  "stageDirector": null,
+  "writers": [
+    "Ketil Stokkan"
+  ]
+}

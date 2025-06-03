@@ -1,0 +1,38 @@
+{
+  "id": 13,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Bamses Venner",
+  "artistPeople": [
+    "Flemming Duun Jørgensen"
+  ],
+  "song": "Tænker altid på dig",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZKLyYj5-Yz0",
+    "https://www.youtube-nocookie.com/embed/tVVlqf94qJM",
+    "https://www.youtube-nocookie.com/embed/A9nnftod8zM",
+    "https://www.youtube-nocookie.com/embed/hUFmmc-zD3o",
+    "https://www.youtube-nocookie.com/embed/Rigmgv-nCr4"
+  ],
+  "bpm": 91,
+  "tone": "F major",
+  "backings": [
+    "Arne Østergaard",
+    "Bjarne Gren Jensen",
+    "Mogens Balle"
+  ],
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "composers": [
+    "Bjarne Gren Jensen"
+  ],
+  "conductor": "Allan Botschinsky",
+  "dancers": null,
+  "lyricists": [
+    "Flemming Bamse Jørgensen"
+  ],
+  "spokesperson": "Bent Henius",
+  "stageDirector": null,
+  "writers": null
+}

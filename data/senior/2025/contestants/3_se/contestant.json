@@ -1,0 +1,46 @@
+{
+  "id": 3,
+  "country": "SE",
+  "broadcaster": "SR",
+  "artist": "KAJ",
+  "artistPeople": [
+    "Axel Åhman",
+    "Jakob Norrgård",
+    "Kevin Holmström"
+  ],
+  "song": "Bara bada bastu",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WSh7U3m9KgA",
+    "https://www.youtube-nocookie.com/embed/zQSPqZkKzRQ",
+    "https://www.youtube-nocookie.com/embed/WK3HOMhAeQY",
+    "https://www.youtube-nocookie.com/embed/QOehBj0nCMU",
+    "https://www.youtube-nocookie.com/embed/A7_Rkvi3nDk",
+    "https://www.youtube-nocookie.com/embed/28__O2Ngc74",
+    "https://www.youtube-nocookie.com/embed/DtH4VOVnbDw"
+  ],
+  "bpm": 106,
+  "tone": "A minor",
+  "backings": [
+    "Albin Lindén",
+    "Kim Pastor",
+    "Lovisa Bengtsson"
+  ],
+  "commentators": [
+    "Edward af Sillén",
+    "Petra Mede"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Keyyo",
+  "stageDirector": null,
+  "writers": [
+    "Anderz Wrethov",
+    "Axel Åhman",
+    "Jakob Norrgård",
+    "Kevin Holmström",
+    "Kristofer Strandberg",
+    "Robert Skowronski"
+  ]
+}

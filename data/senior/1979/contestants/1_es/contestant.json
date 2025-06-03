@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Betty Missiego",
+  "artistPeople": [
+    "Alexis Carmona",
+    "Beatriz Carmona",
+    "Beatriz Teresa Missiego",
+    "Javier Glaria",
+    "Rosalía Rodríguez"
+  ],
+  "song": "Su canción",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cCDCQcDzbgs",
+    "https://www.youtube-nocookie.com/embed/6efTu8F9JDU",
+    "https://www.youtube-nocookie.com/embed/DljrowvNG3k"
+  ],
+  "bpm": 107,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": [
+    "Miguel de los Santos"
+  ],
+  "composers": null,
+  "conductor": "José Luis Navarro",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Manuel Almendros",
+  "stageDirector": null,
+  "writers": [
+    "Fernando Moreno"
+  ]
+}

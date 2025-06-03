@@ -1,0 +1,32 @@
+{
+  "id": 8,
+  "country": "RO",
+  "broadcaster": "TVR",
+  "artist": "Monica Anghel & Marcel Pavel",
+  "artistPeople": [
+    "Marcel Pavel",
+    "Monica Elena Anghel"
+  ],
+  "song": "Tell Me Why",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ULjcDtXGOKE",
+    "https://www.youtube-nocookie.com/embed/zEviM4MkcgA",
+    "https://www.youtube-nocookie.com/embed/RUD0-cYF5sw",
+    "https://www.youtube-nocookie.com/embed/2mfnnBgg9XM"
+  ],
+  "bpm": 144,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Ionel Tudor"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Mirela Voiculescu Fugaru"
+  ],
+  "spokesperson": "Leonard Miron",
+  "stageDirector": null,
+  "writers": null
+}

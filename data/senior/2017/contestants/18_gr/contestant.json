@@ -1,0 +1,45 @@
+{
+  "id": 18,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Demy",
+  "artistPeople": [
+    "Dimitra Papadea (Δήμητρα Παπαδέα)"
+  ],
+  "song": "This is Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iO14p2uCzkM",
+    "https://www.youtube-nocookie.com/embed/f2g9oAaoCeU",
+    "https://www.youtube-nocookie.com/embed/nVrlEB1bN3w",
+    "https://www.youtube-nocookie.com/embed/RP7JNf9MxtM",
+    "https://www.youtube-nocookie.com/embed/fjvHk6ilY8M",
+    "https://www.youtube-nocookie.com/embed/MoHnVULbGVY",
+    "https://www.youtube-nocookie.com/embed/BdFQtUa6Mpk"
+  ],
+  "bpm": 128,
+  "tone": "F major",
+  "backings": [
+    "Erasmia Markidi",
+    "Evgenia Liakou",
+    "Iasonas Mandilas",
+    "Paris Paraskevadis-Planets"
+  ],
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "composers": [
+    "Dimitris Kontopoulos"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Marcos Giakoumoglou"
+  ],
+  "lyricists": [
+    "John Ballard",
+    "Romy Papadea"
+  ],
+  "spokesperson": "Constantinos Christoforou",
+  "stageDirector": "Fokas Evangelinos",
+  "writers": null
+}

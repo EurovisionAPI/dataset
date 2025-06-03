@@ -1,0 +1,40 @@
+{
+  "id": 15,
+  "country": "AL",
+  "broadcaster": "RTSH",
+  "artist": "Juliana Pasha",
+  "artistPeople": [
+    "Juliana Pasha"
+  ],
+  "song": "It's All About You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3ZLlQE8ICno",
+    "https://www.youtube-nocookie.com/embed/WIwNTs2yxbw",
+    "https://www.youtube-nocookie.com/embed/qgeklMIc6_k",
+    "https://www.youtube-nocookie.com/embed/sbcBPeXOtN4",
+    "https://www.youtube-nocookie.com/embed/Z2lhKDmwbIA"
+  ],
+  "bpm": 137,
+  "tone": "F minor",
+  "backings": [
+    "Desiree Kedjour",
+    "Glenys Vargas",
+    "Joy Garrison",
+    "Olen Cesari"
+  ],
+  "commentators": [
+    "Leon Menkshi"
+  ],
+  "composers": [
+    "Ardit Gjebrea"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Ardit Gjebrea",
+    "Pirro Çako"
+  ],
+  "spokesperson": "Leon Menkshi",
+  "stageDirector": null,
+  "writers": null
+}

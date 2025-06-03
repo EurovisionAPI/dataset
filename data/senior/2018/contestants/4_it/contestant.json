@@ -1,0 +1,42 @@
+{
+  "id": 4,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Ermal Meta & Fabrizio Moro",
+  "artistPeople": [
+    "Ermal Meta",
+    "Fabrizio Moro"
+  ],
+  "song": "Non mi avete fatto niente",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/81M-mp5t8uM",
+    "https://www.youtube-nocookie.com/embed/V4zO_1Z_1S8",
+    "https://www.youtube-nocookie.com/embed/6DkbBEjGKtg",
+    "https://www.youtube-nocookie.com/embed/gs2n5JY0QzQ",
+    "https://www.youtube-nocookie.com/embed/660B9CIz7RI",
+    "https://www.youtube-nocookie.com/embed/o06fpg27Lc0"
+  ],
+  "bpm": 90,
+  "tone": "Eb minor",
+  "backings": [
+    "Andrea Vigentini",
+    "Roberto Maccaroni"
+  ],
+  "commentators": [
+    "Carolina Di Domenico",
+    "Federico Russo",
+    "Saverio Raimondo",
+    "Serena Rossi"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Giulia Valentina",
+  "stageDirector": null,
+  "writers": [
+    "Andrea Febo",
+    "Ermal Meta",
+    "Fabrizio Moro"
+  ]
+}

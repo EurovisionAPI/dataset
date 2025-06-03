@@ -1,0 +1,43 @@
+{
+  "id": 25,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Mia Dimšić",
+  "artistPeople": [
+    "Mia Dimšić"
+  ],
+  "song": "Guilty Pleasure",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9vBQdtW3mJE",
+    "https://www.youtube-nocookie.com/embed/VdOitl6KekY",
+    "https://www.youtube-nocookie.com/embed/iiOyTKQZF8k",
+    "https://www.youtube-nocookie.com/embed/DFBwe2w0zO4",
+    "https://www.youtube-nocookie.com/embed/SX_hfZPPPyk",
+    "https://www.youtube-nocookie.com/embed/WT4TfJfsfmg",
+    "https://www.youtube-nocookie.com/embed/JazV54JLxOE"
+  ],
+  "bpm": 84,
+  "tone": "F major",
+  "backings": [
+    "Bruna Oberan",
+    "Danon Vrlić"
+  ],
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Josip Palameta",
+    "Rebecca Krajnović",
+    "Roman Vrančić"
+  ],
+  "lyricists": null,
+  "spokesperson": "Ivan Dorian Molnar",
+  "stageDirector": "Nejc Levstik",
+  "writers": [
+    "Damir Bačić",
+    "Mia Dimšić",
+    "Vjekoslav Dimter"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 5,
+  "country": "BE",
+  "broadcaster": "VRT",
+  "artist": "Tom Dice",
+  "artistPeople": [
+    "Tom Eeckhout"
+  ],
+  "song": "Me And My Guitar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bwTZb2BQvYg",
+    "https://www.youtube-nocookie.com/embed/zcwr9s1Wce4"
+  ],
+  "bpm": 129,
+  "tone": "A major",
+  "backings": [
+    "Jimmy Colman",
+    "Mátyás Blanckaert"
+  ],
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Louis Lahaye",
+    "Jean-Pierre Hautier"
+  ],
+  "composers": [
+    "Jeroen Swinnen",
+    "Tom Eeckhout"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Ashley Hicklin",
+    "Tom Eeckhout"
+  ],
+  "spokesperson": "Katja Retsin",
+  "stageDirector": null,
+  "writers": null
+}

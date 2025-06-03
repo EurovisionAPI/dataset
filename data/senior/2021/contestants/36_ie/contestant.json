@@ -1,0 +1,37 @@
+{
+  "id": 36,
+  "country": "IE",
+  "broadcaster": "RÉ",
+  "artist": "Lesley Roy",
+  "artistPeople": [
+    "Lesley Roy"
+  ],
+  "song": "Maps",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FY2rxbZNvZ0",
+    "https://www.youtube-nocookie.com/embed/z6ZUBzqPxds",
+    "https://www.youtube-nocookie.com/embed/JpH4S1QeJww",
+    "https://www.youtube-nocookie.com/embed/D0gVlG3QTJc"
+  ],
+  "bpm": 143,
+  "tone": "C major",
+  "backings": [
+    "Emelie Eriksson",
+    "Philip Strand"
+  ],
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ryan O'Shaughnessy",
+  "stageDirector": "Fredrik Rydman",
+  "writers": [
+    "Emelie Eriksson",
+    "Lesley Roy",
+    "Lukas Hällgren",
+    "Philip Strand"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 32,
+  "country": "SI",
+  "broadcaster": "RTVSLO",
+  "artist": "ManuElla",
+  "artistPeople": [
+    "Manuela Brečko"
+  ],
+  "song": "Blue and Red",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ulI3F1T82is",
+    "https://www.youtube-nocookie.com/embed/4K4h4AzLFgU",
+    "https://www.youtube-nocookie.com/embed/yhrIqWZI6TM",
+    "https://www.youtube-nocookie.com/embed/_N2D_WYjYlo",
+    "https://www.youtube-nocookie.com/embed/QnwpBA2KJ-w"
+  ],
+  "bpm": 145,
+  "tone": "B minor",
+  "backings": [
+    "Karin Zemljič",
+    "Lea Sirk",
+    "Marjan Hvala",
+    "Mitja Bobič"
+  ],
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "composers": [
+    "Manuela Brečko",
+    "Marjan Hvala"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Leon Oblak"
+  ],
+  "spokesperson": "Marjetka Vovk",
+  "stageDirector": "Nejc Levstik",
+  "writers": null
+}

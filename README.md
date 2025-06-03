@@ -670,3 +670,127 @@ Unavailable data of contest 2024:
         Contestant North Macedonia:
                 Bpm
                 Tone
+
+
+### Senior
+Unavailable data of contest 1972:
+        Contestant Finland:
+                Bpm
+                Tone
+
+
+Unavailable data of contest 1973:
+        Contestant Finland:
+                Bpm
+                Tone
+
+
+Unavailable data of contest 1985:
+        Contestant Luxembourg:
+                Bpm
+                Tone
+
+
+Unavailable data of contest 1999:
+        Contestant Bosnia and Herzegovina:
+                Bpm
+                Tone
+
+
+Unavailable data of contest 2003:
+        Contestant Ukraine:
+                Bpm
+                Tone
+
+
+Unavailable data of contest 2008:
+        Contestant Israel:
+                Bpm
+                Tone
+
+
+Unavailable data of contest 2009:
+        Contestant North Macedonia:
+                Bpm
+                Tone
+
+
+Unavailable data of contest 2014:
+        Contestant Finland:
+                Artist people
+        Contestant Germany:
+                Artist people
+
+
+Unavailable data of contest 2015:
+        Contestant Italy:
+                Artist people
+        Contestant Romania:
+                Artist people
+        Contestant Austria:
+                Artist people
+        Contestant Finland:
+                Artist people
+
+
+Unavailable data of contest 2016:
+        Contestant Georgia:
+                Artist people
+        Contestant Cyprus:
+                Artist people
+
+
+Unavailable data of contest 2017:
+        Contestant Moldova:
+                Artist people
+        Contestant Ukraine:
+                Artist people
+        Contestant Switzerland:
+                Artist people
+        Contestant Finland:
+                Artist people
+        Contestant North Macedonia:
+                Bpm
+                Tone
+        Contestant Lithuania:
+                Artist people
+        Contestant Latvia:
+                Artist people
+
+
+Unavailable data of contest 2018:
+        Contestant North Macedonia:
+                Bpm
+                Tone
+
+
+Unavailable data of contest 2022:
+        Contestant Moldova:
+                Artist people
+        Contestant Denmark:
+                Artist people
+        Contestant Bulgaria:
+                Artist people
+
+
+Unavailable data of contest 2023:
+        Contestant Germany:
+                Artist people
+        Contestant Malta:
+                Artist people
+
+
+Unavailable data of contest 2024:
+        Contestant Sweden:
+                Bpm
+                Tone
+        Contestant Georgia:
+                Bpm
+                Tone
+
+
+Unavailable data of contest 2025:
+        Contestant Israel:
+                Bpm
+                Tone
+

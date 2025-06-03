@@ -1,0 +1,41 @@
+{
+  "id": 40,
+  "country": "IE",
+  "broadcaster": "RTÉ",
+  "artist": "Sarah McTernan",
+  "artistPeople": [
+    "Sarah McTernan"
+  ],
+  "song": "22",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lX7DT9GMHQM",
+    "https://www.youtube-nocookie.com/embed/LXBIDYh_UE4",
+    "https://www.youtube-nocookie.com/embed/Nh8iFJTxVHI",
+    "https://www.youtube-nocookie.com/embed/P_SehZvRaVk",
+    "https://www.youtube-nocookie.com/embed/JXHqe5CofPM"
+  ],
+  "bpm": 125,
+  "tone": "C major",
+  "backings": [
+    "Ciara O'Connor",
+    "Fiona Harte",
+    "Michael Hopkins"
+  ],
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Adele Dempsey",
+    "Rhianna Binns"
+  ],
+  "lyricists": null,
+  "spokesperson": "Sinéad Kennedy",
+  "stageDirector": null,
+  "writers": [
+    "Janieck Devy",
+    "Misha",
+    "Roel Rats"
+  ]
+}

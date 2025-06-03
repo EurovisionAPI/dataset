@@ -1,0 +1,16 @@
+{
+  "year": 2006,
+  "arena": "Olympic Indoor Hall",
+  "city": "Athen",
+  "country": "GR",
+  "intendedCountry": null,
+  "slogan": "Feel The Rhythm",
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2006.png",
+  "presenters": [
+    "Maria Menounos",
+    "Sakis Rouvas"
+  ],
+  "broadcasters": [
+    "Ellinikí Radiofonía Tileórasi (ERT)"
+  ]
+}

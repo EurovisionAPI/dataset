@@ -1,0 +1,38 @@
+{
+  "id": 17,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Bianca Shomburg",
+  "artistPeople": [
+    "Bianca Shomburg"
+  ],
+  "song": "Zeit",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/G9DeK9uhi4M",
+    "https://www.youtube-nocookie.com/embed/fd4rKt46GEw",
+    "https://www.youtube-nocookie.com/embed/VKP8iPJ2Ifc",
+    "https://www.youtube-nocookie.com/embed/dBkNsgbB4sE"
+  ],
+  "bpm": 144,
+  "tone": "F minor",
+  "backings": [
+    "Klaus Scharffenorth",
+    "Pepe Solera",
+    "Uwe Adams",
+    "Wolly Emperhoff"
+  ],
+  "commentators": [
+    "Peter Urban"
+  ],
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "spokesperson": "Christina Mänz",
+  "stageDirector": null,
+  "writers": null
+}

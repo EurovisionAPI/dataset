@@ -1,0 +1,39 @@
+{
+  "id": 20,
+  "country": "CY",
+  "broadcaster": "CyBC",
+  "artist": "Hovig",
+  "artistPeople": [
+    "Hovig Demirjian"
+  ],
+  "song": "Gravity",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZDe9FCLgE04",
+    "https://www.youtube-nocookie.com/embed/bxfQn7riJxo",
+    "https://www.youtube-nocookie.com/embed/B94IsBm4Y0Q",
+    "https://www.youtube-nocookie.com/embed/PTlDrOZrRgs",
+    "https://www.youtube-nocookie.com/embed/wIYFQ0pt5cQ",
+    "https://www.youtube-nocookie.com/embed/tvI216Bm_M4"
+  ],
+  "bpm": 150,
+  "tone": "Bb minor",
+  "backings": [
+    "Lars Säfsund"
+  ],
+  "commentators": [
+    "Christiana Artemiou",
+    "Tasos Trifonos"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Marios Charalambous",
+    "Pavlos Lazarou"
+  ],
+  "lyricists": null,
+  "spokesperson": "John Karayiannis",
+  "stageDirector": "Charis Savvas",
+  "writers": [
+    "Thomas G:son"
+  ]
+}

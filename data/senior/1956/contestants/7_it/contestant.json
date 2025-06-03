@@ -1,0 +1,32 @@
+{
+  "id": 7,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Franca Raimondi",
+  "artistPeople": [
+    "Franca Raimondi"
+  ],
+  "song": "Aprite le finestre",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OuVmJmW-8wo",
+    "https://www.youtube-nocookie.com/embed/Jv_HLb3neiU",
+    "https://www.youtube-nocookie.com/embed/3IylriU5YI4"
+  ],
+  "bpm": 143,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Bianca Maria Piccinino"
+  ],
+  "composers": [
+    "Virgilio Panzuti"
+  ],
+  "conductor": "Gian Stellari",
+  "dancers": null,
+  "lyricists": [
+    "Pinchi"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

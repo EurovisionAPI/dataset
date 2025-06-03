@@ -1,0 +1,42 @@
+{
+  "id": 1,
+  "country": "RU",
+  "broadcaster": "C1R",
+  "artist": "Dima Bilan",
+  "artistPeople": [
+    "Viktor Belan"
+  ],
+  "song": "Never Let You Go",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/waYpnAexrUA",
+    "https://www.youtube-nocookie.com/embed/kUSgXUhXSgA",
+    "https://www.youtube-nocookie.com/embed/AvJCqBqQVSM",
+    "https://www.youtube-nocookie.com/embed/-iqjp0SBPO8"
+  ],
+  "bpm": 172,
+  "tone": "G minor",
+  "backings": [
+    "Marina Ahverdova",
+    "Olga Starikova"
+  ],
+  "commentators": [
+    "Tatjana Godunova",
+    "Yuriy Aksuta"
+  ],
+  "composers": [
+    "Alexander Lunyev"
+  ],
+  "conductor": null,
+  "dancers": [
+    "A. Sankina",
+    "Alina",
+    "Maria Korogodskaya"
+  ],
+  "lyricists": [
+    "Irina Antonyan",
+    "Karen Kavaleryan"
+  ],
+  "spokesperson": "Yana Churikova",
+  "stageDirector": "Fokas Evangelinos",
+  "writers": null
+}

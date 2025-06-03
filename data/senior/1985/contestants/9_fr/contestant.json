@@ -1,0 +1,29 @@
+{
+  "id": 9,
+  "country": "FR",
+  "broadcaster": "A2F",
+  "artist": "Roger Bens",
+  "artistPeople": [
+    "Roger Bens"
+  ],
+  "song": "Femme dans ses rêves aussi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/88b5e4c_szw",
+    "https://www.youtube-nocookie.com/embed/h52irPfPkj8"
+  ],
+  "bpm": 156,
+  "tone": "F minor",
+  "backings": null,
+  "commentators": [
+    "Patrice Laffont"
+  ],
+  "composers": null,
+  "conductor": "Michel Bernholc",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Élisabeth Tordjman",
+  "stageDirector": null,
+  "writers": [
+    "Didier Pascalis"
+  ]
+}

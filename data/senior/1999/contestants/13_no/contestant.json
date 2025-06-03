@@ -1,0 +1,38 @@
+{
+  "id": 13,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Stig André Van Eijk",
+  "artistPeople": [
+    "Stig André Van Eijk"
+  ],
+  "song": "Living My Life Without You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UxffwUHTYhM",
+    "https://www.youtube-nocookie.com/embed/pjpiAAi_4fI",
+    "https://www.youtube-nocookie.com/embed/Mk6GIeGNcIM",
+    "https://www.youtube-nocookie.com/embed/kMsi_FsCn2Y"
+  ],
+  "bpm": 84,
+  "tone": "G major",
+  "backings": [
+    "Åshild Kristin Stensrud",
+    "Belinda Braza",
+    "Charlotte Øverland Våseth",
+    "Heine Totland",
+    "Per Øystein Sørensen"
+  ],
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ragnhild Sælthun Fjørtoft",
+  "stageDirector": null,
+  "writers": [
+    "SEM",
+    "Stig André Van Eijk"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 3,
+  "country": "FR",
+  "broadcaster": "FR",
+  "artist": "Slimane",
+  "artistPeople": [
+    "Slimane Nebchi"
+  ],
+  "song": "Mon amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-XyLecY2JyE",
+    "https://www.youtube-nocookie.com/embed/tfoOop2HXxQ",
+    "https://www.youtube-nocookie.com/embed/f-z9PFfpzeE",
+    "https://www.youtube-nocookie.com/embed/VCzc5C6Gu5M",
+    "https://www.youtube-nocookie.com/embed/HosHeYbojbY",
+    "https://www.youtube-nocookie.com/embed/ti9v1qjn5-o",
+    "https://www.youtube-nocookie.com/embed/9pNPhNJL7aQ"
+  ],
+  "bpm": 142,
+  "tone": "B minor",
+  "backings": null,
+  "commentators": [
+    "Laurence Boccolini",
+    "Nicky Doll",
+    "Stéphane Bern"
+  ],
+  "composers": [
+    "Meïr Salah",
+    "Slimane Nebchi",
+    "Yaacov Salah"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Slimane Nebchi"
+  ],
+  "spokesperson": "Natasha St-Pier",
+  "stageDirector": null,
+  "writers": null
+}

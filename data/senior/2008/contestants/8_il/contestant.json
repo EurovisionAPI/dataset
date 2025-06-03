@@ -1,0 +1,38 @@
+{
+  "id": 8,
+  "country": "IL",
+  "broadcaster": "IBA",
+  "artist": "Boaz",
+  "artistPeople": [
+    "Boaz Mauda"
+  ],
+  "song": "The Fire In Your Eyes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rkTOM4ySrmM",
+    "https://www.youtube-nocookie.com/embed/mM6LloqTipw",
+    "https://www.youtube-nocookie.com/embed/WfsN43-K3hU",
+    "https://www.youtube-nocookie.com/embed/7UOdO4yqq_k"
+  ],
+  "bpm": null,
+  "tone": null,
+  "backings": [
+    "Adam Yosef",
+    "Ariel Zohar",
+    "Eran Mazor Hecht",
+    "Lior Ashkenazi",
+    "Zach Eshel"
+  ],
+  "commentators": null,
+  "composers": [
+    "Dana International"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Dana International",
+    "Shai Kerem"
+  ],
+  "spokesperson": "Noa Barak-Weshler",
+  "stageDirector": "Doron Medalie",
+  "writers": null
+}

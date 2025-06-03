@@ -1,0 +1,31 @@
+{
+  "id": 13,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Victor Balaguer",
+  "artistPeople": [
+    "Víctor Balaguer"
+  ],
+  "song": "Llámame",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1bqOFeTvXmA",
+    "https://www.youtube-nocookie.com/embed/VQ3l-1OHlOk"
+  ],
+  "bpm": 90,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": [
+    "Federico Gallo"
+  ],
+  "composers": [
+    "Mario Selles"
+  ],
+  "conductor": "Jean Roderes",
+  "dancers": null,
+  "lyricists": [
+    "Miguel Portoles"
+  ],
+  "spokesperson": "Diego Ramírez Pastor",
+  "stageDirector": null,
+  "writers": null
+}

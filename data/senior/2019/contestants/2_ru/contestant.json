@@ -1,0 +1,43 @@
+{
+  "id": 2,
+  "country": "RU",
+  "broadcaster": "RTR",
+  "artist": "Sergey Lazarev",
+  "artistPeople": [
+    "Sergey Vyacheslavovich Lazarev (Серге́й Вячесла́вович Ла́зарев)"
+  ],
+  "song": "Scream",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eNzlxEZ_JG4",
+    "https://www.youtube-nocookie.com/embed/gEpUgRtXBss",
+    "https://www.youtube-nocookie.com/embed/wCKHUldGcEI",
+    "https://www.youtube-nocookie.com/embed/wQ8XADgKZ1s",
+    "https://www.youtube-nocookie.com/embed/4kk-tv3Zzk4",
+    "https://www.youtube-nocookie.com/embed/ZA1oAQPoOvQ"
+  ],
+  "bpm": 92,
+  "tone": "D major",
+  "backings": [
+    "Adam Svensson",
+    "Erik Segerstedt",
+    "Jennie Jahns",
+    "Marie Nordmark Sjöström",
+    "Simon Lingmerth"
+  ],
+  "commentators": [
+    "Dmitry Guberniev",
+    "Olga Shelest"
+  ],
+  "composers": [
+    "Dimitris Kontopoulos",
+    "Philipp Kirkorov"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Sharon Vaughn"
+  ],
+  "spokesperson": "Ivan Bessonov",
+  "stageDirector": "Fokas Evangelinos",
+  "writers": null
+}

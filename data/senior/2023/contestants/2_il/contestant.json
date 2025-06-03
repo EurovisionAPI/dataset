@@ -1,0 +1,43 @@
+{
+  "id": 2,
+  "country": "IL",
+  "broadcaster": "KAN",
+  "artist": "Noa Kirel",
+  "artistPeople": [
+    "Noya Kirel"
+  ],
+  "song": "Unicorn",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Z3mIcCllJXY",
+    "https://www.youtube-nocookie.com/embed/r4wbdKmM3bQ",
+    "https://www.youtube-nocookie.com/embed/dT9K7RCHxus",
+    "https://www.youtube-nocookie.com/embed/Nx0kMoyyWbE",
+    "https://www.youtube-nocookie.com/embed/XASeTePlkQw"
+  ],
+  "bpm": 130,
+  "tone": "F# minor",
+  "backings": null,
+  "commentators": [
+    "Akiva Novik",
+    "Asaf Liberman",
+    "Doron Medalie"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Amit Gueta",
+    "Eden Shama",
+    "Niv Elbaz",
+    "Rephael Binyamin",
+    "Zohar Fizitski"
+  ],
+  "lyricists": null,
+  "spokesperson": "Ilanit",
+  "stageDirector": "Avichai Hacham",
+  "writers": [
+    "Doron Medalie",
+    "May Sfadia",
+    "Noa Kirel",
+    "Yinon Yahel"
+  ]
+}

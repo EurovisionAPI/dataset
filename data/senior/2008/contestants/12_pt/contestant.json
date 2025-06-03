@@ -1,0 +1,39 @@
+{
+  "id": 12,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Vânia Fernandes",
+  "artistPeople": [
+    "Vânia Fernandes"
+  ],
+  "song": "Senhora Do Mar (Negras Águas)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rJwoMPyXPo0",
+    "https://www.youtube-nocookie.com/embed/vtBNQYQQEDc",
+    "https://www.youtube-nocookie.com/embed/R5n-bQh-llo",
+    "https://www.youtube-nocookie.com/embed/_ALkBuzyei8"
+  ],
+  "bpm": 70,
+  "tone": "C# minor",
+  "backings": [
+    "Evelyne Filipe",
+    "Jéssica Pereira",
+    "Joana Dias",
+    "Jonas Lopes",
+    "Luís Sousa"
+  ],
+  "commentators": [
+    "Isabel Angelino"
+  ],
+  "composers": [
+    "Andrej Babić"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Carlos Coelho"
+  ],
+  "spokesperson": "Teresa Villa-Lobos",
+  "stageDirector": null,
+  "writers": null
+}

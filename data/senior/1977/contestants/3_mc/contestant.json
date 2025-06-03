@@ -1,0 +1,35 @@
+{
+  "id": 3,
+  "country": "MC",
+  "broadcaster": "TMC",
+  "artist": "Michèle Torr",
+  "artistPeople": [
+    "Michèle Torr"
+  ],
+  "song": "Une petite Française",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-SyVTXuVGo4",
+    "https://www.youtube-nocookie.com/embed/aiQHThnR8Kg",
+    "https://www.youtube-nocookie.com/embed/6-23NNPuAYI"
+  ],
+  "bpm": 93,
+  "tone": "D minor",
+  "backings": [
+    "Françoise Walle"
+  ],
+  "commentators": [
+    "Georges de Caunes"
+  ],
+  "composers": [
+    "Olivier Toussaint",
+    "Paul de Senneville"
+  ],
+  "conductor": "Yvon Rioland",
+  "dancers": null,
+  "lyricists": [
+    "Jean Albertini"
+  ],
+  "spokesperson": "Carole Chabrier",
+  "stageDirector": null,
+  "writers": null
+}

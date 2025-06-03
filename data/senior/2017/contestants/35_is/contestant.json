@@ -1,0 +1,46 @@
+{
+  "id": 35,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Svala",
+  "artistPeople": [
+    "Svala Björgvinsdóttir"
+  ],
+  "song": "Paper",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UPlm18-AlGg",
+    "https://www.youtube-nocookie.com/embed/9CHsdrtqSqw",
+    "https://www.youtube-nocookie.com/embed/UZR7Oc3q_Oc",
+    "https://www.youtube-nocookie.com/embed/J_vBrOeTfj0",
+    "https://www.youtube-nocookie.com/embed/_2AflM9eUBs",
+    "https://www.youtube-nocookie.com/embed/QFAW00KPmVY",
+    "https://www.youtube-nocookie.com/embed/hv6PmOzF13c"
+  ],
+  "bpm": 108,
+  "tone": "Bb major",
+  "backings": [
+    "Anna Sigríður Snorradóttir",
+    "Fanny Kristín Tryggvadóttir",
+    "Hrönn Svansdóttir",
+    "Íris Guðmundsdóttir",
+    "Óskar Einarsson"
+  ],
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "composers": [
+    "Einar Egilsson",
+    "Lester Mendez",
+    "Lily Elise",
+    "Svala Björgvinsdóttir"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Lily Elise",
+    "Svala Björgvinsdóttir"
+  ],
+  "spokesperson": "Björgvin Halldórsson",
+  "stageDirector": "Einar Egilsson",
+  "writers": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": 33,
+  "country": "MT",
+  "broadcaster": "PBS",
+  "artist": "Sarah Bonnici",
+  "artistPeople": [
+    "Sarah Bonnici"
+  ],
+  "song": "Loop",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uG-JHeia13c",
+    "https://www.youtube-nocookie.com/embed/l6eS60n4wg8",
+    "https://www.youtube-nocookie.com/embed/JwFwkHqKjDQ",
+    "https://www.youtube-nocookie.com/embed/vKT0Qxv9zDQ",
+    "https://www.youtube-nocookie.com/embed/RgJKoWjsS9U",
+    "https://www.youtube-nocookie.com/embed/jsDE89SWZbQ",
+    "https://www.youtube-nocookie.com/embed/Z3-FFghN9tY"
+  ],
+  "bpm": 110,
+  "tone": "Ab minor",
+  "backings": [
+    "Pamela Bezzina"
+  ],
+  "commentators": null,
+  "composers": [
+    "John Emil Johansson",
+    "Joy Deb",
+    "Kevin Lee",
+    "Leire Gotxi Angel",
+    "Linnea Deb",
+    "Matthew James Borg",
+    "Michael Joe Cini",
+    "Sarah Bonnici",
+    "Sebastian Pritchard-James"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Jamie Bell",
+    "Matt Jordan",
+    "Victor Allen",
+    "William Almeida"
+  ],
+  "lyricists": [
+    "Joy Deb",
+    "Kevin Lee",
+    "Leire Gotxi Angel",
+    "Linnea Deb",
+    "Michael Joe Cini",
+    "Sarah Bonnici",
+    "Sebastian Pritchard-James"
+  ],
+  "spokesperson": "Matt Blxck",
+  "stageDirector": "Steven Levi Vella",
+  "writers": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 7,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Vanilla Ninja",
+  "artistPeople": [
+    "Katrin Siska",
+    "Lenna Kuurmaa",
+    "Piret Järvis",
+    "Triinu Kivilaan"
+  ],
+  "song": "Cool Vibes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dEYN99yDiyE",
+    "https://www.youtube-nocookie.com/embed/Eq3zdGCz_Kg"
+  ],
+  "bpm": 127,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Claudio Lazzarino",
+    "Daniela Tami",
+    "Jean-Marc Richard",
+    "Marie-Thérèse Porchet",
+    "Sandra Studer"
+  ],
+  "composers": [
+    "David Brandes",
+    "Jane Tempest"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "John O'Flynn"
+  ],
+  "spokesperson": "Cécile Bähler",
+  "stageDirector": null,
+  "writers": null
+}

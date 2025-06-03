@@ -1,0 +1,37 @@
+{
+  "id": 36,
+  "country": "AL",
+  "broadcaster": "RTSH",
+  "artist": "Eneda Tarifa",
+  "artistPeople": [
+    "Eneda Tarifa"
+  ],
+  "song": "Fairytale",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jdT5EGcTjYw",
+    "https://www.youtube-nocookie.com/embed/je1ICZiKT4g",
+    "https://www.youtube-nocookie.com/embed/u6ySpdlWEdA",
+    "https://www.youtube-nocookie.com/embed/ONNJWW0rVIk",
+    "https://www.youtube-nocookie.com/embed/ixCwm_ExniA",
+    "https://www.youtube-nocookie.com/embed/pVBEzzDPl5U"
+  ],
+  "bpm": 97,
+  "tone": "G minor",
+  "backings": [
+    "Ambra Devolli",
+    "Venera Lumani",
+    "Xhoni Jesku"
+  ],
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Andri Xhahu",
+  "stageDirector": null,
+  "writers": [
+    "Olsa Toqi"
+  ]
+}

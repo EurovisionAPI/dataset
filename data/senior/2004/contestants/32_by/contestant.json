@@ -1,0 +1,35 @@
+{
+  "id": 32,
+  "country": "BY",
+  "broadcaster": "BTRC",
+  "artist": "Aleksandra & Konstantin",
+  "artistPeople": [
+    "Alexandra Kirsanova",
+    "Konstantin Drapezo"
+  ],
+  "song": "My Galileo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bINn55fuScE",
+    "https://www.youtube-nocookie.com/embed/_NaDXI4Dews"
+  ],
+  "bpm": 128,
+  "tone": "F major",
+  "backings": [
+    "Petr Elfimov"
+  ],
+  "commentators": [
+    "Ales Kruglyakov"
+  ],
+  "composers": [
+    "Alexandra Kirsanova",
+    "Konstantin Drapezo"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Alexey Solomakha"
+  ],
+  "spokesperson": "Denis Kurian",
+  "stageDirector": null,
+  "writers": null
+}

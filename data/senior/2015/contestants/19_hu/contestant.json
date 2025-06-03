@@ -1,0 +1,41 @@
+{
+  "id": 19,
+  "country": "HU",
+  "broadcaster": "MTV",
+  "artist": "Boggie",
+  "artistPeople": [
+    "Boglárka Csemer"
+  ],
+  "song": "Wars For Nothing",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MdybVsBESQc",
+    "https://www.youtube-nocookie.com/embed/Z52QQG1hboo",
+    "https://www.youtube-nocookie.com/embed/gzHNFFSFTIs",
+    "https://www.youtube-nocookie.com/embed/WETXc5Z7Cng",
+    "https://www.youtube-nocookie.com/embed/654V2hPUX4w",
+    "https://www.youtube-nocookie.com/embed/JoMzg0Krsj8"
+  ],
+  "bpm": 129,
+  "tone": "D major",
+  "backings": [
+    "Domonkos Dely",
+    "Krisztina Szeder-Szabó",
+    "Milán Szakonyi",
+    "Orsolya Sapszon"
+  ],
+  "commentators": [
+    "Gábor Gundel Takács"
+  ],
+  "composers": [
+    "Áron Sebestyén",
+    "Boggie"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Sára Hélène Bori"
+  ],
+  "spokesperson": "Csilla Tatár",
+  "stageDirector": null,
+  "writers": null
+}

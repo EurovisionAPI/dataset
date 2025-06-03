@@ -1,0 +1,37 @@
+{
+  "id": 8,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Rasmussen",
+  "artistPeople": [
+    "Jonas Flodager Rasmussen"
+  ],
+  "song": "Higher Ground",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/c0kP074Mw0k",
+    "https://www.youtube-nocookie.com/embed/42JL4rEgp_U",
+    "https://www.youtube-nocookie.com/embed/XmboaW4N56A",
+    "https://www.youtube-nocookie.com/embed/HiRLJUOBWXQ",
+    "https://www.youtube-nocookie.com/embed/z0jvoBMu6X4",
+    "https://www.youtube-nocookie.com/embed/8_NJAdFbtqw",
+    "https://www.youtube-nocookie.com/embed/yAtA1UjCzDU"
+  ],
+  "bpm": 164,
+  "tone": "F# minor",
+  "backings": [
+    "Anders Ørsager"
+  ],
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ulla Essendrop",
+  "stageDirector": "Mads Enggaard",
+  "writers": [
+    "Karl Eurén",
+    "Niclas Arn"
+  ]
+}

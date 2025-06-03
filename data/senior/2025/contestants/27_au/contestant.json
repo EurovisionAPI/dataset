@@ -1,0 +1,43 @@
+{
+  "id": 27,
+  "country": "AU",
+  "broadcaster": "SBS",
+  "artist": "Go-Jo",
+  "artistPeople": [
+    "Marty Zambotto"
+  ],
+  "song": "Milkshake Man",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EJ0RdIU_G8g",
+    "https://www.youtube-nocookie.com/embed/_08I6mjHSLA",
+    "https://www.youtube-nocookie.com/embed/0x2a1y3p-ow",
+    "https://www.youtube-nocookie.com/embed/svlS5zCVKI0",
+    "https://www.youtube-nocookie.com/embed/Rgfd2PEXAEw",
+    "https://www.youtube-nocookie.com/embed/KG7ZcJd-Fd4",
+    "https://www.youtube-nocookie.com/embed/fwEaBxeeIQw"
+  ],
+  "bpm": 154,
+  "tone": "C major",
+  "backings": [
+    "George Sheppard"
+  ],
+  "commentators": [
+    "Courtney Act",
+    "Tony Armstrong"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Jeannine Bruderer",
+    "Jenaya Okpalanze"
+  ],
+  "lyricists": null,
+  "spokesperson": "Silia Kapsis",
+  "stageDirector": "Marvin Dietmann",
+  "writers": [
+    "Amy Sheppard",
+    "George Sheppard",
+    "Marty Zambotto",
+    "Jason Bovino"
+  ]
+}

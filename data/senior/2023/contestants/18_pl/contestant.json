@@ -1,0 +1,50 @@
+{
+  "id": 18,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Blanka",
+  "artistPeople": [
+    "Blanka Stajkow"
+  ],
+  "song": "Solo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SEgF1aP-U1o",
+    "https://www.youtube-nocookie.com/embed/PvQRpV1-ZhY",
+    "https://www.youtube-nocookie.com/embed/075F41yFvqU",
+    "https://www.youtube-nocookie.com/embed/ANM4CwbE0Is",
+    "https://www.youtube-nocookie.com/embed/8VnnxaOfjdE",
+    "https://www.youtube-nocookie.com/embed/_z5FpiQKJwk",
+    "https://www.youtube-nocookie.com/embed/_A0dAasBAE8"
+  ],
+  "bpm": 99,
+  "tone": "B minor",
+  "backings": [
+    "Maria Broberg"
+  ],
+  "commentators": [
+    "Aleksander Sikora",
+    "Marek Sierocki"
+  ],
+  "composers": [
+    "Bartłomiej Rzeczycki",
+    "Blanka Stajkow",
+    "Maciej Puchalski",
+    "Marcin Górecki",
+    "Mikołaj Trybulec"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Bruno Duarte",
+    "Maja Rolewska",
+    "Oliwier Kondrat",
+    "Paulina Maciejewska"
+  ],
+  "lyricists": [
+    "Blanka Stajkow",
+    "Julia Sundberg",
+    "Maria Broberg"
+  ],
+  "spokesperson": "Ida Nowakowska",
+  "stageDirector": "Mikołaj Dobrowolski",
+  "writers": null
+}

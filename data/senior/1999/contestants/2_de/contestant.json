@@ -1,0 +1,43 @@
+{
+  "id": 2,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Sürpriz",
+  "artistPeople": [
+    "Bülent Ural",
+    "Cihan 'Chicco' Özden",
+    "Deniz Filizmen",
+    "Savas Ucar",
+    "Yasemin Akkar",
+    "Zeyno Filiz"
+  ],
+  "song": "Reise nach Jerusalem – Kudüs'e seyahat",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9c1aVpRDYUU",
+    "https://www.youtube-nocookie.com/embed/7_jZuIPgsaQ",
+    "https://www.youtube-nocookie.com/embed/udQaAzfOcPU",
+    "https://www.youtube-nocookie.com/embed/E3JJYIwqs-s",
+    "https://www.youtube-nocookie.com/embed/GDqpYXVfjNA",
+    "https://www.youtube-nocookie.com/embed/uxfKRnB315E",
+    "https://www.youtube-nocookie.com/embed/HyiInG7Csyc"
+  ],
+  "bpm": 185,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Peter Urban"
+  ],
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Cihan 'Chicco' Özden",
+    "Deniz Filizmen",
+    "Gunter Johansen"
+  ],
+  "spokesperson": "Renan Demirkan",
+  "stageDirector": null,
+  "writers": null
+}

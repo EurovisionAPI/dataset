@@ -1,0 +1,33 @@
+{
+  "id": 15,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Cathy Leander",
+  "artistPeople": [
+    "Catherine Meyer"
+  ],
+  "song": "Mon cœur l'aime",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KSd5_KRILkU",
+    "https://www.youtube-nocookie.com/embed/00zAtc4-HDY"
+  ],
+  "bpm": 137,
+  "tone": "C# major",
+  "backings": [
+    "Régis Mounir"
+  ],
+  "commentators": [
+    "Joanne Holder",
+    "Pierre Grandjean",
+    "Sandra Studer"
+  ],
+  "composers": null,
+  "conductor": "Rui Filipe Reis",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Yves Ménestrier",
+  "stageDirector": null,
+  "writers": [
+    "Régis Mounir"
+  ]
+}

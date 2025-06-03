@@ -1,0 +1,36 @@
+{
+  "id": 13,
+  "country": "CY",
+  "broadcaster": "CyBC",
+  "artist": "Haris Anastasiou",
+  "artistPeople": [
+    "Anastazio",
+    "Anastaziou"
+  ],
+  "song": "Milas Poli",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fGFb9Dngosg",
+    "https://www.youtube-nocookie.com/embed/sbvUYu995Nc",
+    "https://www.youtube-nocookie.com/embed/jwgtufdliiw",
+    "https://www.youtube-nocookie.com/embed/WI0g9E3ZqBA"
+  ],
+  "bpm": 120,
+  "tone": "F major",
+  "backings": [
+    "John Vickers"
+  ],
+  "commentators": [
+    "Neophytos Taliotis"
+  ],
+  "composers": [
+    "John Vickers"
+  ],
+  "conductor": "Stanko Selak",
+  "dancers": null,
+  "lyricists": [
+    "Haris Anastasiou"
+  ],
+  "spokesperson": "Anna Partelidou",
+  "stageDirector": null,
+  "writers": null
+}

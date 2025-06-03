@@ -1,0 +1,47 @@
+{
+  "id": 8,
+  "country": "UA",
+  "broadcaster": "UA:PBC",
+  "artist": "Ziferblat",
+  "artistPeople": [
+    "Daniel Leshchynskyi",
+    "Fedir Khodakov",
+    "Valentyn Leshchynskyi"
+  ],
+  "song": "Bird of Pray",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-DG0l8sSNJM",
+    "https://www.youtube-nocookie.com/embed/0Jc02OFU42w",
+    "https://www.youtube-nocookie.com/embed/OJ1x2aiL7ks",
+    "https://www.youtube-nocookie.com/embed/JY0jqZByuoc",
+    "https://www.youtube-nocookie.com/embed/VzcuowdxVSs",
+    "https://www.youtube-nocookie.com/embed/Hz30Z7EwaeY",
+    "https://www.youtube-nocookie.com/embed/2LZXVeat0z8"
+  ],
+  "bpm": 134,
+  "tone": "F# minor",
+  "backings": [
+    "Darina Gavrik",
+    "Karina Sokolovskaya",
+    "Khrystyna Starykova"
+  ],
+  "commentators": [
+    "alyona alyona",
+    "Oleksandr Pedan",
+    "Timur Miroshnychenko",
+    "Vlad Kuran"
+  ],
+  "composers": [
+    "Daniel Leshchynskyi",
+    "Fedir Khodakov",
+    "Valentyn Leshchynskyi"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Valentyn Leshchynskyi"
+  ],
+  "spokesperson": "Jerry Heil",
+  "stageDirector": "Maria Korostelova",
+  "writers": null
+}

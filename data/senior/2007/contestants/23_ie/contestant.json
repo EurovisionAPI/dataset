@@ -1,0 +1,36 @@
+{
+  "id": 23,
+  "country": "IE",
+  "broadcaster": "RTÉ",
+  "artist": "Dervish",
+  "artistPeople": [
+    "Brian McDonagh",
+    "Cathy Jordan",
+    "Liam Kelly",
+    "Michael Holmes",
+    "Shane Mitchell",
+    "Tom Morrow"
+  ],
+  "song": "They Can't Stop The Spring",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/N40wpl5m0UM",
+    "https://www.youtube-nocookie.com/embed/Ida1wNmNb6s",
+    "https://www.youtube-nocookie.com/embed/Vi-X7t6YOJg"
+  ],
+  "bpm": 172,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Linda Martin",
+  "stageDirector": null,
+  "writers": [
+    "John Waters",
+    "Tommy Moran"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 9,
+  "country": "BE",
+  "broadcaster": "VRT",
+  "artist": "Laura Tesoro",
+  "artistPeople": [
+    "Laura Tesoro"
+  ],
+  "song": "What's the Pressure",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xDBjhAGaeWg",
+    "https://www.youtube-nocookie.com/embed/iP3USrYpr5w",
+    "https://www.youtube-nocookie.com/embed/IMZH2w7IfhM",
+    "https://www.youtube-nocookie.com/embed/kr8uENNXSYc",
+    "https://www.youtube-nocookie.com/embed/KY9SNpTmHWE",
+    "https://www.youtube-nocookie.com/embed/B2rZZTLbLjo"
+  ],
+  "bpm": 117,
+  "tone": "B major",
+  "backings": [
+    "Kevin van der Meer",
+    "Laurens Hagens",
+    "Melany Bhola",
+    "Rebecca Louis",
+    "Tanja Daese"
+  ],
+  "commentators": [
+    "Jean-Louis Lahaye",
+    "Maureen Louys",
+    "Peter Van de Veire"
+  ],
+  "composers": [
+    "Louis Favre",
+    "Sanne Putseys",
+    "Yannick Werther"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Birsen Uçar",
+    "Sanne Putseys"
+  ],
+  "spokesperson": "Umesh Vangaver",
+  "stageDirector": "Hans Pannecoucke",
+  "writers": null
+}

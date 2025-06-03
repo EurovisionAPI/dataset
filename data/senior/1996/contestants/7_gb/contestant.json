@@ -1,0 +1,39 @@
+{
+  "id": 7,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Gina G",
+  "artistPeople": [
+    "Gina Mary Gardiner"
+  ],
+  "song": "Ooh...Aah...Just A Little Bit",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UgN-pI1rA0E",
+    "https://www.youtube-nocookie.com/embed/8cAAEsgbF3o",
+    "https://www.youtube-nocookie.com/embed/Magh07b9fDM",
+    "https://www.youtube-nocookie.com/embed/J9qvuUmK-_c"
+  ],
+  "bpm": 131,
+  "tone": "F# major",
+  "backings": [
+    "Chloë Treend",
+    "Karen Boddington",
+    "Miranda Cooper",
+    "Simon Tauber",
+    "Steve Rodway"
+  ],
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "composers": [
+    "Steve Rodway"
+  ],
+  "conductor": "Ernie Dunstall",
+  "dancers": null,
+  "lyricists": [
+    "Simon Tauber"
+  ],
+  "spokesperson": "Colin Berry",
+  "stageDirector": null,
+  "writers": null
+}

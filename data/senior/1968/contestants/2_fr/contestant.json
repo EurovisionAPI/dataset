@@ -1,0 +1,33 @@
+{
+  "id": 2,
+  "country": "FR",
+  "broadcaster": "ORTF",
+  "artist": "Isabelle Aubret",
+  "artistPeople": [
+    "Thérèse Coquerelle"
+  ],
+  "song": "La Source",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ioyf4dkJYLY",
+    "https://www.youtube-nocookie.com/embed/ycarcGMdCC0",
+    "https://www.youtube-nocookie.com/embed/YM_2z4vsJe0"
+  ],
+  "bpm": 103,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "composers": [
+    "Daniel Faure"
+  ],
+  "conductor": "Alain Goraguer",
+  "dancers": null,
+  "lyricists": [
+    "Guy Bonnet",
+    "Henri Djian"
+  ],
+  "spokesperson": "Jean-Claude Massoulier",
+  "stageDirector": null,
+  "writers": null
+}

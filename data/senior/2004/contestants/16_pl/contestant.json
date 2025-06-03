@@ -1,0 +1,35 @@
+{
+  "id": 16,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Blue Cafe",
+  "artistPeople": [
+    "Michał Niewiadomski",
+    "Paweł Rurak-Sokal",
+    "Piotr Grąbkowski",
+    "Piotr Sławiński",
+    "Tatiana Okupnik"
+  ],
+  "song": "Love Song",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kWS-S53Zsio",
+    "https://www.youtube-nocookie.com/embed/v05cnOO4gb8"
+  ],
+  "bpm": 105,
+  "tone": "Bb minor",
+  "backings": null,
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "composers": [
+    "Paweł Rurak-Sokal"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Tatiana Okupnik"
+  ],
+  "spokesperson": "Maciej Orłoś",
+  "stageDirector": null,
+  "writers": null
+}

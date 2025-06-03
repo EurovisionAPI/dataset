@@ -1,0 +1,40 @@
+{
+  "id": 14,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Alexander Rybak",
+  "artistPeople": [
+    "Alexander Rybak"
+  ],
+  "song": "That's How You Write a Song",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/N17BdRwOvBA",
+    "https://www.youtube-nocookie.com/embed/Mvxni-WcD9A",
+    "https://www.youtube-nocookie.com/embed/BrKpMOy02-c",
+    "https://www.youtube-nocookie.com/embed/LbXGVNYqXgI",
+    "https://www.youtube-nocookie.com/embed/w818_5r83yI",
+    "https://www.youtube-nocookie.com/embed/czBZ9ms9L0A",
+    "https://www.youtube-nocookie.com/embed/6bqjUjrP4Oc"
+  ],
+  "bpm": 104,
+  "tone": "F minor",
+  "backings": [
+    "Alvaro Estrella",
+    "Frode Vassel",
+    "Jens Jeffry Trinidad",
+    "Lene Kokai Flage",
+    "Lisa Børud"
+  ],
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Aleksander Walmann, JOWST",
+  "stageDirector": "Mattias Carlsson",
+  "writers": [
+    "Alexander Rybak"
+  ]
+}

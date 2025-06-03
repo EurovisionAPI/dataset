@@ -1,0 +1,39 @@
+{
+  "id": 14,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Cindy & Bert",
+  "artistPeople": [
+    "Norbert Maria Berger",
+    "Jutta Berger"
+  ],
+  "song": "Die Sommermelodie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/E4hf9NKYgdc",
+    "https://www.youtube-nocookie.com/embed/vWaoMyLM_MQ",
+    "https://www.youtube-nocookie.com/embed/UyXb4vpCMEQ",
+    "https://www.youtube-nocookie.com/embed/IcBQ2RAr9_E",
+    "https://www.youtube-nocookie.com/embed/u1BAuMpitrU"
+  ],
+  "bpm": 96,
+  "tone": "G major",
+  "backings": [
+    "Brigitte Witt",
+    "Hans Van Hall",
+    "Horst Mand"
+  ],
+  "commentators": [
+    "Werner Veigel"
+  ],
+  "composers": [
+    "Werner Scharfenberger"
+  ],
+  "conductor": "Werner Scharfenberger",
+  "dancers": null,
+  "lyricists": [
+    "Kurt Feltz"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

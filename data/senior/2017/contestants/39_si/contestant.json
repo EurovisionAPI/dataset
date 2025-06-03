@@ -1,0 +1,33 @@
+{
+  "id": 39,
+  "country": "SI",
+  "broadcaster": "RTVSLO",
+  "artist": "Omar Naber",
+  "artistPeople": [
+    "Omar Kareem Naber"
+  ],
+  "song": "On My Way",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vbGub2klcV4",
+    "https://www.youtube-nocookie.com/embed/fj9ssc-7Zzo",
+    "https://www.youtube-nocookie.com/embed/QWGNLoQ9Am4",
+    "https://www.youtube-nocookie.com/embed/rMmD2Ug2kYs",
+    "https://www.youtube-nocookie.com/embed/Es8N8GfAtHs",
+    "https://www.youtube-nocookie.com/embed/8hDPp1u0UQE"
+  ],
+  "bpm": 135,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Katarina Čas",
+  "stageDirector": "Nejc Levstik",
+  "writers": [
+    "Omar Naber"
+  ]
+}

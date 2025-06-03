@@ -1,0 +1,38 @@
+{
+  "id": 29,
+  "country": "SI",
+  "broadcaster": "RTVSLO",
+  "artist": "Rebeka Dremelj",
+  "artistPeople": [
+    "Rebeka Dremelj"
+  ],
+  "song": "Vrag Naj Vzame",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MNfKA2olCSk",
+    "https://www.youtube-nocookie.com/embed/S2YaT3L2jqY",
+    "https://www.youtube-nocookie.com/embed/a-8ubOhhU88"
+  ],
+  "bpm": 126,
+  "tone": "A minor",
+  "backings": [
+    "Jelena Majić",
+    "Marina Durović",
+    "Matej Bedič",
+    "Sandra Feketija",
+    "Željko Božič"
+  ],
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "composers": [
+    "Josip Miani-Pipi"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Igor Mazul \"Amon\""
+  ],
+  "spokesperson": "Peter Poles",
+  "stageDirector": null,
+  "writers": null
+}

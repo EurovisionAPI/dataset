@@ -1,0 +1,36 @@
+{
+  "id": 35,
+  "country": "LV",
+  "broadcaster": "LTV",
+  "artist": "Carousel",
+  "artistPeople": [
+    "Mārcis Vasiļevskis",
+    "Sabīne Žuga"
+  ],
+  "song": "That Night",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NCtKU3m3R-8",
+    "https://www.youtube-nocookie.com/embed/6j61TWsjcJY",
+    "https://www.youtube-nocookie.com/embed/RurBGJIdAOI",
+    "https://www.youtube-nocookie.com/embed/TjDnAtgrJCo",
+    "https://www.youtube-nocookie.com/embed/xs7GvrBGy54"
+  ],
+  "bpm": 93,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": [
+    "Ketija Šēnberga",
+    "Toms Grēviņš"
+  ],
+  "composers": [
+    "Mārcis Vasiļevskis"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Sabīne Žuga"
+  ],
+  "spokesperson": "Laura Rizzotto",
+  "stageDirector": "Filip Adamo, Rennie Mirro",
+  "writers": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": 9,
+  "country": "BE",
+  "broadcaster": "RTB",
+  "artist": "Jacques Hustin",
+  "artistPeople": [
+    "Jacques Hustin"
+  ],
+  "song": "Fleur de liberté",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/G2kzBupIjC8",
+    "https://www.youtube-nocookie.com/embed/uv7-suoXpQ4",
+    "https://www.youtube-nocookie.com/embed/3sXptx2tKdg",
+    "https://www.youtube-nocookie.com/embed/J1fdbMQk9T8"
+  ],
+  "bpm": 178,
+  "tone": "B major",
+  "backings": [
+    "Doreen Chanter",
+    "Irene Chanter",
+    "Liza Strike",
+    "Margo Quantrell",
+    "Vicki Brown"
+  ],
+  "commentators": [
+    "Georges Désir",
+    "Herman Verelst"
+  ],
+  "composers": [
+    "Jacques Hustin"
+  ],
+  "conductor": "Pierre Chiffre",
+  "dancers": null,
+  "lyricists": [
+    "Franck F. Gérald"
+  ],
+  "spokesperson": "André Hagon",
+  "stageDirector": null,
+  "writers": null
+}

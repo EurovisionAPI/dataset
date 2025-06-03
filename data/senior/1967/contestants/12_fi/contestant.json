@@ -1,0 +1,31 @@
+{
+  "id": 12,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Fredi",
+  "artistPeople": [
+    "Matti Kalevi Siitonen"
+  ],
+  "song": "Varjoon-suojaan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-GrU7Jfc9HM",
+    "https://www.youtube-nocookie.com/embed/yJpToVQ07C8"
+  ],
+  "bpm": 113,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": [
+    "Aarno Walli"
+  ],
+  "composers": [
+    "Lasse Mårtenson"
+  ],
+  "conductor": "Ossi Runne",
+  "dancers": null,
+  "lyricists": [
+    "Alvi Vuorinen"
+  ],
+  "spokesperson": "Poppe Berg",
+  "stageDirector": null,
+  "writers": null
+}

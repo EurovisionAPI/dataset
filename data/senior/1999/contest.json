@@ -1,0 +1,17 @@
+{
+  "year": 1999,
+  "arena": "Usshishkin Hall",
+  "city": "Jerusalem",
+  "country": "IL",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1999.png",
+  "presenters": [
+    "Yigal Ravid",
+    "Dafna Dekel",
+    "Sigal Shahamon"
+  ],
+  "broadcasters": [
+    "IBA"
+  ]
+}

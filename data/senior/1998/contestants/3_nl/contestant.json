@@ -1,0 +1,38 @@
+{
+  "id": 3,
+  "country": "NL",
+  "broadcaster": "NOS",
+  "artist": "Edsilia Rombley",
+  "artistPeople": [
+    "Edsilia Rombley"
+  ],
+  "song": "Hemel en aarde",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3IcuzcZQOC4",
+    "https://www.youtube-nocookie.com/embed/OUEF45c6zM0",
+    "https://www.youtube-nocookie.com/embed/Y2mVmvXKSF0",
+    "https://www.youtube-nocookie.com/embed/wzDuJdrtZpo",
+    "https://www.youtube-nocookie.com/embed/FO6G2mIAECk"
+  ],
+  "bpm": 95,
+  "tone": "E minor",
+  "backings": [
+    "Babette Labeij",
+    "Marcel Luntungan",
+    "Roger Happel",
+    "Simone Pormes"
+  ],
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "composers": null,
+  "conductor": "Dick Bakker",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Conny Vandenbos",
+  "stageDirector": null,
+  "writers": [
+    "Eric van Tijn",
+    "Jochem Fluitsma"
+  ]
+}

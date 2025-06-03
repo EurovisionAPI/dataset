@@ -1,0 +1,39 @@
+{
+  "id": 11,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "August & Telma",
+  "artistPeople": [
+    "Einar Ágúst Víðisson",
+    "Telma Ágústsdóttir"
+  ],
+  "song": "Tell Me!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cNHsRP9_VxQ",
+    "https://www.youtube-nocookie.com/embed/qNstolVdCvM",
+    "https://www.youtube-nocookie.com/embed/84ulRZUA4zU"
+  ],
+  "bpm": 145,
+  "tone": "D major",
+  "backings": [
+    "Eyjólfur Kristjánsson",
+    "Guðbjörg Magnúsdóttir",
+    "Hulda Gestsdóttir",
+    "Pétur Örn Guðmundsson"
+  ],
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "composers": [
+    "Örlygur Smári"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Örlygur Smári",
+    "Sigurður Örn Jónsson"
+  ],
+  "spokesperson": "Ragnheiður Elín Clausen",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": 12,
+  "country": "BE",
+  "broadcaster": "BRT",
+  "artist": "Emly Starr",
+  "artistPeople": [
+    "Marie-Christine Mareels"
+  ],
+  "song": "Samson",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SODUziCgyLY",
+    "https://www.youtube-nocookie.com/embed/Sj6Vo1yB5FQ",
+    "https://www.youtube-nocookie.com/embed/7DIMjHuEB9c",
+    "https://www.youtube-nocookie.com/embed/fBHvt7eaK2M",
+    "https://www.youtube-nocookie.com/embed/9QRSoBIYo3U"
+  ],
+  "bpm": 139,
+  "tone": "C minor",
+  "backings": [
+    "Bob 'Bobott' Baelemans",
+    "Fred 'Bekky' Beekmans",
+    "Nancy Dee"
+  ],
+  "commentators": [
+    "Jacques Mercier",
+    "Luc Appermont"
+  ],
+  "composers": [
+    "Giuseppe Marchese",
+    "Kick Dandy"
+  ],
+  "conductor": "Giuseppe Marchese",
+  "dancers": null,
+  "lyricists": [
+    "Kick Dandy",
+    "Penny Els"
+  ],
+  "spokesperson": "Walter De Meyere",
+  "stageDirector": null,
+  "writers": null
+}

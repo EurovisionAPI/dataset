@@ -1,0 +1,31 @@
+{
+  "id": 1,
+  "country": "NL",
+  "broadcaster": "NTS",
+  "artist": "Jetty Paerl",
+  "artistPeople": [
+    "Jetty Paerl"
+  ],
+  "song": "De vogels van Holland",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/u45UQVGRVPA",
+    "https://www.youtube-nocookie.com/embed/FJNEcYoavAU"
+  ],
+  "bpm": 139,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Piet te Nuyl Jr."
+  ],
+  "composers": [
+    "Cor Lemaire"
+  ],
+  "conductor": "Fernando Paggi",
+  "dancers": null,
+  "lyricists": [
+    "Annie M. G. Schmidt"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

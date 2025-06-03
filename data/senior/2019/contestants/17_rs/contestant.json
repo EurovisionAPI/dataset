@@ -1,0 +1,44 @@
+{
+  "id": 17,
+  "country": "RS",
+  "broadcaster": "RTS",
+  "artist": "Nevena Božović",
+  "artistPeople": [
+    "Nevena Božović"
+  ],
+  "song": "Kruna",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/X0mdaeAyPvA",
+    "https://www.youtube-nocookie.com/embed/osFxa9jfH04",
+    "https://www.youtube-nocookie.com/embed/_ZlGaTtWCWI",
+    "https://www.youtube-nocookie.com/embed/j-5FgSqp2Fg",
+    "https://www.youtube-nocookie.com/embed/lte7slO7V90",
+    "https://www.youtube-nocookie.com/embed/MP7LdL3tUPw",
+    "https://www.youtube-nocookie.com/embed/PVHIrVvil4A"
+  ],
+  "bpm": 107,
+  "tone": "Ab minor",
+  "backings": [
+    "Dušan Alagić",
+    "Ivana Vladović",
+    "Mladen Lukić",
+    "Olga Popović"
+  ],
+  "commentators": [
+    "Duška Vučinić-Lučić",
+    "Katarina Epštajn",
+    "Tamara Petković"
+  ],
+  "composers": [
+    "Darko Dimitrov",
+    "Nevena Božović"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Nevena Božović"
+  ],
+  "spokesperson": "Dragana Kosjerina",
+  "stageDirector": "Miodrag Kolarić",
+  "writers": null
+}

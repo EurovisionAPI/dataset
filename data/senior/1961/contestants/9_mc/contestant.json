@@ -1,0 +1,31 @@
+{
+  "id": 9,
+  "country": "MC",
+  "broadcaster": "TMC",
+  "artist": "Colette Deréal",
+  "artistPeople": [
+    "Iscolette Denise de Glarélial"
+  ],
+  "song": "Allons, allons les enfants",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mg1ydx9FCyA",
+    "https://www.youtube-nocookie.com/embed/yX14EeLTJzE"
+  ],
+  "bpm": 137,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": [
+    "Robert Beauvais"
+  ],
+  "composers": [
+    "Hubert Giraud"
+  ],
+  "conductor": "Raymond Lefèvre",
+  "dancers": null,
+  "lyricists": [
+    "Pierre Delanoë"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

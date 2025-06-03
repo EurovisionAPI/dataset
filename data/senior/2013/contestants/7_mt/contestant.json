@@ -1,0 +1,36 @@
+{
+  "id": 7,
+  "country": "MT",
+  "broadcaster": "PBS",
+  "artist": "Gianluca",
+  "artistPeople": [
+    "Gianluca Bezzina"
+  ],
+  "song": "Tomorrow",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VK4TvZeL6c0"
+  ],
+  "bpm": 100,
+  "tone": "A major",
+  "backings": [
+    "Chris Tate",
+    "Gabriel Cassar",
+    "Kenny D'Ugo",
+    "Louise Ann Bugeja Tate",
+    "Samaria Bezzina"
+  ],
+  "commentators": [
+    "Gordon Bonello",
+    "Rodney Gauci"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Emma Hickey",
+  "stageDirector": null,
+  "writers": [
+    "Boris Cezek",
+    "Dean Muscat"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 9,
+  "country": "YU",
+  "broadcaster": "JRT",
+  "artist": "Lado Leskovar",
+  "artistPeople": [
+    "Lado Leskovar"
+  ],
+  "song": "Vse rože sveta",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GjKYl7gdMwg",
+    "https://www.youtube-nocookie.com/embed/qNM-eROeD3I"
+  ],
+  "bpm": 106,
+  "tone": "E major",
+  "backings": null,
+  "commentators": [
+    "Miloje Orlović",
+    "Mladen Delić",
+    "Tomaž Terček"
+  ],
+  "composers": [
+    "Urban Koder"
+  ],
+  "conductor": "Mario Rijaveć",
+  "dancers": null,
+  "lyricists": [
+    "Milan Lindič"
+  ],
+  "spokesperson": "Saša Novak",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "CatCat",
+  "artistPeople": [
+    "Katja Kätkä",
+    "Virpi Kätkä"
+  ],
+  "song": "Bye Bye Baby",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JKmiaIxOUuI",
+    "https://www.youtube-nocookie.com/embed/8x066-UB58E",
+    "https://www.youtube-nocookie.com/embed/HViFu-VXQSM",
+    "https://www.youtube-nocookie.com/embed/L2Pc57R-R7A",
+    "https://www.youtube-nocookie.com/embed/pR5pNLRnp6I",
+    "https://www.youtube-nocookie.com/embed/ri5r9ftCKo0"
+  ],
+  "bpm": 130,
+  "tone": "B minor",
+  "backings": [
+    "Charles Salter",
+    "James Black"
+  ],
+  "commentators": [
+    "Erkki Pohjanheimo",
+    "Kirsi-Maria Niemi"
+  ],
+  "composers": null,
+  "conductor": "Olli Ahvenlahti",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Solveig Herlin",
+  "stageDirector": null,
+  "writers": [
+    "Kari Salli",
+    "Markku 'Make' Lentonen"
+  ]
+}

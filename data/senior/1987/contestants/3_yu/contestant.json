@@ -1,0 +1,43 @@
+{
+  "id": 3,
+  "country": "YU",
+  "broadcaster": "JRT",
+  "artist": "Novi Fosili",
+  "artistPeople": [
+    "Marinko Colnago",
+    "Nenad Šarić",
+    "Rajko Dujmić",
+    "Sanja Doležal",
+    "Vladimir Kočiš-Zec"
+  ],
+  "song": "Ja sam za ples",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YVbLLwD5OUs",
+    "https://www.youtube-nocookie.com/embed/O3mT6-QkERA",
+    "https://www.youtube-nocookie.com/embed/fQR5SFtEjT4",
+    "https://www.youtube-nocookie.com/embed/RUoXuVVCiq0",
+    "https://www.youtube-nocookie.com/embed/p6IPzpog0OU",
+    "https://www.youtube-nocookie.com/embed/GGFxGiiegWM",
+    "https://www.youtube-nocookie.com/embed/BQ8nR7qQIps"
+  ],
+  "bpm": 146,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Ksenija Urličić",
+    "Miša Molk",
+    "Mladen Popović",
+    "Oliver Mlakar"
+  ],
+  "composers": [
+    "Rajko Dujmić"
+  ],
+  "conductor": "Nikica Kalogjera",
+  "dancers": null,
+  "lyricists": [
+    "Stevo Cvikić"
+  ],
+  "spokesperson": "Ljiljana Tipsarević",
+  "stageDirector": null,
+  "writers": null
+}

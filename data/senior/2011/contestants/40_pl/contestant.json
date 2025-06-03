@@ -1,0 +1,36 @@
+{
+  "id": 40,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Magdalena Tul",
+  "artistPeople": [
+    "Magdalena Tul"
+  ],
+  "song": "Jestem",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6u4uznE0GxI",
+    "https://www.youtube-nocookie.com/embed/cQjKGCXScUI",
+    "https://www.youtube-nocookie.com/embed/4gXEmagChW4"
+  ],
+  "bpm": 129,
+  "tone": "Bb major",
+  "backings": [
+    "Artur Bomert",
+    "Iga Turek",
+    "Joanna Gogolińska",
+    "Kalina Kasprzak",
+    "Soyanna"
+  ],
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Odeta Moro-Figurska",
+  "stageDirector": null,
+  "writers": [
+    "Magdalena Tul"
+  ]
+}

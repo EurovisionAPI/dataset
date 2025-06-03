@@ -1,0 +1,35 @@
+{
+  "id": 2,
+  "country": "LU",
+  "broadcaster": "CLT",
+  "artist": "Sherisse Laurence",
+  "artistPeople": [
+    "Sherisse Laurence"
+  ],
+  "song": "L'amour de ma vie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/T7CJcQXp6_8",
+    "https://www.youtube-nocookie.com/embed/llsIQiSNTpc",
+    "https://www.youtube-nocookie.com/embed/rMOo-YpkXJw"
+  ],
+  "bpm": 156,
+  "tone": "D major",
+  "backings": [
+    "Claire Aimee Guerin"
+  ],
+  "commentators": [
+    "Valérie Sarn"
+  ],
+  "composers": [
+    "Rolf Soja"
+  ],
+  "conductor": "Rolf Soja",
+  "dancers": null,
+  "lyricists": [
+    "Alain Garcia",
+    "Frank Dostal"
+  ],
+  "spokesperson": "Frédérique Ries",
+  "stageDirector": null,
+  "writers": null
+}

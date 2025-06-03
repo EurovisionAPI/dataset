@@ -1,0 +1,27 @@
+{
+  "id": 6,
+  "country": "LU",
+  "broadcaster": "CLT",
+  "artist": "Michèle Arnaud",
+  "artistPeople": [
+    "Micheline Caré"
+  ],
+  "song": "Ne crois pas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Pv7GJkqtNuc",
+    "https://www.youtube-nocookie.com/embed/kbEHwIr9IAc"
+  ],
+  "bpm": 137,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": "Jacques Lassry",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Christian Guitreau"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 15,
+  "country": "GE",
+  "broadcaster": "GPB",
+  "artist": "Tornike Kipiani",
+  "artistPeople": [
+    "Tornike Kipiani"
+  ],
+  "song": "Take Me As I Am",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LjNK4Xywjc4"
+  ],
+  "bpm": 118,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Aleko Berdzenishvili",
+    "Tornike Kipiani"
+  ]
+}

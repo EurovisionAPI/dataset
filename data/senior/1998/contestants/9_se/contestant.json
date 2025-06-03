@@ -1,0 +1,40 @@
+{
+  "id": 9,
+  "country": "SE",
+  "broadcaster": "SVT",
+  "artist": "Jill Johnson",
+  "artistPeople": [
+    "Jill Johnson"
+  ],
+  "song": "Kärleken är",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/aGBU1IGC17s",
+    "https://www.youtube-nocookie.com/embed/SLnDxQlh-bM",
+    "https://www.youtube-nocookie.com/embed/1ni0L2o81R4",
+    "https://www.youtube-nocookie.com/embed/C4YkxwZ_UwE"
+  ],
+  "bpm": 148,
+  "tone": "E major",
+  "backings": [
+    "Fredrik Ivarson",
+    "Lennart Sjöholm",
+    "Mats Westling",
+    "Peter Hallström"
+  ],
+  "commentators": [
+    "Christer Björkman",
+    "Pernilla Månsson"
+  ],
+  "composers": [
+    "Bobby Ljunggren",
+    "Håkan Almqvist"
+  ],
+  "conductor": "Anders Berglund",
+  "dancers": null,
+  "lyricists": [
+    "Ingela Forsman"
+  ],
+  "spokesperson": "Björn Hedman",
+  "stageDirector": null,
+  "writers": null
+}

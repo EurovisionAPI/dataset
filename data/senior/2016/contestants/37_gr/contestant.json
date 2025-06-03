@@ -1,0 +1,38 @@
+{
+  "id": 37,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Argo",
+  "artistPeople": [
+    "Alekos Papadopoulos",
+    "Christina Lachana",
+    "Kostas Topouzis",
+    "Maria Venetikidou",
+    "Vladimiros Sofianidis"
+  ],
+  "song": "Utopian Land",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/55ubbjAzwYA",
+    "https://www.youtube-nocookie.com/embed/AqrdpcY3skI",
+    "https://www.youtube-nocookie.com/embed/XnWFjGM5G6k",
+    "https://www.youtube-nocookie.com/embed/QUCMA5-b-Bc"
+  ],
+  "bpm": 110,
+  "tone": "C minor",
+  "backings": null,
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Vasilis Roxenos"
+  ],
+  "lyricists": null,
+  "spokesperson": "Constantinos Christoforou",
+  "stageDirector": "Maria Liraraki",
+  "writers": [
+    "Vladimiros Sofianidis"
+  ]
+}

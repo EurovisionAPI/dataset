@@ -1,0 +1,41 @@
+{
+  "id": 8,
+  "country": "YU",
+  "broadcaster": "JRT",
+  "artist": "Lući Kapurso & Hamo Hajdarhodžić",
+  "artistPeople": [
+    "Hamo Hajdarhodžić",
+    "Luciano Capurso"
+  ],
+  "song": "Jedan dan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/T8vLS6M5P8A",
+    "https://www.youtube-nocookie.com/embed/i-yvd9xNwyI",
+    "https://www.youtube-nocookie.com/embed/8mqho7lzTLQ",
+    "https://www.youtube-nocookie.com/embed/iDNiwTBPuag"
+  ],
+  "bpm": 126,
+  "tone": "D major",
+  "backings": [
+    "Đelo Jusić",
+    "Ladislav Padjen",
+    "Marko Brešković"
+  ],
+  "commentators": [
+    "Miloje Orlović",
+    "Mladen Delić",
+    "Tomaž Terček"
+  ],
+  "composers": [
+    "Đelo Jusić",
+    "Stipica Kalogjera"
+  ],
+  "conductor": "Miljenko Prohaska",
+  "dancers": null,
+  "lyricists": [
+    "Stijepo Stražičić"
+  ],
+  "spokesperson": "Snežana Lipkovska-Hadžinaumova",
+  "stageDirector": null,
+  "writers": null
+}

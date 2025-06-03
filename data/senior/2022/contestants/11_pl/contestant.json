@@ -1,0 +1,46 @@
+{
+  "id": 11,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Ochman",
+  "artistPeople": [
+    "Ochman"
+  ],
+  "song": "River",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jRVDZ6446eM",
+    "https://www.youtube-nocookie.com/embed/WA5dQL7Q5hw",
+    "https://www.youtube-nocookie.com/embed/naLid1DSXnI",
+    "https://www.youtube-nocookie.com/embed/jli76im9xac",
+    "https://www.youtube-nocookie.com/embed/D0aKRICmmbA",
+    "https://www.youtube-nocookie.com/embed/b4I94tMIlkQ",
+    "https://www.youtube-nocookie.com/embed/tLWMh2uU00A"
+  ],
+  "bpm": 140,
+  "tone": "Eb major",
+  "backings": null,
+  "commentators": [
+    "Aleksander Sikora",
+    "Marek Sierocki"
+  ],
+  "composers": [
+    "Adam Wiśniewski",
+    "Ashley Hicklin",
+    "Krystian Ochman",
+    "Mikołaj Trybulec"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Jekaterina Nesterowa",
+    "Julia Adamczyk",
+    "Martyna Przybyłowska",
+    "Paulina Przestrzelska"
+  ],
+  "lyricists": [
+    "Ashley Hicklin",
+    "Krystian Ochman"
+  ],
+  "spokesperson": "Ida Nowakowska",
+  "stageDirector": "Mikołaj Dobrowolski, Tomasz Klimek",
+  "writers": null
+}

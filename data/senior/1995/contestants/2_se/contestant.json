@@ -1,0 +1,39 @@
+{
+  "id": 2,
+  "country": "SE",
+  "broadcaster": "SVT",
+  "artist": "Jan Johansen",
+  "artistPeople": [
+    "Jan Johansen"
+  ],
+  "song": "Se på mig",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/O6W1bI_nxxc",
+    "https://www.youtube-nocookie.com/embed/ylwWj8i9hJ0",
+    "https://www.youtube-nocookie.com/embed/9EHg07V48TA"
+  ],
+  "bpm": 136,
+  "tone": "E major",
+  "backings": [
+    "Elisabeth Melander",
+    "Margareta Nilsson",
+    "Robert Persson",
+    "Staffan Paulsson"
+  ],
+  "commentators": [
+    "Kåge Gimtell",
+    "Pernilla Månsson"
+  ],
+  "composers": [
+    "Bobby Ljunggren",
+    "Håkan Almqvist"
+  ],
+  "conductor": "Anders Berglund",
+  "dancers": null,
+  "lyricists": [
+    "Ingela Forsman"
+  ],
+  "spokesperson": "Björn Hedman",
+  "stageDirector": null,
+  "writers": null
+}

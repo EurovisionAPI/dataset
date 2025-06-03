@@ -1,0 +1,31 @@
+{
+  "id": 9,
+  "country": "BA",
+  "broadcaster": "BHRT",
+  "artist": "Laka",
+  "artistPeople": [
+    "Elvir Laković",
+    "Mirela Laković"
+  ],
+  "song": "Pokušaj",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kIRDbmpC2PI",
+    "https://www.youtube-nocookie.com/embed/Xkmtfv7syYY",
+    "https://www.youtube-nocookie.com/embed/5eUeBrPisRg"
+  ],
+  "bpm": 144,
+  "tone": "E major",
+  "backings": null,
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Melina Garibović",
+  "stageDirector": null,
+  "writers": [
+    "Laka"
+  ]
+}

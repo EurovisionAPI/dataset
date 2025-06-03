@@ -1,0 +1,32 @@
+{
+  "id": 13,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "The Rounder Girls",
+  "artistPeople": [
+    "Christine 'Tini' Kainrath",
+    "Kim Cooper",
+    "Lynne Kieran"
+  ],
+  "song": "All To You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iyWc9NAxWR4",
+    "https://www.youtube-nocookie.com/embed/VMBtR_300J4",
+    "https://www.youtube-nocookie.com/embed/8pX0GI5yo0Q"
+  ],
+  "bpm": 83,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Dodo Roščić",
+  "stageDirector": null,
+  "writers": [
+    "Dave Moskin"
+  ]
+}

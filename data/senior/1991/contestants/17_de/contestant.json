@@ -1,0 +1,38 @@
+{
+  "id": 17,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Atlantis 2000",
+  "artistPeople": [
+    "Alfons Weindorf",
+    "Clemens Weindorf",
+    "Eberhard Wilhelm",
+    "Helmut Frey",
+    "Jutta Niedhardt",
+    "Klaus Pröpper"
+  ],
+  "song": "Dieser Traum darf niemals sterben",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GyOOxDtY6jg",
+    "https://www.youtube-nocookie.com/embed/cu_e3Px8rv8",
+    "https://www.youtube-nocookie.com/embed/hPtD1XPXxIw",
+    "https://www.youtube-nocookie.com/embed/nHhSUq5nfAU"
+  ],
+  "bpm": 148,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Max Schautzer"
+  ],
+  "composers": [
+    "Alfons Weindorf"
+  ],
+  "conductor": "Herman Weindorf",
+  "dancers": null,
+  "lyricists": [
+    "Helmut Frey"
+  ],
+  "spokesperson": "Christian Eckhardt",
+  "stageDirector": null,
+  "writers": null
+}

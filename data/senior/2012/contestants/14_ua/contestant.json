@@ -1,0 +1,41 @@
+{
+  "id": 14,
+  "country": "UA",
+  "broadcaster": "NTU",
+  "artist": "Gaitana",
+  "artistPeople": [
+    "Gaitana Lurdes"
+  ],
+  "song": "Be My Guest",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sLsTn_li5d8",
+    "https://www.youtube-nocookie.com/embed/i-LyyCxlSFc",
+    "https://www.youtube-nocookie.com/embed/md5jNd5LWxQ",
+    "https://www.youtube-nocookie.com/embed/i6nY7oReZEQ",
+    "https://www.youtube-nocookie.com/embed/5KFyOHlyYLM",
+    "https://www.youtube-nocookie.com/embed/3hzIDGTKNcM"
+  ],
+  "bpm": 128,
+  "tone": "Bb major",
+  "backings": [
+    "Alexander Flomboym",
+    "Andrej Gutsal"
+  ],
+  "commentators": [
+    "Tetyana Terekhova",
+    "Timur Miroshnychenko"
+  ],
+  "composers": [
+    "Alex Nabrodov",
+    "Gaitana",
+    "Igor Nikolayev"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Gaitana"
+  ],
+  "spokesperson": "Oleksiy Matias",
+  "stageDirector": "Olha Semeshkina",
+  "writers": null
+}

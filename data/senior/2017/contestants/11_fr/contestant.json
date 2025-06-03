@@ -1,0 +1,44 @@
+{
+  "id": 11,
+  "country": "FR",
+  "broadcaster": "France 2",
+  "artist": "Alma",
+  "artistPeople": [
+    "Alexandra Maquet"
+  ],
+  "song": "Requiem",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HjiLKsLQl4I",
+    "https://www.youtube-nocookie.com/embed/Koi36aeRv7I",
+    "https://www.youtube-nocookie.com/embed/6VoJB05spcY",
+    "https://www.youtube-nocookie.com/embed/ebvSoecNPEw",
+    "https://www.youtube-nocookie.com/embed/HqWAarATwXk",
+    "https://www.youtube-nocookie.com/embed/jNSvsSDuhss",
+    "https://www.youtube-nocookie.com/embed/M5MYVl6M_lg"
+  ],
+  "bpm": 108,
+  "tone": "B minor",
+  "backings": [
+    "Céline Arnaud",
+    "Michaël LeLong",
+    "Nathanaëlle Langlais"
+  ],
+  "commentators": [
+    "Amir",
+    "Jarry",
+    "Marianne James",
+    "Stéphane Bern"
+  ],
+  "composers": [
+    "Nazim Khaled"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Alexandra Maquet",
+    "Nazim Khaled"
+  ],
+  "spokesperson": "Élodie Gossuin",
+  "stageDirector": null,
+  "writers": null
+}

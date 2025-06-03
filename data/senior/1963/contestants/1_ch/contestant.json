@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Esther Ofarim",
+  "artistPeople": [
+    "Esther Zaied"
+  ],
+  "song": "T'en vas pas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2IugsFPu5JY",
+    "https://www.youtube-nocookie.com/embed/6AJ2L957tCI",
+    "https://www.youtube-nocookie.com/embed/BsYhftZrTYA",
+    "https://www.youtube-nocookie.com/embed/j6w_EYbZjmU",
+    "https://www.youtube-nocookie.com/embed/EnYtzOvdTKc"
+  ],
+  "bpm": 74,
+  "tone": "Bb minor",
+  "backings": null,
+  "commentators": [
+    "Georges Hardy",
+    "Theodor Haller"
+  ],
+  "composers": [
+    "Géo Voumard"
+  ],
+  "conductor": "Eric Robinson",
+  "dancers": null,
+  "lyricists": [
+    "Émile Gardaz"
+  ],
+  "spokesperson": "Alexandre Burger",
+  "stageDirector": null,
+  "writers": null
+}

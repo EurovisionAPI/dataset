@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Francesco Gabbani",
+  "artistPeople": [
+    "Francesco Gabbani"
+  ],
+  "song": "Occidentali's Karma",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KieE_MLv-ZY",
+    "https://www.youtube-nocookie.com/embed/Mj6tVGKzfhU",
+    "https://www.youtube-nocookie.com/embed/rafsdrfRM4o",
+    "https://www.youtube-nocookie.com/embed/xmpc3fcrNJQ",
+    "https://www.youtube-nocookie.com/embed/GpT5vdRBhM0",
+    "https://www.youtube-nocookie.com/embed/ZsuXiP96wsA",
+    "https://www.youtube-nocookie.com/embed/dtFuHGeZR7U"
+  ],
+  "bpm": 114,
+  "tone": "A major",
+  "backings": [
+    "Chantal Saroldi",
+    "Daniele Sari",
+    "Filippo Gabbani",
+    "Nausicaa Magarini"
+  ],
+  "commentators": [
+    "Andrea Delogu",
+    "Diego Passoni",
+    "Federico Russo",
+    "Flavio Insinna"
+  ],
+  "composers": [
+    "Filippo Gabbani",
+    "Francesco Gabbani",
+    "Luca Chiaravalli"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Filippo Ranaldi"
+  ],
+  "lyricists": [
+    "Fabio Ilacqua",
+    "Francesco Gabbani",
+    "Luca Chiaravalli"
+  ],
+  "spokesperson": "Giulia Valentina",
+  "stageDirector": "Filippo Ranaldi",
+  "writers": null
+}

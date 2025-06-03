@@ -1,0 +1,33 @@
+{
+  "id": 23,
+  "country": "LT",
+  "broadcaster": "LRT",
+  "artist": "The Roop",
+  "artistPeople": [
+    "Vaidotas Valiukevičius"
+  ],
+  "song": "On Fire",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FxPm-Wz8qpY",
+    "https://www.youtube-nocookie.com/embed/awmMoVeqxlY",
+    "https://www.youtube-nocookie.com/embed/A1f7Z0GCV2w",
+    "https://www.youtube-nocookie.com/embed/0_mfQgQl2Gk"
+  ],
+  "bpm": 122,
+  "tone": "Ab major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Mantas Banišauskas",
+    "Robertas Baranauskas",
+    "Vaidotas Valiukevičius"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Vaidotas Valiukevičius"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

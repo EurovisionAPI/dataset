@@ -1,0 +1,43 @@
+{
+  "id": 16,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Hanna Pakarinen",
+  "artistPeople": [
+    "Hanna Pakarinen"
+  ],
+  "song": "Leave Me Alone",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3ibC5pps0dA",
+    "https://www.youtube-nocookie.com/embed/Y3Q4Eni0z68",
+    "https://www.youtube-nocookie.com/embed/YrfPZlnpGj0",
+    "https://www.youtube-nocookie.com/embed/aqOL5b5S2Uo"
+  ],
+  "bpm": 141,
+  "tone": "C# major",
+  "backings": [
+    "Jaakko Kääriäinen",
+    "Jyrki Alanen",
+    "Mikko Määttä",
+    "Risto Niinikoski"
+  ],
+  "commentators": [
+    "Asko Murtomäki",
+    "Ellen Jokikunnas",
+    "Heikki Paasonen",
+    "Thomas Lundin"
+  ],
+  "composers": [
+    "Martti Vuorinen",
+    "Miikka Huttunen"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Hanna Pakarinen",
+    "Martti Vuorinen"
+  ],
+  "spokesperson": "Laura Voutilainen",
+  "stageDirector": null,
+  "writers": null
+}

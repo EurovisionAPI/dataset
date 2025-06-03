@@ -1,0 +1,34 @@
+{
+  "id": 4,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Hoffmann und Hoffmann",
+  "artistPeople": [
+    "Günther Hoffmann",
+    "Michael Hoffmann"
+  ],
+  "song": "Rücksicht",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8WsX-eBrjeU",
+    "https://www.youtube-nocookie.com/embed/Gpk7UnTHpQ0",
+    "https://www.youtube-nocookie.com/embed/A_LRimn3s0U",
+    "https://www.youtube-nocookie.com/embed/wYI3c-VyDzQ"
+  ],
+  "bpm": 154,
+  "tone": "Ab major",
+  "backings": null,
+  "commentators": [
+    "Ado Schlier"
+  ],
+  "composers": [
+    "Michael Reinecke"
+  ],
+  "conductor": "Dieter Reith",
+  "dancers": null,
+  "lyricists": [
+    "Volker Lechtenbrinck"
+  ],
+  "spokesperson": "Carolin Reiber",
+  "stageDirector": null,
+  "writers": null
+}

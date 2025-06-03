@@ -1,0 +1,35 @@
+{
+  "id": 17,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Alejandro Abad",
+  "artistPeople": [
+    "Alejandro Antonio García Abad"
+  ],
+  "song": "Ella no es ella",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-ReSHr2apH4",
+    "https://www.youtube-nocookie.com/embed/dx2POmlMEI8"
+  ],
+  "bpm": 100,
+  "tone": "D major",
+  "backings": [
+    "Carlos Izaga",
+    "Jordi Sánchez",
+    "Miguel Ángel Esteve",
+    "Nacho Lesko",
+    "Toni Alegret"
+  ],
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "composers": null,
+  "conductor": "Josep Llobell",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "María Ángeles Balañac",
+  "stageDirector": null,
+  "writers": [
+    "Alejandro Abad"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 4,
+  "country": "IE",
+  "broadcaster": "RTÉ",
+  "artist": "Sheeba",
+  "artistPeople": [
+    "Frances Campbell",
+    "Marion Fossett",
+    "Irene McCoubrey"
+  ],
+  "song": "Horoscopes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VH4hiCbQU5s",
+    "https://www.youtube-nocookie.com/embed/NuMdtlWcaJk"
+  ],
+  "bpm": 132,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Larry Gogan"
+  ],
+  "composers": [
+    "Jim Kelly"
+  ],
+  "conductor": "Noel Kelehan",
+  "dancers": null,
+  "lyricists": [
+    "Joe Burkett"
+  ],
+  "spokesperson": "John Skehan",
+  "stageDirector": null,
+  "writers": null
+}

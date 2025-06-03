@@ -1,0 +1,42 @@
+{
+  "id": 35,
+  "country": "IE",
+  "broadcaster": "RTÉ",
+  "artist": "Nicky Byrne",
+  "artistPeople": [
+    "Nicholas Bernard James Adam Byrne",
+    "Jr."
+  ],
+  "song": "Sunlight",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ezJsUMD-y-I",
+    "https://www.youtube-nocookie.com/embed/DCXueTvhjNo",
+    "https://www.youtube-nocookie.com/embed/ki6LN4qD6rE",
+    "https://www.youtube-nocookie.com/embed/xNAXabS2ZRo"
+  ],
+  "bpm": 125,
+  "tone": "Bb major",
+  "backings": [
+    "Janet Grogan",
+    "Jennifer Healy"
+  ],
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "composers": [
+    "Nicky Byrne",
+    "Ronan Hardiman",
+    "Wayne Hector"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Molly Sterling",
+    "Nicky Byrne",
+    "Ronan Hardiman",
+    "Wayne Hector"
+  ],
+  "spokesperson": "Sinéad Kennedy",
+  "stageDirector": "Tim Byrne",
+  "writers": null
+}

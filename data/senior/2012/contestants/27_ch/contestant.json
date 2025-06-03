@@ -1,0 +1,38 @@
+{
+  "id": 27,
+  "country": "CH",
+  "broadcaster": "SRG SSR idée suisse",
+  "artist": "Sinplus",
+  "artistPeople": [
+    "Gabriel Broggini",
+    "Ivan Broggini"
+  ],
+  "song": "Unbreakable",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lkMSptuVqHQ",
+    "https://www.youtube-nocookie.com/embed/TPWucqna9Eg"
+  ],
+  "bpm": 144,
+  "tone": "G major",
+  "backings": [
+    "Lisa Panigada",
+    "Roberto Bianchetti"
+  ],
+  "commentators": [
+    "Clarissa Tami",
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Paolo Meneguzzi",
+    "Sven Epiney"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Sara Hildebrand",
+  "stageDirector": null,
+  "writers": [
+    "Gabriel Broggini",
+    "Ivan Broggini"
+  ]
+}

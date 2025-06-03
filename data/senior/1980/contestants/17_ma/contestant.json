@@ -1,0 +1,38 @@
+{
+  "id": 17,
+  "country": "MA",
+  "broadcaster": "RTM",
+  "artist": "Samira Bensaïd",
+  "artistPeople": [
+    "Samira Bensaïd"
+  ],
+  "song": "Bitakat Hob",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PJTJTjnTa9c",
+    "https://www.youtube-nocookie.com/embed/vf5NLLI8zf0",
+    "https://www.youtube-nocookie.com/embed/NqMdZsvXYFA",
+    "https://www.youtube-nocookie.com/embed/fFKFJUOH6pU",
+    "https://www.youtube-nocookie.com/embed/Psc0l1YLpX8",
+    "https://www.youtube-nocookie.com/embed/0uJu39g2VeQ"
+  ],
+  "bpm": 122,
+  "tone": "A minor",
+  "backings": [
+    "Catherine Bonnevay",
+    "Dominique Poulain",
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "commentators": null,
+  "composers": [
+    "'Abd Al-'Atī Amyna"
+  ],
+  "conductor": "Jean Claudric",
+  "dancers": null,
+  "lyricists": [
+    "Malw Rawan"
+  ],
+  "spokesperson": "Kamal Irassi",
+  "stageDirector": null,
+  "writers": null
+}

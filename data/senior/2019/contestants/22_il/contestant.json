@@ -1,0 +1,42 @@
+{
+  "id": 22,
+  "country": "IL",
+  "broadcaster": "KAN",
+  "artist": "Kobi Marimi",
+  "artistPeople": [
+    "Yakov Hezi Marimi"
+  ],
+  "song": "Home",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uCdS42uCqP0",
+    "https://www.youtube-nocookie.com/embed/wEZRK8KIkKc",
+    "https://www.youtube-nocookie.com/embed/7d__XXiVJkE",
+    "https://www.youtube-nocookie.com/embed/TBYqgW4E7qY",
+    "https://www.youtube-nocookie.com/embed/AIMOgw8gZVI",
+    "https://www.youtube-nocookie.com/embed/e0B58heGK3I",
+    "https://www.youtube-nocookie.com/embed/tlzrW0Tk0IQ"
+  ],
+  "bpm": 109,
+  "tone": "Eb major",
+  "backings": [
+    "Lera Axelrod",
+    "Liron Nathan Levo",
+    "Maayan Bukris",
+    "Ofree Israeli",
+    "Yossi Mark"
+  ],
+  "commentators": [
+    "Eran Zarachowicz",
+    "Sharon Taicher"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Izhar Cohen",
+  "stageDirector": "Moshe Kepten",
+  "writers": [
+    "Inbar Weitzman",
+    "Ohad Shargai"
+  ]
+}

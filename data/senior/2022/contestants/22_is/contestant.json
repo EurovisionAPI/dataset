@@ -1,0 +1,40 @@
+{
+  "id": 22,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Systur",
+  "artistPeople": [
+    "Elín Eyþórsdóttir",
+    "Elísabet Eyþórsdóttir",
+    "Sigríður Eyþórsdóttir"
+  ],
+  "song": "Með hækkandi sól",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/G71c48O3j-s",
+    "https://www.youtube-nocookie.com/embed/tx__3r5uKRo",
+    "https://www.youtube-nocookie.com/embed/vk9D10EyxHA",
+    "https://www.youtube-nocookie.com/embed/teWrHen_AXc",
+    "https://www.youtube-nocookie.com/embed/ZTrG3XRSyes",
+    "https://www.youtube-nocookie.com/embed/oksa3ot_V50",
+    "https://www.youtube-nocookie.com/embed/JJ-UZRfMHXU"
+  ],
+  "bpm": 100,
+  "tone": "D minor",
+  "backings": [
+    "Eyþór Ingi Eyþórsson",
+    "Gísli Gunnar Didriksen",
+    "Zoe-Ruth Erwin"
+  ],
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Árný Fjóla Ásmundsdóttir",
+  "stageDirector": "Lee Proud",
+  "writers": [
+    "Lovísa Elísabet Sigrúnardóttir"
+  ]
+}

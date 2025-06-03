@@ -1,0 +1,38 @@
+{
+  "id": 21,
+  "country": "BA",
+  "broadcaster": "RTVBIH",
+  "artist": "Amila Glamočak",
+  "artistPeople": [
+    "Amila Glamočak"
+  ],
+  "song": "Za Našu Ljubav",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3062NrjNusI",
+    "https://www.youtube-nocookie.com/embed/n8QmKYKeoSU",
+    "https://www.youtube-nocookie.com/embed/8uRgo7MV7QQ",
+    "https://www.youtube-nocookie.com/embed/lYJ6KeHSh68",
+    "https://www.youtube-nocookie.com/embed/2ARxLT2-bHU"
+  ],
+  "bpm": 135,
+  "tone": "Bb major",
+  "backings": [
+    "Zeljka Katavic-Pilj"
+  ],
+  "commentators": [
+    "Suad Bejtović"
+  ],
+  "composers": [
+    "Adnan Bajramović",
+    "Aida Frljak",
+    "Sinan Alimanović"
+  ],
+  "conductor": "Sinan Alimanović",
+  "dancers": null,
+  "lyricists": [
+    "Adnan Bajramović"
+  ],
+  "spokesperson": "Segmedina Srna",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Edyta Górniak",
+  "artistPeople": [
+    "Edyta Górniak"
+  ],
+  "song": "To nie ja",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PL5rmmpiHp8",
+    "https://www.youtube-nocookie.com/embed/cTnpZzEgaGo",
+    "https://www.youtube-nocookie.com/embed/x9UVz4l4nlw",
+    "https://www.youtube-nocookie.com/embed/OxXSXSHEux0"
+  ],
+  "bpm": 133,
+  "tone": "D major",
+  "backings": [
+    "Alicja Borkowska"
+  ],
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "composers": [
+    "Stanisław Syrewicz"
+  ],
+  "conductor": "Noel Kelehan",
+  "dancers": null,
+  "lyricists": [
+    "Jacek Cygan"
+  ],
+  "spokesperson": "Jan Chojnacki",
+  "stageDirector": null,
+  "writers": null
+}

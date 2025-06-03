@@ -1,0 +1,37 @@
+{
+  "id": 7,
+  "country": "MT",
+  "broadcaster": "PBS",
+  "artist": "Claudette Pace",
+  "artistPeople": [
+    "Claudette Pace"
+  ],
+  "song": "Desire",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6rwEyHQxl0w",
+    "https://www.youtube-nocookie.com/embed/JbbqnKvNXbk"
+  ],
+  "bpm": 106,
+  "tone": "C minor",
+  "backings": [
+    "Dea Norberg",
+    "Fredrik Ivarson",
+    "Gabriel Forss",
+    "Micke Blomqvist",
+    "Anna Cecilia Sahlin"
+  ],
+  "commentators": [
+    "Charlo Bonnici"
+  ],
+  "composers": [
+    "Philip Vella"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Gerard James Borg"
+  ],
+  "spokesperson": "Valerie Vella",
+  "stageDirector": null,
+  "writers": null
+}

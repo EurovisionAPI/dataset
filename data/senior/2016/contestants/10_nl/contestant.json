@@ -1,0 +1,46 @@
+{
+  "id": 10,
+  "country": "NL",
+  "broadcaster": "AVROTROS",
+  "artist": "Douwe Bob",
+  "artistPeople": [
+    "Douwe Bob Posthuma"
+  ],
+  "song": "Slow Down",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PwF9DI89q1w",
+    "https://www.youtube-nocookie.com/embed/vytgHD2pqyk",
+    "https://www.youtube-nocookie.com/embed/ffVDyQbUstY",
+    "https://www.youtube-nocookie.com/embed/ht4ECv6b8OQ",
+    "https://www.youtube-nocookie.com/embed/0oMUudm-pgU"
+  ],
+  "bpm": 124,
+  "tone": "E minor",
+  "backings": [
+    "Jan-Peter Hoekstra",
+    "Jeroen Overman",
+    "Matthijs van Duijvenbode",
+    "Stijn van Dalen",
+    "Thijs Boontjes"
+  ],
+  "commentators": [
+    "Cornald Maas",
+    "Jan Smit"
+  ],
+  "composers": [
+    "Douwe Bob Posthuma",
+    "Jan Peter Hoekstra",
+    "Jeroen Overman",
+    "Matthijs van Duijvenbode"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Douwe Bob Posthuma",
+    "Jan Peter Hoekstra",
+    "Jeroen Overman"
+  ],
+  "spokesperson": "Trijntje Oosterhuis",
+  "stageDirector": "Hans Pannecoucke",
+  "writers": null
+}

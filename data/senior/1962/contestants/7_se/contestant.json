@@ -1,0 +1,31 @@
+{
+  "id": 7,
+  "country": "SE",
+  "broadcaster": "SR",
+  "artist": "Inger Berggren",
+  "artistPeople": [
+    "Inger Berggren"
+  ],
+  "song": "Sol och vår",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wSPeU0pqNLA",
+    "https://www.youtube-nocookie.com/embed/bqalB72bR68",
+    "https://www.youtube-nocookie.com/embed/gG518AD6TLE"
+  ],
+  "bpm": 117,
+  "tone": "Ab major",
+  "backings": null,
+  "commentators": [
+    "Jan Gabrielsson"
+  ],
+  "composers": null,
+  "conductor": "Egon Kjerrmann",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Tage Danielsson",
+  "stageDirector": null,
+  "writers": [
+    "Åke Gerhard",
+    "Ulf Kjellqvist"
+  ]
+}

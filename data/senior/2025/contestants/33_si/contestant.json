@@ -1,0 +1,38 @@
+{
+  "id": 33,
+  "country": "SI",
+  "broadcaster": "RTVSLO",
+  "artist": "Klemen",
+  "artistPeople": [
+    "Klemen Slakonja"
+  ],
+  "song": "How Much Time Do We Have Left",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Jbs9WlvIkg0",
+    "https://www.youtube-nocookie.com/embed/qTS2L0VcaVI",
+    "https://www.youtube-nocookie.com/embed/GT1YhfRpq3Q",
+    "https://www.youtube-nocookie.com/embed/jY9SW1R2Qho",
+    "https://www.youtube-nocookie.com/embed/LXI567JIR_g",
+    "https://www.youtube-nocookie.com/embed/Fc1DvU0d11g",
+    "https://www.youtube-nocookie.com/embed/0-j9GTgKG3M"
+  ],
+  "bpm": 120,
+  "tone": "E major",
+  "backings": null,
+  "commentators": [
+    "Mojca Mavec"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Matic Zadravec",
+    "Miha Furlan",
+    "Mojca Fatur"
+  ],
+  "lyricists": null,
+  "spokesperson": "Lorella Flego",
+  "stageDirector": "Nejc Levstik",
+  "writers": [
+    "Klemen Slakonja"
+  ]
+}

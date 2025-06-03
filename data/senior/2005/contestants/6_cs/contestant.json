@@ -1,0 +1,39 @@
+{
+  "id": 6,
+  "country": "CS",
+  "broadcaster": "TVCG",
+  "artist": "No Name",
+  "artistPeople": [
+    "Bojan Jovović",
+    "Branko Nedović",
+    "Danijel Alibabić",
+    "Dragoljub Purlija",
+    "Marko Perić",
+    "Marko Prentić"
+  ],
+  "song": "Zauvijek Moja",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/elqvzo8Qe4Q",
+    "https://www.youtube-nocookie.com/embed/Dn6Hy5XucJs"
+  ],
+  "bpm": 98,
+  "tone": "Bb minor",
+  "backings": null,
+  "commentators": [
+    "Danijel Popović",
+    "Dražen Bauković",
+    "Duška Vučinić-Lučić",
+    "Tamara Ivanković"
+  ],
+  "composers": [
+    "Slaven Knezović"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Milan Perić"
+  ],
+  "spokesperson": "Nina Radulović",
+  "stageDirector": null,
+  "writers": null
+}

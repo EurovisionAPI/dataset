@@ -1,0 +1,33 @@
+{
+  "id": 21,
+  "country": "FR",
+  "broadcaster": "France 3",
+  "artist": "Virginie Pouchin",
+  "artistPeople": [
+    "Virginie Pouchain"
+  ],
+  "song": "Il était temps",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-ZtZX2H6Wn4"
+  ],
+  "bpm": 100,
+  "tone": "C minor",
+  "backings": [
+    "Matheson Bayley"
+  ],
+  "commentators": [
+    "Claudy Siar",
+    "Eric Jeanjean",
+    "Michel Drucker",
+    "Peggy Olmi"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Sophie Jovillard",
+  "stageDirector": null,
+  "writers": [
+    "Corneille"
+  ]
+}

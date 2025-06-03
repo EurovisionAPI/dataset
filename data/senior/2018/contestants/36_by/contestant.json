@@ -1,0 +1,43 @@
+{
+  "id": 36,
+  "country": "BY",
+  "broadcaster": "BTRC",
+  "artist": "Alekseev",
+  "artistPeople": [
+    "Nikita Vladimirovich Alekseev"
+  ],
+  "song": "Forever",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ywy_y24v_ao",
+    "https://www.youtube-nocookie.com/embed/YU2My4BPX34",
+    "https://www.youtube-nocookie.com/embed/KUA6M7-scHk",
+    "https://www.youtube-nocookie.com/embed/e7GQxh_c55E",
+    "https://www.youtube-nocookie.com/embed/d9AYhmvq-Sw",
+    "https://www.youtube-nocookie.com/embed/y-tD-b6AB0E",
+    "https://www.youtube-nocookie.com/embed/lOrGuD2CQUA"
+  ],
+  "bpm": 115,
+  "tone": "A minor",
+  "backings": [
+    "Anna Kilchenko",
+    "Anyanya Udongwo",
+    "Valeriya Khomenko",
+    "Vilen Kilchenko"
+  ],
+  "commentators": [
+    "Evgeny Perlin"
+  ],
+  "composers": [
+    "Kirill Pavlov"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Yulia Zima"
+  ],
+  "lyricists": [
+    "Yevgeny Matyushenko"
+  ],
+  "spokesperson": "Arciom Lukjanienka, Ksenia",
+  "stageDirector": "Oleg Bodnarchuk",
+  "writers": null
+}

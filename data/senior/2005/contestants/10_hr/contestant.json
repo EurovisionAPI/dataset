@@ -1,0 +1,38 @@
+{
+  "id": 10,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Boris Novkovic feat. Lado members",
+  "artistPeople": [
+    "Boris Novković",
+    "Dijana Banek",
+    "Sanja Mikulić",
+    "Stjepan Večković",
+    "Valentina Šepak"
+  ],
+  "song": "Vukovi umiru sami",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UqAKFyZw2Ls",
+    "https://www.youtube-nocookie.com/embed/-xirg1I3-G0",
+    "https://www.youtube-nocookie.com/embed/rfKVkLfaEbk"
+  ],
+  "bpm": 162,
+  "tone": "D minor",
+  "backings": [
+    "Tomislav Tržan"
+  ],
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "composers": [
+    "Franjo Valentić"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Boris Novković"
+  ],
+  "spokesperson": "Barbara Kolar",
+  "stageDirector": null,
+  "writers": null
+}

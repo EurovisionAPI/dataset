@@ -1,0 +1,37 @@
+{
+  "id": 0,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Toto Cutugno",
+  "artistPeople": [
+    "Salvatore Cutugno"
+  ],
+  "song": "Insieme: 1992",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JiRppGSF-tI",
+    "https://www.youtube-nocookie.com/embed/KVuDzOkvYp0",
+    "https://www.youtube-nocookie.com/embed/iZxwf5ztV9M",
+    "https://www.youtube-nocookie.com/embed/8HLlzmHr8UU"
+  ],
+  "bpm": 102,
+  "tone": "Bb major",
+  "backings": [
+    "Ditka Haberl",
+    "Ivo Mojzer",
+    "Miran Rudan",
+    "Nada Žgur",
+    "Tadej Hrušovar"
+  ],
+  "commentators": [
+    "Peppi Franzelin"
+  ],
+  "composers": null,
+  "conductor": "Gianni Madonini",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Paolo Frajese",
+  "stageDirector": null,
+  "writers": [
+    "Salvatore Cutugno"
+  ]
+}

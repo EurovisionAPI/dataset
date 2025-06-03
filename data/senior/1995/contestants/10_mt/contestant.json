@@ -1,0 +1,36 @@
+{
+  "id": 10,
+  "country": "MT",
+  "broadcaster": "PBM",
+  "artist": "Mike Spiteri",
+  "artistPeople": [
+    "Michael Spiteri"
+  ],
+  "song": "Keep Me In Mind",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7V4-3yEqCgY",
+    "https://www.youtube-nocookie.com/embed/jkrm_Lzbico",
+    "https://www.youtube-nocookie.com/embed/88p4Lhi48fY"
+  ],
+  "bpm": 163,
+  "tone": "F major",
+  "backings": [
+    "Garrett Wall",
+    "Martina Tobin",
+    "Patricia O'Neill"
+  ],
+  "commentators": [
+    "Enzo Gusman"
+  ],
+  "composers": [
+    "Ray Agius"
+  ],
+  "conductor": "Ray Agius",
+  "dancers": null,
+  "lyricists": [
+    "Alfred C. Sant"
+  ],
+  "spokesperson": "Stephanie Farrugia",
+  "stageDirector": null,
+  "writers": null
+}

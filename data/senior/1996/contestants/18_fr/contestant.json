@@ -1,0 +1,35 @@
+{
+  "id": 18,
+  "country": "FR",
+  "broadcaster": "FT2",
+  "artist": "Dan Ar Braz et l'Héritage des Celtes",
+  "artistPeople": [
+    "Daniel le Bras",
+    "Donald Shaw",
+    "Elaine Morgan",
+    "Karen Matheson"
+  ],
+  "song": "Diwanit bugale",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3-DuuDQff7o",
+    "https://www.youtube-nocookie.com/embed/pmEwmOsXawo"
+  ],
+  "bpm": 92,
+  "tone": "G major",
+  "backings": [
+    "Jean-Louis Henaff",
+    "Ronan Le Bars"
+  ],
+  "commentators": [
+    "Olivier Minne"
+  ],
+  "composers": null,
+  "conductor": "Fiachra Trench",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Laurent Broomhead",
+  "stageDirector": null,
+  "writers": [
+    "Dan Ar Braz"
+  ]
+}

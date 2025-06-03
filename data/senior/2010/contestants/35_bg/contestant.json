@@ -1,0 +1,41 @@
+{
+  "id": 35,
+  "country": "BG",
+  "broadcaster": "BNT",
+  "artist": "Miro",
+  "artistPeople": [
+    "Miroslav Kostadinov"
+  ],
+  "song": "Angel Si Ti",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YTyTL04vlEw",
+    "https://www.youtube-nocookie.com/embed/S_WpWRcHYDI",
+    "https://www.youtube-nocookie.com/embed/0B1whPvUZRU",
+    "https://www.youtube-nocookie.com/embed/1XxJStDzM0c",
+    "https://www.youtube-nocookie.com/embed/ENTWJxRm3oU"
+  ],
+  "bpm": 133,
+  "tone": "F major",
+  "backings": [
+    "Aleksandar Boychev",
+    "Eli Radanova",
+    "Vyara Panteleeva"
+  ],
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "composers": [
+    "Miroslav Kostadinov"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Gordon Davis",
+    "Mihail Mihailov",
+    "Miroslav Kostadinov"
+  ],
+  "spokesperson": "Desislava Dobreva",
+  "stageDirector": null,
+  "writers": null
+}

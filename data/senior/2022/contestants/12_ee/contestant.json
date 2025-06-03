@@ -1,0 +1,39 @@
+{
+  "id": 12,
+  "country": "EE",
+  "broadcaster": "ERR",
+  "artist": "Stefan",
+  "artistPeople": [
+    "Stefan Airapetjan"
+  ],
+  "song": "Hope",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GdTpQmMem8U",
+    "https://www.youtube-nocookie.com/embed/bKhSlSx00-I",
+    "https://www.youtube-nocookie.com/embed/L93yMhrJy64",
+    "https://www.youtube-nocookie.com/embed/ii4Z5SCzBhM",
+    "https://www.youtube-nocookie.com/embed/yDGlnEUqm7A",
+    "https://www.youtube-nocookie.com/embed/tE2KYttAHWA",
+    "https://www.youtube-nocookie.com/embed/Gn4ay_K0ye4"
+  ],
+  "bpm": 123,
+  "tone": "Eb major",
+  "backings": null,
+  "commentators": [
+    "Aleksandr Hobotov",
+    "Julia Kalenda",
+    "Marko Reikop"
+  ],
+  "composers": [
+    "Karl-Ander Reismann",
+    "Stefan Airapetjan"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Stefan Airapetjan"
+  ],
+  "spokesperson": "Tanel Padar",
+  "stageDirector": "Jaagup Tuisk",
+  "writers": null
+}

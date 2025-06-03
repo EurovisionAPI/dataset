@@ -1,0 +1,42 @@
+{
+  "id": 27,
+  "country": "CH",
+  "broadcaster": "SRG SSR idée suisse",
+  "artist": "Paolo Meneguzzi",
+  "artistPeople": [
+    "Pablo Meneguzzo"
+  ],
+  "song": "Era stupendo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GgNU5_htNXk",
+    "https://www.youtube-nocookie.com/embed/9sfOCCrR7vQ",
+    "https://www.youtube-nocookie.com/embed/uIx0EPO7uYE"
+  ],
+  "bpm": 144,
+  "tone": "C# major",
+  "backings": [
+    "Cristina Pegoraro",
+    "Federica Vino",
+    "Giancarlo Capito",
+    "Giuseppe D'Agostino",
+    "Thomas Grazioso"
+  ],
+  "commentators": [
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Sandy Altermatt",
+    "Sven Epiney"
+  ],
+  "composers": [
+    "Paolo Meneguzzi"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Paolo Meneguzzi",
+    "Vincenzo Incenzo"
+  ],
+  "spokesperson": "Cécile Bähler",
+  "stageDirector": null,
+  "writers": null
+}

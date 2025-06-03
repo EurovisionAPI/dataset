@@ -1,0 +1,38 @@
+{
+  "id": 16,
+  "country": "SE",
+  "broadcaster": "SR",
+  "artist": "Ted Gärdestad",
+  "artistPeople": [
+    "Ted Arnbjörn Gärdestad"
+  ],
+  "song": "Satellit",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KM7QJQp_mVo",
+    "https://www.youtube-nocookie.com/embed/EePXylI7TPI",
+    "https://www.youtube-nocookie.com/embed/AcMUULoT_jk",
+    "https://www.youtube-nocookie.com/embed/g0qJqfIsVlQ"
+  ],
+  "bpm": 111,
+  "tone": "Bb major",
+  "backings": [
+    "Anneli Koivisto",
+    "Lennart Sjöholm",
+    "Liza Öhman",
+    "Rosemarie Gröning"
+  ],
+  "commentators": [
+    "Ulf Elfving"
+  ],
+  "composers": [
+    "Ted Gärdestad"
+  ],
+  "conductor": "Lars Samuelson",
+  "dancers": null,
+  "lyricists": [
+    "Kenneth Gärdestad"
+  ],
+  "spokesperson": "Sven Lindahl",
+  "stageDirector": null,
+  "writers": null
+}

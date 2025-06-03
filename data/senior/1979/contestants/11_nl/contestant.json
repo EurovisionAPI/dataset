@@ -1,0 +1,41 @@
+{
+  "id": 11,
+  "country": "NL",
+  "broadcaster": "NOS",
+  "artist": "Xandra",
+  "artistPeople": [
+    "Barbara Alexandra Reemer"
+  ],
+  "song": "Colorado",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/18itteeU7ps",
+    "https://www.youtube-nocookie.com/embed/W_acdBVNvJ0",
+    "https://www.youtube-nocookie.com/embed/FAZ5WNr4PAY",
+    "https://www.youtube-nocookie.com/embed/vp3wzUPyn0U",
+    "https://www.youtube-nocookie.com/embed/NOWvZ8MhI08"
+  ],
+  "bpm": 136,
+  "tone": "G major",
+  "backings": [
+    "Ferdy Lancee",
+    "Mac Sell",
+    "Okkie Huysdens",
+    "Paul Vink",
+    "Ton op 't Hof"
+  ],
+  "commentators": [
+    "Willem Duys"
+  ],
+  "composers": [
+    "Rob Bolland"
+  ],
+  "conductor": "Harry van Hoof",
+  "dancers": null,
+  "lyricists": [
+    "Ferdi Bolland",
+    "Gerard Cox"
+  ],
+  "spokesperson": "Ivo Niehe",
+  "stageDirector": null,
+  "writers": null
+}

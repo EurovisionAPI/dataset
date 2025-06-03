@@ -1,0 +1,37 @@
+{
+  "id": 1,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Daniela Simons",
+  "artistPeople": [
+    "Daniela Simons"
+  ],
+  "song": "Pas pour moi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vGwXT_fHT0Q",
+    "https://www.youtube-nocookie.com/embed/fFQvPTEx120",
+    "https://www.youtube-nocookie.com/embed/FfivDJwnEGw",
+    "https://www.youtube-nocookie.com/embed/ceJY4qjcztE"
+  ],
+  "bpm": 85,
+  "tone": "G minor",
+  "backings": [
+    "Frank Dostal"
+  ],
+  "commentators": [
+    "Bernard Thurnheer",
+    "Ezio Guidi",
+    "Serge Moisson"
+  ],
+  "composers": [
+    "Atilla Şereftuğ"
+  ],
+  "conductor": "Atilla Şereftuğ",
+  "dancers": null,
+  "lyricists": [
+    "Nella Martinetti"
+  ],
+  "spokesperson": "Michel Stocker",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 14,
+  "country": "SI",
+  "broadcaster": "RTVSLO",
+  "artist": "Zala Kralj & Gašper Šantl",
+  "artistPeople": [
+    "Gašper Šantl",
+    "Zala Kralj"
+  ],
+  "song": "Sebi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vGtPNQ6g6Ng",
+    "https://www.youtube-nocookie.com/embed/wnA0doOsGDY",
+    "https://www.youtube-nocookie.com/embed/2C9W7MbDivU",
+    "https://www.youtube-nocookie.com/embed/m4Ci3nrBdno",
+    "https://www.youtube-nocookie.com/embed/FdWMactRhjU",
+    "https://www.youtube-nocookie.com/embed/8daS5BVcKx8",
+    "https://www.youtube-nocookie.com/embed/YkNZ5JM1Ss8"
+  ],
+  "bpm": 108,
+  "tone": "Eb major",
+  "backings": null,
+  "commentators": [
+    "Andrej Hofer",
+    "Lea Sirk"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Lea Sirk",
+  "stageDirector": "Igor Zupe",
+  "writers": [
+    "Gašper Šantl",
+    "Zala Kralj"
+  ]
+}

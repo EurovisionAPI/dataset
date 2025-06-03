@@ -1,0 +1,36 @@
+{
+  "id": 28,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Nina Badrić",
+  "artistPeople": [
+    "Nina Badrić"
+  ],
+  "song": "Nebo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QzdI4yuqwzY",
+    "https://www.youtube-nocookie.com/embed/z5_tqyCjFZ8",
+    "https://www.youtube-nocookie.com/embed/OdzGUF7aiaM"
+  ],
+  "bpm": 113,
+  "tone": "F major",
+  "backings": [
+    "Danijela Večerinović",
+    "Dinko Zec",
+    "Igor Barberić",
+    "Ivana Čabraja",
+    "Jelena Majić"
+  ],
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Nevena Rendeli",
+  "stageDirector": null,
+  "writers": [
+    "Nina Badrić"
+  ]
+}

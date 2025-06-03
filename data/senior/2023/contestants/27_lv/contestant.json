@@ -1,0 +1,43 @@
+{
+  "id": 27,
+  "country": "LV",
+  "broadcaster": "LTV",
+  "artist": "Sudden Lights",
+  "artistPeople": [
+    "Andrejs Reinis Zitmanis",
+    "Kārlis Matīss Zitmanis",
+    "Kārlis Vārtiņš",
+    "Mārtiņš Matīss Zemītis"
+  ],
+  "song": "Aijā",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SEykwl9X9SY",
+    "https://www.youtube-nocookie.com/embed/xAjVA3qwqGk",
+    "https://www.youtube-nocookie.com/embed/PQkKJNLuO_Y",
+    "https://www.youtube-nocookie.com/embed/UUQn7poXPNc",
+    "https://www.youtube-nocookie.com/embed/EqrWPqPcJG8",
+    "https://www.youtube-nocookie.com/embed/Vb5oI9DZsCw",
+    "https://www.youtube-nocookie.com/embed/7zzlRY2tZk0"
+  ],
+  "bpm": 160,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": [
+    "Lauris Reiniks",
+    "Toms Grēviņš"
+  ],
+  "composers": [
+    "Andrejs Reinis Zitmanis",
+    "Kārlis Matīss Zitmanis",
+    "Kārlis Vārtiņš",
+    "Mārtiņš Matīss Zemītis"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Andrejs Reinis Zitmanis"
+  ],
+  "spokesperson": "Jānis Pētersons",
+  "stageDirector": null,
+  "writers": null
+}

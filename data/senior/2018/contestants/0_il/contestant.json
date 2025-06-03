@@ -1,0 +1,50 @@
+{
+  "id": 0,
+  "country": "IL",
+  "broadcaster": "IPBC",
+  "artist": "Netta",
+  "artistPeople": [
+    "Netta Barzilai (נטע ברזילי)"
+  ],
+  "song": "Toy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/84LBjXaeKk4",
+    "https://www.youtube-nocookie.com/embed/CziHrYYSyPc",
+    "https://www.youtube-nocookie.com/embed/fnB783uNjN0",
+    "https://www.youtube-nocookie.com/embed/kgj425xnNsQ",
+    "https://www.youtube-nocookie.com/embed/PctzQsrVkPs",
+    "https://www.youtube-nocookie.com/embed/NTjmX1JPoSA",
+    "https://www.youtube-nocookie.com/embed/lvWjRR8VFEI"
+  ],
+  "bpm": 130,
+  "tone": "Eb minor",
+  "backings": [
+    "Avshalom Ariel",
+    "Danielle Mazuz",
+    "Lilah Amar",
+    "Maayan Bukris",
+    "Shayna Heidi"
+  ],
+  "commentators": [
+    "Asaf Liberman",
+    "Erez Tal",
+    "Goel Pinto",
+    "Idit Hershkowitz",
+    "Itai Herman",
+    "Shir Reuven"
+  ],
+  "composers": [
+    "Doron Medalie",
+    "Jack White",
+    "Stav Beger"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Doron Medalie",
+    "Stav Beger"
+  ],
+  "spokesperson": "Lucy Ayoub",
+  "stageDirector": "Doron Medalie",
+  "writers": null
+}

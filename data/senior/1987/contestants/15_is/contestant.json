@@ -1,0 +1,33 @@
+{
+  "id": 15,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Halla Margarét",
+  "artistPeople": [
+    "Halla Margrét Árnadóttir"
+  ],
+  "song": "Hægt og hljótt",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eZa5nySgcLM",
+    "https://www.youtube-nocookie.com/embed/9ZWzDUuwXww",
+    "https://www.youtube-nocookie.com/embed/xo39426SzyM",
+    "https://www.youtube-nocookie.com/embed/zDB-Pgy24-c"
+  ],
+  "bpm": 132,
+  "tone": "C major",
+  "backings": [
+    "Valgeir Guðjónsson"
+  ],
+  "commentators": [
+    "Kolbrún Halldórsdóttir"
+  ],
+  "composers": null,
+  "conductor": "Hjálmar Ragnarsson",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Guðrún Skúladóttir",
+  "stageDirector": null,
+  "writers": [
+    "Valgeir Guðjónsson"
+  ]
+}

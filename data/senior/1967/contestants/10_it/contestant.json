@@ -1,0 +1,31 @@
+{
+  "id": 10,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Claudio Villa",
+  "artistPeople": [
+    "Claudio Pica"
+  ],
+  "song": "Non andare più lontano",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FlnJLOjsV44",
+    "https://www.youtube-nocookie.com/embed/r2Wfa1LvZ0w"
+  ],
+  "bpm": 97,
+  "tone": "E minor",
+  "backings": null,
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "composers": [
+    "Gino Mescoli"
+  ],
+  "conductor": "Giancarlo Chiaramello",
+  "dancers": null,
+  "lyricists": [
+    "Vito Pallavicini"
+  ],
+  "spokesperson": "Mike Bongiorno",
+  "stageDirector": null,
+  "writers": null
+}

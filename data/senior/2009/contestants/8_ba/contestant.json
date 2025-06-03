@@ -1,0 +1,36 @@
+{
+  "id": 8,
+  "country": "BA",
+  "broadcaster": "BHRT",
+  "artist": "Regina",
+  "artistPeople": [
+    "Aleksandar Čović",
+    "Bojan Milićević",
+    "Davor Ebner",
+    "Denis Čabrić"
+  ],
+  "song": "Bistra voda",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TcRWjoEkzMk",
+    "https://www.youtube-nocookie.com/embed/liGJ3zo8uW4",
+    "https://www.youtube-nocookie.com/embed/O-SKzo0WwK8"
+  ],
+  "bpm": 152,
+  "tone": "F# minor",
+  "backings": [
+    "Danijela Večerinović",
+    "Elma Selimović"
+  ],
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Laka",
+  "stageDirector": "Boris Miljković",
+  "writers": [
+    "Aleksandar Čović"
+  ]
+}

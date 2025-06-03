@@ -1,0 +1,44 @@
+{
+  "id": 4,
+  "country": "IL",
+  "broadcaster": "KAN",
+  "artist": "Eden Golan",
+  "artistPeople": [
+    "Eden Golan"
+  ],
+  "song": "Hurricane",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/K60BWlEhtAA",
+    "https://www.youtube-nocookie.com/embed/lJYn09tuPw4",
+    "https://www.youtube-nocookie.com/embed/xGvv0kIZgZI",
+    "https://www.youtube-nocookie.com/embed/06Kv424npr8",
+    "https://www.youtube-nocookie.com/embed/0mZvg0_7KhU"
+  ],
+  "bpm": 87,
+  "tone": "E minor",
+  "backings": null,
+  "commentators": [
+    "Akiva Novik",
+    "Asaf Liberman",
+    "Yoav Tzafir"
+  ],
+  "composers": [
+    "Keren Peles",
+    "Stav Beger"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Irad Avni",
+    "Lia Gissin",
+    "Michal Fitoussi",
+    "Reches Itzhaki",
+    "Tamir Golan"
+  ],
+  "lyricists": [
+    "Avi Ohayon",
+    "Keren Peles"
+  ],
+  "spokesperson": "Maya Alkulumbre",
+  "stageDirector": "Avichai Hacham, Yoav Tzafir",
+  "writers": null
+}

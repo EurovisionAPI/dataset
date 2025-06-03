@@ -1,0 +1,16 @@
+{
+  "year": 2002,
+  "arena": "Saku Suurhall",
+  "city": "Tallin",
+  "country": "EE",
+  "intendedCountry": null,
+  "slogan": "A Modern Fairytale",
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2002.png",
+  "presenters": [
+    "Annely Peebo",
+    "Marko Matvere"
+  ],
+  "broadcasters": [
+    "ERR"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 36,
+  "country": "ME",
+  "broadcaster": "RTCG",
+  "artist": "Vladana",
+  "artistPeople": [
+    "Vladana Vučinić"
+  ],
+  "song": "Breathe",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/L-ViRVRiGl0",
+    "https://www.youtube-nocookie.com/embed/7e3GiXy7SLc",
+    "https://www.youtube-nocookie.com/embed/IimL9dv26tw",
+    "https://www.youtube-nocookie.com/embed/-tFUr_8NVys",
+    "https://www.youtube-nocookie.com/embed/rJ_43lzAnpk",
+    "https://www.youtube-nocookie.com/embed/c17okrSK5M8",
+    "https://www.youtube-nocookie.com/embed/EsJs3dqvP_Q"
+  ],
+  "bpm": 153,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Darko Dimitrov",
+    "Vladana Vučinić"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Vladana Vučinić"
+  ],
+  "spokesperson": "Andrijana Vešović",
+  "stageDirector": "Gojko Berkuljan, Vesna Popadić",
+  "writers": null
+}

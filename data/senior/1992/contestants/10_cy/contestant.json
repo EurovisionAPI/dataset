@@ -1,0 +1,31 @@
+{
+  "id": 10,
+  "country": "CY",
+  "broadcaster": "CyBC",
+  "artist": "Evridiki",
+  "artistPeople": [
+    "Evridiki Theokleous"
+  ],
+  "song": "Teriazoume",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DdFHIJUt2wU",
+    "https://www.youtube-nocookie.com/embed/SlkAahC7TxA",
+    "https://www.youtube-nocookie.com/embed/krbc_iuD1wQ"
+  ],
+  "bpm": 120,
+  "tone": "Bb minor",
+  "backings": null,
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "composers": null,
+  "conductor": "Giorgos Theophanous",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Anna Partelidou",
+  "stageDirector": null,
+  "writers": [
+    "Giorgos Theophanous",
+    "Leonidas Malenis"
+  ]
+}

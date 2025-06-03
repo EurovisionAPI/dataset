@@ -1,0 +1,37 @@
+{
+  "id": 17,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Seija Simola",
+  "artistPeople": [
+    "Seija Saara Maria Simola"
+  ],
+  "song": "Anna rakkaudelle tilaisuus",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/By44-7_5afM",
+    "https://www.youtube-nocookie.com/embed/ZQneK02fryE",
+    "https://www.youtube-nocookie.com/embed/kryhZiTxRMg",
+    "https://www.youtube-nocookie.com/embed/_x4uHd1gtmU"
+  ],
+  "bpm": 80,
+  "tone": "G major",
+  "backings": [
+    "Irma Tapio",
+    "Pepe Willberg"
+  ],
+  "commentators": [
+    "Erkki Toivanen"
+  ],
+  "composers": [
+    "Reijo Karvonen"
+  ],
+  "conductor": "Ossi Runne",
+  "dancers": null,
+  "lyricists": [
+    "Reijo Karvonen",
+    "Seija Simola"
+  ],
+  "spokesperson": "Kaarina Pönniö",
+  "stageDirector": null,
+  "writers": null
+}

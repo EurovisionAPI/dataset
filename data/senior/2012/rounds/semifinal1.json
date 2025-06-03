@@ -1,0 +1,584 @@
+{
+  "name": null,
+  "date": "2012-05-22",
+  "time": "19:00:00",
+  "disqualifieds": null,
+  "performances": [
+    {
+      "contestantId": 1,
+      "running": 14,
+      "place": 1,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 0,
+            "AT": 10,
+            "AZ": 8,
+            "BE": 12,
+            "CY": 7,
+            "DK": 12,
+            "FI": 12,
+            "GR": 7,
+            "HU": 7,
+            "IS": 6,
+            "IE": 8,
+            "IL": 12,
+            "IT": 2,
+            "LV": 12,
+            "MD": 6,
+            "ME": 8,
+            "RO": 6,
+            "SM": 2,
+            "ES": 7,
+            "CH": 8
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 4,
+      "running": 5,
+      "place": 2,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AT": 12,
+            "AZ": 12,
+            "BE": 10,
+            "CY": 10,
+            "DK": 7,
+            "FI": 5,
+            "GR": 10,
+            "HU": 10,
+            "IS": 3,
+            "IE": 1,
+            "IL": 5,
+            "IT": 12,
+            "LV": 4,
+            "MD": 1,
+            "ME": 12,
+            "RO": 4,
+            "RU": 2,
+            "SM": 10,
+            "ES": 4,
+            "CH": 12
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 11,
+      "running": 6,
+      "place": 3,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 5,
+            "AT": 5,
+            "AZ": 7,
+            "BE": 4,
+            "CY": 6,
+            "DK": 1,
+            "FI": 0,
+            "GR": 8,
+            "HU": 3,
+            "IS": 4,
+            "IE": 12,
+            "IL": 8,
+            "IT": 10,
+            "LV": 0,
+            "MD": 12,
+            "ME": 7,
+            "RU": 8,
+            "SM": 6,
+            "ES": 12,
+            "CH": 2
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 16,
+      "running": 3,
+      "place": 4,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 8,
+            "AT": 1,
+            "AZ": 10,
+            "BE": 8,
+            "CY": 12,
+            "DK": 4,
+            "FI": 0,
+            "HU": 0,
+            "IS": 5,
+            "IE": 10,
+            "IL": 3,
+            "IT": 5,
+            "LV": 0,
+            "MD": 10,
+            "ME": 10,
+            "RO": 12,
+            "RU": 5,
+            "SM": 7,
+            "ES": 3,
+            "CH": 3
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 10,
+      "running": 17,
+      "place": 5,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 4,
+            "AT": 6,
+            "AZ": 6,
+            "BE": 0,
+            "CY": 3,
+            "DK": 6,
+            "FI": 6,
+            "GR": 6,
+            "HU": 2,
+            "IS": 0,
+            "IE": 2,
+            "IL": 6,
+            "IT": 4,
+            "LV": 2,
+            "ME": 3,
+            "RO": 10,
+            "RU": 12,
+            "SM": 5,
+            "ES": 10,
+            "CH": 7
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 18,
+      "running": 18,
+      "place": 6,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 0,
+            "AT": 8,
+            "AZ": 4,
+            "BE": 7,
+            "CY": 0,
+            "DK": 2,
+            "FI": 7,
+            "GR": 3,
+            "HU": 6,
+            "IS": 10,
+            "IL": 7,
+            "IT": 0,
+            "LV": 10,
+            "MD": 0,
+            "ME": 1,
+            "RO": 0,
+            "RU": 10,
+            "SM": 12,
+            "ES": 5,
+            "CH": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 15,
+      "running": 12,
+      "place": 7,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 6,
+            "AT": 0,
+            "AZ": 1,
+            "BE": 3,
+            "DK": 0,
+            "FI": 1,
+            "GR": 12,
+            "HU": 0,
+            "IS": 12,
+            "IE": 5,
+            "IL": 10,
+            "IT": 7,
+            "LV": 3,
+            "MD": 3,
+            "ME": 6,
+            "RO": 7,
+            "RU": 7,
+            "SM": 0,
+            "ES": 8,
+            "CH": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 19,
+      "running": 2,
+      "place": 8,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 0,
+            "AT": 2,
+            "AZ": 0,
+            "BE": 5,
+            "CY": 8,
+            "DK": 10,
+            "FI": 10,
+            "GR": 5,
+            "HU": 4,
+            "IE": 0,
+            "IL": 4,
+            "IT": 1,
+            "LV": 5,
+            "MD": 2,
+            "ME": 5,
+            "RO": 0,
+            "RU": 1,
+            "SM": 3,
+            "ES": 6,
+            "CH": 4
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 22,
+      "running": 13,
+      "place": 9,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 0,
+            "AT": 0,
+            "AZ": 0,
+            "BE": 0,
+            "CY": 4,
+            "FI": 8,
+            "GR": 1,
+            "HU": 1,
+            "IS": 8,
+            "IE": 7,
+            "IL": 0,
+            "IT": 6,
+            "LV": 8,
+            "MD": 0,
+            "ME": 0,
+            "RO": 3,
+            "RU": 3,
+            "SM": 4,
+            "ES": 0,
+            "CH": 10
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 23,
+      "running": 15,
+      "place": 10,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 7,
+            "AT": 4,
+            "AZ": 2,
+            "BE": 6,
+            "CY": 5,
+            "DK": 5,
+            "FI": 4,
+            "GR": 0,
+            "IS": 0,
+            "IE": 0,
+            "IL": 0,
+            "IT": 0,
+            "LV": 0,
+            "MD": 5,
+            "ME": 0,
+            "RO": 8,
+            "RU": 0,
+            "SM": 0,
+            "ES": 0,
+            "CH": 6
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 27,
+      "running": 7,
+      "place": 11,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 3,
+            "AT": 3,
+            "AZ": 0,
+            "BE": 0,
+            "CY": 2,
+            "DK": 0,
+            "FI": 0,
+            "GR": 0,
+            "HU": 8,
+            "IS": 2,
+            "IE": 0,
+            "IL": 1,
+            "IT": 8,
+            "LV": 7,
+            "MD": 8,
+            "ME": 0,
+            "RO": 2,
+            "RU": 0,
+            "SM": 1,
+            "ES": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 29,
+      "running": 9,
+      "place": 12,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 1,
+            "AT": 0,
+            "AZ": 0,
+            "BE": 1,
+            "CY": 0,
+            "DK": 8,
+            "GR": 0,
+            "HU": 12,
+            "IS": 7,
+            "IE": 3,
+            "IL": 2,
+            "IT": 0,
+            "LV": 6,
+            "MD": 0,
+            "ME": 0,
+            "RO": 0,
+            "RU": 0,
+            "SM": 0,
+            "ES": 0,
+            "CH": 1
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 34,
+      "running": 10,
+      "place": 13,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 0,
+            "AT": 7,
+            "AZ": 0,
+            "BE": 0,
+            "CY": 1,
+            "DK": 3,
+            "FI": 3,
+            "GR": 0,
+            "HU": 5,
+            "IS": 0,
+            "IE": 0,
+            "IT": 0,
+            "LV": 1,
+            "MD": 0,
+            "ME": 0,
+            "RO": 5,
+            "RU": 6,
+            "SM": 0,
+            "ES": 2,
+            "CH": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 35,
+      "running": 11,
+      "place": 14,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 10,
+            "AT": 0,
+            "AZ": 5,
+            "BE": 0,
+            "CY": 0,
+            "DK": 0,
+            "FI": 0,
+            "GR": 2,
+            "HU": 0,
+            "IS": 0,
+            "IE": 0,
+            "IL": 0,
+            "IT": 3,
+            "LV": 0,
+            "MD": 7,
+            "ME": 4,
+            "RO": 0,
+            "RU": 0,
+            "ES": 0,
+            "CH": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 38,
+      "running": 1,
+      "place": 15,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 12,
+            "AT": 0,
+            "AZ": 0,
+            "BE": 0,
+            "CY": 0,
+            "DK": 0,
+            "FI": 0,
+            "GR": 0,
+            "HU": 0,
+            "IS": 0,
+            "IE": 0,
+            "IL": 0,
+            "IT": 0,
+            "LV": 0,
+            "MD": 0,
+            "RO": 0,
+            "RU": 0,
+            "SM": 8,
+            "ES": 0,
+            "CH": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 39,
+      "running": 4,
+      "place": 16,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 0,
+            "AT": 0,
+            "AZ": 3,
+            "BE": 0,
+            "CY": 0,
+            "DK": 0,
+            "FI": 0,
+            "GR": 0,
+            "HU": 0,
+            "IS": 0,
+            "IE": 4,
+            "IL": 0,
+            "IT": 0,
+            "MD": 4,
+            "ME": 2,
+            "RO": 0,
+            "RU": 4,
+            "SM": 0,
+            "ES": 0,
+            "CH": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 40,
+      "running": 8,
+      "place": 17,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 2,
+            "AT": 0,
+            "AZ": 0,
+            "CY": 0,
+            "DK": 0,
+            "FI": 2,
+            "GR": 4,
+            "HU": 0,
+            "IS": 0,
+            "IE": 6,
+            "IL": 0,
+            "IT": 0,
+            "LV": 0,
+            "MD": 0,
+            "ME": 0,
+            "RO": 1,
+            "RU": 0,
+            "SM": 0,
+            "ES": 1,
+            "CH": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 41,
+      "running": 16,
+      "place": 18,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AL": 0,
+            "AZ": 0,
+            "BE": 2,
+            "CY": 0,
+            "DK": 0,
+            "FI": 0,
+            "GR": 0,
+            "HU": 0,
+            "IS": 1,
+            "IE": 0,
+            "IL": 0,
+            "IT": 0,
+            "LV": 0,
+            "MD": 0,
+            "ME": 0,
+            "RO": 0,
+            "RU": 0,
+            "SM": 0,
+            "ES": 0,
+            "CH": 5
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 10,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Softengine",
+  "artistPeople": null,
+  "song": "Something Better",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3FDWaFfo1CU",
+    "https://www.youtube-nocookie.com/embed/a-NSVFBKU-4",
+    "https://www.youtube-nocookie.com/embed/ZHzbt-t-eo4",
+    "https://www.youtube-nocookie.com/embed/izGvzrOI4WI",
+    "https://www.youtube-nocookie.com/embed/ubv6QvjCcK8"
+  ],
+  "bpm": 146,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Jorma Hietamäki",
+    "Sanna Pirkkalainen"
+  ],
+  "composers": [
+    "Topi Latukka"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Henri Oskár",
+    "Topi Latukka"
+  ],
+  "spokesperson": "Redrama",
+  "stageDirector": null,
+  "writers": null
+}

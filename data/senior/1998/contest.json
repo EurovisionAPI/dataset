@@ -1,0 +1,16 @@
+{
+  "year": 1998,
+  "arena": "National Indoor Arena",
+  "city": "Birmingham",
+  "country": "GB",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1998.png",
+  "presenters": [
+    "Terry Wogan",
+    "Ulrika Jonsson"
+  ],
+  "broadcasters": [
+    "British Broadcasting Corporation (BBC)"
+  ]
+}

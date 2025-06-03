@@ -1,0 +1,39 @@
+{
+  "id": 6,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Rosa",
+  "artistPeople": [
+    "Rosa María López Cortés"
+  ],
+  "song": "Europe's Living A Celebration",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hZC-SD7jZ-U",
+    "https://www.youtube-nocookie.com/embed/7HdAV1z0sJY",
+    "https://www.youtube-nocookie.com/embed/kyR-dpml1UY",
+    "https://www.youtube-nocookie.com/embed/xBHcyuK1c2I"
+  ],
+  "bpm": 135,
+  "tone": "C# minor",
+  "backings": [
+    "Chenoa",
+    "David Bisbal",
+    "David Bustamante",
+    "Geno",
+    "Gisela"
+  ],
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "composers": [
+    "Toni Ten"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Xasqui Ten"
+  ],
+  "spokesperson": "Anne Igartiburu",
+  "stageDirector": null,
+  "writers": null
+}

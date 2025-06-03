@@ -1,0 +1,38 @@
+{
+  "id": 15,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Riki Sorsa",
+  "artistPeople": [
+    "Esko Sorsa"
+  ],
+  "song": "Reggae O.K.",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uJgkzYWbee8",
+    "https://www.youtube-nocookie.com/embed/MEhFbP8zMkQ",
+    "https://www.youtube-nocookie.com/embed/o2DAvtjP6uE"
+  ],
+  "bpm": 131,
+  "tone": "C major",
+  "backings": [
+    "Heikki Hietanen",
+    "Jim Pembroke",
+    "Jukka Orma",
+    "Keimo Hirvonen",
+    "Risto Hankala"
+  ],
+  "commentators": [
+    "Ossi Runne"
+  ],
+  "composers": [
+    "Jim Pembroke"
+  ],
+  "conductor": "Otto Donner",
+  "dancers": null,
+  "lyricists": [
+    "Olli Ojala"
+  ],
+  "spokesperson": "Annemi Genetz",
+  "stageDirector": null,
+  "writers": null
+}

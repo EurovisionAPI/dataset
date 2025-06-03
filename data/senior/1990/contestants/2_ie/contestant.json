@@ -1,0 +1,34 @@
+{
+  "id": 2,
+  "country": "IE",
+  "broadcaster": "RTÉ",
+  "artist": "Liam Reilly",
+  "artistPeople": [
+    "Liam O'Reilly"
+  ],
+  "song": "Somewhere In Europe",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SAjFewDxTFM",
+    "https://www.youtube-nocookie.com/embed/hT1ag2Si7BE",
+    "https://www.youtube-nocookie.com/embed/e4f3hX1G8fk"
+  ],
+  "bpm": 172,
+  "tone": "C major",
+  "backings": [
+    "Kim Jackson",
+    "Mary Downes"
+  ],
+  "commentators": [
+    "Clíona Ní Bhuachalla",
+    "Jimmy Greeley"
+  ],
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Eileen Dunne",
+  "stageDirector": null,
+  "writers": [
+    "Liam Reilly"
+  ]
+}

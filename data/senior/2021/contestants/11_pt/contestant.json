@@ -1,0 +1,40 @@
+{
+  "id": 11,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "The Black Mamba",
+  "artistPeople": [
+    "Pedro Tatanka Caldeira"
+  ],
+  "song": "Love Is On My Side",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qq9SceXaukA",
+    "https://www.youtube-nocookie.com/embed/koJAGIUlnD0",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/NVsLH2SuGzA",
+    "https://www.youtube-nocookie.com/embed/WWIaNwwUY8c",
+    "https://www.youtube-nocookie.com/embed/FAgCmD2M0eA",
+    "https://www.youtube-nocookie.com/embed/m6mcaHhqph0"
+  ],
+  "bpm": 137,
+  "tone": "E major",
+  "backings": [
+    "Guilherme Salgueiro",
+    "Marco Pombinho",
+    "Miguel Casais",
+    "Rui Pedro Vaz"
+  ],
+  "commentators": [
+    "José Carlos Malato",
+    "Nuno Galopim"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Elisa",
+  "stageDirector": null,
+  "writers": [
+    "Tatanka"
+  ]
+}

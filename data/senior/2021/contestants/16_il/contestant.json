@@ -1,0 +1,44 @@
+{
+  "id": 16,
+  "country": "IL",
+  "broadcaster": "KAN",
+  "artist": "Eden Alene",
+  "artistPeople": [
+    "Eden Alene"
+  ],
+  "song": "Set Me Free",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5Y-blG5ptwo",
+    "https://www.youtube-nocookie.com/embed/26Gn0Xqk9k4",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/9nss3FsrgJo",
+    "https://www.youtube-nocookie.com/embed/8eIJaeQBsxY",
+    "https://www.youtube-nocookie.com/embed/z_XXmnB_ngU",
+    "https://www.youtube-nocookie.com/embed/4ZPqfngmn5k"
+  ],
+  "bpm": 107,
+  "tone": "C# minor",
+  "backings": null,
+  "commentators": [
+    "Akiva Novik",
+    "Asaf Liberman"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Iago Ferreira Asulin",
+    "Maor Levy",
+    "Matan Onyameh",
+    "Vadim Koupstas",
+    "Victor Novojilovsky"
+  ],
+  "lyricists": null,
+  "spokesperson": "Lucy Ayoub",
+  "stageDirector": "Moshe Kepten",
+  "writers": [
+    "Amit Mordechai",
+    "Ido Netzer",
+    "Noam Zlatin",
+    "Ron Carmi"
+  ]
+}

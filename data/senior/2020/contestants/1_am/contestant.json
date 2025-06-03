@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "country": "AM",
+  "broadcaster": "AMPTV",
+  "artist": "Athena Manoukian",
+  "artistPeople": [
+    "Athena Manoukian"
+  ],
+  "song": "Chains On You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XpQHGMM8c5U",
+    "https://www.youtube-nocookie.com/embed/5f8jDV6Kcyc",
+    "https://www.youtube-nocookie.com/embed/FGbwbzAOJlE",
+    "https://www.youtube-nocookie.com/embed/UQAgPMy1i3s"
+  ],
+  "bpm": 96,
+  "tone": "A major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Athena Manoukian",
+    "DJ Paco"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Athena Manoukian"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

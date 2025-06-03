@@ -1,0 +1,37 @@
+{
+  "id": 33,
+  "country": "BY",
+  "broadcaster": "BTRC",
+  "artist": "Litesound",
+  "artistPeople": [
+    "Dmitriy Karyakin",
+    "Jacopo Massa",
+    "Vladimir Karyakin"
+  ],
+  "song": "We Are The Heroes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-JWbOKNaIAo",
+    "https://www.youtube-nocookie.com/embed/LbUSs1BCiKY",
+    "https://www.youtube-nocookie.com/embed/hnJZG0eyavs"
+  ],
+  "bpm": 123,
+  "tone": "F# major",
+  "backings": [
+    "Alex Kolchin",
+    "Alex Panayi",
+    "Ignat Yakovich"
+  ],
+  "commentators": [
+    "Denis Kurian"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Dmitry Koldun",
+  "stageDirector": null,
+  "writers": [
+    "Dmitriy Karyakin",
+    "Vladimir Karyakin"
+  ]
+}

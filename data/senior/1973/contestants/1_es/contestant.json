@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Mocedades",
+  "artistPeople": [
+    "María Icíar Amaya Uranga Amézaga",
+    "Carlos Zubiaga Uribarri",
+    "Izaskun Uranga Amézaga",
+    "Francisco Javier Garay Barrenechea",
+    "José Luis Ipiña",
+    "Roberto Uranga Amézaga"
+  ],
+  "song": "Eres tú",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LkNjk4x4-Wo",
+    "https://www.youtube-nocookie.com/embed/7AAE9cZidQY",
+    "https://www.youtube-nocookie.com/embed/BRHHjls4XQw",
+    "https://www.youtube-nocookie.com/embed/k053xVKjiKI",
+    "https://www.youtube-nocookie.com/embed/TP8pnqGDXfc",
+    "https://www.youtube-nocookie.com/embed/7xLHpT3rMyQ"
+  ],
+  "bpm": 172,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Julio Rico"
+  ],
+  "composers": null,
+  "conductor": "Juan Carlos Calderón López De Arroyabe",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Juan Carlos Calderón"
+  ]
+}

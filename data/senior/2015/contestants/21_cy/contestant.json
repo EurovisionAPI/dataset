@@ -1,0 +1,35 @@
+{
+  "id": 21,
+  "country": "CY",
+  "broadcaster": "CyBC",
+  "artist": "John Karayiannis",
+  "artistPeople": [
+    "Giannis Karagiannis (Γιάννης Καραγιάννης)"
+  ],
+  "song": "One Thing I Should Have Done",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RUNEoMBLGc8",
+    "https://www.youtube-nocookie.com/embed/tXU2Hehc4wY",
+    "https://www.youtube-nocookie.com/embed/r7qMNtK9uM8",
+    "https://www.youtube-nocookie.com/embed/fE7pBVqSjdU",
+    "https://www.youtube-nocookie.com/embed/goNCXtHQ9nM",
+    "https://www.youtube-nocookie.com/embed/hLYx4dSSzMw"
+  ],
+  "bpm": 180,
+  "tone": "Eb major",
+  "backings": [
+    "Christopher Madin"
+  ],
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Loukas Hamatsos",
+  "stageDirector": null,
+  "writers": [
+    "Mike Connaris"
+  ]
+}

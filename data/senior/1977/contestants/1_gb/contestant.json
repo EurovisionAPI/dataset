@@ -1,0 +1,39 @@
+{
+  "id": 1,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Lynsey de Paul & Mike Moran",
+  "artistPeople": [
+    "Lynsey Rubin",
+    "Michael Moran"
+  ],
+  "song": "Rock Bottom",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pUBudSy1-0o",
+    "https://www.youtube-nocookie.com/embed/n1wey0b2g74",
+    "https://www.youtube-nocookie.com/embed/RXhO6Cp7Syo",
+    "https://www.youtube-nocookie.com/embed/sunyuKSbXTc",
+    "https://www.youtube-nocookie.com/embed/7FGiAkqo6Ug"
+  ],
+  "bpm": 155,
+  "tone": "G major",
+  "backings": [
+    "Chas Mills",
+    "Claire Torry",
+    "Jill Mackintosh",
+    "Neil Lancaster"
+  ],
+  "commentators": [
+    "Pete Murray"
+  ],
+  "composers": null,
+  "conductor": "Ronnie Hazlehurst",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Colin Berry",
+  "stageDirector": null,
+  "writers": [
+    "Lynsey de Paul",
+    "Mike Moran"
+  ]
+}

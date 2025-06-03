@@ -1,0 +1,38 @@
+{
+  "id": 8,
+  "country": "MT",
+  "broadcaster": "PBS",
+  "artist": "Fabrizio Faniello",
+  "artistPeople": [
+    "Fabrizio Faniello"
+  ],
+  "song": "Another Summer Night",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_cYITo2AH0A",
+    "https://www.youtube-nocookie.com/embed/OiqmgczCn8Q",
+    "https://www.youtube-nocookie.com/embed/GhR3Mp5MlAs"
+  ],
+  "bpm": 126,
+  "tone": "C major",
+  "backings": [
+    "Bettina Møller",
+    "Bianca Moe",
+    "Gigi Li Fredie-Pedersen",
+    "Gry Trampedach Jørgensen",
+    "Ken Børjesen"
+  ],
+  "commentators": [
+    "Alfred Borg"
+  ],
+  "composers": [
+    "Paul Abela"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Georgina Abela"
+  ],
+  "spokesperson": "Marbeck Spiteri",
+  "stageDirector": null,
+  "writers": null
+}

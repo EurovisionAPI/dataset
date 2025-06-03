@@ -1,0 +1,15 @@
+{
+  "year": 1965,
+  "arena": "Sala di Concerto della RAI",
+  "city": "Naples",
+  "country": "IT",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1965.png",
+  "presenters": [
+    "Renata Mauro"
+  ],
+  "broadcasters": [
+    "RAI"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16,
+  "country": "BE",
+  "broadcaster": "BRTN",
+  "artist": "Lisa del Bo",
+  "artistPeople": [
+    "Renhilde Goossens"
+  ],
+  "song": "Liefde is een kaartspel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jOVmUCfwTBk",
+    "https://www.youtube-nocookie.com/embed/1e0m2_46uR0",
+    "https://www.youtube-nocookie.com/embed/QutP8sBYMjo"
+  ],
+  "bpm": 140,
+  "tone": "C major",
+  "backings": [
+    "John Terra",
+    "Lieve Verbeeck",
+    "Nadia Mampaey",
+    "Pascale Michiels"
+  ],
+  "commentators": [
+    "Jean-Pierre Hautier",
+    "Michel Follet"
+  ],
+  "composers": [
+    "John Terra",
+    "Siirak Brogden"
+  ],
+  "conductor": "Bob Porter",
+  "dancers": null,
+  "lyricists": [
+    "Daniël Ditmar"
+  ],
+  "spokesperson": "Anne Ploegaerts",
+  "stageDirector": null,
+  "writers": null
+}

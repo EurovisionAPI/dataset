@@ -1,0 +1,45 @@
+{
+  "id": 5,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "KEiiNO",
+  "artistPeople": [
+    "Alexandra Rotan",
+    "Fred-René Øvergård Buljo",
+    "Tom Hugo Hermansen"
+  ],
+  "song": "Spirit In The Sky",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ovt7YGHAj8I",
+    "https://www.youtube-nocookie.com/embed/3EmUmbhDRiY",
+    "https://www.youtube-nocookie.com/embed/yKoEt0-9ujA",
+    "https://www.youtube-nocookie.com/embed/50WutSRykdE",
+    "https://www.youtube-nocookie.com/embed/LBVeF_D37_c",
+    "https://www.youtube-nocookie.com/embed/qGpvsSmvnU4",
+    "https://www.youtube-nocookie.com/embed/64wttdCyxO4"
+  ],
+  "bpm": 122,
+  "tone": "D minor",
+  "backings": [
+    "Frode Vassel",
+    "Kine Ludvigsen Fossheim",
+    "Marianne Pentha"
+  ],
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Alexander Rybak",
+  "stageDirector": "Mattias Carlsson",
+  "writers": [
+    "Alex Olsson",
+    "Alexandra Rotan",
+    "Fred Buljo",
+    "Henrik Tala",
+    "Rûdiger Schramm",
+    "Tom Hugo Hermansen"
+  ]
+}

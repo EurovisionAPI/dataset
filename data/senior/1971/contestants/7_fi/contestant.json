@@ -1,0 +1,33 @@
+{
+  "id": 7,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Markku Aro and Koivisto Sisters",
+  "artistPeople": [
+    "Markku Puputti"
+  ],
+  "song": "Tie uuteen päivään",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/V_11CcVeSH0",
+    "https://www.youtube-nocookie.com/embed/t-maurT2w2s",
+    "https://www.youtube-nocookie.com/embed/0BcDwH4_k90"
+  ],
+  "bpm": 77,
+  "tone": "D minor",
+  "backings": [
+    "Anja Koivisto",
+    "Anneli Koivisto"
+  ],
+  "commentators": [
+    "Heikki Seppälä"
+  ],
+  "composers": null,
+  "conductor": "Ossi Runne",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Rauno Lehtinen"
+  ]
+}

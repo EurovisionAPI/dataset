@@ -1,0 +1,40 @@
+{
+  "id": 17,
+  "country": "RS",
+  "broadcaster": "RTS",
+  "artist": "Sanja Vučić ZAA",
+  "artistPeople": [
+    "Sanja Vučić"
+  ],
+  "song": "Goodbye (Shelter)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yTlxLiSQWjk",
+    "https://www.youtube-nocookie.com/embed/mqh-XVcjmHc",
+    "https://www.youtube-nocookie.com/embed/7jGAsL3ivNI",
+    "https://www.youtube-nocookie.com/embed/HhXnFxM3LHU",
+    "https://www.youtube-nocookie.com/embed/gqh3fSR_vew"
+  ],
+  "bpm": 86,
+  "tone": "Eb minor",
+  "backings": [
+    "Dunja Vujadinović",
+    "Iva Pletikosić",
+    "Jelena Đurić-Mitić",
+    "Lena Kuzmanović"
+  ],
+  "commentators": [
+    "Dragan Ilić",
+    "Duška Vučinić-Lučić"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Miloš Isailović"
+  ],
+  "lyricists": null,
+  "spokesperson": "Dragana Kosjerina",
+  "stageDirector": "Marko Novaković",
+  "writers": [
+    "Ivana Peters"
+  ]
+}

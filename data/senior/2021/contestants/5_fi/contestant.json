@@ -1,0 +1,46 @@
+{
+  "id": 5,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Blind Channel",
+  "artistPeople": [
+    "Aleksi Kaunisvesi",
+    "Joel Hokka",
+    "Joonas Porko",
+    "Niko Moilanen",
+    "Olli Matela",
+    "Tommi Lalli"
+  ],
+  "song": "Dark Side",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fOPGxQ4fgVw",
+    "https://www.youtube-nocookie.com/embed/JXEK-fc3_BU",
+    "https://www.youtube-nocookie.com/embed/Aw6KnFIIa4I",
+    "https://www.youtube-nocookie.com/embed/yIpW_SQvFRc",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/uV-TJXAL9vg",
+    "https://www.youtube-nocookie.com/embed/sJYKwcgWOG8"
+  ],
+  "bpm": 98,
+  "tone": "E minor",
+  "backings": null,
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Levan Tvaltvadze",
+    "Mikko Silvennoinen"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Katri Norrlin",
+  "stageDirector": "Reija Wäre",
+  "writers": [
+    "Aleksi Kaunisvesi",
+    "Joel Hokka",
+    "Joonas Porko",
+    "Niko Moilanen",
+    "Olli Matela"
+  ]
+}

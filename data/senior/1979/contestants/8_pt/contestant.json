@@ -1,0 +1,37 @@
+{
+  "id": 8,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Manuela Bravo",
+  "artistPeople": [
+    "Manuela Bravo"
+  ],
+  "song": "Sobe, sobe, balão sobe",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SxkT8LsARIA",
+    "https://www.youtube-nocookie.com/embed/w22sLBV_Qrg",
+    "https://www.youtube-nocookie.com/embed/_iLw12s3Lwk",
+    "https://www.youtube-nocookie.com/embed/S_6zynRi5VU",
+    "https://www.youtube-nocookie.com/embed/GE6aawFcrb4"
+  ],
+  "bpm": 99,
+  "tone": "E major",
+  "backings": [
+    "Ana Paula",
+    "Dulce Neves",
+    "Irene",
+    "Lia Senna"
+  ],
+  "commentators": [
+    "Fialho Gouveia"
+  ],
+  "composers": null,
+  "conductor": "Thilo Krasmann",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "João Abel da Fonseca",
+  "stageDirector": null,
+  "writers": [
+    "Carlos Nóbrega e Sousa"
+  ]
+}

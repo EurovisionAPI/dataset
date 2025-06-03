@@ -1,0 +1,38 @@
+{
+  "id": 25,
+  "country": "AD",
+  "broadcaster": "RTVA",
+  "artist": "Anonymous",
+  "artistPeople": [
+    "Guillem Gallego",
+    "Niki Francesca",
+    "Alejandro Martínez"
+  ],
+  "song": "Salvem el món",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RcbefpUPuLA",
+    "https://www.youtube-nocookie.com/embed/zOYO0KqcMsk",
+    "https://www.youtube-nocookie.com/embed/KJOKMSeQXhs"
+  ],
+  "bpm": 100,
+  "tone": "E major",
+  "backings": [
+    "Edgar",
+    "Ivan"
+  ],
+  "commentators": [
+    "Josep Lluís Trabal",
+    "Meri Picart"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Marian van de Wal",
+  "stageDirector": null,
+  "writers": [
+    "Guillem Gallego",
+    "Niki Francesca",
+    "Alejandro Martínez"
+  ]
+}

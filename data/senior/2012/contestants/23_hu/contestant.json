@@ -1,0 +1,40 @@
+{
+  "id": 23,
+  "country": "HU",
+  "broadcaster": "MTV",
+  "artist": "Compact Disco",
+  "artistPeople": [
+    "Attila Sándor",
+    "Behnam Lotfi",
+    "Csaba Walkó",
+    "Gábor Pál"
+  ],
+  "song": "Sound Of Our Hearts",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sw85G2AlU2c",
+    "https://www.youtube-nocookie.com/embed/qVXhElLlWb8",
+    "https://www.youtube-nocookie.com/embed/vCAlNahM8HY",
+    "https://www.youtube-nocookie.com/embed/e9h64LrjuUg"
+  ],
+  "bpm": 162,
+  "tone": "D major",
+  "backings": [
+    "Helga Wéber",
+    "Krisztián Szakos"
+  ],
+  "commentators": [
+    "Gábor Gundel Takács"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Éva Novodomszky",
+  "stageDirector": null,
+  "writers": [
+    "Attila Sándor",
+    "Behnam Lotfi",
+    "Csaba Walkó",
+    "Gábor Pál"
+  ]
+}

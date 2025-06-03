@@ -1,0 +1,38 @@
+{
+  "id": 9,
+  "country": "SE",
+  "broadcaster": "SVT",
+  "artist": "Björn Skifs",
+  "artistPeople": [
+    "Björn Skifs"
+  ],
+  "song": "Fångad i en dröm",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/a05rWLlRNJs",
+    "https://www.youtube-nocookie.com/embed/cNtJJoWWT1k",
+    "https://www.youtube-nocookie.com/embed/dNEWyoMxMLw",
+    "https://www.youtube-nocookie.com/embed/OAZrXNI1644"
+  ],
+  "bpm": 125,
+  "tone": "C major",
+  "backings": [
+    "Caj Högberg",
+    "Håkan Lundqvist",
+    "Lasse Wellander",
+    "Peter Lundblad",
+    "Peter Milefors"
+  ],
+  "commentators": [
+    "Ulf Elfving"
+  ],
+  "composers": null,
+  "conductor": "Anders Berglund",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Bengteric Nordell",
+  "stageDirector": null,
+  "writers": [
+    "Bengt Palmers",
+    "Björn Skifs"
+  ]
+}

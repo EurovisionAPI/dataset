@@ -1,0 +1,36 @@
+{
+  "id": 26,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Tomas Thordarson",
+  "artistPeople": [
+    "Tomas Thordarson"
+  ],
+  "song": "Shame On You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RJ8ow0_GYBQ",
+    "https://www.youtube-nocookie.com/embed/lWJIKFGyIOQ"
+  ],
+  "bpm": 117,
+  "tone": "A minor",
+  "backings": [
+    "Arvid Nielsen",
+    "Christina Birksøe",
+    "Christina Boelskifte",
+    "Mads Enggaard"
+  ],
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "composers": [
+    "Ivar Lind Greiner"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Iben Plesner"
+  ],
+  "spokesperson": "Camilla Ottesen",
+  "stageDirector": null,
+  "writers": null
+}

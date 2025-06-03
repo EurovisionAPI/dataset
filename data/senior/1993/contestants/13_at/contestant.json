@@ -1,0 +1,39 @@
+{
+  "id": 13,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "Tony Wegas",
+  "artistPeople": [
+    "Anton Sarközi"
+  ],
+  "song": "Maria Magdalena",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lfM2uGefRO8",
+    "https://www.youtube-nocookie.com/embed/kdOvgCvwbro",
+    "https://www.youtube-nocookie.com/embed/NjFbFqaLyUw"
+  ],
+  "bpm": 164,
+  "tone": "D major",
+  "backings": [
+    "Anzo Morawetz",
+    "Christian Felke",
+    "Gerhard Lux",
+    "Mario Argandoña",
+    "Stephan Gleixner"
+  ],
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "composers": [
+    "Christian Kolonovits",
+    "Johann Bertl"
+  ],
+  "conductor": "Christian Kolonovits",
+  "dancers": null,
+  "lyricists": [
+    "Thomas Spitzer"
+  ],
+  "spokesperson": "Andy Lee",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": 11,
+  "country": "DE",
+  "broadcaster": "NDR",
+  "artist": "Isaak",
+  "artistPeople": [
+    "Isaak Guderian"
+  ],
+  "song": "Always on the Run",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kVOHTxFOhak",
+    "https://www.youtube-nocookie.com/embed/3BjQPLLxEFQ",
+    "https://www.youtube-nocookie.com/embed/_KXwJAu7aCU",
+    "https://www.youtube-nocookie.com/embed/twhq3S4YHdQ",
+    "https://www.youtube-nocookie.com/embed/V3g4LSRC5Eo",
+    "https://www.youtube-nocookie.com/embed/bNPcE0HVjiQ",
+    "https://www.youtube-nocookie.com/embed/KEYEOwNZbvc"
+  ],
+  "bpm": 110,
+  "tone": "Bb minor",
+  "backings": [
+    "Afra Bobo",
+    "Fabian Haupt",
+    "Greg Taro",
+    "Nick March"
+  ],
+  "commentators": [
+    "Thorsten Schorn"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ina Müller",
+  "stageDirector": "Dan Shipton, Marvin Dietmann",
+  "writers": [
+    "Greg Taro",
+    "Isaak Guderian",
+    "Kevin Lehr",
+    "Leo Salminen"
+  ]
+}

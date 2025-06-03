@@ -1,0 +1,38 @@
+{
+  "id": 4,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Aud Wilken",
+  "artistPeople": [
+    "Aud Wilken"
+  ],
+  "song": "Fra Mols til Skagen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8qE917GQKSI",
+    "https://www.youtube-nocookie.com/embed/YOTF0A-U8Zg",
+    "https://www.youtube-nocookie.com/embed/_NMcy_uA1-g"
+  ],
+  "bpm": 101,
+  "tone": "F major",
+  "backings": [
+    "Anders Ørsager",
+    "Arvid Nielsen",
+    "Josephine Akvana",
+    "Pia Trojgård"
+  ],
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "composers": [
+    "Lise Cabble",
+    "Mette Mathiesen"
+  ],
+  "conductor": "Frede Ewert",
+  "dancers": null,
+  "lyricists": [
+    "Lise Cabble"
+  ],
+  "spokesperson": "Bent Henius",
+  "stageDirector": null,
+  "writers": null
+}

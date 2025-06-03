@@ -1,0 +1,37 @@
+{
+  "id": 4,
+  "country": "NL",
+  "broadcaster": "NOS",
+  "artist": "Marcha",
+  "artistPeople": [
+    "Margaretha Hendrika Maria Groeneveld"
+  ],
+  "song": "Rechtop in de wind",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JAFA9I5TxQg",
+    "https://www.youtube-nocookie.com/embed/jT8vFq1uKcU",
+    "https://www.youtube-nocookie.com/embed/8j63tIp9znQ",
+    "https://www.youtube-nocookie.com/embed/lGL0VRjM6h8"
+  ],
+  "bpm": 130,
+  "tone": "F major",
+  "backings": [
+    "Cees Stolk",
+    "Guus Westdorp",
+    "Marjolein Keuning",
+    "Paul Klooté",
+    "Yolanda Krijns"
+  ],
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "composers": null,
+  "conductor": "Rogier van Otterloo",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ralph Inbar",
+  "stageDirector": null,
+  "writers": [
+    "Peter Koelewijn"
+  ]
+}

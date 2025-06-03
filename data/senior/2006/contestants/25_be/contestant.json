@@ -1,0 +1,41 @@
+{
+  "id": 25,
+  "country": "BE",
+  "broadcaster": "VRT",
+  "artist": "Kate Ryan",
+  "artistPeople": [
+    "Katrien Verbeeck"
+  ],
+  "song": "Je t'adore",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JFhewse8jsA",
+    "https://www.youtube-nocookie.com/embed/uTnoWV-7doQ",
+    "https://www.youtube-nocookie.com/embed/K4DWgr6mi2Q",
+    "https://www.youtube-nocookie.com/embed/4esfI4fPW6M"
+  ],
+  "bpm": 135,
+  "tone": "Ab minor",
+  "backings": [
+    "Britta Bergström",
+    "Jamie Karitzis",
+    "Jeanette Olsson",
+    "Phillip Kempster",
+    "Simon Hardwick"
+  ],
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Pierre Hautier"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Yasmine",
+  "stageDirector": null,
+  "writers": [
+    "Kate Ryan",
+    "Lisa Greene",
+    "Niclas Kings",
+    "Niklas Bergwall"
+  ]
+}

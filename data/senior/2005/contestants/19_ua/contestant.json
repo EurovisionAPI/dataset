@@ -1,0 +1,39 @@
+{
+  "id": 19,
+  "country": "UA",
+  "broadcaster": "NTU",
+  "artist": "Greenjolly",
+  "artistPeople": [
+    "Andriy Pisetskyi",
+    "Roman Kalyn",
+    "Roman Kostyuk"
+  ],
+  "song": "Razom Nas Bahato",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/N5u6J_mbhLU",
+    "https://www.youtube-nocookie.com/embed/x_S9gCjA12o",
+    "https://www.youtube-nocookie.com/embed/1v12aw-vJK8"
+  ],
+  "bpm": 178,
+  "tone": "E minor",
+  "backings": null,
+  "commentators": [
+    "Yaroslav Chornenkyi"
+  ],
+  "composers": [
+    "Roman Kalyn",
+    "Roman Kostyuk"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Kostiantyn Tomilchenko"
+  ],
+  "lyricists": [
+    "Mikola Kulinich",
+    "Roman Kalyn",
+    "Roman Kostyuk"
+  ],
+  "spokesperson": "Maria Orlova",
+  "stageDirector": "Kostiantyn Tomilchenko",
+  "writers": null
+}

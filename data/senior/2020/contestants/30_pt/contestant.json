@@ -1,0 +1,29 @@
+{
+  "id": 30,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Elisa",
+  "artistPeople": [
+    "Maria Elisa Silva"
+  ],
+  "song": "Medo de sentir",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eIZ48w4epng",
+    "https://www.youtube-nocookie.com/embed/mJN7sZGthvE",
+    "https://www.youtube-nocookie.com/embed/sbY5erNcOG4",
+    "https://www.youtube-nocookie.com/embed/yyb8XqNRwCc"
+  ],
+  "bpm": 154,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Marta Carvalho"
+  ]
+}

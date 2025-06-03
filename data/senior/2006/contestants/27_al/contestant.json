@@ -1,0 +1,38 @@
+{
+  "id": 27,
+  "country": "AL",
+  "broadcaster": "RTSH",
+  "artist": "Luiz Ejlli",
+  "artistPeople": [
+    "Luiz Ejlli"
+  ],
+  "song": "Zjarr e ftohtë",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/z_r4IzbwDY4",
+    "https://www.youtube-nocookie.com/embed/H9DY87IfpNU",
+    "https://www.youtube-nocookie.com/embed/bPidaw-3abk"
+  ],
+  "bpm": 112,
+  "tone": "A minor",
+  "backings": [
+    "Armaldo Kllgeri",
+    "Aurel Thellimi",
+    "Fabian Basha",
+    "Napoleon Hoxha",
+    "Petrit Lulo"
+  ],
+  "commentators": [
+    "Leon Menkshi"
+  ],
+  "composers": [
+    "Klodian Qafoku"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Dr. Flori"
+  ],
+  "spokesperson": "Leon Menkshi",
+  "stageDirector": null,
+  "writers": null
+}

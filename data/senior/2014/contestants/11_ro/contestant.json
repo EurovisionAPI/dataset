@@ -1,0 +1,41 @@
+{
+  "id": 11,
+  "country": "RO",
+  "broadcaster": "TVR",
+  "artist": "Paula Seling & OVI",
+  "artistPeople": [
+    "Ovidiu Cernăuţeanu",
+    "Paula Seling"
+  ],
+  "song": "Miracle",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cAMpVodhiS4",
+    "https://www.youtube-nocookie.com/embed/RYfyMkwTLPg",
+    "https://www.youtube-nocookie.com/embed/fo2Bini5JQ0"
+  ],
+  "bpm": 135,
+  "tone": "D minor",
+  "backings": [
+    "Julie Lindell",
+    "Line Krogholm",
+    "Mads Storm",
+    "Marcus Only"
+  ],
+  "commentators": [
+    "Bogdan Stănescu"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Sonia Argint-Ionescu",
+  "stageDirector": "Mattias Carlsson",
+  "writers": [
+    "Andreas Sjo Engen",
+    "Frida Amundsen",
+    "Kjetil Helgesen",
+    "Marcus Only",
+    "Ovidiu Cernăuţeanu",
+    "Philip Halloun"
+  ]
+}

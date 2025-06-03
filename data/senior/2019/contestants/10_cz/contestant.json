@@ -1,0 +1,40 @@
+{
+  "id": 10,
+  "country": "CZ",
+  "broadcaster": "ČT",
+  "artist": "Lake Malawi",
+  "artistPeople": [
+    "Albert Černý"
+  ],
+  "song": "Friend of a Friend",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NJxLKFZKhNs",
+    "https://www.youtube-nocookie.com/embed/8-HR-L4QY0g",
+    "https://www.youtube-nocookie.com/embed/yH1-uy9FYKE",
+    "https://www.youtube-nocookie.com/embed/E63kzXA1pqY",
+    "https://www.youtube-nocookie.com/embed/dKJAoaZvzRs",
+    "https://www.youtube-nocookie.com/embed/Nn9lSY402rA",
+    "https://www.youtube-nocookie.com/embed/CHc3kYKJ_UM"
+  ],
+  "bpm": 106,
+  "tone": "A minor",
+  "backings": [
+    "Adina Vostry",
+    "IBY Pop",
+    "Jakub Gabriel Anděl Rajnoch"
+  ],
+  "commentators": [
+    "Libor Bouček"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Radka Rosická",
+  "stageDirector": "Jan Potměšil",
+  "writers": [
+    "Albert Černý",
+    "Jan Steinsdörfer",
+    "Mikołaj Trybulec"
+  ]
+}

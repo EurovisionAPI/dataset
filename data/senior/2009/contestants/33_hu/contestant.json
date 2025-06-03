@@ -1,0 +1,37 @@
+{
+  "id": 33,
+  "country": "HU",
+  "broadcaster": "MTV",
+  "artist": "Zoli Ádok",
+  "artistPeople": [
+    "Zoltán Ádok"
+  ],
+  "song": "Dance With Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Xd4vRC5ZdLI",
+    "https://www.youtube-nocookie.com/embed/OCx2_mHr-T4"
+  ],
+  "bpm": 125,
+  "tone": "C minor",
+  "backings": [
+    "Gábor Heincz",
+    "Jnoffin Kasai",
+    "Tímea Papp",
+    "Titanilla Béli",
+    "Zita Karsai"
+  ],
+  "commentators": [
+    "Gábor Gundel Takács"
+  ],
+  "composers": [
+    "Zé Szabó"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Jnoffin Kasai"
+  ],
+  "spokesperson": "Éva Novodomszky",
+  "stageDirector": "Tímea Papp",
+  "writers": null
+}

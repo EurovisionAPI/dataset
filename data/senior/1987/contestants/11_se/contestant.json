@@ -1,0 +1,32 @@
+{
+  "id": 11,
+  "country": "SE",
+  "broadcaster": "SVT",
+  "artist": "Lotta Engberg",
+  "artistPeople": [
+    "Lotta Pedersen"
+  ],
+  "song": "Boogaloo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MtwZpUolCk8",
+    "https://www.youtube-nocookie.com/embed/PNjQZzIZR0A",
+    "https://www.youtube-nocookie.com/embed/n1WXKVN1o3c"
+  ],
+  "bpm": 83,
+  "tone": "Ab major",
+  "backings": null,
+  "commentators": [
+    "Fredrik Belfrage"
+  ],
+  "composers": [
+    "Mikael Wendt"
+  ],
+  "conductor": "Curt-Eric Holmquist",
+  "dancers": null,
+  "lyricists": [
+    "Christer Lundh"
+  ],
+  "spokesperson": "Jan Ellerås",
+  "stageDirector": null,
+  "writers": null
+}

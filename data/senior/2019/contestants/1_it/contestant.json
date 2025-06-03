@@ -1,0 +1,37 @@
+{
+  "id": 1,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Mahmood",
+  "artistPeople": [
+    "Alessandro Mahmoud"
+  ],
+  "song": "Soldi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/M-aoyPa41Ic",
+    "https://www.youtube-nocookie.com/embed/Va-JXIhsYD0",
+    "https://www.youtube-nocookie.com/embed/tEwvUu1dBTs",
+    "https://www.youtube-nocookie.com/embed/LSvIOGMgxAQ",
+    "https://www.youtube-nocookie.com/embed/yBj5PsgWBl4",
+    "https://www.youtube-nocookie.com/embed/6kpKVCW3oVg"
+  ],
+  "bpm": 95,
+  "tone": "Eb minor",
+  "backings": null,
+  "commentators": [
+    "Ema Stokholma",
+    "Federico Russo",
+    "Flavio Insinna"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ema Stokholma",
+  "stageDirector": null,
+  "writers": [
+    "Charlie Charles",
+    "Dario Faini",
+    "Mahmood"
+  ]
+}

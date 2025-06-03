@@ -1,0 +1,16 @@
+{
+  "year": 1996,
+  "arena": "Oslo Spektrum",
+  "city": "Oslo",
+  "country": "NO",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1996.png",
+  "presenters": [
+    "Ingvild Bryn",
+    "Morten Harket"
+  ],
+  "broadcasters": [
+    "Norsk rikskringkasting (NRK)"
+  ]
+}

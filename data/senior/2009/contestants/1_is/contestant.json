@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Yohanna",
+  "artistPeople": [
+    "Jóhanna Guðrún Jónsdóttir"
+  ],
+  "song": "Is It True?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qqE69feyEOU",
+    "https://www.youtube-nocookie.com/embed/R9FZhr93V3A",
+    "https://www.youtube-nocookie.com/embed/UFW4z4pfg94",
+    "https://www.youtube-nocookie.com/embed/7xLkZOqAq2E",
+    "https://www.youtube-nocookie.com/embed/F7umhrZo8ig"
+  ],
+  "bpm": 166,
+  "tone": "Eb major",
+  "backings": [
+    "Erna Hrönn Ólafsdóttir",
+    "Friðrik Ómar Hjörleifsson",
+    "Hera Björk"
+  ],
+  "commentators": [
+    "Sigmar Guðmundsson"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Þóra Tómasdóttir",
+  "stageDirector": null,
+  "writers": [
+    "Chris Neil",
+    "Óskar Páll Sveinsson",
+    "Tinatin"
+  ]
+}

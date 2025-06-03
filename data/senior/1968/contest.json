@@ -1,0 +1,15 @@
+{
+  "year": 1968,
+  "arena": "Royal Albert Hall",
+  "city": "London",
+  "country": "GB",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1968.png",
+  "presenters": [
+    "Catherine (Katie) Boyle"
+  ],
+  "broadcasters": [
+    "BBC"
+  ]
+}

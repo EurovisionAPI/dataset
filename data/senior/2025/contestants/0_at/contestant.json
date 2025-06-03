@@ -1,0 +1,36 @@
+{
+  "id": 0,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "JJ",
+  "artistPeople": [
+    "Johannes Pietsch"
+  ],
+  "song": "Wasted Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/onOex2WXjbA",
+    "https://www.youtube-nocookie.com/embed/4xrUFhBjGWg",
+    "https://www.youtube-nocookie.com/embed/-ieSTNpxvio",
+    "https://www.youtube-nocookie.com/embed/coGaxAWtp58",
+    "https://www.youtube-nocookie.com/embed/c8ZBDh-DFiw",
+    "https://www.youtube-nocookie.com/embed/aQ7JnH7voCg",
+    "https://www.youtube-nocookie.com/embed/LHc7h1JGiAo"
+  ],
+  "bpm": 133,
+  "tone": "C# minor",
+  "backings": null,
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Philipp Hansa",
+  "stageDirector": "Sergio Jaen",
+  "writers": [
+    "Johannes Pietsch",
+    "Teodora Špirić",
+    "Thomas Turner"
+  ]
+}

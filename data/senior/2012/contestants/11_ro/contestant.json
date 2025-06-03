@@ -1,0 +1,40 @@
+{
+  "id": 11,
+  "country": "RO",
+  "broadcaster": "TVR",
+  "artist": "Mandinga",
+  "artistPeople": [
+    "Alexandru Burcea",
+    "Marius Cristian Ciupitu",
+    "Alexander Himely Benavides",
+    "Elena Ionescu",
+    "Omar Secada Dihigo",
+    "Valentin Andrei Zachar"
+  ],
+  "song": "Zaleilah",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/K3ruy639kTQ",
+    "https://www.youtube-nocookie.com/embed/uEwJrFmMxrg",
+    "https://www.youtube-nocookie.com/embed/eItAxqI2RlY",
+    "https://www.youtube-nocookie.com/embed/rCCWVSEHlRk"
+  ],
+  "bpm": 127,
+  "tone": "E major",
+  "backings": null,
+  "commentators": [
+    "Gianina Corondan",
+    "Leonard Miron"
+  ],
+  "composers": [
+    "Costi Ioniţă"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Elena Ionescu",
+    "Secada Dihigo Omar"
+  ],
+  "spokesperson": "Paula Seling",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": 26,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Diljá",
+  "artistPeople": [
+    "Diljá Pétursdóttir"
+  ],
+  "song": "Power",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lzlTcA0OC5s",
+    "https://www.youtube-nocookie.com/embed/BhlJXcCv7gw",
+    "https://www.youtube-nocookie.com/embed/GHFrKbXD9ck",
+    "https://www.youtube-nocookie.com/embed/FXprRtvM8yw",
+    "https://www.youtube-nocookie.com/embed/Pp9UAyBnNNw",
+    "https://www.youtube-nocookie.com/embed/uQkKk9kW43w",
+    "https://www.youtube-nocookie.com/embed/TNjWUDb3_JM"
+  ],
+  "bpm": 160,
+  "tone": "F minor",
+  "backings": null,
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Einar Hrafn Stefánsson",
+  "stageDirector": null,
+  "writers": [
+    "Diljá Pétursdóttir",
+    "Pálmi Ragnar Ásgeirsson"
+  ]
+}

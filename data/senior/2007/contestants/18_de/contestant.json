@@ -1,0 +1,39 @@
+{
+  "id": 18,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Roger Cicero",
+  "artistPeople": [
+    "Roger Cicero"
+  ],
+  "song": "Frauen regier'n die Welt",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9PiGGv3asug",
+    "https://www.youtube-nocookie.com/embed/j9JkQRdDYvk",
+    "https://www.youtube-nocookie.com/embed/9AbA8YrCyfQ",
+    "https://www.youtube-nocookie.com/embed/zYOMvswyUFU"
+  ],
+  "bpm": 135,
+  "tone": "C minor",
+  "backings": [
+    "Dirk Lentschat",
+    "Hervé Jeanne",
+    "Lutz Krajenski",
+    "Matthias Meusel",
+    "Stephan Abel"
+  ],
+  "commentators": [
+    "Peter Urban"
+  ],
+  "composers": [
+    "Matthias Hass"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Frank Ramond"
+  ],
+  "spokesperson": "Thomas Hermanns",
+  "stageDirector": null,
+  "writers": null
+}

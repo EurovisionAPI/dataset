@@ -1,0 +1,39 @@
+{
+  "id": 26,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Eiríkur Hauksson",
+  "artistPeople": [
+    "Eiríkur Hauksson"
+  ],
+  "song": "Valentine Lost",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/e2he47-SC1k",
+    "https://www.youtube-nocookie.com/embed/9qoTPxvHWZY",
+    "https://www.youtube-nocookie.com/embed/iURNIcOdgwY",
+    "https://www.youtube-nocookie.com/embed/qFCqRTzntZU"
+  ],
+  "bpm": 86,
+  "tone": "G minor",
+  "backings": [
+    "Benedikt Brynleifsson",
+    "Gunzo",
+    "Massi",
+    "Rocco",
+    "Sibbi"
+  ],
+  "commentators": [
+    "Sigmar Guðmundsson"
+  ],
+  "composers": [
+    "Sveinn Rúnar Sigurðsson"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Peter Fenner"
+  ],
+  "spokesperson": "Ragnhildur Steinunn Jónsdóttir",
+  "stageDirector": null,
+  "writers": null
+}

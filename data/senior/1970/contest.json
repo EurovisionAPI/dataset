@@ -1,0 +1,15 @@
+{
+  "year": 1970,
+  "arena": "RAI Congrescentrum",
+  "city": "Amsterdam",
+  "country": "NL",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1970.png",
+  "presenters": [
+    "Willy Dobbe"
+  ],
+  "broadcasters": [
+    "NOS"
+  ]
+}

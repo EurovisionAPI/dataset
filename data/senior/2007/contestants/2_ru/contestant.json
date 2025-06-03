@@ -1,0 +1,36 @@
+{
+  "id": 2,
+  "country": "RU",
+  "broadcaster": "C1R",
+  "artist": "Serebro",
+  "artistPeople": [
+    "Elena Temnikova",
+    "Marina Lizorkina",
+    "Olga Serebkina"
+  ],
+  "song": "Song # 1",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MVPez6Zvr8g",
+    "https://www.youtube-nocookie.com/embed/AQNYqhcHKPo",
+    "https://www.youtube-nocookie.com/embed/yFa6eg0PIxs",
+    "https://www.youtube-nocookie.com/embed/7BjsOzALya8"
+  ],
+  "bpm": 125,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Elena Batinova",
+    "Yuriy Aksuta"
+  ],
+  "composers": [
+    "Maxim Fadeev"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Daniil Babichev"
+  ],
+  "spokesperson": "Yana Churikova",
+  "stageDirector": null,
+  "writers": null
+}

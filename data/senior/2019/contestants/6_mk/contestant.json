@@ -1,0 +1,40 @@
+{
+  "id": 6,
+  "country": "MK",
+  "broadcaster": "MKRTV",
+  "artist": "Tamara Todevska",
+  "artistPeople": [
+    "Tamara Todevska"
+  ],
+  "song": "Proud",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0pAURAsum4A",
+    "https://www.youtube-nocookie.com/embed/3A65lXLNZfk",
+    "https://www.youtube-nocookie.com/embed/Sw-NQ1a1zZ0",
+    "https://www.youtube-nocookie.com/embed/_kldsDL2RZ8",
+    "https://www.youtube-nocookie.com/embed/XdTmBEJKRk0",
+    "https://www.youtube-nocookie.com/embed/e5yuP9deQB8",
+    "https://www.youtube-nocookie.com/embed/uorpKaAQQYI"
+  ],
+  "bpm": 91,
+  "tone": "F major",
+  "backings": [
+    "Aleksandra Janeva",
+    "Antonia Gigovska",
+    "Vasil Garvanliev"
+  ],
+  "commentators": [
+    "Toni Cifrovski"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Nikola Trajkovski",
+  "stageDirector": "Mari Ryberger, Tine Matulessy",
+  "writers": [
+    "Darko Dimitrov",
+    "Lazar Cvetkoski",
+    "Robert Bilbilov"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 18,
+  "country": "RS",
+  "broadcaster": "RTS",
+  "artist": "Sanja Ilić & Balkanika",
+  "artistPeople": [
+    "Aleksandar Radulović",
+    "Danica Krstić",
+    "Iva Banićević",
+    "Ljubomir Dimitrijević",
+    "Mladen Lukić",
+    "Nevena Stamenković"
+  ],
+  "song": "Nova deca",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WRQWQShbPHU",
+    "https://www.youtube-nocookie.com/embed/g0tS6oTseNw",
+    "https://www.youtube-nocookie.com/embed/S5eC-HSEYPs",
+    "https://www.youtube-nocookie.com/embed/R_2MU320hKs",
+    "https://www.youtube-nocookie.com/embed/iRTTHstJHh4",
+    "https://www.youtube-nocookie.com/embed/vT7VVfa-y_s",
+    "https://www.youtube-nocookie.com/embed/W3Xd22-HLw4"
+  ],
+  "bpm": 125,
+  "tone": "F# major",
+  "backings": null,
+  "commentators": [
+    "Duška Vučinić-Lučić",
+    "Silvana Grujić",
+    "Tamara Petković"
+  ],
+  "composers": [
+    "Aleksandar Ilić",
+    "Tatjana Karajanov Ilić"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Danica Krstajić"
+  ],
+  "spokesperson": "Dragana Kosjerina",
+  "stageDirector": "Gorčin Stojanović",
+  "writers": null
+}

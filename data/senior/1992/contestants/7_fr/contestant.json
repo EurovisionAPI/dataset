@@ -1,0 +1,29 @@
+{
+  "id": 7,
+  "country": "FR",
+  "broadcaster": "A2F",
+  "artist": "Kali",
+  "artistPeople": [
+    "Jean-Marc Monnerville"
+  ],
+  "song": "Monté la riviè",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fTeI98arY2I",
+    "https://www.youtube-nocookie.com/embed/QKi4P1mROtI"
+  ],
+  "bpm": 166,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": [
+    "Thierry Beccaro"
+  ],
+  "composers": null,
+  "conductor": "Magdi Vasco Novarrez",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Olivier Minne",
+  "stageDirector": null,
+  "writers": [
+    "Jean-Marc Monnerville"
+  ]
+}

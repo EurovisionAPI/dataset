@@ -1,0 +1,44 @@
+{
+  "id": 32,
+  "country": "GE",
+  "broadcaster": "GPB",
+  "artist": "Oto Nemsadze",
+  "artistPeople": [
+    "Oto Nemsadze"
+  ],
+  "song": "Keep on Going",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vu4nHsaAJwU",
+    "https://www.youtube-nocookie.com/embed/QCOMCqOXmUo",
+    "https://www.youtube-nocookie.com/embed/pwq9XBnXKAM",
+    "https://www.youtube-nocookie.com/embed/BoOvVqtZyus",
+    "https://www.youtube-nocookie.com/embed/G0w4_0N9fUs",
+    "https://www.youtube-nocookie.com/embed/LkijLt3EwrM",
+    "https://www.youtube-nocookie.com/embed/_T9XyUWgl9c"
+  ],
+  "bpm": 120,
+  "tone": "B minor",
+  "backings": [
+    "Dato Tsintsadze",
+    "Giga Chigogidze",
+    "Giorgi Kananadze",
+    "Mikheil Javakhishvili",
+    "Spartak Sharikadze"
+  ],
+  "commentators": [
+    "George Abashidze",
+    "Helen Kalandadze",
+    "Nodiko Tatishvili"
+  ],
+  "composers": [
+    "Roman Giorgadze"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Diana Giorgadze"
+  ],
+  "spokesperson": "George Abashidze",
+  "stageDirector": null,
+  "writers": null
+}

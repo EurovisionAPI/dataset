@@ -1,0 +1,37 @@
+{
+  "id": 8,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Tonicha",
+  "artistPeople": [
+    "Antónia de Jesus Montes Tonicha"
+  ],
+  "song": "Menina do alto da serra",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QTM0_jdI9NI",
+    "https://www.youtube-nocookie.com/embed/Chh-lPnPvf0",
+    "https://www.youtube-nocookie.com/embed/KV29L49X-Tk",
+    "https://www.youtube-nocookie.com/embed/d0azhqK9EeM",
+    "https://www.youtube-nocookie.com/embed/_vmP8NymLQc",
+    "https://www.youtube-nocookie.com/embed/Uxdc4QPn1Dc"
+  ],
+  "bpm": 94,
+  "tone": "Bb minor",
+  "backings": [
+    "Nuno Gomes dos Santos"
+  ],
+  "commentators": [
+    "Henrique Mendes"
+  ],
+  "composers": [
+    "Nuno Nazareth Fernandes"
+  ],
+  "conductor": "Jorge Costa Pinto",
+  "dancers": null,
+  "lyricists": [
+    "José Carlos Ary dos Santos"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

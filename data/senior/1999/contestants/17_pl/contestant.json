@@ -1,0 +1,31 @@
+{
+  "id": 17,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Mietek Szczesniak",
+  "artistPeople": [
+    "Mieczysław Szcześniak"
+  ],
+  "song": "Przytul mnie mocno",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SrqMUhruz3I",
+    "https://www.youtube-nocookie.com/embed/mASPe1mNtNs"
+  ],
+  "bpm": 113,
+  "tone": "Eb minor",
+  "backings": null,
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "composers": [
+    "Seweryn Krajewski"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Wojciech Ziembicki"
+  ],
+  "spokesperson": "Jan Chojnacki",
+  "stageDirector": null,
+  "writers": null
+}

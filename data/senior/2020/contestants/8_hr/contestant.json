@@ -1,0 +1,28 @@
+{
+  "id": 8,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Damir Kedžo",
+  "artistPeople": [
+    "Damir Kedžo"
+  ],
+  "song": "Divlji vjetre",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2rOwScdxjJU",
+    "https://www.youtube-nocookie.com/embed/ig1-QRMBDwY",
+    "https://www.youtube-nocookie.com/embed/D7zs7CDOs6E"
+  ],
+  "bpm": 125,
+  "tone": "C major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Ante Pecotić"
+  ]
+}

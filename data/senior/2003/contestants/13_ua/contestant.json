@@ -1,0 +1,31 @@
+{
+  "id": 13,
+  "country": "UA",
+  "broadcaster": "NTU",
+  "artist": "Olexandr",
+  "artistPeople": [
+    "Oleksandr Ponomariov (Олександр Пономарьов)"
+  ],
+  "song": "Hasta la vista",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MK-SjFtMYUA",
+    "https://www.youtube-nocookie.com/embed/n-CtDmpxqyQ"
+  ],
+  "bpm": null,
+  "tone": null,
+  "backings": null,
+  "commentators": [
+    "Pavlo Shylko"
+  ],
+  "composers": [
+    "Svika Pick"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Mirit Shem Or"
+  ],
+  "spokesperson": "Lyudmyla Hariv",
+  "stageDirector": null,
+  "writers": null
+}

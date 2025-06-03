@@ -1,0 +1,38 @@
+{
+  "id": 24,
+  "country": "MT",
+  "broadcaster": "PBS",
+  "artist": "Lynn Chircop",
+  "artistPeople": [
+    "Lynn Chircop"
+  ],
+  "song": "To Dream Again",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gJRXn1rW0H8",
+    "https://www.youtube-nocookie.com/embed/eBbt9qR305k",
+    "https://www.youtube-nocookie.com/embed/gk4wRg1HTbc"
+  ],
+  "bpm": 117,
+  "tone": "D major",
+  "backings": [
+    "Anna Azzopardi",
+    "Justyne Bezzina",
+    "Leontine Spiteri",
+    "Louisanne Tate",
+    "Marvic Lewis"
+  ],
+  "commentators": [
+    "John Bundy"
+  ],
+  "composers": [
+    "Alfred Zammit"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Cynthia Sammut"
+  ],
+  "spokesperson": "Sharon Borg",
+  "stageDirector": null,
+  "writers": null
+}

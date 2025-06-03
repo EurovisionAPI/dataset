@@ -1,0 +1,36 @@
+{
+  "id": 1,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Elisabeth Andreasson",
+  "artistPeople": [
+    "Elisabeth Gunilla Andreassen"
+  ],
+  "song": "I evighet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Dxr64yUHzKM",
+    "https://www.youtube-nocookie.com/embed/YJ_Yt6zmNsA",
+    "https://www.youtube-nocookie.com/embed/ZXx9hsQc1sc"
+  ],
+  "bpm": 143,
+  "tone": "C# major",
+  "backings": [
+    "Hilde Kjeldsen",
+    "Marian Lisland",
+    "Per Øystein Sørensen",
+    "Roar Engelberg",
+    "Rolf Graf"
+  ],
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "composers": null,
+  "conductor": "Frode Thingnæs",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ragnhild Sælthun Fjørtoft",
+  "stageDirector": null,
+  "writers": [
+    "Torhild Nigar"
+  ]
+}

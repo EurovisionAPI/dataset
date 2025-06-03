@@ -1,0 +1,39 @@
+{
+  "id": 33,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "DJ BoBo",
+  "artistPeople": [
+    "René Baumann",
+    "Kimia Fonkam-Roth",
+    "Kurt 'Curtis' Burger",
+    "Moriah 'Tone' Anthony",
+    "Nicole 'Nikita' Ganzhorn",
+    "Renick Bernadina"
+  ],
+  "song": "Vampires Are Alive",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/h9YTasUpAjw"
+  ],
+  "bpm": 134,
+  "tone": "Bb minor",
+  "backings": null,
+  "commentators": [
+    "Bernard Thurnheer",
+    "Claudio Lazzarino",
+    "Henri Dès",
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Sandy Altermatt"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Sven Epiney",
+  "stageDirector": null,
+  "writers": [
+    "Axel Breitung",
+    "DJ BoBo"
+  ]
+}

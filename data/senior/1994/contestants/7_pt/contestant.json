@@ -1,0 +1,34 @@
+{
+  "id": 7,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Sara Tavares",
+  "artistPeople": [
+    "Sara Tavares"
+  ],
+  "song": "Chamar a música",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rx_fj-ilZhU",
+    "https://www.youtube-nocookie.com/embed/HkXsC2Y9AzE",
+    "https://www.youtube-nocookie.com/embed/1wN4lK8cwGg",
+    "https://www.youtube-nocookie.com/embed/crrjdyCIHeI",
+    "https://www.youtube-nocookie.com/embed/dYupa9tVUI4"
+  ],
+  "bpm": 142,
+  "tone": "Ab major",
+  "backings": null,
+  "commentators": [
+    "Eládio Clímaco"
+  ],
+  "composers": [
+    "João Carlos Mota Oliveira"
+  ],
+  "conductor": "Thilo Krasmann",
+  "dancers": null,
+  "lyricists": [
+    "Rosa Lobato de Faria"
+  ],
+  "spokesperson": "Isabel Bahia",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": 10,
+  "country": "IL",
+  "broadcaster": "IBA",
+  "artist": "Ilanit",
+  "artistPeople": [
+    "Hanna Dresner-Tzakh (חנה דרזנר)"
+  ],
+  "song": "Ah-haa-vah Hee Shir Lish-naa-yim",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8An6k975YQM",
+    "https://www.youtube-nocookie.com/embed/clet4lL7rsQ",
+    "https://www.youtube-nocookie.com/embed/blWF99c9XAA"
+  ],
+  "bpm": 102,
+  "tone": "E major",
+  "backings": [
+    "Katherine Dyer",
+    "Kiera Birch",
+    "Susan Galloway"
+  ],
+  "commentators": null,
+  "composers": [
+    "Eldad Shrem"
+  ],
+  "conductor": "Eldad Shrem",
+  "dancers": null,
+  "lyricists": [
+    "Edna Peleg"
+  ],
+  "spokesperson": "Yitzhak Shim'oni",
+  "stageDirector": null,
+  "writers": null
+}

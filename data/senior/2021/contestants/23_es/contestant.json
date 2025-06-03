@@ -1,0 +1,45 @@
+{
+  "id": 23,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Blas Cantó",
+  "artistPeople": [
+    "Blas Cantó Moreno"
+  ],
+  "song": "Voy a quedarme",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/thV-vhOQHvQ",
+    "https://www.youtube-nocookie.com/embed/C6zG2Bj0a48",
+    "https://www.youtube-nocookie.com/embed/Eo8St0_Slac",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/9k-f0GE0gIc",
+    "https://www.youtube-nocookie.com/embed/xZt9kcR_v1M",
+    "https://www.youtube-nocookie.com/embed/Ll-sHG5C3zk"
+  ],
+  "bpm": 76,
+  "tone": "Eb major",
+  "backings": [
+    "Alba Gil",
+    "Daira Monzón",
+    "Daniel Ortega",
+    "Héctor Artiles",
+    "Irene Alman"
+  ],
+  "commentators": [
+    "Julia Varela",
+    "Tony Aguilar",
+    "Víctor Escudero"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Nieves Álvarez",
+  "stageDirector": "Dan Shipton, Marvin Dietmann",
+  "writers": [
+    "Blas Cantó",
+    "Dan Hammond",
+    "Daniel Ortega",
+    "Leroy Sánchez"
+  ]
+}

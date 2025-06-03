@@ -1,0 +1,37 @@
+{
+  "id": 12,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Mia Martini",
+  "artistPeople": [
+    "Domenica Bertè"
+  ],
+  "song": "Libera",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/AHaN8XA6qu4",
+    "https://www.youtube-nocookie.com/embed/ooau_4M2mU8",
+    "https://www.youtube-nocookie.com/embed/K-MhphkTYlM",
+    "https://www.youtube-nocookie.com/embed/fbZwmSdf9OU"
+  ],
+  "bpm": 124,
+  "tone": "A minor",
+  "backings": [
+    "Andrea Surdi",
+    "Cristina Paltrinieri",
+    "Salvatore Fabrizio"
+  ],
+  "commentators": [
+    "Silvio Noto"
+  ],
+  "composers": [
+    "Salvatore Fabrizio"
+  ],
+  "conductor": "Maurizio Fabrizio",
+  "dancers": null,
+  "lyricists": [
+    "Luigi Albertelli"
+  ],
+  "spokesperson": "Mariolina Cannuli",
+  "stageDirector": null,
+  "writers": null
+}

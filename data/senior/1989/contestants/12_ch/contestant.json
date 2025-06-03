@@ -1,0 +1,34 @@
+{
+  "id": 12,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Furbaz",
+  "artistPeople": [
+    "Gion Defuns",
+    "Giusep Quinter",
+    "Marie Louise Werth",
+    "Ursin Defuns"
+  ],
+  "song": "Viver senza tei",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/It1OltnpM-A",
+    "https://www.youtube-nocookie.com/embed/FWs2ZPXTe6U"
+  ],
+  "bpm": 113,
+  "tone": "F# major",
+  "backings": null,
+  "commentators": [
+    "Bernard Thurnheer",
+    "Ezio Guidi",
+    "Thierry Masselot"
+  ],
+  "composers": null,
+  "conductor": "Benoît Kaufman",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Michel Stocker",
+  "stageDirector": null,
+  "writers": [
+    "Marie Louise Werth"
+  ]
+}

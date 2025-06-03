@@ -1,0 +1,35 @@
+{
+  "id": 6,
+  "country": "EE",
+  "broadcaster": "ERR",
+  "artist": "Elina Born & Stig Rästa",
+  "artistPeople": [
+    "Elina Born",
+    "Raul-Stig Rästa"
+  ],
+  "song": "Goodbye to Yesterday",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Xsx_dIJOtgI",
+    "https://www.youtube-nocookie.com/embed/gSWbx3CvVUk",
+    "https://www.youtube-nocookie.com/embed/viwKuw_idZw",
+    "https://www.youtube-nocookie.com/embed/4jYNaiGsPRE",
+    "https://www.youtube-nocookie.com/embed/oJRCCn_ro9k",
+    "https://www.youtube-nocookie.com/embed/qfR0bQZhlqM",
+    "https://www.youtube-nocookie.com/embed/OSRvQizmPz4"
+  ],
+  "bpm": 138,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Tanja",
+  "stageDirector": "René Vilbre",
+  "writers": [
+    "Stig Rästa"
+  ]
+}

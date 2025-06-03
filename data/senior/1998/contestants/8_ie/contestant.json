@@ -1,0 +1,32 @@
+{
+  "id": 8,
+  "country": "IE",
+  "broadcaster": "RTÉ",
+  "artist": "Dawn",
+  "artistPeople": [
+    "Dawn Martin"
+  ],
+  "song": "Is Always Over Now?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EeOPxO3cMNk",
+    "https://www.youtube-nocookie.com/embed/LJGurkqI6O4",
+    "https://www.youtube-nocookie.com/embed/omXIHNpTEfg"
+  ],
+  "bpm": 162,
+  "tone": "D major",
+  "backings": [
+    "Paul Harrington"
+  ],
+  "commentators": [
+    "Pat Kenny"
+  ],
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Eileen Dunne",
+  "stageDirector": null,
+  "writers": [
+    "Gerry Morgan"
+  ]
+}

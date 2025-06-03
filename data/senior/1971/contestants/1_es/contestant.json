@@ -1,0 +1,39 @@
+{
+  "id": 1,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Karina",
+  "artistPeople": [
+    "María Isabel Bárbara Llaudes"
+  ],
+  "song": "En un mundo nuevo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/V_os2IZ7tUI",
+    "https://www.youtube-nocookie.com/embed/PXfPEwLmMBA",
+    "https://www.youtube-nocookie.com/embed/OIZqlw6MFRM",
+    "https://www.youtube-nocookie.com/embed/jpslPbS7bbE",
+    "https://www.youtube-nocookie.com/embed/MzgPNKSmq8w",
+    "https://www.youtube-nocookie.com/embed/JyscIJMcPxE"
+  ],
+  "bpm": 129,
+  "tone": "G major",
+  "backings": [
+    "María Dolores Arenas",
+    "María Jesús Aguirre",
+    "Mercedes Valimaña"
+  ],
+  "commentators": [
+    "Joaquín Prat"
+  ],
+  "composers": [
+    "Rafael Trabucchelli"
+  ],
+  "conductor": "Waldo de Los Rios",
+  "dancers": null,
+  "lyricists": [
+    "Tony Luz"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

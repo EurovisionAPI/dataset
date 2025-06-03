@@ -1,0 +1,17 @@
+{
+  "year": 2015,
+  "arena": "Wiener Stadthalle",
+  "city": "Vienna",
+  "country": "AT",
+  "intendedCountry": null,
+  "slogan": "Building Bridges",
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2015.png",
+  "presenters": [
+    "Mirjam Weichselbraun",
+    "Alice Tumler",
+    "Arabella Kiesbauer"
+  ],
+  "broadcasters": [
+    "Österreichischer Rundfunk (ORF)"
+  ]
+}

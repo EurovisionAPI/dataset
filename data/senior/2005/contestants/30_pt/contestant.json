@@ -1,0 +1,37 @@
+{
+  "id": 30,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "2B",
+  "artistPeople": [
+    "Luciana Abreu",
+    "Rui Alberto Martins Golias Drummond de Sousa"
+  ],
+  "song": "Amar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iQqQZpHmIR0",
+    "https://www.youtube-nocookie.com/embed/3HdiJ7Rx4wQ"
+  ],
+  "bpm": 100,
+  "tone": "Ab major",
+  "backings": [
+    "Eliana Ghione",
+    "Kelly Maiolle",
+    "Loredana Persichetti",
+    "Suzane Leigh"
+  ],
+  "commentators": [
+    "Eládio Clímaco"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Isabel Angelino",
+  "stageDirector": null,
+  "writers": [
+    "Alexandre Honrado",
+    "Ernesto Leite",
+    "José da Ponte"
+  ]
+}

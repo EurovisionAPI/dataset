@@ -1,0 +1,41 @@
+{
+  "id": 5,
+  "country": "RS",
+  "broadcaster": "RTS",
+  "artist": "Jelena Tomašević feat. Bora Dugic",
+  "artistPeople": [
+    "Jelena Tomašević"
+  ],
+  "song": "Oro",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/d3NMkyDSEb0",
+    "https://www.youtube-nocookie.com/embed/20LjbbPH0Dk",
+    "https://www.youtube-nocookie.com/embed/TR8f6LnEmkw",
+    "https://www.youtube-nocookie.com/embed/2dBKFWlHJIg",
+    "https://www.youtube-nocookie.com/embed/u4qvPAN0pXg"
+  ],
+  "bpm": 124,
+  "tone": "A minor",
+  "backings": [
+    "Aleksandar Sedlar Bogoev",
+    "Bora Dugić",
+    "Jelena Mitić",
+    "Marko Vulinović",
+    "Mirjana Nešković"
+  ],
+  "commentators": [
+    "Dragan Ilić",
+    "Mladen Popović"
+  ],
+  "composers": [
+    "Željko Joksimović"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Dejan Ivanović"
+  ],
+  "spokesperson": "Dušica Spasić",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 33,
+  "country": "AL",
+  "broadcaster": "RTSH",
+  "artist": "Adrian Lulgjuraj & Bledar Sejko",
+  "artistPeople": [
+    "Adrian Lulgjuraj",
+    "Bledar Sejko"
+  ],
+  "song": "Identitet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3u5Se-vJ6MA",
+    "https://www.youtube-nocookie.com/embed/_Pf-ZCI-UuA",
+    "https://www.youtube-nocookie.com/embed/2CXjGh1C7VA"
+  ],
+  "bpm": 105,
+  "tone": "E major",
+  "backings": [
+    "Eldi Smaja",
+    "Ergys Abdyli",
+    "Ergys Turku"
+  ],
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "composers": [
+    "Bledar Sejko"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Eda Sejko"
+  ],
+  "spokesperson": "Andri Xhahu",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": 34,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "Global.Kryner",
+  "artistPeople": [
+    "Anton Sauprügl",
+    "Christof Spörk",
+    "Edi Köhldorfer",
+    "Karl Rossmann",
+    "Sabine Stieger",
+    "Sebastian Fuchsberger"
+  ],
+  "song": "Y así",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JwglpNlPrZU",
+    "https://www.youtube-nocookie.com/embed/0HjK-SBNDuk",
+    "https://www.youtube-nocookie.com/embed/uQmUAJ9MSRE",
+    "https://www.youtube-nocookie.com/embed/NT3RE8ijToU"
+  ],
+  "bpm": 121,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "composers": [
+    "Edi Köhldorfer"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Christof Spörk"
+  ],
+  "spokesperson": "Dodo Roščić",
+  "stageDirector": null,
+  "writers": null
+}

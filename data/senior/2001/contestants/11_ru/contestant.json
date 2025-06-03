@@ -1,0 +1,34 @@
+{
+  "id": 11,
+  "country": "RU",
+  "broadcaster": "C1R",
+  "artist": "Mumiy troll",
+  "artistPeople": [
+    "Eugene 'Sdwig' Zvidionny",
+    "Ilia Lagutenko",
+    "Oleg Punguin",
+    "Yuri Tzaler"
+  ],
+  "song": "Lady Alpine Blue",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XHVhFHvEwIg",
+    "https://www.youtube-nocookie.com/embed/6bT-OPxsWsk",
+    "https://www.youtube-nocookie.com/embed/st3aoDpOnz8"
+  ],
+  "bpm": 122,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": [
+    "Alexander Anatolievich",
+    "Konstantin Mikhailov"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Larisa Verbickaya",
+  "stageDirector": null,
+  "writers": [
+    "Ilia Lagutenko"
+  ]
+}

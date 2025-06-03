@@ -1,0 +1,38 @@
+{
+  "id": 14,
+  "country": "TR",
+  "broadcaster": "TRT",
+  "artist": "Neco",
+  "artistPeople": [
+    "Nejat Özyılmazel"
+  ],
+  "song": "Hani?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sU67JnNuqSA",
+    "https://www.youtube-nocookie.com/embed/N3PrFTZDPvE",
+    "https://www.youtube-nocookie.com/embed/jztPuMI6IaE",
+    "https://www.youtube-nocookie.com/embed/h2OQ3YA3mXk"
+  ],
+  "bpm": 149,
+  "tone": "C minor",
+  "backings": [
+    "Aysel Poyraz",
+    "Didem Hekimoğlu",
+    "Olcayto Ahmet Tuğsuz",
+    "Sermin Karaali"
+  ],
+  "commentators": [
+    "Ümit Tunçağ"
+  ],
+  "composers": [
+    "Olcayto Ahmet Tuğsuz"
+  ],
+  "conductor": "Garo Mafyan",
+  "dancers": null,
+  "lyricists": [
+    "Faik Tuğsuz"
+  ],
+  "spokesperson": "Başak Doğru",
+  "stageDirector": null,
+  "writers": null
+}

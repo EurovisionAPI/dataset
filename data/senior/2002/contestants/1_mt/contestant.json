@@ -1,0 +1,39 @@
+{
+  "id": 1,
+  "country": "MT",
+  "broadcaster": "TVM",
+  "artist": "Ira Losco",
+  "artistPeople": [
+    "Ira Losco"
+  ],
+  "song": "7th Wonder",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/S4fHMmPqC80",
+    "https://www.youtube-nocookie.com/embed/h2Qsr-8WWl4",
+    "https://www.youtube-nocookie.com/embed/r2ndoMm0xnc",
+    "https://www.youtube-nocookie.com/embed/klIVZeUl0h4"
+  ],
+  "bpm": 105,
+  "tone": "D major",
+  "backings": [
+    "Airi Allvee",
+    "Dagmar Oja",
+    "Jelena Juzvik",
+    "Kaire Vilgats",
+    "Liisi Koikson"
+  ],
+  "commentators": [
+    "John Bundy"
+  ],
+  "composers": [
+    "Philip Vella"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Gerard James Borg"
+  ],
+  "spokesperson": "Yvette Portelli",
+  "stageDirector": null,
+  "writers": null
+}

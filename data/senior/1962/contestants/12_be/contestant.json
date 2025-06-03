@@ -1,0 +1,32 @@
+{
+  "id": 12,
+  "country": "BE",
+  "broadcaster": "RTB",
+  "artist": "Fud Leclerc",
+  "artistPeople": [
+    "Fernand Urbain Dominic Leclerc"
+  ],
+  "song": "Ton nom",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2we37pZJQnA",
+    "https://www.youtube-nocookie.com/embed/1gOI9dDjfqI"
+  ],
+  "bpm": 101,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Nicole Védrès",
+    "Willem Duys"
+  ],
+  "composers": [
+    "Eric Channe"
+  ],
+  "conductor": "Henri Segers",
+  "dancers": null,
+  "lyricists": [
+    "Tony Golan"
+  ],
+  "spokesperson": "Arlette Vincent",
+  "stageDirector": null,
+  "writers": null
+}

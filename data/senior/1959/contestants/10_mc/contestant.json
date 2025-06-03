@@ -1,0 +1,31 @@
+{
+  "id": 10,
+  "country": "MC",
+  "broadcaster": "TMC",
+  "artist": "Jacques Pills",
+  "artistPeople": [
+    "René Jacques Ducos"
+  ],
+  "song": "Mon ami Pierrot",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nlynzbLJV0o",
+    "https://www.youtube-nocookie.com/embed/SUWrNSqJFaw"
+  ],
+  "bpm": 143,
+  "tone": "E minor",
+  "backings": null,
+  "commentators": [
+    "Claude Darget"
+  ],
+  "composers": [
+    "Florence Veran"
+  ],
+  "conductor": "Franck Pourcel",
+  "dancers": null,
+  "lyricists": [
+    "Raymond Bravard"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

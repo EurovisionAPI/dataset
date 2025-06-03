@@ -1,0 +1,38 @@
+{
+  "id": 5,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Anne-Cathrine Herdorf",
+  "artistPeople": [
+    "Anders Tind",
+    "Anne-Cathrine Herdorf",
+    "Brian Thomsen",
+    "Carsten Kolster",
+    "Helge Engelbrecht",
+    "Peter Stub"
+  ],
+  "song": "En lille melodi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8fvRYKSTNJM",
+    "https://www.youtube-nocookie.com/embed/h5YxMiDBtog",
+    "https://www.youtube-nocookie.com/embed/HLUl8TyxGXk",
+    "https://www.youtube-nocookie.com/embed/9iwbWA8Nl4Y"
+  ],
+  "bpm": 134,
+  "tone": "F# minor",
+  "backings": null,
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "composers": [
+    "Helge Engelbrecht"
+  ],
+  "conductor": "Henrik Krogsgaard",
+  "dancers": null,
+  "lyricists": [
+    "Jacob Jonia"
+  ],
+  "spokesperson": "Bent Henius",
+  "stageDirector": null,
+  "writers": null
+}

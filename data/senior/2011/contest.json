@@ -1,0 +1,17 @@
+{
+  "year": 2011,
+  "arena": "Fortuna Düsseldorf Arena",
+  "city": "Düsseldorf",
+  "country": "DE",
+  "intendedCountry": null,
+  "slogan": "Feel Your Heart Beat!",
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2011.png",
+  "presenters": [
+    "Anke Engelke",
+    "Judith Rakers",
+    "Stefan Raab"
+  ],
+  "broadcasters": [
+    "NDR"
+  ]
+}

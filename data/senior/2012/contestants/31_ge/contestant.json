@@ -1,0 +1,39 @@
+{
+  "id": 31,
+  "country": "GE",
+  "broadcaster": "GPB",
+  "artist": "Anri Jokhadze",
+  "artistPeople": [
+    "Anri Jokhadze"
+  ],
+  "song": "I'm a Joker",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xfpKnMBjdrU",
+    "https://www.youtube-nocookie.com/embed/mD8ptv1wb2U",
+    "https://www.youtube-nocookie.com/embed/TOxVx5W-vec"
+  ],
+  "bpm": 116,
+  "tone": "Ab major",
+  "backings": [
+    "Magda Jokhadze",
+    "Nini Shermadini",
+    "Nino Jotsenidze",
+    "Veriko Turashvili"
+  ],
+  "commentators": [
+    "Temo Kvirkvelia"
+  ],
+  "composers": [
+    "Rusudan Chkhaidze"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Salome Chachua"
+  ],
+  "lyricists": [
+    "Bibi Kvachadze"
+  ],
+  "spokesperson": "Sopho Toroshelidze",
+  "stageDirector": "Lasha Oniani",
+  "writers": null
+}

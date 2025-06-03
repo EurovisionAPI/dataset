@@ -1,0 +1,30 @@
+{
+  "id": 12,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Kirsti Sparboe",
+  "artistPeople": [
+    "Kirsti Sparboe"
+  ],
+  "song": "Karusell",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-BBDNn5GHzA",
+    "https://www.youtube-nocookie.com/embed/t9xU6u71FTM",
+    "https://www.youtube-nocookie.com/embed/Wac0KYQTsjQ"
+  ],
+  "bpm": 137,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Erik Diesen"
+  ],
+  "composers": null,
+  "conductor": "Øivind Bergh",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Sverre Christophersen",
+  "stageDirector": null,
+  "writers": [
+    "Jolly Kramer-Johansen"
+  ]
+}

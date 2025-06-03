@@ -1,0 +1,37 @@
+{
+  "id": 15,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Rainy Day",
+  "artistPeople": [
+    "Frank Müller",
+    "Gerry Braukmann",
+    "Rose Rengel"
+  ],
+  "song": "Welche Farbe hat der Sonnenschein?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MgeHg45UQFg",
+    "https://www.youtube-nocookie.com/embed/ZjWaktlztN8"
+  ],
+  "bpm": 92,
+  "tone": "Eb major",
+  "backings": [
+    "Manuela Felice",
+    "Thomas Wild",
+    "Walter Zweifel"
+  ],
+  "commentators": [
+    "Bernard Thurnheer",
+    "Ezio Guidi",
+    "Serge Moisson"
+  ],
+  "composers": null,
+  "conductor": "Mario Robbiani",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Michel Stocker",
+  "stageDirector": null,
+  "writers": [
+    "Günter Loose"
+  ]
+}

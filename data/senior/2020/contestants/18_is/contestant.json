@@ -1,0 +1,30 @@
+{
+  "id": 18,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Daði & Gagnamagnið",
+  "artistPeople": [
+    "Daði Freyr Pétursson"
+  ],
+  "song": "Think About Things",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1HU7ocv3S2o",
+    "https://www.youtube-nocookie.com/embed/VFZNvj-HfBU",
+    "https://www.youtube-nocookie.com/embed/2S-l37j5Y2o",
+    "https://www.youtube-nocookie.com/embed/F5pEtZGon9I",
+    "https://www.youtube-nocookie.com/embed/17aI2WKjHcQ"
+  ],
+  "bpm": 127,
+  "tone": "Eb minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Daði Freyr Pétursson"
+  ]
+}

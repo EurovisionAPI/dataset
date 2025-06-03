@@ -1,0 +1,41 @@
+{
+  "id": 1,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Baby Lasagna",
+  "artistPeople": [
+    "Baby Lasagna"
+  ],
+  "song": "Rim Tim Tagi Dim",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YIBjarAiAVc",
+    "https://www.youtube-nocookie.com/embed/kmg8EAD-Kjw",
+    "https://www.youtube-nocookie.com/embed/6LyjyuaQggs",
+    "https://www.youtube-nocookie.com/embed/EBsgTJQFl9k",
+    "https://www.youtube-nocookie.com/embed/kv-UQmO08sc",
+    "https://www.youtube-nocookie.com/embed/bT0T6aFuZ-c",
+    "https://www.youtube-nocookie.com/embed/uA7nSlo-tQE"
+  ],
+  "bpm": 128,
+  "tone": "A major",
+  "backings": [
+    "Dino Josipović",
+    "Matija Klaj",
+    "Mihael Žipovski"
+  ],
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Luana Kličić",
+    "Sebastijan Žeželić"
+  ],
+  "lyricists": null,
+  "spokesperson": "Ivan Dorian Molnar",
+  "stageDirector": "Luka Grgić",
+  "writers": [
+    "Marko Purišić"
+  ]
+}

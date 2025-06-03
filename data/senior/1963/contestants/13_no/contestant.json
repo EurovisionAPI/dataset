@@ -1,0 +1,29 @@
+{
+  "id": 13,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Anita Thallaug",
+  "artistPeople": [
+    "Anita Thallaug"
+  ],
+  "song": "Solhverv",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0_Qkg92kBmM",
+    "https://www.youtube-nocookie.com/embed/qgeAu0KjMFw"
+  ],
+  "bpm": 137,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": [
+    "Øivind Johnsen"
+  ],
+  "composers": null,
+  "conductor": "Øivind Bergh",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Roald Øyen",
+  "stageDirector": null,
+  "writers": [
+    "Dag Kristoffersen"
+  ]
+}

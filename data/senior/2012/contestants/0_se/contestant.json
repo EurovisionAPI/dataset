@@ -1,0 +1,42 @@
+{
+  "id": 0,
+  "country": "SE",
+  "broadcaster": "SVT",
+  "artist": "Loreen",
+  "artistPeople": [
+    "Lorine Zineb Nora Talhaoui"
+  ],
+  "song": "Euphoria",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Pfo-8z86x80",
+    "https://www.youtube-nocookie.com/embed/bcnWysA9gxo",
+    "https://www.youtube-nocookie.com/embed/chK8XTtqEJI",
+    "https://www.youtube-nocookie.com/embed/GqYtlpZ-9N4",
+    "https://www.youtube-nocookie.com/embed/VkSOS2M-FQE",
+    "https://www.youtube-nocookie.com/embed/w5ft6ghLIqU",
+    "https://www.youtube-nocookie.com/embed/SkDrYYMGCNY"
+  ],
+  "bpm": 132,
+  "tone": "F# major",
+  "backings": [
+    "Britta Bergström",
+    "Johanna Beijbom",
+    "Monica Starck"
+  ],
+  "commentators": [
+    "Edward af Sillén",
+    "Gina Dirawi"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Ausben Jordan"
+  ],
+  "lyricists": null,
+  "spokesperson": "Lynda Woodruff",
+  "stageDirector": "Ambra Succi",
+  "writers": [
+    "Peter Boström",
+    "Thomas G:son"
+  ]
+}

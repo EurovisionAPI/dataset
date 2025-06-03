@@ -1,0 +1,39 @@
+{
+  "id": 36,
+  "country": "SI",
+  "broadcaster": "RTVSLO",
+  "artist": "Eva Boto",
+  "artistPeople": [
+    "Eva Boto"
+  ],
+  "song": "Verjamem",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jEHNRKnrWiU",
+    "https://www.youtube-nocookie.com/embed/9nMZx70PXIA",
+    "https://www.youtube-nocookie.com/embed/SUrkusKotaA"
+  ],
+  "bpm": 132,
+  "tone": "F major",
+  "backings": [
+    "Ana Bezjak",
+    "Katja Koren",
+    "Martina Majerle",
+    "Mateja Majerle",
+    "Sandra Feketija"
+  ],
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "composers": [
+    "Hari Mata Hari",
+    "Vladimir Graić"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Igor Pirković"
+  ],
+  "spokesperson": "Lorella Flego",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": 26,
+  "country": "NL",
+  "broadcaster": "AVROTROS",
+  "artist": "Jeangu Macrooy",
+  "artistPeople": [
+    "Jeangu Macrooy"
+  ],
+  "song": "Grow",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sMcxWB90TTY",
+    "https://www.youtube-nocookie.com/embed/Q1T96jNHjXE"
+  ],
+  "bpm": 142,
+  "tone": "C major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Jeangu Macrooy",
+    "Perquisite"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Jeangu Macrooy"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

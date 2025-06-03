@@ -1,0 +1,40 @@
+{
+  "id": 31,
+  "country": "SI",
+  "broadcaster": "RTVSLO",
+  "artist": "Ana Soklič",
+  "artistPeople": [
+    "Ana Soklič"
+  ],
+  "song": "Amen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/J9jWDxKQ50s",
+    "https://www.youtube-nocookie.com/embed/zOHwiWElR1A",
+    "https://www.youtube-nocookie.com/embed/p5LW-09r2JQ",
+    "https://www.youtube-nocookie.com/embed/iSLXIj9RBko",
+    "https://www.youtube-nocookie.com/embed/kuILFBFvhMo"
+  ],
+  "bpm": 163,
+  "tone": "B major",
+  "backings": [
+    "Karin Zemljič"
+  ],
+  "commentators": [
+    "Mojca Mavec"
+  ],
+  "composers": [
+    "Ana Soklič",
+    "Bojan Simončič",
+    "Žiga Pirnat"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Ana Soklič",
+    "Charlie Mason",
+    "Žiga Pirnat"
+  ],
+  "spokesperson": "Lorella Flego",
+  "stageDirector": null,
+  "writers": null
+}

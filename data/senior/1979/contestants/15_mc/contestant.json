@@ -1,0 +1,37 @@
+{
+  "id": 15,
+  "country": "MC",
+  "broadcaster": "TMC",
+  "artist": "Laurent Vaguener",
+  "artistPeople": [
+    "Jean Baudlot"
+  ],
+  "song": "Notre vie c'est la musique",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/53OdfcR1eVo",
+    "https://www.youtube-nocookie.com/embed/cduINUBZF3M",
+    "https://www.youtube-nocookie.com/embed/VB5rqAhNmZ8"
+  ],
+  "bpm": 145,
+  "tone": "A minor",
+  "backings": [
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "commentators": [
+    "Marc Menant"
+  ],
+  "composers": [
+    "Jean Baudlot",
+    "Paul de Senneville"
+  ],
+  "conductor": "Gérard Salesse",
+  "dancers": null,
+  "lyricists": [
+    "Didier Barbelivien",
+    "Jean Albertini"
+  ],
+  "spokesperson": "Carole Chabrier",
+  "stageDirector": null,
+  "writers": null
+}

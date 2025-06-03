@@ -1,0 +1,36 @@
+{
+  "id": 30,
+  "country": "MD",
+  "broadcaster": "TRM",
+  "artist": "Geta Burlacu",
+  "artistPeople": [
+    "Georgeta Burlacu-Povorozniuc"
+  ],
+  "song": "A Century Of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nnXup0BaHhs",
+    "https://www.youtube-nocookie.com/embed/JCz4UlOWMPk",
+    "https://www.youtube-nocookie.com/embed/DFRqIXRrR90",
+    "https://www.youtube-nocookie.com/embed/osSmui1NZY4"
+  ],
+  "bpm": 140,
+  "tone": "D major",
+  "backings": [
+    "Petru Haruta"
+  ],
+  "commentators": [
+    "Lucia Danu",
+    "Vitalie Rotaru"
+  ],
+  "composers": [
+    "Oleg Baraliuc"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Viorica Demici"
+  ],
+  "spokesperson": "Vitalie Rotaru",
+  "stageDirector": null,
+  "writers": null
+}

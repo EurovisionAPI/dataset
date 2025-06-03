@@ -1,0 +1,36 @@
+{
+  "id": 10,
+  "country": "LU",
+  "broadcaster": "CLT",
+  "artist": "Michèle Torr",
+  "artistPeople": [
+    "Michèle Torr"
+  ],
+  "song": "Ce soir je t'attendais",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4syW1DjPiOA",
+    "https://www.youtube-nocookie.com/embed/r1HPR9OJBWc",
+    "https://www.youtube-nocookie.com/embed/MdCBL7RI8C4",
+    "https://www.youtube-nocookie.com/embed/bRUcJvd-iwE",
+    "https://www.youtube-nocookie.com/embed/USfgmJKsFIU",
+    "https://www.youtube-nocookie.com/embed/IzYADyH45m8",
+    "https://www.youtube-nocookie.com/embed/q2DXYgqgvKQ"
+  ],
+  "bpm": 166,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "composers": [
+    "Bernard Kesslair"
+  ],
+  "conductor": "Jean Roderes",
+  "dancers": null,
+  "lyricists": [
+    "Jacques Chaumelle"
+  ],
+  "spokesperson": "Camillo Felgen",
+  "stageDirector": null,
+  "writers": null
+}

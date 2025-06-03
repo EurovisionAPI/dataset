@@ -1,0 +1,37 @@
+{
+  "id": 11,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Patrick Juvet",
+  "artistPeople": [
+    "Patrick Juvet"
+  ],
+  "song": "Je vais me marier, Marie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kSY9_l3OhDc",
+    "https://www.youtube-nocookie.com/embed/MXdtkDZoQRo",
+    "https://www.youtube-nocookie.com/embed/DyBHXSrXbcQ"
+  ],
+  "bpm": 178,
+  "tone": "F major",
+  "backings": [
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "composers": [
+    "Patrick Juvet"
+  ],
+  "conductor": "Hervé Roy",
+  "dancers": null,
+  "lyricists": [
+    "Pierre Delanoë"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

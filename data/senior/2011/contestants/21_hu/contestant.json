@@ -1,0 +1,42 @@
+{
+  "id": 21,
+  "country": "HU",
+  "broadcaster": "MTV",
+  "artist": "Kati Wolf",
+  "artistPeople": [
+    "Katalin Wolf"
+  ],
+  "song": "What About My Dreams?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IuGUz1ExflY",
+    "https://www.youtube-nocookie.com/embed/Xk6yQxo7CpQ",
+    "https://www.youtube-nocookie.com/embed/Wy_oB_FYd7s",
+    "https://www.youtube-nocookie.com/embed/WwQZvBGeBZo",
+    "https://www.youtube-nocookie.com/embed/taGA8hYUq-Q"
+  ],
+  "bpm": 127,
+  "tone": "G major",
+  "backings": [
+    "Edit Jármai",
+    "István Makár",
+    "Rita Ambrus",
+    "Zsolt Ernő Kiss",
+    "Zsolt Szentirmai"
+  ],
+  "commentators": [
+    "Gábor Gundel Takács"
+  ],
+  "composers": [
+    "Gergő Rácz",
+    "Viktor Rakonczai"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Johnny K. Palmer",
+    "Péter Geszti"
+  ],
+  "spokesperson": "Éva Novodomszky",
+  "stageDirector": null,
+  "writers": null
+}

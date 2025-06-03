@@ -1,0 +1,46 @@
+{
+  "id": 24,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Saara Aalto",
+  "artistPeople": [
+    "Saara Sofia Aalto"
+  ],
+  "song": "Monsters",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hdjiuCUUpPc",
+    "https://www.youtube-nocookie.com/embed/syjrB5lVIQI",
+    "https://www.youtube-nocookie.com/embed/W3IyQI1wEwU",
+    "https://www.youtube-nocookie.com/embed/Gq4eTM7VePM",
+    "https://www.youtube-nocookie.com/embed/0vmt9nrWHYQ",
+    "https://www.youtube-nocookie.com/embed/anAYXsGi3XA",
+    "https://www.youtube-nocookie.com/embed/jSZ_gU112lM"
+  ],
+  "bpm": 122,
+  "tone": "G major",
+  "backings": [
+    "Heli Lyytikäinen",
+    "Teemu Roivainen",
+    "Tuuli Ikonen"
+  ],
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Mikko Silvennoinen"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Kane Horn",
+    "Yves Cueni"
+  ],
+  "lyricists": null,
+  "spokesperson": "Anna Abreu",
+  "stageDirector": "Brian Friedman",
+  "writers": [
+    "Joy Deb",
+    "Ki Fitzgerald",
+    "Linnea Deb",
+    "Saara Aalto"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 15,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Six4One",
+  "artistPeople": [
+    "Björn Helge Andreas Lundstedt",
+    "Claudia D'Addio",
+    "Keith Camilleri",
+    "Liel Colette",
+    "Marco Matias",
+    "Tinka Milinović"
+  ],
+  "song": "If We All Give A Little",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eSkQmSug55g",
+    "https://www.youtube-nocookie.com/embed/5tmYx5SNX4U"
+  ],
+  "bpm": 162,
+  "tone": "B minor",
+  "backings": null,
+  "commentators": [
+    "Alain Morisod",
+    "Claudio Lazzarino",
+    "Jean-Marc Richard",
+    "Sandra Studer",
+    "Sandy Altermatt"
+  ],
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "spokesperson": "Jubaira Bachmann",
+  "stageDirector": null,
+  "writers": null
+}

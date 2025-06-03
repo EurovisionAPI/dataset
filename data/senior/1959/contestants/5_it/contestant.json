@@ -1,0 +1,32 @@
+{
+  "id": 5,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Domenico Modugno",
+  "artistPeople": [
+    "Domenico Modugno"
+  ],
+  "song": "Piove",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/96gc_8JL15c",
+    "https://www.youtube-nocookie.com/embed/7VxXa2adUUI",
+    "https://www.youtube-nocookie.com/embed/J6xzVGrlHik"
+  ],
+  "bpm": 143,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Bianca Maria Piccinino"
+  ],
+  "composers": [
+    "Domenico Modugno"
+  ],
+  "conductor": "William Galassini",
+  "dancers": null,
+  "lyricists": [
+    "Dino Verde"
+  ],
+  "spokesperson": "Enzo Tortora",
+  "stageDirector": null,
+  "writers": null
+}

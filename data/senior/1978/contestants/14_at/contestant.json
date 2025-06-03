@@ -1,0 +1,38 @@
+{
+  "id": 14,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "Springtime",
+  "artistPeople": [
+    "Erwin Broswimmer",
+    "Gerhard Markel",
+    "Norbert Niedermayer",
+    "Walter Markel"
+  ],
+  "song": "Mrs. Caroline Robinson",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vo3NxHycwqU",
+    "https://www.youtube-nocookie.com/embed/-Y8Ypd4B6zI",
+    "https://www.youtube-nocookie.com/embed/JPel7kCCxmc"
+  ],
+  "bpm": 85,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "composers": [
+    "Gerhard Markel",
+    "Walter Markel"
+  ],
+  "conductor": "Richard Österreicher",
+  "dancers": null,
+  "lyricists": [
+    "Gerhard Markel",
+    "Norbert Niedermayer",
+    "Walter Markel"
+  ],
+  "spokesperson": "Jenny Pippal",
+  "stageDirector": null,
+  "writers": null
+}

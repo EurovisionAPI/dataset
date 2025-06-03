@@ -1,0 +1,40 @@
+{
+  "id": 40,
+  "country": "LV",
+  "broadcaster": "LTV",
+  "artist": "Triana Park",
+  "artistPeople": null,
+  "song": "Line",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Vxos6ceOrRA",
+    "https://www.youtube-nocookie.com/embed/QI3KmuYJeZg",
+    "https://www.youtube-nocookie.com/embed/qKNpgmTMZnA",
+    "https://www.youtube-nocookie.com/embed/mr8hDr4WS9s",
+    "https://www.youtube-nocookie.com/embed/VzdlfWvLvGA",
+    "https://www.youtube-nocookie.com/embed/bUX74YzuL_A",
+    "https://www.youtube-nocookie.com/embed/Gtt2mgAfv-s"
+  ],
+  "bpm": 126,
+  "tone": "E major",
+  "backings": [
+    "Antra Kūmiņa",
+    "Katrīna Anna Vīgante"
+  ],
+  "commentators": [
+    "Toms Grēviņš",
+    "Valters Frīdenbergs"
+  ],
+  "composers": [
+    "Agnese Rakovska",
+    "Kristaps Ērglis",
+    "Kristians Rakovskis"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Agnese Rakovska"
+  ],
+  "spokesperson": "Aminata",
+  "stageDirector": null,
+  "writers": null
+}

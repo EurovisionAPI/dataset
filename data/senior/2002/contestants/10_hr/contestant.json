@@ -1,0 +1,37 @@
+{
+  "id": 10,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Vesna Pisarović",
+  "artistPeople": [
+    "Vesna Pisarović"
+  ],
+  "song": "Everything I Want",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ck7ql_nJ02g",
+    "https://www.youtube-nocookie.com/embed/DIfrXlMNWIY",
+    "https://www.youtube-nocookie.com/embed/16KZfArbdPo",
+    "https://www.youtube-nocookie.com/embed/inhKavEv4Nw",
+    "https://www.youtube-nocookie.com/embed/HQebBHbbdd4"
+  ],
+  "bpm": 100,
+  "tone": "D minor",
+  "backings": [
+    "Daria Hodnik",
+    "Dragan Brnas-Fudo",
+    "Ivana Čabraja",
+    "Vladimir Pavelić-Bubi"
+  ],
+  "commentators": [
+    "Ante Batinović"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Duško Ćurlić",
+  "stageDirector": null,
+  "writers": [
+    "Milana Vlaović"
+  ]
+}

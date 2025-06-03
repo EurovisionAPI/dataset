@@ -1,0 +1,30 @@
+{
+  "id": 37,
+  "country": "MC",
+  "broadcaster": "TMC",
+  "artist": "Lise Darly",
+  "artistPeople": [
+    "Elise Garnier"
+  ],
+  "song": "Tout de moi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DjqkIf3lQAk",
+    "https://www.youtube-nocookie.com/embed/7qnOZiJovzQ"
+  ],
+  "bpm": 126,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Bernard Montiel",
+    "Génie Godula"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Anne Allegrini",
+  "stageDirector": null,
+  "writers": [
+    "Philippe Bosco"
+  ]
+}

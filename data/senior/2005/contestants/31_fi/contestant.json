@@ -1,0 +1,40 @@
+{
+  "id": 31,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Geir Rönning",
+  "artistPeople": [
+    "Geir Rønning"
+  ],
+  "song": "Why",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/09TuHCqg5t4",
+    "https://www.youtube-nocookie.com/embed/_5s0GEJuUNw",
+    "https://www.youtube-nocookie.com/embed/dgsZNoxcmoo"
+  ],
+  "bpm": 150,
+  "tone": "Ab minor",
+  "backings": [
+    "Charles Salter",
+    "Hanna-Riikka Siitonen",
+    "Mika Turunen",
+    "Nina Tapio",
+    "Tomas Höglund"
+  ],
+  "commentators": [
+    "Asko Murtomäki",
+    "Heikki Paasonen",
+    "Jaana Pelkonen"
+  ],
+  "composers": [
+    "Mika Toivanen"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Steven Stewart"
+  ],
+  "spokesperson": "Jari Sillanpää",
+  "stageDirector": null,
+  "writers": null
+}

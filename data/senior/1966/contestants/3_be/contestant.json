@@ -1,0 +1,33 @@
+{
+  "id": 3,
+  "country": "BE",
+  "broadcaster": "RTB",
+  "artist": "Tonia",
+  "artistPeople": [
+    "Arlette Antoine Dominicus"
+  ],
+  "song": "Un peu de poivre, un peu de sel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_eO73QFd5OY",
+    "https://www.youtube-nocookie.com/embed/pS7yrMW--oY",
+    "https://www.youtube-nocookie.com/embed/uzgbP5tEICw"
+  ],
+  "bpm": 162,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Herman Verelst",
+    "Paule Herreman"
+  ],
+  "composers": [
+    "Paul Quintens"
+  ],
+  "conductor": "Jean Roderes",
+  "dancers": null,
+  "lyricists": [
+    "Phil van Cauwenbergh"
+  ],
+  "spokesperson": "André Hagon",
+  "stageDirector": null,
+  "writers": null
+}

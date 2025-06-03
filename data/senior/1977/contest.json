@@ -1,0 +1,15 @@
+{
+  "year": 1977,
+  "arena": "Wembley Conference Centre",
+  "city": "London",
+  "country": "GB",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1977.png",
+  "presenters": [
+    "Angela Rippon"
+  ],
+  "broadcasters": [
+    "BBC"
+  ]
+}

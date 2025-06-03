@@ -1,0 +1,48 @@
+{
+  "id": 3,
+  "country": "BG",
+  "broadcaster": "BNT",
+  "artist": "Poli Genova",
+  "artistPeople": [
+    "Poli Plamenova Genova (Поли Пламенова Генова)"
+  ],
+  "song": "If Love Was a Crime",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PQqUTigWKHY",
+    "https://www.youtube-nocookie.com/embed/yKsNfccUTuk",
+    "https://www.youtube-nocookie.com/embed/OeZhebdch2M",
+    "https://www.youtube-nocookie.com/embed/bziyVpa_N30",
+    "https://www.youtube-nocookie.com/embed/bkhCpXXUNuo",
+    "https://www.youtube-nocookie.com/embed/2koVAEXd88o",
+    "https://www.youtube-nocookie.com/embed/E1z_nicyyU8"
+  ],
+  "bpm": 110,
+  "tone": "C major",
+  "backings": [
+    "Bobo",
+    "Cesár Sampson",
+    "Desislava Hristova",
+    "Elisabeth Nesheva",
+    "Yana Baleva"
+  ],
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "composers": [
+    "Borislav Milanov",
+    "Joacim Persson",
+    "Sebastian Arman"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Borislav Milanov",
+    "Joacim Persson",
+    "Poli Genova",
+    "Sebastian Arman"
+  ],
+  "spokesperson": "Anna Angelova",
+  "stageDirector": "Ambra Succi",
+  "writers": null
+}

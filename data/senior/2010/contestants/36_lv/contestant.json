@@ -1,0 +1,37 @@
+{
+  "id": 36,
+  "country": "LV",
+  "broadcaster": "LTV",
+  "artist": "Aisha",
+  "artistPeople": [
+    "Aija Andrejeva"
+  ],
+  "song": "What For?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oRjtqVkj5w0",
+    "https://www.youtube-nocookie.com/embed/uI_cAJ8e9AE",
+    "https://www.youtube-nocookie.com/embed/eUeZlgeUmp0"
+  ],
+  "bpm": 155,
+  "tone": "G minor",
+  "backings": [
+    "Katrīna Cīrule",
+    "Lāsma Ivansone",
+    "Madara Kačoreka",
+    "Raili Orrava"
+  ],
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "composers": [
+    "Jānis Lūsēns"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Guntars Račs"
+  ],
+  "spokesperson": "Kārlis Būmeisters",
+  "stageDirector": null,
+  "writers": null
+}

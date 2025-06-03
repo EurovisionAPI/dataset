@@ -1,0 +1,36 @@
+{
+  "id": 9,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Marianna",
+  "artistPeople": [
+    "Maria-Anastasia Efstratiou"
+  ],
+  "song": "To thiko sou asteri",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/w0x1EJSPZIs",
+    "https://www.youtube-nocookie.com/embed/a59-vs17lVA",
+    "https://www.youtube-nocookie.com/embed/gt5pX98eyak",
+    "https://www.youtube-nocookie.com/embed/XcBMUnhrvYY"
+  ],
+  "bpm": 127,
+  "tone": "C major",
+  "backings": [
+    "Filippos Tsemperoulis"
+  ],
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "composers": [
+    "Marianna Efstratiou",
+    "Yannis Kyris"
+  ],
+  "conductor": "Giorgos Niachros",
+  "dancers": null,
+  "lyricists": [
+    "Villy Sanianu"
+  ],
+  "spokesperson": "Fotini Giannoulatou",
+  "stageDirector": null,
+  "writers": null
+}

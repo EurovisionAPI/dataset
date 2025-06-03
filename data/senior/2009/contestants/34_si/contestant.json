@@ -1,0 +1,38 @@
+{
+  "id": 34,
+  "country": "SI",
+  "broadcaster": "RTVSLO",
+  "artist": "Quartissimo feat. Martina",
+  "artistPeople": [
+    "Luke Dukarić",
+    "Martina Majerle",
+    "Matjaž Bogataj",
+    "Samo Dervišić",
+    "Žiga Cerar"
+  ],
+  "song": "Love Symphony",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zql3IGp4zO4",
+    "https://www.youtube-nocookie.com/embed/afPh1slPAsc",
+    "https://www.youtube-nocookie.com/embed/PGmPEi-PCD4",
+    "https://www.youtube-nocookie.com/embed/UgDppbQpb-c"
+  ],
+  "bpm": 132,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "composers": [
+    "Aleksandar Valenčić",
+    "Andrej Babić"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Andrej Babić"
+  ],
+  "spokesperson": "Peter Poles",
+  "stageDirector": "Miha Alujevič",
+  "writers": null
+}

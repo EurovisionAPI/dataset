@@ -1,0 +1,33 @@
+{
+  "id": 4,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Stefan Raab",
+  "artistPeople": [
+    "Stefan Konrad Raab"
+  ],
+  "song": "Wadde hadde dudde da?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4MAFR3g4nvA",
+    "https://www.youtube-nocookie.com/embed/XEZH-riVirA",
+    "https://www.youtube-nocookie.com/embed/rYamOfnx0GQ",
+    "https://www.youtube-nocookie.com/embed/NBcwb9BPcQA"
+  ],
+  "bpm": 118,
+  "tone": "F major",
+  "backings": [
+    "Herb Jösch"
+  ],
+  "commentators": [
+    "Peter Urban"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Axel Bulthaupt",
+  "stageDirector": null,
+  "writers": [
+    "Stefan Raab"
+  ]
+}

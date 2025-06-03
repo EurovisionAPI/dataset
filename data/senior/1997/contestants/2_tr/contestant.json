@@ -1,0 +1,38 @@
+{
+  "id": 2,
+  "country": "TR",
+  "broadcaster": "TRT",
+  "artist": "Şebnem Paker & Etnic",
+  "artistPeople": [
+    "Ahmet Koç",
+    "Ali Koç",
+    "Ercan Irmak",
+    "Eylem Pelit",
+    "Şebnem Paker",
+    "Süleyman Alnıtemiz"
+  ],
+  "song": "Dinle",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/m5J6-bCMz3Y",
+    "https://www.youtube-nocookie.com/embed/JF3Bqthmkgk",
+    "https://www.youtube-nocookie.com/embed/uzog3kiQ_n4",
+    "https://www.youtube-nocookie.com/embed/OJONlYr9Vd8"
+  ],
+  "bpm": 102,
+  "tone": "C minor",
+  "backings": null,
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "composers": [
+    "Levent Çoker"
+  ],
+  "conductor": "Levent Çoker",
+  "dancers": null,
+  "lyricists": [
+    "Mehtap Alnıtemiz"
+  ],
+  "spokesperson": "Ömer Önder",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,17 @@
+{
+  "year": 2017,
+  "arena": "International Exhibition Centre",
+  "city": "Kyiv",
+  "country": "UA",
+  "intendedCountry": null,
+  "slogan": "Celebrate Diversity",
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2017.png",
+  "presenters": [
+    "Oleksandr Skichko",
+    "Volodymyr Ostapchuk",
+    "Timur Miroshnychenko"
+  ],
+  "broadcasters": [
+    "National Public Broadcasting Company of Ukraine (UA:PBC)"
+  ]
+}

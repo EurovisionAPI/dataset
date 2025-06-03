@@ -1,0 +1,36 @@
+{
+  "id": 16,
+  "country": "DE",
+  "broadcaster": "NDR",
+  "artist": "Ben Dolic",
+  "artistPeople": [
+    "Benjamin Dolič"
+  ],
+  "song": "Violent Thing",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hAobDQ9GbT4",
+    "https://www.youtube-nocookie.com/embed/Ea82FK__m2Y",
+    "https://www.youtube-nocookie.com/embed/ALL02J1ffag"
+  ],
+  "bpm": 120,
+  "tone": "C# minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Borislav Milanov",
+    "Connor Martin",
+    "Dag Lundberg",
+    "Jimmy Thorén",
+    "Peter Saint James"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Borislav Milanov",
+    "Dag Lundberg",
+    "Peter Saint James"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

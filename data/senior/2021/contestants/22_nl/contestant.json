@@ -1,0 +1,43 @@
+{
+  "id": 22,
+  "country": "NL",
+  "broadcaster": "AVROTROS",
+  "artist": "Jeangu Macrooy",
+  "artistPeople": [
+    "Jeangu Macrooy"
+  ],
+  "song": "Birth Of A New Age",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/o3Da5cr2fTs",
+    "https://www.youtube-nocookie.com/embed/y6ZJbSAudxk",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/p4Fag4yajxk",
+    "https://www.youtube-nocookie.com/embed/osE3fnQ5LkA",
+    "https://www.youtube-nocookie.com/embed/Md6DAg2P1jc",
+    "https://www.youtube-nocookie.com/embed/1ABcmIAT_Ec"
+  ],
+  "bpm": 95,
+  "tone": "Bb major",
+  "backings": [
+    "Milaisa Breeveld",
+    "Xillan Macrooy"
+  ],
+  "commentators": [
+    "Cornald Maas",
+    "Sander Lantinga"
+  ],
+  "composers": [
+    "Jeangu Macrooy",
+    "Pieter Perquin"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Gil Gomes Leal"
+  ],
+  "lyricists": [
+    "Jeangu Macrooy"
+  ],
+  "spokesperson": "Romy Monteiro",
+  "stageDirector": "Hans Pannecoucke",
+  "writers": null
+}

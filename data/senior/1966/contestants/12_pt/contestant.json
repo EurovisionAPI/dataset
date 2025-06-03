@@ -1,0 +1,31 @@
+{
+  "id": 12,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Madalena Iglésias",
+  "artistPeople": [
+    "Madalena Iglésias Do Vale"
+  ],
+  "song": "Ele e ela",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Gkm1C6PdnJc",
+    "https://www.youtube-nocookie.com/embed/mkfhbMDRY4U",
+    "https://www.youtube-nocookie.com/embed/3yj_7Pux8W4",
+    "https://www.youtube-nocookie.com/embed/dKyuwwNm8lc"
+  ],
+  "bpm": 74,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Henrique Mendes"
+  ],
+  "composers": null,
+  "conductor": "Jorge Costa Pinto",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Maria Manuela Furtado",
+  "stageDirector": null,
+  "writers": [
+    "Carlos Canelhas"
+  ]
+}

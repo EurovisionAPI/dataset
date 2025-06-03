@@ -1,0 +1,40 @@
+{
+  "id": 14,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Les Humphries Singers",
+  "artistPeople": [
+    "David O'Brien",
+    "Helga 'Peggy' Evers",
+    "James Bilsbury",
+    "John Lawton",
+    "Judy Archer",
+    "Jürgen Drews"
+  ],
+  "song": "Sing, Sang, Song",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qxGSQRo1eCY",
+    "https://www.youtube-nocookie.com/embed/rD_HyLxGFqc",
+    "https://www.youtube-nocookie.com/embed/aVJNfF_gy7o",
+    "https://www.youtube-nocookie.com/embed/6Sp56VDINic",
+    "https://www.youtube-nocookie.com/embed/XMShFWycgjw",
+    "https://www.youtube-nocookie.com/embed/Uq-geEsArMg"
+  ],
+  "bpm": 164,
+  "tone": "Ab major",
+  "backings": null,
+  "commentators": [
+    "Werner Veigel"
+  ],
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Les Humphries",
+  "dancers": null,
+  "lyricists": [
+    "Kurt Hertha"
+  ],
+  "spokesperson": "Max Schautzer",
+  "stageDirector": null,
+  "writers": null
+}

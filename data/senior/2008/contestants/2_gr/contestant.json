@@ -1,0 +1,43 @@
+{
+  "id": 2,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Kalomira",
+  "artistPeople": [
+    "Maria Kalomira Carol Sarantis (Μαρία Καλομοίρα Κάρολ Σαράντη)"
+  ],
+  "song": "Secret Combination",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iK2XJl8FE_g",
+    "https://www.youtube-nocookie.com/embed/4T44asjIbmg",
+    "https://www.youtube-nocookie.com/embed/7MsktHJomBk",
+    "https://www.youtube-nocookie.com/embed/WDhc9iqYgpM",
+    "https://www.youtube-nocookie.com/embed/XL_sQty2IMA",
+    "https://www.youtube-nocookie.com/embed/rJTbIY14FlI"
+  ],
+  "bpm": 111,
+  "tone": "F minor",
+  "backings": [
+    "Nikos Papadimakis",
+    "Victoria Halkiti"
+  ],
+  "commentators": [
+    "Betty Maggira",
+    "Mathildi Maggira"
+  ],
+  "composers": [
+    "Konstantinos Pantzis"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Alain Riviero Rodriguez",
+    "Julian Bulku",
+    "Nektarios Georgiadis"
+  ],
+  "lyricists": [
+    "Poseidon Giannopoulos"
+  ],
+  "spokesperson": "Alexis Kostalas",
+  "stageDirector": "Kostas Kapetanidis",
+  "writers": null
+}

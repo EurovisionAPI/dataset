@@ -1,0 +1,37 @@
+{
+  "id": 9,
+  "country": "DE",
+  "broadcaster": "NDR",
+  "artist": "Lena",
+  "artistPeople": [
+    "Lena Johanna Therese Meyer-Landrut"
+  ],
+  "song": "Taken By A Stranger",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KqZprvpWlcE",
+    "https://www.youtube-nocookie.com/embed/zoRPuk756qU",
+    "https://www.youtube-nocookie.com/embed/MaNMer100rY",
+    "https://www.youtube-nocookie.com/embed/QhCXcqHPJfg"
+  ],
+  "bpm": 162,
+  "tone": "C minor",
+  "backings": [
+    "Avelina Princess Boateng",
+    "Georgina Phelp",
+    "Nikeata Thompson"
+  ],
+  "commentators": [
+    "Peter Urban"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ina Müller",
+  "stageDirector": null,
+  "writers": [
+    "Gus Seyffert",
+    "Monica Birkenes",
+    "Nicole Morier"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 39,
+  "country": "MD",
+  "broadcaster": "TRM",
+  "artist": "Lidia Isac",
+  "artistPeople": [
+    "Lidia Isac"
+  ],
+  "song": "Falling Stars",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LlhV-E6leTI",
+    "https://www.youtube-nocookie.com/embed/wXcDKy97BHk",
+    "https://www.youtube-nocookie.com/embed/1o4yNoXLcuI",
+    "https://www.youtube-nocookie.com/embed/YXmYHiHfoy0",
+    "https://www.youtube-nocookie.com/embed/9U7vma7QC4g",
+    "https://www.youtube-nocookie.com/embed/CoywHrxRST4"
+  ],
+  "bpm": 126,
+  "tone": "Ab major",
+  "backings": [
+    "Ellen Berg Tollbom",
+    "Gabriel Alares"
+  ],
+  "commentators": [
+    "Gloria Gorceag"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Iuri Rîbac"
+  ],
+  "lyricists": null,
+  "spokesperson": "Olivia Furtună",
+  "stageDirector": "Maru Petrova",
+  "writers": [
+    "Ellen Berg",
+    "Gabriel Alares",
+    "Leonid Gutkin",
+    "Sebastian Lestapier"
+  ]
+}

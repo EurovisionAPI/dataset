@@ -1,0 +1,33 @@
+{
+  "id": 0,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Salvador Sobral",
+  "artistPeople": [
+    "Salvador Vilar Braamcamp Sobral"
+  ],
+  "song": "Amar pelos dois",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Qotooj7ODCM",
+    "https://www.youtube-nocookie.com/embed/tkM9HJP9Og8",
+    "https://www.youtube-nocookie.com/embed/z5VUti3kVIo",
+    "https://www.youtube-nocookie.com/embed/0td62XxnjBk",
+    "https://www.youtube-nocookie.com/embed/dlqdpYDDGFA"
+  ],
+  "bpm": 172,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "José Carlos Malato",
+    "Nuno Galopim"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Filomena Cautela",
+  "stageDirector": "Luísa Sobral",
+  "writers": [
+    "Luísa Sobral"
+  ]
+}

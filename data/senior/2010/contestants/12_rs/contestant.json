@@ -1,0 +1,38 @@
+{
+  "id": 12,
+  "country": "RS",
+  "broadcaster": "RTS",
+  "artist": "Milan Stanković",
+  "artistPeople": [
+    "Milan Stanković"
+  ],
+  "song": "Ovo Je Balkan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TBwWB3kKd6o",
+    "https://www.youtube-nocookie.com/embed/4xKeYFkB9Pw"
+  ],
+  "bpm": 105,
+  "tone": "G minor",
+  "backings": [
+    "Saška Janković",
+    "Zorica Brkić"
+  ],
+  "commentators": [
+    "Dragan Ilić",
+    "Duška Vučinić-Lučić"
+  ],
+  "composers": [
+    "Goran Bregović"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Aleksandar Jelenković",
+    "Marko Stojiljković"
+  ],
+  "lyricists": [
+    "Marina Tucaković"
+  ],
+  "spokesperson": "Maja Nikolić",
+  "stageDirector": "Gorčin Stojanović",
+  "writers": null
+}

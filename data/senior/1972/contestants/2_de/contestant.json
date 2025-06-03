@@ -1,0 +1,33 @@
+{
+  "id": 2,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Mary Roos",
+  "artistPeople": [
+    "Marianne Rosemarie Schwab"
+  ],
+  "song": "Nur die Liebe läßt uns leben",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bMLx7Isyfvc",
+    "https://www.youtube-nocookie.com/embed/W2x3ca5eNLA",
+    "https://www.youtube-nocookie.com/embed/noXV2-Og_w8",
+    "https://www.youtube-nocookie.com/embed/RXNn_tP-_1U"
+  ],
+  "bpm": 99,
+  "tone": "E major",
+  "backings": null,
+  "commentators": [
+    "Hanns Verres"
+  ],
+  "composers": [
+    "Joachim Heider"
+  ],
+  "conductor": "Paul Kuhn",
+  "dancers": null,
+  "lyricists": [
+    "Joachim Relin"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

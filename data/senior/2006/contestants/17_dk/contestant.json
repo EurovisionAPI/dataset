@@ -1,0 +1,36 @@
+{
+  "id": 17,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Sidsel Ben Semmane",
+  "artistPeople": [
+    "Sidsel Ben Semmane"
+  ],
+  "song": "Twist Of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7lvegAK4vOA",
+    "https://www.youtube-nocookie.com/embed/3QlWwDAdFpE"
+  ],
+  "bpm": 156,
+  "tone": "A major",
+  "backings": [
+    "Christina Boelskifte",
+    "Daniel 'Sonic' Rojas",
+    "Mynte Lagoni",
+    "Nini Bagger",
+    "Susanne Palsbøl"
+  ],
+  "commentators": [
+    "Adam Duvå Hall",
+    "Mads Vangsø"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Jørgen de Mylius",
+  "stageDirector": "Birgitte Næss-Schmidt",
+  "writers": [
+    "Niels Drevsholt"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 5,
+  "country": "BE",
+  "broadcaster": "RTBF",
+  "artist": "Mélanie Cohl",
+  "artistPeople": [
+    "Mélanie Picron"
+  ],
+  "song": "Dis oui",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/A_GlgQ2_TP8",
+    "https://www.youtube-nocookie.com/embed/bF5_5Rn0dB0",
+    "https://www.youtube-nocookie.com/embed/oCKjIZnYsLM"
+  ],
+  "bpm": 95,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Pierre Hautier"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Marie-Hélène Vanderborght",
+  "stageDirector": null,
+  "writers": [
+    "Philippe Swan"
+  ]
+}

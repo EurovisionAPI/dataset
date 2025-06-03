@@ -1,0 +1,53 @@
+{
+  "id": 29,
+  "country": "CZ",
+  "broadcaster": "ČT",
+  "artist": "Adonxs",
+  "artistPeople": [
+    "Adam Pavlovčin"
+  ],
+  "song": "Kiss Kiss Goodbye",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hdxna1DC7yo",
+    "https://www.youtube-nocookie.com/embed/Hm8CIICKAJU",
+    "https://www.youtube-nocookie.com/embed/7IOllqo6p70",
+    "https://www.youtube-nocookie.com/embed/18IUIkr_FzU",
+    "https://www.youtube-nocookie.com/embed/nJr7xWs_8OQ",
+    "https://www.youtube-nocookie.com/embed/grKKbDjUzWI",
+    "https://www.youtube-nocookie.com/embed/nJp99X4hBUs"
+  ],
+  "bpm": 186,
+  "tone": "A minor",
+  "backings": [
+    "Ben Moon"
+  ],
+  "commentators": [
+    "Aiko",
+    "Ondřej Cikán"
+  ],
+  "composers": [
+    "Adam Pavlovčin",
+    "Adriano Lopes da Silva",
+    "Geargo Masters-Clark",
+    "Inés Coulon",
+    "Lorenzo Calvo",
+    "Michaela Charvátová",
+    "Ronald Janeček"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Fanda Čech",
+    "Michal Černý",
+    "Mirek Košík",
+    "Shaquille Lloyd Brush"
+  ],
+  "lyricists": [
+    "Adam Pavlovčin",
+    "Adriano Lopes da Silva",
+    "Inés Coulon",
+    "Michaela Charvátová"
+  ],
+  "spokesperson": "Radka Rosická",
+  "stageDirector": "Matyáš Vorda",
+  "writers": null
+}

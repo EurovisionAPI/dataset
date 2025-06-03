@@ -1,0 +1,31 @@
+{
+  "id": 2,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Franca di Rienzo",
+  "artistPeople": [
+    "Franca di Rienzo"
+  ],
+  "song": "Nous aurons demain",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/03-NjbYQz14",
+    "https://www.youtube-nocookie.com/embed/gHf8X0WL3Wg"
+  ],
+  "bpm": 104,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Theodor Haller"
+  ],
+  "composers": [
+    "Géo Voumard"
+  ],
+  "conductor": "Fernando Paggi",
+  "dancers": null,
+  "lyricists": [
+    "Émile Gardaz"
+  ],
+  "spokesperson": "Boris Acquadro",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": 18,
+  "country": "MK",
+  "broadcaster": "MKRTV",
+  "artist": "Vlado Janevski",
+  "artistPeople": [
+    "Vlado Janevski"
+  ],
+  "song": "Ne Zori, Zoro",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bLLfUOIeswQ",
+    "https://www.youtube-nocookie.com/embed/_kVE2qrzM8U",
+    "https://www.youtube-nocookie.com/embed/ith2YLnP0Xc"
+  ],
+  "bpm": 127,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": [
+    "Milanka Rašik"
+  ],
+  "composers": [
+    "Grigor Koprov"
+  ],
+  "conductor": "Alexandar Dzambazov",
+  "dancers": null,
+  "lyricists": [
+    "Vlado Janevski"
+  ],
+  "spokesperson": "Evgenija Teodosievska",
+  "stageDirector": null,
+  "writers": null
+}

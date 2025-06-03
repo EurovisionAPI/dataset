@@ -1,0 +1,15 @@
+{
+  "year": 1972,
+  "arena": "Usher Hall",
+  "city": "Edinburgh",
+  "country": "GB",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1972.png",
+  "presenters": [
+    "Moira Shearer"
+  ],
+  "broadcasters": [
+    "BBC"
+  ]
+}

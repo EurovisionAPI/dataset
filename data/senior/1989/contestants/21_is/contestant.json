@@ -1,0 +1,37 @@
+{
+  "id": 21,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Daníel Augúst Haraldsson",
+  "artistPeople": [
+    "Daníel Ágúst Haraldsson"
+  ],
+  "song": "Það sem enginn sér",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0UQfCtIxn_s",
+    "https://www.youtube-nocookie.com/embed/E7FGDx__fqo",
+    "https://www.youtube-nocookie.com/embed/58lAqRKIxa0",
+    "https://www.youtube-nocookie.com/embed/Wuj-YVDJyhU"
+  ],
+  "bpm": 96,
+  "tone": "C major",
+  "backings": [
+    "Eva Ásrún Albertsdóttir",
+    "Eva Leila Banine",
+    "Karl Örvarsson",
+    "Kristjan Vidar Haraldsson",
+    "Valgeir Guðjónsson"
+  ],
+  "commentators": [
+    "Arthúr Björgvin Bollason"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Erla Björk Skúladóttir",
+  "stageDirector": null,
+  "writers": [
+    "Valgeir Guðjónsson"
+  ]
+}

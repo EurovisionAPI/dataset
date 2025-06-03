@@ -1,0 +1,29 @@
+{
+  "id": 33,
+  "country": "SM",
+  "broadcaster": "SMRTV",
+  "artist": "Senhit",
+  "artistPeople": [
+    "Senhit Zadik Zadik"
+  ],
+  "song": "Freaky!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/c6ZNo_hVA6E",
+    "https://www.youtube-nocookie.com/embed/2yGNpBhRyvk"
+  ],
+  "bpm": 122,
+  "tone": "E minor",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Gianluigi Fazio",
+    "Henrik Steen Hansen",
+    "Nanna Bottos"
+  ]
+}

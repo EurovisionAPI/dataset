@@ -1,0 +1,16 @@
+{
+  "year": 1991,
+  "arena": "Studio 15 de Cinecittà",
+  "city": "Rome",
+  "country": "IT",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1991.png",
+  "presenters": [
+    "Gigliola Cinguetti",
+    "Toto Cutugno"
+  ],
+  "broadcasters": [
+    "RAI"
+  ]
+}

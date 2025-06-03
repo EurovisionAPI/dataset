@@ -1,0 +1,35 @@
+{
+  "id": 13,
+  "country": "AM",
+  "broadcaster": "AMPTV",
+  "artist": "Brunette",
+  "artistPeople": [
+    "Elen Yeremyan"
+  ],
+  "song": "Future Lover",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/h0q7AkYk2hY",
+    "https://www.youtube-nocookie.com/embed/Co8ZJIejXBA",
+    "https://www.youtube-nocookie.com/embed/SiE7o96nTRY",
+    "https://www.youtube-nocookie.com/embed/UJ5rcjmKI3A",
+    "https://www.youtube-nocookie.com/embed/Qtfh-Bxzcnk",
+    "https://www.youtube-nocookie.com/embed/W0TvGO4q7Fc",
+    "https://www.youtube-nocookie.com/embed/reGZ3o34oYM"
+  ],
+  "bpm": 103,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": [
+    "Hamlet Arakelyan",
+    "Hrachuhi Utmazyan"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Maléna",
+  "stageDirector": "Marvin Dietmann",
+  "writers": [
+    "Brunette"
+  ]
+}

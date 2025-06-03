@@ -1,0 +1,16 @@
+{
+  "year": 1992,
+  "arena": "MalmöMässan",
+  "city": "Malmö",
+  "country": "SE",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1992.png",
+  "presenters": [
+    "Lydia Cappolicchio",
+    "Harald Treutiger"
+  ],
+  "broadcasters": [
+    "SVT"
+  ]
+}

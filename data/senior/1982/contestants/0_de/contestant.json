@@ -1,0 +1,40 @@
+{
+  "id": 0,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Nicole",
+  "artistPeople": [
+    "Nicole Seibert"
+  ],
+  "song": "Ein bißchen Frieden",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hp_b-095yPc",
+    "https://www.youtube-nocookie.com/embed/-aRUzA6sNKA",
+    "https://www.youtube-nocookie.com/embed/9CGM_kb03rw",
+    "https://www.youtube-nocookie.com/embed/OYFG8b6_Orc",
+    "https://www.youtube-nocookie.com/embed/EAlu-h9Ug_0"
+  ],
+  "bpm": 118,
+  "tone": "F# minor",
+  "backings": [
+    "Andreas Kasulke",
+    "Gudrun Haag",
+    "Michael Gong",
+    "Ralph Siegel",
+    "Wolly Emperhoff"
+  ],
+  "commentators": [
+    "Ado Schlier"
+  ],
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Norbert Daum",
+  "dancers": null,
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "spokesperson": "Gabi Schnelle",
+  "stageDirector": null,
+  "writers": null
+}

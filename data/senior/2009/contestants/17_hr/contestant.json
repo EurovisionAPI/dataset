@@ -1,0 +1,38 @@
+{
+  "id": 17,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Igor Cukrov feat. Andrea",
+  "artistPeople": [
+    "Andrea Šušnjara",
+    "Igor Cukrov"
+  ],
+  "song": "Lijepa Tena",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jdLct2IqcLA",
+    "https://www.youtube-nocookie.com/embed/eiXiKRtjJWI",
+    "https://www.youtube-nocookie.com/embed/vBeelzWfWg4"
+  ],
+  "bpm": 116,
+  "tone": "A major",
+  "backings": [
+    "Ivana Čabraja",
+    "Jelena Majić",
+    "Karmen Matković",
+    "Sanja Jukić"
+  ],
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "composers": [
+    "Tonči Huljić"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Vjekoslava Huljić"
+  ],
+  "spokesperson": "Mila Horvat",
+  "stageDirector": null,
+  "writers": null
+}

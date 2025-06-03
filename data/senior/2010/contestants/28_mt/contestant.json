@@ -1,0 +1,37 @@
+{
+  "id": 28,
+  "country": "MT",
+  "broadcaster": "PBS",
+  "artist": "Thea Garrett",
+  "artistPeople": [
+    "Thea Garrett"
+  ],
+  "song": "My Dream",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iwgF3TC2Kj0",
+    "https://www.youtube-nocookie.com/embed/0OToHVvkBfY",
+    "https://www.youtube-nocookie.com/embed/FWtw2Fvbyq8"
+  ],
+  "bpm": 138,
+  "tone": "F# major",
+  "backings": [
+    "Jackie Pace Delicata",
+    "Jes Sciberras",
+    "Nadine Axisa",
+    "Pamela Bezzina"
+  ],
+  "commentators": [
+    "Valerie Vella"
+  ],
+  "composers": [
+    "Jason Cassar"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Sunny Aquilina"
+  ],
+  "spokesperson": "Chiara Siracusa",
+  "stageDirector": null,
+  "writers": null
+}

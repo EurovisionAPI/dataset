@@ -1,0 +1,15 @@
+{
+  "year": 1974,
+  "arena": "The Dome",
+  "city": "Brighton",
+  "country": "GB",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1974.png",
+  "presenters": [
+    "Catherine (Katie) Boyle"
+  ],
+  "broadcasters": [
+    "BBC"
+  ]
+}

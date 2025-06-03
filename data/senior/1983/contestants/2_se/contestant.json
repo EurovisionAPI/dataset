@@ -1,0 +1,40 @@
+{
+  "id": 2,
+  "country": "SE",
+  "broadcaster": "SVT",
+  "artist": "Carola Häggkvist",
+  "artistPeople": [
+    "Carola Maria Häggkvist"
+  ],
+  "song": "Främling",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Pu7kOb3z_BM",
+    "https://www.youtube-nocookie.com/embed/hIY9LubMgdE",
+    "https://www.youtube-nocookie.com/embed/pzfHXlaZX30",
+    "https://www.youtube-nocookie.com/embed/dOYU8sFGfd0",
+    "https://www.youtube-nocookie.com/embed/9RogSAHGT_Y",
+    "https://www.youtube-nocookie.com/embed/gGHQosjGT-E"
+  ],
+  "bpm": 109,
+  "tone": "F minor",
+  "backings": [
+    "Karin Glenmark",
+    "Lasse Holm",
+    "Lennart Sjöholm",
+    "Monica Forsberg"
+  ],
+  "commentators": [
+    "Ulf Elfving"
+  ],
+  "composers": [
+    "Lasse Holm"
+  ],
+  "conductor": "Anders Ekdahl",
+  "dancers": null,
+  "lyricists": [
+    "Monica Forsberg"
+  ],
+  "spokesperson": "Agneta Bolme-Börjefors",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": 0,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Massiel",
+  "artistPeople": [
+    "María de los Ángeles Felisa Santa María"
+  ],
+  "song": "La, la, la",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JhPAZOwEY0I",
+    "https://www.youtube-nocookie.com/embed/-Q1pBcKp8Pk",
+    "https://www.youtube-nocookie.com/embed/Vfl11H5PhLo",
+    "https://www.youtube-nocookie.com/embed/MT64siim0HI",
+    "https://www.youtube-nocookie.com/embed/ywbehvoVfv0",
+    "https://www.youtube-nocookie.com/embed/jIRmcyejUuo"
+  ],
+  "bpm": 137,
+  "tone": "C major",
+  "backings": [
+    "María Dolores Arenas",
+    "María Jesús Aguirre",
+    "Mercedes Valimaña"
+  ],
+  "commentators": [
+    "Federico Gallo"
+  ],
+  "composers": null,
+  "conductor": "Rafael de Ibarbia Serra",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Joaquín Prat",
+  "stageDirector": null,
+  "writers": [
+    "Manuel de la Calva",
+    "Ramón Arcusa"
+  ]
+}

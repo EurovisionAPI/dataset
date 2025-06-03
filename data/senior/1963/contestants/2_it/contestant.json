@@ -1,0 +1,35 @@
+{
+  "id": 2,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Emilio Pericoli",
+  "artistPeople": [
+    "Emilio Pericoli"
+  ],
+  "song": "Uno per tutte",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ESs_RDiQYQ0",
+    "https://www.youtube-nocookie.com/embed/YRVX4uvVSGw",
+    "https://www.youtube-nocookie.com/embed/7pAMdnMmsAg",
+    "https://www.youtube-nocookie.com/embed/Oqp-R4S0rQE",
+    "https://www.youtube-nocookie.com/embed/uIfkHeDn8iQ"
+  ],
+  "bpm": 112,
+  "tone": "Ab major",
+  "backings": null,
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "composers": [
+    "Tony Renis"
+  ],
+  "conductor": "Gigi Cicchellero",
+  "dancers": null,
+  "lyricists": [
+    "Alberto Testa",
+    "Mogol"
+  ],
+  "spokesperson": "Enzo Tortora",
+  "stageDirector": null,
+  "writers": null
+}

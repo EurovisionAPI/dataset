@@ -1,0 +1,41 @@
+{
+  "id": 0,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Alexander Rybak",
+  "artistPeople": [
+    "Alexander Rybak"
+  ],
+  "song": "Fairytale",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0gGt2qUyFlk",
+    "https://www.youtube-nocookie.com/embed/mNcJEebwOuE",
+    "https://www.youtube-nocookie.com/embed/MITNHpRyOls",
+    "https://www.youtube-nocookie.com/embed/Bn1EJpzgqNk",
+    "https://www.youtube-nocookie.com/embed/8CsuLbpBuN4",
+    "https://www.youtube-nocookie.com/embed/ERRn2XQiYkA",
+    "https://www.youtube-nocookie.com/embed/lSCmQmld_yg"
+  ],
+  "bpm": 108,
+  "tone": "D minor",
+  "backings": [
+    "Jorunn Hauge",
+    "Karianne Kjærnes"
+  ],
+  "commentators": [
+    "Synnøve Svabø"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Hallgrim Hansegård",
+    "Sigbjørn Rua",
+    "Torkjell Lunde Børsheim"
+  ],
+  "lyricists": null,
+  "spokesperson": "Stian Barsnes-Simonsen",
+  "stageDirector": "Mattias Carlsson",
+  "writers": [
+    "Alexander Rybak"
+  ]
+}

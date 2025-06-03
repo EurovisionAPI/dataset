@@ -1,0 +1,34 @@
+{
+  "id": 4,
+  "country": "MC",
+  "broadcaster": "TMC",
+  "artist": "Minouche Barelli",
+  "artistPeople": [
+    "Marie-Pierre Barelli"
+  ],
+  "song": "Boum-badaboum",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/K3sDCRt_yhc",
+    "https://www.youtube-nocookie.com/embed/e4akP8J1Gwc",
+    "https://www.youtube-nocookie.com/embed/E9TLj2s5GvA",
+    "https://www.youtube-nocookie.com/embed/lXYYshXH-EU"
+  ],
+  "bpm": 135,
+  "tone": "F# major",
+  "backings": null,
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "composers": [
+    "Michel Colombier",
+    "Serge Gainsbourg"
+  ],
+  "conductor": "Aimé Barelli",
+  "dancers": null,
+  "lyricists": [
+    "Serge Gainsbourg"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

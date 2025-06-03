@@ -1,0 +1,36 @@
+{
+  "id": 14,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Claudia Beni",
+  "artistPeople": [
+    "Claudia Beni"
+  ],
+  "song": "Više nisam tvoja",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4ZsVBPI05Ng",
+    "https://www.youtube-nocookie.com/embed/n-gPtFBevhE",
+    "https://www.youtube-nocookie.com/embed/blmsq9QA7uc"
+  ],
+  "bpm": 95,
+  "tone": "Eb minor",
+  "backings": [
+    "Amira Hidić",
+    "Ana Kabalin",
+    "Andrej Babić",
+    "Martina Majerle",
+    "Saša Hajdinić"
+  ],
+  "commentators": [
+    "Danijela Trbović"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Davor Meštrović",
+  "stageDirector": null,
+  "writers": [
+    "Andrej Babić"
+  ]
+}

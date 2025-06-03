@@ -1,0 +1,46 @@
+{
+  "id": 21,
+  "country": "LU",
+  "broadcaster": "RTL",
+  "artist": "Laura Thorn",
+  "artistPeople": [
+    "Laura Thorn"
+  ],
+  "song": "La poupée monte le son",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GT7ZZBCscUg",
+    "https://www.youtube-nocookie.com/embed/jMY-eUDTs0Q",
+    "https://www.youtube-nocookie.com/embed/LVHu_KwHiKY",
+    "https://www.youtube-nocookie.com/embed/nXVx16lhpVU",
+    "https://www.youtube-nocookie.com/embed/NIk3YSp1to0",
+    "https://www.youtube-nocookie.com/embed/DuDUSms-6IY",
+    "https://www.youtube-nocookie.com/embed/6AJopCie2bM"
+  ],
+  "bpm": 132,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Raoul Roos",
+    "Roger Saurfeld"
+  ],
+  "composers": [
+    "Christophe Houssin",
+    "Julien Salvia",
+    "Ludovic-Alexandre Vidal"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Chacki Dudde",
+    "Patrick Karim Oumaray",
+    "Randy Rocha",
+    "Simi Simoes",
+    "Sivak Serhii"
+  ],
+  "lyricists": [
+    "Julien Salvia",
+    "Ludovic-Alexandre Vidal"
+  ],
+  "spokesperson": "Fabienne Zwally",
+  "stageDirector": "Mariia Hrygorashchenko, Nataliia Lysenkova, Nataliia Rovenska",
+  "writers": null
+}

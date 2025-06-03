@@ -1,0 +1,35 @@
+{
+  "id": 19,
+  "country": "LU",
+  "broadcaster": "CLT",
+  "artist": "Modern Times",
+  "artistPeople": [
+    "Germain Martin",
+    "Simone Weis"
+  ],
+  "song": "Donne-moi une chance",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6NmMFSeel0I",
+    "https://www.youtube-nocookie.com/embed/--wbty1c8rE"
+  ],
+  "bpm": 142,
+  "tone": "C major",
+  "backings": [
+    "Patrick Alessi",
+    "Rick Nell",
+    "Ruth"
+  ],
+  "commentators": [
+    "Maurice Molitor"
+  ],
+  "composers": null,
+  "conductor": "Francis Goya",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Jimmy Martin",
+    "Patrick Hippert"
+  ]
+}

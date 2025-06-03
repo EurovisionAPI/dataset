@@ -1,0 +1,38 @@
+{
+  "id": 18,
+  "country": "LV",
+  "broadcaster": "LTV",
+  "artist": "Arnis Mednis",
+  "artistPeople": [
+    "Arnis Mednis"
+  ],
+  "song": "Too Much",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uN0WwwEL81I",
+    "https://www.youtube-nocookie.com/embed/fDn4lHB1MoE",
+    "https://www.youtube-nocookie.com/embed/sXhmeL88lwM"
+  ],
+  "bpm": 130,
+  "tone": "A major",
+  "backings": [
+    "Ance Krauze",
+    "Gustavs Terzens",
+    "Ivars Jercums",
+    "Marina Voitjuk"
+  ],
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "composers": [
+    "Arnis Mednis"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Arnis Mednis",
+    "Gustavs Terzens"
+  ],
+  "spokesperson": "Reynard Cowper",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": 19,
+  "country": "AU",
+  "broadcaster": "SBS",
+  "artist": "Jessica Mauboy",
+  "artistPeople": [
+    "Jessica Hilda Mauboy"
+  ],
+  "song": "We Got Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2BBLTY6T2Ck",
+    "https://www.youtube-nocookie.com/embed/J4XZxbrvepw",
+    "https://www.youtube-nocookie.com/embed/yizRoV7uPKo",
+    "https://www.youtube-nocookie.com/embed/rlhj8FUlgXE",
+    "https://www.youtube-nocookie.com/embed/eYFFZBrhsUk",
+    "https://www.youtube-nocookie.com/embed/GpqCutM9gRk",
+    "https://www.youtube-nocookie.com/embed/tPb2wTUSLiE"
+  ],
+  "bpm": 114,
+  "tone": "G major",
+  "backings": [
+    "Gary Pinto",
+    "Natasha Pinto",
+    "Samantha White"
+  ],
+  "commentators": [
+    "Joel Creasey",
+    "Myf Warhurst"
+  ],
+  "composers": [
+    "Anthony Egizii",
+    "David Musumeci",
+    "Jessica Mauboy"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Anthony Egizii",
+    "David Musumeci"
+  ],
+  "spokesperson": "Ricardo Gonçalves",
+  "stageDirector": "Sacha Jean-Baptiste",
+  "writers": null
+}

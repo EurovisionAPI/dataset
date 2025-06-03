@@ -1,0 +1,45 @@
+{
+  "id": 17,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "TIX",
+  "artistPeople": [
+    "Andreas Andresen Haukeland"
+  ],
+  "song": "Fallen Angel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/F0r3vmGLzZU",
+    "https://www.youtube-nocookie.com/embed/HOHvWB5OU-Q",
+    "https://www.youtube-nocookie.com/embed/7aWow1MKHzc",
+    "https://www.youtube-nocookie.com/embed/bp2kfhuv8ZU",
+    "https://www.youtube-nocookie.com/embed/pDMqSqEXJag",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/cbB1818YVcc"
+  ],
+  "bpm": 93,
+  "tone": "C# major",
+  "backings": [
+    "Johannes Winter Farstad"
+  ],
+  "commentators": [
+    "Marte Stokstad"
+  ],
+  "composers": [
+    "Andreas Andresen Haukeland"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Bjørnar Reime Erlandsen",
+    "Eivind Dundas",
+    "John Masaki",
+    "Reno Andersen"
+  ],
+  "lyricists": [
+    "Emelie Hollow",
+    "Mathias Haukeland",
+    "Andreas Andresen Haukeland"
+  ],
+  "spokesperson": "Silje Skjemstad Cruz",
+  "stageDirector": "Mattias Carlsson",
+  "writers": null
+}

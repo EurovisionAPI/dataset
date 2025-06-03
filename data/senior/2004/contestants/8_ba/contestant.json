@@ -1,0 +1,34 @@
+{
+  "id": 8,
+  "country": "BA",
+  "broadcaster": "PBSBIH",
+  "artist": "Deen",
+  "artistPeople": [
+    "Fuad Backović"
+  ],
+  "song": "In The Disco",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/B1USil8eOsE",
+    "https://www.youtube-nocookie.com/embed/4uNUUc18BO4",
+    "https://www.youtube-nocookie.com/embed/9Rkr6tELGJg"
+  ],
+  "bpm": 134,
+  "tone": "A minor",
+  "backings": [
+    "Ena Đapo",
+    "Maja Sarihodžić",
+    "Zorana Guja"
+  ],
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Mija Martina",
+  "stageDirector": null,
+  "writers": [
+    "Vesna Pisarović"
+  ]
+}

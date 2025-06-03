@@ -1,0 +1,15 @@
+{
+  "year": 1967,
+  "arena": "Großer Festsaal der Wiener Hofburg",
+  "city": "Vienna",
+  "country": "AT",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1967.png",
+  "presenters": [
+    "Erika Vaal"
+  ],
+  "broadcasters": [
+    "ORF"
+  ]
+}

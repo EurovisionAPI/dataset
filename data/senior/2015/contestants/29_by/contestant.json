@@ -1,0 +1,40 @@
+{
+  "id": 29,
+  "country": "BY",
+  "broadcaster": "BTRC",
+  "artist": "Uzari & Maimuna",
+  "artistPeople": [
+    "Maimuna Amadu Murasjko",
+    "Yuri Navrotsky (Юрый Наўроцкі)"
+  ],
+  "song": "Time",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Cwjm1lRV4N4",
+    "https://www.youtube-nocookie.com/embed/M8ZADtaAvDA",
+    "https://www.youtube-nocookie.com/embed/jdUUNyisa5s",
+    "https://www.youtube-nocookie.com/embed/Vf9HXt2rhME",
+    "https://www.youtube-nocookie.com/embed/fhJjfaES94M"
+  ],
+  "bpm": 130,
+  "tone": "F minor",
+  "backings": [
+    "Artyom Akhmash",
+    "Denis Lis",
+    "Yuriy Seleznyov"
+  ],
+  "commentators": [
+    "Evgeny Perlin"
+  ],
+  "composers": [
+    "Yuri Navrotsky"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Maimuna",
+    "Svetlana Geraskova"
+  ],
+  "spokesperson": "Teo",
+  "stageDirector": "Olga Shamrova",
+  "writers": null
+}

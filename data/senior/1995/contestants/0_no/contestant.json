@@ -1,0 +1,40 @@
+{
+  "id": 0,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Secret Garden",
+  "artistPeople": [
+    "Fionnuala Sherry",
+    "Gunnhild Tvinnereim",
+    "Rolf Løvland"
+  ],
+  "song": "Nocturne",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/u-gA0aU-d88",
+    "https://www.youtube-nocookie.com/embed/y5beWOIecS4",
+    "https://www.youtube-nocookie.com/embed/M-hIUN-vnks",
+    "https://www.youtube-nocookie.com/embed/KoWSgh0PnTs",
+    "https://www.youtube-nocookie.com/embed/nl8d5zphwBU",
+    "https://www.youtube-nocookie.com/embed/W1O5A6i9vnc"
+  ],
+  "bpm": 81,
+  "tone": "D minor",
+  "backings": [
+    "Åsa Jinder",
+    "Hans Fredrik Jacobsen"
+  ],
+  "commentators": [
+    "Annette Groth"
+  ],
+  "composers": [
+    "Rolf Løvland"
+  ],
+  "conductor": "Geir Langslet",
+  "dancers": null,
+  "lyricists": [
+    "Petter Skavlan"
+  ],
+  "spokesperson": "Sverre Christophersen",
+  "stageDirector": null,
+  "writers": null
+}

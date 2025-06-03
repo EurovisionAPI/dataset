@@ -1,0 +1,42 @@
+{
+  "id": 29,
+  "country": "AZ",
+  "broadcaster": "İctimai",
+  "artist": "Aisel",
+  "artistPeople": [
+    "Aysel Mammadova"
+  ],
+  "song": "X My Heart",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1CUwlpqUuvA",
+    "https://www.youtube-nocookie.com/embed/kWomOdDGwMM",
+    "https://www.youtube-nocookie.com/embed/qjJQYtjnWx4",
+    "https://www.youtube-nocookie.com/embed/eUcafz0VU8U",
+    "https://www.youtube-nocookie.com/embed/icVuB7ZjsU8",
+    "https://www.youtube-nocookie.com/embed/5q6IKzy5Ry8"
+  ],
+  "bpm": 120,
+  "tone": "Ab major",
+  "backings": [
+    "Hugo Baptista",
+    "Rui Andrade",
+    "Salome Caldeira",
+    "Sandra D'Adreade",
+    "Stefania Rizou"
+  ],
+  "commentators": [
+    "Azer Suleymanli"
+  ],
+  "composers": [
+    "Dimitris Kontopoulos",
+    "Tim Bran"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Sandra Bjurman"
+  ],
+  "spokesperson": "Tural Asadov",
+  "stageDirector": "Fokas Evangelinos",
+  "writers": null
+}

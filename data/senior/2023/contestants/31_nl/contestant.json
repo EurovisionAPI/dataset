@@ -1,0 +1,44 @@
+{
+  "id": 31,
+  "country": "NL",
+  "broadcaster": "AVROTROS",
+  "artist": "Mia Nicolai & Dion Cooper",
+  "artistPeople": [
+    "Dion Cuiper",
+    "Michaja Nicolaï"
+  ],
+  "song": "Burning Daylight",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3XAsam043OY",
+    "https://www.youtube-nocookie.com/embed/UOf-oKDlO6A",
+    "https://www.youtube-nocookie.com/embed/gSgkpB0Xbrs",
+    "https://www.youtube-nocookie.com/embed/dlTy7mqTzQA",
+    "https://www.youtube-nocookie.com/embed/J4Azpsh5oGo",
+    "https://www.youtube-nocookie.com/embed/plnuRY3iT-c",
+    "https://www.youtube-nocookie.com/embed/6OuJo85hxKI"
+  ],
+  "bpm": 75,
+  "tone": "Eb major",
+  "backings": [
+    "Katie van Steenis",
+    "Kris Rietveld",
+    "Rachell Melanie"
+  ],
+  "commentators": [
+    "Cornald Maas",
+    "Jan Smit"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Stien den Hollander",
+  "stageDirector": "Marnix Kaart",
+  "writers": [
+    "Dion Cooper",
+    "Duncan Laurence",
+    "Jordan Garfield",
+    "Loek van der Grinten",
+    "Mia Nicolai"
+  ]
+}

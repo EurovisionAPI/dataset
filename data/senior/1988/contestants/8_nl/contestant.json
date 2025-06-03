@@ -1,0 +1,38 @@
+{
+  "id": 8,
+  "country": "NL",
+  "broadcaster": "NOS",
+  "artist": "Gerard Joling",
+  "artistPeople": [
+    "Gerard Jan Joling"
+  ],
+  "song": "Shangri-La",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2cWqCYJbzOQ",
+    "https://www.youtube-nocookie.com/embed/dxoCM7RgDtc",
+    "https://www.youtube-nocookie.com/embed/p3SU_VdGd44",
+    "https://www.youtube-nocookie.com/embed/ZOgXTgPg1a4",
+    "https://www.youtube-nocookie.com/embed/D2XF2aS1LAY"
+  ],
+  "bpm": 143,
+  "tone": "E major",
+  "backings": [
+    "Johan Hoogland",
+    "Justine Pelmelay",
+    "Lisa Boray",
+    "Pim Roos",
+    "Sonia Pelgrims"
+  ],
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "composers": null,
+  "conductor": "Harry van Hoof",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Joop van Os",
+  "stageDirector": null,
+  "writers": [
+    "Peter de Wijn"
+  ]
+}

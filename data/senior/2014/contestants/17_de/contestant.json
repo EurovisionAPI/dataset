@@ -1,0 +1,33 @@
+{
+  "id": 17,
+  "country": "DE",
+  "broadcaster": "NDR",
+  "artist": "Elaiza",
+  "artistPeople": null,
+  "song": "Is It Right",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BFuGH2Kp9dI",
+    "https://www.youtube-nocookie.com/embed/UW4KQqcH1E4",
+    "https://www.youtube-nocookie.com/embed/mTC-4YO_5eE",
+    "https://www.youtube-nocookie.com/embed/iF5HIInNjuo"
+  ],
+  "bpm": 132,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": [
+    "Peter Urban"
+  ],
+  "composers": [
+    "Elżbieta Steinmetz",
+    "Frank Kretschmer"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Adam Kesselhaut",
+    "Elżbieta Steinmetz"
+  ],
+  "spokesperson": "Helene Fischer",
+  "stageDirector": null,
+  "writers": null
+}

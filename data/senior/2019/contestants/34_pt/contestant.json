@@ -1,0 +1,40 @@
+{
+  "id": 34,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Conan Osíris",
+  "artistPeople": [
+    "Tiago Miranda"
+  ],
+  "song": "Telemóveis",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SIGn9_yMLn4",
+    "https://www.youtube-nocookie.com/embed/DWoA-7kF5R4",
+    "https://www.youtube-nocookie.com/embed/xSbp8lwCQp8",
+    "https://www.youtube-nocookie.com/embed/5IrNfYeWZWI",
+    "https://www.youtube-nocookie.com/embed/RRbrL_eXGZg",
+    "https://www.youtube-nocookie.com/embed/Q1tkstZdEjU",
+    "https://www.youtube-nocookie.com/embed/K0Oj8N03rZg"
+  ],
+  "bpm": 123,
+  "tone": "F minor",
+  "backings": [
+    "Patrícia Antunes",
+    "Patrícia Silveira"
+  ],
+  "commentators": [
+    "José Carlos Malato",
+    "Nuno Galopim"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "João Reis"
+  ],
+  "lyricists": null,
+  "spokesperson": "Inês Lopes Gonçalves",
+  "stageDirector": null,
+  "writers": [
+    "Conan Osíris"
+  ]
+}

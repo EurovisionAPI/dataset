@@ -1,0 +1,38 @@
+{
+  "id": 16,
+  "country": "AL",
+  "broadcaster": "RTSH",
+  "artist": "Kejsi Tola",
+  "artistPeople": [
+    "Kejsi Tola"
+  ],
+  "song": "Carry Me In Your Dreams",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/w6Ori4A4ATo",
+    "https://www.youtube-nocookie.com/embed/wZNbgQlP_b0",
+    "https://www.youtube-nocookie.com/embed/fL0XBnJ9uEY"
+  ],
+  "bpm": 128,
+  "tone": "Eb minor",
+  "backings": [
+    "Andi Kocaj",
+    "Ardi Kocaj",
+    "Dorina Toci",
+    "Era Rusi",
+    "Orgesa Zaimi"
+  ],
+  "commentators": [
+    "Leon Menkshi"
+  ],
+  "composers": [
+    "Edmond Zhulali"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "June Muftaraj Taylor"
+  ],
+  "spokesperson": "Leon Menkshi",
+  "stageDirector": "Julian Bulku",
+  "writers": null
+}

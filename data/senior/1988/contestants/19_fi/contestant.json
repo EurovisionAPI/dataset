@@ -1,0 +1,38 @@
+{
+  "id": 19,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Boulevard",
+  "artistPeople": [
+    "Erkki Korhonen",
+    "Jari Nieminen",
+    "Jari Puhakka",
+    "Juha Lanu",
+    "Kyösti Laihi",
+    "Tommi Tepsa"
+  ],
+  "song": "Nauravat silmät muistetaan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/C7Mp87bUKzE",
+    "https://www.youtube-nocookie.com/embed/EBBMDypGSE8",
+    "https://www.youtube-nocookie.com/embed/TIColV_oC84",
+    "https://www.youtube-nocookie.com/embed/NF3e0Rz0bdA"
+  ],
+  "bpm": 139,
+  "tone": "Eb major",
+  "backings": null,
+  "commentators": [
+    "Erkki Pohjanheimo"
+  ],
+  "composers": [
+    "Pepe Willberg"
+  ],
+  "conductor": "Ossi Runne",
+  "dancers": null,
+  "lyricists": [
+    "Kirsti Willberg"
+  ],
+  "spokesperson": "Solveig Herlin",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": 0,
+  "country": "SE",
+  "broadcaster": "SVT",
+  "artist": "Loreen",
+  "artistPeople": [
+    "Lorine Zineb Nora Talhaoui"
+  ],
+  "song": "Tattoo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BE2Fj0W4jP4",
+    "https://www.youtube-nocookie.com/embed/Vul5zgC5Yvg",
+    "https://www.youtube-nocookie.com/embed/XBNfNJZ660o",
+    "https://www.youtube-nocookie.com/embed/b3vJfR81xO0",
+    "https://www.youtube-nocookie.com/embed/4gEFQA7alFc",
+    "https://www.youtube-nocookie.com/embed/h6x-TKgYM9k",
+    "https://www.youtube-nocookie.com/embed/R7mCELuFz5I"
+  ],
+  "bpm": 150,
+  "tone": "Eb minor",
+  "backings": null,
+  "commentators": [
+    "Edward af Sillén",
+    "Måns Zelmerlöw"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Farah Abadi",
+  "stageDirector": "Sacha Jean-Baptiste",
+  "writers": [
+    "Jimmy Jansson",
+    "Jimmy Joker",
+    "Loreen",
+    "Moa Carlebecker",
+    "Peter Boström",
+    "Thomas G:son"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 12,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Jacques Houdek",
+  "artistPeople": [
+    "Željko Houdek"
+  ],
+  "song": "My Friend",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4Sya_GIxsw0",
+    "https://www.youtube-nocookie.com/embed/Q06z-EaBvjE",
+    "https://www.youtube-nocookie.com/embed/tkP0xw_i_Ho",
+    "https://www.youtube-nocookie.com/embed/MfpivRXe3Q4",
+    "https://www.youtube-nocookie.com/embed/WJ0Zjlx4RIc",
+    "https://www.youtube-nocookie.com/embed/JnqeuCuc658",
+    "https://www.youtube-nocookie.com/embed/m3YD9_1ShQ8"
+  ],
+  "bpm": 138,
+  "tone": "F major",
+  "backings": [
+    "Alen Đuras",
+    "Edgar Rupena",
+    "Matija Cvek"
+  ],
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "composers": [
+    "Jacques Houdek",
+    "Siniša Reljić",
+    "Tony Malm"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Arjana Kunštek",
+    "Fabrizio Laucella",
+    "Ines Prajo",
+    "Jacques Houdek"
+  ],
+  "spokesperson": "Uršula Tolj",
+  "stageDirector": "Krešimir Dolenčić",
+  "writers": null
+}

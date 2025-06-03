@@ -1,0 +1,35 @@
+{
+  "id": 10,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Co-Co",
+  "artistPeople": [
+    "Charles Brennan",
+    "Rita Crudgington",
+    "Josephine Andrews",
+    "Keith Haslar",
+    "Paul Rogers",
+    "Terence Bradford"
+  ],
+  "song": "The Bad Old Days",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/a_couVU0Vr4",
+    "https://www.youtube-nocookie.com/embed/cWw7xRN0AZA"
+  ],
+  "bpm": 93,
+  "tone": "Eb major",
+  "backings": null,
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "composers": null,
+  "conductor": "Alyn Ainsworth",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Colin Berry",
+  "stageDirector": null,
+  "writers": [
+    "Stephanie de Sykes",
+    "Stuart Slater"
+  ]
+}

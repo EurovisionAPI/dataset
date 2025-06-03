@@ -1,0 +1,31 @@
+{
+  "id": 11,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Tim, Nelly and Tony",
+  "artistPeople": [
+    "Argentina Croatto",
+    "Edelwais Croatto",
+    "Hermes Davide Fastino Croatto Martinis"
+  ],
+  "song": "Caracola",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-cFZUp6hNXI",
+    "https://www.youtube-nocookie.com/embed/1eCwg3BON-Q"
+  ],
+  "bpm": 112,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": [
+    "Federico Gallo"
+  ],
+  "composers": null,
+  "conductor": "Rafael de Ibarbia Serra",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Julio Rico",
+  "stageDirector": null,
+  "writers": [
+    "Fina de Calderón"
+  ]
+}

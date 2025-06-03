@@ -1,0 +1,34 @@
+{
+  "id": 20,
+  "country": "EE",
+  "broadcaster": "ERR",
+  "artist": "Ruffus",
+  "artistPeople": [
+    "Ivo Etti",
+    "Jaan Pehk",
+    "Margus Tohver",
+    "Siim Mäesalu",
+    "Vaiko Eplik"
+  ],
+  "song": "Eighties Coming Back",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pHGmKw5QOb8",
+    "https://www.youtube-nocookie.com/embed/DGQHyZrdyI0",
+    "https://www.youtube-nocookie.com/embed/bjdt4A7o2eA"
+  ],
+  "bpm": 131,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ines",
+  "stageDirector": null,
+  "writers": [
+    "Vaiko Eplik"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 28,
+  "country": "CY",
+  "broadcaster": "CyBC",
+  "artist": "Evridiki",
+  "artistPeople": [
+    "Evridiki"
+  ],
+  "song": "Comme Ci, Comme ça",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bLpM5gMpUkI"
+  ],
+  "bpm": 130,
+  "tone": "D minor",
+  "backings": [
+    "Dimitris Horianopoulos",
+    "Dimitris Korgialas",
+    "Froso Stilianou",
+    "Giannis Skoutaris",
+    "Marianna Gerasimidou"
+  ],
+  "commentators": [
+    "Vaso Komninou"
+  ],
+  "composers": [
+    "Dimitris Korgialas"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Poseidon Giannopoulos"
+  ],
+  "spokesperson": "Giannis Haralambous",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Belle and the Devotions",
+  "artistPeople": [
+    "Kit Rolfe",
+    "Laura James",
+    "Linda Sofield"
+  ],
+  "song": "Love Games",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LgeFkRr_98M",
+    "https://www.youtube-nocookie.com/embed/HFL6Vbb3g1I",
+    "https://www.youtube-nocookie.com/embed/r_ZeBk3t1uo",
+    "https://www.youtube-nocookie.com/embed/ifkEpMx4WyA"
+  ],
+  "bpm": 137,
+  "tone": "A major",
+  "backings": [
+    "Jean Westwood",
+    "Miriam Stockley"
+  ],
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "composers": null,
+  "conductor": "John Coleman",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Colin Berry",
+  "stageDirector": null,
+  "writers": [
+    "Graham Sacher",
+    "Paul Curtis"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 14,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Pollapönk",
+  "artistPeople": [
+    "Arnar Þór Gíslason",
+    "Guðni Þórarinn Finnsson",
+    "Haraldur Freyr Gíslason",
+    "Heiðar Örn Kristjánsson"
+  ],
+  "song": "No Prejudice",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/U2qAvGsiCmc",
+    "https://www.youtube-nocookie.com/embed/V5ZG378DH1c",
+    "https://www.youtube-nocookie.com/embed/CBlltJwxvxU"
+  ],
+  "bpm": 108,
+  "tone": "C major",
+  "backings": [
+    "Óttarr Proppé",
+    "Snæbjörn Ragnarsson"
+  ],
+  "commentators": [
+    "Felix Bergsson"
+  ],
+  "composers": [
+    "Heiðar Örn Kristjánsson"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Haraldur Freyr Gíslason",
+    "Heiðar Örn Kristjánsson",
+    "John Grant"
+  ],
+  "spokesperson": "Benedikt Valsson",
+  "stageDirector": null,
+  "writers": null
+}

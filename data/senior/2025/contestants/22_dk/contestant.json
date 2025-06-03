@@ -1,0 +1,47 @@
+{
+  "id": 22,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Sissal",
+  "artistPeople": [
+    "Sissal Jóhanna Norðberg Niclasen"
+  ],
+  "song": "Hallucination",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/B3BdsYDnS8M",
+    "https://www.youtube-nocookie.com/embed/Q_ND8mF9d3c",
+    "https://www.youtube-nocookie.com/embed/gdCAgiSIOUc",
+    "https://www.youtube-nocookie.com/embed/rmaisz6F4sg",
+    "https://www.youtube-nocookie.com/embed/xdtWBmWG9Bk",
+    "https://www.youtube-nocookie.com/embed/2Nos_sMxKD8",
+    "https://www.youtube-nocookie.com/embed/hC3ECaEsmPA"
+  ],
+  "bpm": 140,
+  "tone": "F# minor",
+  "backings": [
+    "Melanie Wehbe"
+  ],
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Mads Gronemann",
+    "Nefertiti Moeglin Pedersen",
+    "Oliver Zohore",
+    "Sophie Zapp Christensen"
+  ],
+  "lyricists": null,
+  "spokesperson": "Sara Bro",
+  "stageDirector": "Per Zachariassen",
+  "writers": [
+    "Chris Chordz",
+    "Line Spangsberg",
+    "Linnea Deb",
+    "Malthe Johansen",
+    "Marcus Winther-John",
+    "Melanie Wehbe",
+    "Sissal Jóhanna Norðberg Niclasen"
+  ]
+}

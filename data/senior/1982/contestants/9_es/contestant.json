@@ -1,0 +1,32 @@
+{
+  "id": 9,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Lucía",
+  "artistPeople": [
+    "María Isabel Lineros Rodríguez"
+  ],
+  "song": "Él",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DYxaX8Jv7jA",
+    "https://www.youtube-nocookie.com/embed/8JkfXUB9FqY",
+    "https://www.youtube-nocookie.com/embed/P_M8wU8924g"
+  ],
+  "bpm": 130,
+  "tone": "Eb minor",
+  "backings": null,
+  "commentators": [
+    "Miguel de los Santos"
+  ],
+  "composers": [
+    "Francisco 'Paco' Cepero"
+  ],
+  "conductor": "Miguel Ángel Varona",
+  "dancers": null,
+  "lyricists": [
+    "Ignacio Román"
+  ],
+  "spokesperson": "Marisa Naranjo",
+  "stageDirector": null,
+  "writers": null
+}

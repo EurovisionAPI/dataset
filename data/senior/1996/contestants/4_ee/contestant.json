@@ -1,0 +1,42 @@
+{
+  "id": 4,
+  "country": "EE",
+  "broadcaster": "ERR",
+  "artist": "Ivo Linna & Maarja-Liis Ilus",
+  "artistPeople": [
+    "Ivo Linna",
+    "Maarja"
+  ],
+  "song": "Kaelakee Hääl",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mQI9GitZjDE",
+    "https://www.youtube-nocookie.com/embed/ngaCrPsAm10",
+    "https://www.youtube-nocookie.com/embed/RZ4Zz_HBW7w",
+    "https://www.youtube-nocookie.com/embed/IIwHPXadLZU",
+    "https://www.youtube-nocookie.com/embed/T6fS9-2tfbw",
+    "https://www.youtube-nocookie.com/embed/5r1PVbsvWpE",
+    "https://www.youtube-nocookie.com/embed/JexlNOvIaIk"
+  ],
+  "bpm": 100,
+  "tone": "G major",
+  "backings": [
+    "Anne Värvimann",
+    "Glen Pilvre",
+    "Roland Puusepp",
+    "Taavo Remmel"
+  ],
+  "commentators": [
+    "Jüri Pihel"
+  ],
+  "composers": [
+    "Priit Pajusaar"
+  ],
+  "conductor": "Tarmo Leinatamm",
+  "dancers": null,
+  "lyricists": [
+    "Kaari Sillamaa"
+  ],
+  "spokesperson": "Annika Talvik",
+  "stageDirector": null,
+  "writers": null
+}

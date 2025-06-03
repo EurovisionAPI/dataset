@@ -1,0 +1,39 @@
+{
+  "id": 4,
+  "country": "RU",
+  "broadcaster": "C1R",
+  "artist": "Dina Garipova",
+  "artistPeople": [
+    "Dina Fagimovna Garipova (Дина Фагимовна Гарипова)"
+  ],
+  "song": "What If",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wHNwk3Oez8U",
+    "https://www.youtube-nocookie.com/embed/1VwzdeRNjtA",
+    "https://www.youtube-nocookie.com/embed/BOa-hNQWUxQ"
+  ],
+  "bpm": 150,
+  "tone": "A major",
+  "backings": [
+    "Alexandra Hamnede",
+    "Anders Von Hofsten",
+    "Gabriel Alares",
+    "Sofia Lilja",
+    "Ulrika Holmlund"
+  ],
+  "commentators": [
+    "Yana Churikova",
+    "Yuriy Aksuta"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Alsou",
+  "stageDirector": "Micke Mikeadelica Gustafsson",
+  "writers": [
+    "Gabriel Alares",
+    "Joakim Björnberg",
+    "Leonid Gutkin"
+  ]
+}

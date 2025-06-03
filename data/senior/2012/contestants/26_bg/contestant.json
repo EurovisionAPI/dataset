@@ -1,0 +1,38 @@
+{
+  "id": 26,
+  "country": "BG",
+  "broadcaster": "BNT",
+  "artist": "Sofi Marinova",
+  "artistPeople": [
+    "Sofiya Marinova Kamenova"
+  ],
+  "song": "Love Unlimited",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WAUAETPcFBI",
+    "https://www.youtube-nocookie.com/embed/MoQKRIK3HKU",
+    "https://www.youtube-nocookie.com/embed/6YHQc3tIa0Y",
+    "https://www.youtube-nocookie.com/embed/bfCUGU7LKIU",
+    "https://www.youtube-nocookie.com/embed/j_WyBfx_sEs",
+    "https://www.youtube-nocookie.com/embed/X8EafD-cbQM",
+    "https://www.youtube-nocookie.com/embed/5NgglYoomVk"
+  ],
+  "bpm": 129,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "composers": [
+    "Krum Geopriev",
+    "Yasen Kozev"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Donka Vasileva"
+  ],
+  "spokesperson": "Anna Angelova",
+  "stageDirector": null,
+  "writers": null
+}

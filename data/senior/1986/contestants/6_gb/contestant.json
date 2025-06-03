@@ -1,0 +1,37 @@
+{
+  "id": 6,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Ryder",
+  "artistPeople": [
+    "Andrew Ebsworth",
+    "Dudley Phillips",
+    "Michael English",
+    "Martin Williams",
+    "Paul Robertson",
+    "Robert Terry"
+  ],
+  "song": "Runner in the Night",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EjLSSXAZyzA",
+    "https://www.youtube-nocookie.com/embed/P4NDC61iqdI",
+    "https://www.youtube-nocookie.com/embed/JSyPuk7CLJk"
+  ],
+  "bpm": 141,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "composers": [
+    "Brian Wade"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Maureen Darbyshire"
+  ],
+  "spokesperson": "Colin Berry",
+  "stageDirector": null,
+  "writers": null
+}

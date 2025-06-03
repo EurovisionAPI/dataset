@@ -1,0 +1,40 @@
+{
+  "id": 9,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Anabela",
+  "artistPeople": [
+    "Anabela Braz Pires"
+  ],
+  "song": "A cidade até ser dia",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Zh2Jz5UCju8",
+    "https://www.youtube-nocookie.com/embed/F4gD-MPLwB4",
+    "https://www.youtube-nocookie.com/embed/u1bu7M68OUU",
+    "https://www.youtube-nocookie.com/embed/Uyy4oDalw7U",
+    "https://www.youtube-nocookie.com/embed/vi8l7jjJwPE"
+  ],
+  "bpm": 124,
+  "tone": "D major",
+  "backings": [
+    "Fernanda Lopes",
+    "Fernando Abrantes",
+    "Jay Rio",
+    "Pedro Abrantes",
+    "Telmo Lopes"
+  ],
+  "commentators": [
+    "Isabel Bahia"
+  ],
+  "composers": null,
+  "conductor": "Armindo Neves",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Margarida Mercês de Mello",
+  "stageDirector": null,
+  "writers": [
+    "Marco Quelhas",
+    "Paulo da Costa",
+    "Pedro Abrantes"
+  ]
+}

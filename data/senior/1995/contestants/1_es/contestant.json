@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Anabel Conde",
+  "artistPeople": [
+    "Ana Isabel Conde Sánchez"
+  ],
+  "song": "Vuelve conmigo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Z87tsLrfG9k",
+    "https://www.youtube-nocookie.com/embed/GRT76eGYIMs"
+  ],
+  "bpm": 106,
+  "tone": "F minor",
+  "backings": [
+    "Andrea Bronston",
+    "Doris Cales",
+    "Emilio Cuervo",
+    "José María Guzmán",
+    "Soledad 'Sol' Pilas"
+  ],
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "composers": null,
+  "conductor": "Eduardo Leiva",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Belén Fernández de Henestrosa",
+  "stageDirector": null,
+  "writers": [
+    "José María Purón"
+  ]
+}

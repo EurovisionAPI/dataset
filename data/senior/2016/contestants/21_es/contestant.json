@@ -1,0 +1,41 @@
+{
+  "id": 21,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Barei",
+  "artistPeople": [
+    "Bárbara Reyzábal González-Aller"
+  ],
+  "song": "Say Yay!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EgbjNsxehrY",
+    "https://www.youtube-nocookie.com/embed/k0I37W3RN_U",
+    "https://www.youtube-nocookie.com/embed/-TT8D2EVyTs",
+    "https://www.youtube-nocookie.com/embed/NY_yqcr9LfE",
+    "https://www.youtube-nocookie.com/embed/Uuovg_Oy5tA"
+  ],
+  "bpm": 125,
+  "tone": "C# major",
+  "backings": [
+    "Alana Sinkëy",
+    "Awinnie MyBaby",
+    "Brequette Cassie",
+    "Milena Brody",
+    "Rebeca Rods"
+  ],
+  "commentators": [
+    "José María Íñigo",
+    "Julia Varela"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Jota Abril",
+  "stageDirector": "Florian Boje, Niccolò Piccardi",
+  "writers": [
+    "Barei",
+    "Rubén Villanueva",
+    "Víctor Púa"
+  ]
+}

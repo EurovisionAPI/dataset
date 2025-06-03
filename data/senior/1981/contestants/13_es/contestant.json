@@ -1,0 +1,32 @@
+{
+  "id": 13,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Bacchelli",
+  "artistPeople": [
+    "José María Bacchelli Ortega"
+  ],
+  "song": "Y sólo tú",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/D8GZ8z0G4Lg",
+    "https://www.youtube-nocookie.com/embed/pGTZ61m6Rp4",
+    "https://www.youtube-nocookie.com/embed/dNFym5KC3as"
+  ],
+  "bpm": 98,
+  "tone": "A major",
+  "backings": [
+    "Montserrat 'Mone' Teruel"
+  ],
+  "commentators": [
+    "Miguel de los Santos"
+  ],
+  "composers": null,
+  "conductor": "Juan Barcons",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Isabel Tenaille",
+  "stageDirector": null,
+  "writers": [
+    "Amado Jaen"
+  ]
+}

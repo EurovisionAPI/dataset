@@ -1,0 +1,39 @@
+{
+  "id": 1,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Lulu",
+  "artistPeople": [
+    "Marie McDonald McLaughlin Lawrie"
+  ],
+  "song": "Boom Bang-a-Bang",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BiTNkiD9uYk",
+    "https://www.youtube-nocookie.com/embed/2N8CkX39Nig",
+    "https://www.youtube-nocookie.com/embed/BwIAAJI_iGI",
+    "https://www.youtube-nocookie.com/embed/F7mzgrc1IWk",
+    "https://www.youtube-nocookie.com/embed/ixEZtgl1K4Y",
+    "https://www.youtube-nocookie.com/embed/aTzKJZ7zEao",
+    "https://www.youtube-nocookie.com/embed/kS0B2cEyVjA"
+  ],
+  "bpm": 185,
+  "tone": "D minor",
+  "backings": [
+    "Sue Glover",
+    "Sunny Leslie"
+  ],
+  "commentators": [
+    "Michael Aspel"
+  ],
+  "composers": [
+    "Alan Moorhouse"
+  ],
+  "conductor": "Johnny Harris",
+  "dancers": null,
+  "lyricists": [
+    "Peter Warne"
+  ],
+  "spokesperson": "Colin-Ward Lewis",
+  "stageDirector": null,
+  "writers": null
+}

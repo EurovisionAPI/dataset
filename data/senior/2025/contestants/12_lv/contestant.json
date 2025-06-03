@@ -1,0 +1,48 @@
+{
+  "id": 12,
+  "country": "LV",
+  "broadcaster": "LTV",
+  "artist": "Tautumeitas",
+  "artistPeople": [
+    "Annemarija Moiseja",
+    "Asnate Rancāne",
+    "Aurēlija Rancāne",
+    "Gabriēla Zvaigznīte",
+    "Kate Slišāne",
+    "Laura Līcīte"
+  ],
+  "song": "Bur man laimi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nkvcMe3NiQ0",
+    "https://www.youtube-nocookie.com/embed/tRTfxUJtDOs",
+    "https://www.youtube-nocookie.com/embed/fAdN-OUYe54",
+    "https://www.youtube-nocookie.com/embed/qh6EIv_XIiI",
+    "https://www.youtube-nocookie.com/embed/hBCASN-ahpc",
+    "https://www.youtube-nocookie.com/embed/6T90g6YP1vQ",
+    "https://www.youtube-nocookie.com/embed/Kxuqgi9I71I"
+  ],
+  "bpm": 140,
+  "tone": "A major",
+  "backings": null,
+  "commentators": [
+    "Marie N",
+    "Toms Grēviņš"
+  ],
+  "composers": [
+    "Asnate Rancāne",
+    "Aurēlija Rancāne",
+    "Elvis Lintiņš",
+    "Laura Līcīte"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Asnate Rancāne",
+    "Aurēlija Rancāne",
+    "Gabriēla Zvaigznīte",
+    "Laura Līcīte"
+  ],
+  "spokesperson": "Dons",
+  "stageDirector": "Artūrs Analts",
+  "writers": null
+}

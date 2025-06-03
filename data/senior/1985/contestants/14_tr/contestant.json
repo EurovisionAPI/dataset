@@ -1,0 +1,36 @@
+{
+  "id": 14,
+  "country": "TR",
+  "broadcaster": "TRT",
+  "artist": "MFÖ",
+  "artistPeople": [
+    "Fuat Güner",
+    "Mazhar Alanson",
+    "Özkan Uğur"
+  ],
+  "song": "Didai didai dai",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6tlDYMZWSzU",
+    "https://www.youtube-nocookie.com/embed/j7883O1au7c",
+    "https://www.youtube-nocookie.com/embed/BcKdDBpC2vM",
+    "https://www.youtube-nocookie.com/embed/of3x7qb6BSo",
+    "https://www.youtube-nocookie.com/embed/lez2vGIgNOU"
+  ],
+  "bpm": 105,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Başak Doğru"
+  ],
+  "composers": null,
+  "conductor": "Garo Mafyan",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Fatih Orbay",
+  "stageDirector": null,
+  "writers": [
+    "Fuat Güner",
+    "Mazhar Alanson",
+    "Özkan Uğur"
+  ]
+}

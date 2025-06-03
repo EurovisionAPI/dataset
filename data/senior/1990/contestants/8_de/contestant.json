@@ -1,0 +1,35 @@
+{
+  "id": 8,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Chris Kempers & Daniel Kovac",
+  "artistPeople": [
+    "Christiane Kempers",
+    "Daniel Kovac"
+  ],
+  "song": "Frei zu leben",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hr0G7jJzjnA",
+    "https://www.youtube-nocookie.com/embed/vvc6Xwe9WeU",
+    "https://www.youtube-nocookie.com/embed/2eEuUtSg9As",
+    "https://www.youtube-nocookie.com/embed/ggR5A-wEJgg",
+    "https://www.youtube-nocookie.com/embed/Ea_DflFlQpQ"
+  ],
+  "bpm": 148,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Fritz Egner"
+  ],
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Rainer Pietsch",
+  "dancers": null,
+  "lyricists": [
+    "Michael Kunze"
+  ],
+  "spokesperson": "Kerstin Schweighöfer",
+  "stageDirector": null,
+  "writers": null
+}

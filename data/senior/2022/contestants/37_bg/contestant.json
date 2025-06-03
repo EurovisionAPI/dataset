@@ -1,0 +1,33 @@
+{
+  "id": 37,
+  "country": "BG",
+  "broadcaster": "BNT",
+  "artist": "Intelligent Music Project",
+  "artistPeople": null,
+  "song": "Intention",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EwZTI5AoTg4",
+    "https://www.youtube-nocookie.com/embed/HySI2igCcx4",
+    "https://www.youtube-nocookie.com/embed/C9U-WZ1-ZZw",
+    "https://www.youtube-nocookie.com/embed/eO2BnKrU7ZI",
+    "https://www.youtube-nocookie.com/embed/dcmmuzIH57o",
+    "https://www.youtube-nocookie.com/embed/El0tD8jm440",
+    "https://www.youtube-nocookie.com/embed/lDNgXXlSBM4"
+  ],
+  "bpm": 162,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Elena Rosberg",
+    "Petko Kralev"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Janan Dural",
+  "stageDirector": "Andrea Celi",
+  "writers": [
+    "Milen Vrabevski"
+  ]
+}

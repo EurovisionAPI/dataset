@@ -1,0 +1,44 @@
+{
+  "id": 23,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Melody",
+  "artistPeople": [
+    "Melodía Ruiz Gutiérrez"
+  ],
+  "song": "Esa diva",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IEKSa9FVLqA",
+    "https://www.youtube-nocookie.com/embed/_sfZ4L8pGzQ",
+    "https://www.youtube-nocookie.com/embed/H46FB-rLh04",
+    "https://www.youtube-nocookie.com/embed/2J9xYVcP4MA",
+    "https://www.youtube-nocookie.com/embed/PqOeAnGX1eg",
+    "https://www.youtube-nocookie.com/embed/6gB3HSVD1nc",
+    "https://www.youtube-nocookie.com/embed/P-qp57jp10k"
+  ],
+  "bpm": 127,
+  "tone": "F# major",
+  "backings": null,
+  "commentators": [
+    "Julia Varela",
+    "Sònia Urbano",
+    "Tony Aguilar",
+    "Xavi Martínez"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Alex Bullón",
+    "Ana Acosta",
+    "Iván Matías Urquiaga",
+    "Marc Montojo",
+    "Vicky Gómez"
+  ],
+  "lyricists": null,
+  "spokesperson": "Chanel Terrero",
+  "stageDirector": "Mario Crea",
+  "writers": [
+    "Alberto Fuentes Lorite",
+    "Melody"
+  ]
+}

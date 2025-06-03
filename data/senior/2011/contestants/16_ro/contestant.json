@@ -1,0 +1,40 @@
+{
+  "id": 16,
+  "country": "RO",
+  "broadcaster": "TVR",
+  "artist": "Hotel FM",
+  "artistPeople": [
+    "Alex Szűz",
+    "David Bryan",
+    "Gabriel Băruţă"
+  ],
+  "song": "Change",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2a1Q_hpGLbs",
+    "https://www.youtube-nocookie.com/embed/6hMmZSQoklc",
+    "https://www.youtube-nocookie.com/embed/96be3a5Wl8U",
+    "https://www.youtube-nocookie.com/embed/bxOUevKI7Fo"
+  ],
+  "bpm": 140,
+  "tone": "A major",
+  "backings": null,
+  "commentators": [
+    "Bogdan Pavlică",
+    "Liana Stanciu"
+  ],
+  "composers": [
+    "Gabriel Băruţă"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Alexandra Elena Gherase",
+    "Roxana Ureche"
+  ],
+  "lyricists": [
+    "Alexandra Ivan",
+    "Gabriel Băruţă"
+  ],
+  "spokesperson": "Malvina Cservenschi",
+  "stageDirector": null,
+  "writers": null
+}

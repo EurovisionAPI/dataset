@@ -1,0 +1,39 @@
+{
+  "id": 10,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Eva Santamaria",
+  "artistPeople": [
+    "Eva María Delgado"
+  ],
+  "song": "Hombres",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3qBedshMn1s",
+    "https://www.youtube-nocookie.com/embed/1TsE1oFslTg"
+  ],
+  "bpm": 103,
+  "tone": "Ab major",
+  "backings": [
+    "Eva Muedra",
+    "Francisco Santiago López",
+    "Joaquín Eduardo López",
+    "Kenny O'Brien",
+    "Leyla Hoyle"
+  ],
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "composers": [
+    "Carlos Toro",
+    "Christian de Walden",
+    "Ralf Steinman"
+  ],
+  "conductor": "Eduardo Leiva",
+  "dancers": null,
+  "lyricists": [
+    "Carlos Toro"
+  ],
+  "spokesperson": "María Ángeles Balañac",
+  "stageDirector": null,
+  "writers": null
+}

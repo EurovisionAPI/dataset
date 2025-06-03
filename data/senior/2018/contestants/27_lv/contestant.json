@@ -1,0 +1,40 @@
+{
+  "id": 27,
+  "country": "LV",
+  "broadcaster": "LTV",
+  "artist": "Laura Rizzotto",
+  "artistPeople": [
+    "Laura de Carvalho Rizzotto (Laura di Karvaļu Rizoto)"
+  ],
+  "song": "Funny Girl",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KGxANwWKz3U",
+    "https://www.youtube-nocookie.com/embed/6YLCVG-kg6w",
+    "https://www.youtube-nocookie.com/embed/zh57b-c5l9c",
+    "https://www.youtube-nocookie.com/embed/ZMxQuU5dQcM",
+    "https://www.youtube-nocookie.com/embed/YkPzUdrRoBc",
+    "https://www.youtube-nocookie.com/embed/quZ3tA5GxFE",
+    "https://www.youtube-nocookie.com/embed/lwi96WvmmUY"
+  ],
+  "bpm": 118,
+  "tone": "D minor",
+  "backings": [
+    "Antra Kūmiņa",
+    "Edgars Zvirbulis",
+    "Iluta Alsberga",
+    "Kristīne Pastare"
+  ],
+  "commentators": [
+    "Magnuss Eriņš",
+    "Toms Grēviņš"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Dagmāra Legante",
+  "stageDirector": null,
+  "writers": [
+    "Laura Rizzotto"
+  ]
+}

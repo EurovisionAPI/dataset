@@ -1,0 +1,42 @@
+{
+  "id": 8,
+  "country": "AU",
+  "broadcaster": "SBS",
+  "artist": "Kate Miller-Heidke",
+  "artistPeople": [
+    "Kate Miller-Heidke"
+  ],
+  "song": "Zero Gravity",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Eo5H62mCIsg",
+    "https://www.youtube-nocookie.com/embed/m3WF2AsxLB8",
+    "https://www.youtube-nocookie.com/embed/VlpBPO9_L4E",
+    "https://www.youtube-nocookie.com/embed/D2WGWG9RkeA",
+    "https://www.youtube-nocookie.com/embed/5YI623ePilI",
+    "https://www.youtube-nocookie.com/embed/jEMJ9PYGDfY",
+    "https://www.youtube-nocookie.com/embed/HpmgUJ8tloc"
+  ],
+  "bpm": 132,
+  "tone": "F# major",
+  "backings": [
+    "Adam Lahav",
+    "Emily Ryan",
+    "Emma Waite",
+    "Jess Hitchcock",
+    "Lilah Eliash"
+  ],
+  "commentators": [
+    "Joel Creasey",
+    "Myf Warhurst"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Michael Ross, Zaachariaha Fielding",
+  "stageDirector": "Philip Gleeson",
+  "writers": [
+    "Kate Miller-Heidke",
+    "Keir Nuttall"
+  ]
+}

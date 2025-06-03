@@ -1,0 +1,34 @@
+{
+  "id": 15,
+  "country": "NL",
+  "broadcaster": "NTS",
+  "artist": "Ronnie Tober",
+  "artistPeople": [
+    "Ronnie Tober"
+  ],
+  "song": "Morgen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/affwKYSz2P0",
+    "https://www.youtube-nocookie.com/embed/IfVsqOxEVFM",
+    "https://www.youtube-nocookie.com/embed/5w83_p2zCGA",
+    "https://www.youtube-nocookie.com/embed/9J-A9S4RrM8",
+    "https://www.youtube-nocookie.com/embed/_9FooiY2H0o"
+  ],
+  "bpm": 145,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": [
+    "Elles Berger"
+  ],
+  "composers": [
+    "Joop Stokkermans"
+  ],
+  "conductor": "Dolf van der Linden",
+  "dancers": null,
+  "lyricists": [
+    "Theo Strengers"
+  ],
+  "spokesperson": "Willem Duys",
+  "stageDirector": null,
+  "writers": null
+}

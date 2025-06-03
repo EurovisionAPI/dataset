@@ -1,0 +1,36 @@
+{
+  "id": 20,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Kraljevi Ulice & 75 Cents",
+  "artistPeople": [
+    "Ladislav Demeterffy",
+    "Miran 'Hadži' Veljković",
+    "Zlatko 'Pajo' Petrović",
+    "Zoran Lovrić"
+  ],
+  "song": "Romanca",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hcz-GO4ujbA",
+    "https://www.youtube-nocookie.com/embed/n-QHFPYiQ9Q",
+    "https://www.youtube-nocookie.com/embed/-ruNxmVI4TI",
+    "https://www.youtube-nocookie.com/embed/hmmrIW3Xj08"
+  ],
+  "bpm": 124,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Mia Lisak"
+  ],
+  "lyricists": null,
+  "spokesperson": "Barbara Kolar",
+  "stageDirector": null,
+  "writers": [
+    "Miran 'Hadži' Veljković"
+  ]
+}

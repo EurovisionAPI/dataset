@@ -1,0 +1,39 @@
+{
+  "id": 7,
+  "country": "AL",
+  "broadcaster": "RTSH",
+  "artist": "Shkodra Elektronike",
+  "artistPeople": [
+    "Beatriçe Gjergji",
+    "Kolë Laca"
+  ],
+  "song": "Zjerm",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xfn6ssOf_zU",
+    "https://www.youtube-nocookie.com/embed/cwVL1dbjqj4",
+    "https://www.youtube-nocookie.com/embed/RNT1SmmxuIk",
+    "https://www.youtube-nocookie.com/embed/O5Cuig1fycg",
+    "https://www.youtube-nocookie.com/embed/vP10k4gyijo",
+    "https://www.youtube-nocookie.com/embed/Sfvb761EEcM",
+    "https://www.youtube-nocookie.com/embed/IOOCbYpj8wk"
+  ],
+  "bpm": 95,
+  "tone": "C minor",
+  "backings": null,
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "composers": [
+    "Beatriçe Gjergji",
+    "Kolë Laca"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Beatriçe Gjergji",
+    "Lek Gjeloshi"
+  ],
+  "spokesperson": "Andri Xhahu",
+  "stageDirector": "Emanuele Kabu",
+  "writers": null
+}

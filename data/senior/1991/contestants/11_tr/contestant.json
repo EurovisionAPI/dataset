@@ -1,0 +1,35 @@
+{
+  "id": 11,
+  "country": "TR",
+  "broadcaster": "TRT",
+  "artist": "İzel Çeliköz, Reyhan Karaca & Can Uğurluer",
+  "artistPeople": [
+    "Can Uğurluer",
+    "İzel Çeliköz",
+    "Reyhan Karaca"
+  ],
+  "song": "Iki dakika",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YJu3nn5NLhw",
+    "https://www.youtube-nocookie.com/embed/FdeRFQ9vGVg",
+    "https://www.youtube-nocookie.com/embed/ETPO4ftGkZ4",
+    "https://www.youtube-nocookie.com/embed/UCmFUaL8PgQ"
+  ],
+  "bpm": 101,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": [
+    "Başak Doğru"
+  ],
+  "composers": [
+    "Şevket Uğurluer"
+  ],
+  "conductor": "Turhan Yükseler",
+  "dancers": null,
+  "lyricists": [
+    "Aysel Gürel"
+  ],
+  "spokesperson": "Canan Kumbasar",
+  "stageDirector": null,
+  "writers": null
+}

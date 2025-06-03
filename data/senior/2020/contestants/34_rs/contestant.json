@@ -1,0 +1,34 @@
+{
+  "id": 34,
+  "country": "RS",
+  "broadcaster": "RTS",
+  "artist": "Hurricane",
+  "artistPeople": [
+    "Ivana Nikolić",
+    "Ksenija Knežević",
+    "Sanja Vučić"
+  ],
+  "song": "Hasta la vista",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7fqZevYLUMs",
+    "https://www.youtube-nocookie.com/embed/E58fFu_4Vlg",
+    "https://www.youtube-nocookie.com/embed/zFXX6Lx53lY",
+    "https://www.youtube-nocookie.com/embed/nhMu4PKbhPw"
+  ],
+  "bpm": 103,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Nemanja Antonić"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Kosana Stojić",
+    "Sanja Vučić"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

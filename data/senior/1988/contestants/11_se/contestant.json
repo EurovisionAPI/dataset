@@ -1,0 +1,32 @@
+{
+  "id": 11,
+  "country": "SE",
+  "broadcaster": "SVT",
+  "artist": "Tommy Körberg",
+  "artistPeople": [
+    "Tommy Körberg"
+  ],
+  "song": "Stad i ljus",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mH-_fbD4iOo",
+    "https://www.youtube-nocookie.com/embed/GO9VUhn1TXk",
+    "https://www.youtube-nocookie.com/embed/giMSj9t9boY"
+  ],
+  "bpm": 147,
+  "tone": "G major",
+  "backings": [
+    "Urban Agnas"
+  ],
+  "commentators": [
+    "Bengt Grafström"
+  ],
+  "composers": null,
+  "conductor": "Anders Berglund",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Maud Uppling",
+  "stageDirector": null,
+  "writers": [
+    "Py Bäckman"
+  ]
+}

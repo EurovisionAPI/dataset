@@ -1,0 +1,45 @@
+{
+  "id": 7,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Giorgos Alkaios & Friends",
+  "artistPeople": [
+    "Giorgos Alkaios"
+  ],
+  "song": "Opa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/J50RL1rDisA",
+    "https://www.youtube-nocookie.com/embed/afISlW9_Rrg",
+    "https://www.youtube-nocookie.com/embed/_F-v8OPJ7lU",
+    "https://www.youtube-nocookie.com/embed/MGQDQ9OtWaA",
+    "https://www.youtube-nocookie.com/embed/T5kx2-wkG-c"
+  ],
+  "bpm": 121,
+  "tone": "C# minor",
+  "backings": [
+    "Anastasios Kanaridis",
+    "Gogua Iakovos",
+    "Jenia Evgenios Buli",
+    "Lazos Ioannidis",
+    "Petros Zlatkos"
+  ],
+  "commentators": [
+    "Rika Vagiani"
+  ],
+  "composers": [
+    "Giorgos Alkaios"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Anastasios Kanaridis",
+    "Giannis Antoniou",
+    "Gogua Iakovos",
+    "Jenia Evgenios Buli",
+    "Lazos Ioannidis",
+    "Petros Zlatkos"
+  ],
+  "spokesperson": "Alexis Kostalas",
+  "stageDirector": "Emy Armine Zaryan",
+  "writers": null
+}

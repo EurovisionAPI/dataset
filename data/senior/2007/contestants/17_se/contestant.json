@@ -1,0 +1,35 @@
+{
+  "id": 17,
+  "country": "SE",
+  "broadcaster": "SVT",
+  "artist": "The Ark",
+  "artistPeople": [
+    "Jens Andersson",
+    "Lars 'Leari' Ljungberg",
+    "Martin Axén",
+    "Mikael Jepson",
+    "Rolf Ola Anders Svensson",
+    "Sylvester Schlegel"
+  ],
+  "song": "The Worrying Kind",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/r02Lg8JIco0",
+    "https://www.youtube-nocookie.com/embed/gyhD6gBBjZY"
+  ],
+  "bpm": 134,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Josef Sterzenbach",
+    "Kristian Luuk"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "André Pops",
+  "stageDirector": null,
+  "writers": [
+    "Ola Salo"
+  ]
+}

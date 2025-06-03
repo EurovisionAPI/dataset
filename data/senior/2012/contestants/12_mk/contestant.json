@@ -1,0 +1,38 @@
+{
+  "id": 12,
+  "country": "MK",
+  "broadcaster": "MKRTV",
+  "artist": "Kaliopi",
+  "artistPeople": [
+    "Kaliopi Bukle (Калиопи Букле)"
+  ],
+  "song": "Crno I Belo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MSuCdNEy9w0",
+    "https://www.youtube-nocookie.com/embed/vpYF_B_mAIw",
+    "https://www.youtube-nocookie.com/embed/98FZchoQxvc"
+  ],
+  "bpm": 130,
+  "tone": "D minor",
+  "backings": [
+    "Darko Veleski",
+    "Goran Mihajlovski",
+    "Iris Stefanovska",
+    "Mario Stanković",
+    "Sanja Jovanovska"
+  ],
+  "commentators": [
+    "Karolina Petkovska"
+  ],
+  "composers": [
+    "Romeo Grill"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Kaliopi"
+  ],
+  "spokesperson": "Kristina Talevska",
+  "stageDirector": null,
+  "writers": null
+}

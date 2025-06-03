@@ -1,0 +1,35 @@
+{
+  "id": 31,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Guri Schanke",
+  "artistPeople": [
+    "Guri Schanke"
+  ],
+  "song": "Ven A Bailar Conmigo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hNjMDNxNIr4",
+    "https://www.youtube-nocookie.com/embed/_QqZsQk-Ztg"
+  ],
+  "bpm": 164,
+  "tone": "E minor",
+  "backings": [
+    "Åshild Kristin Stensrud",
+    "Asmund Grinaker",
+    "Bjørn Holthe",
+    "Jorunn Hauge",
+    "Karianne Kjærnes"
+  ],
+  "commentators": [
+    "Per Sundnes"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Synnøve Svabø",
+  "stageDirector": null,
+  "writers": [
+    "Thomas G:son"
+  ]
+}

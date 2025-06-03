@@ -1,0 +1,31 @@
+{
+  "id": 17,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Viktor Klimenko",
+  "artistPeople": [
+    "Viktor Klimenko"
+  ],
+  "song": "Aurinko laskee länteen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7Z8-jvfY-8s",
+    "https://www.youtube-nocookie.com/embed/sbNCp8v0k_I"
+  ],
+  "bpm": 113,
+  "tone": "C minor",
+  "backings": null,
+  "commentators": [
+    "Aarno Walli"
+  ],
+  "composers": [
+    "Toivo Kärki"
+  ],
+  "conductor": "George de Godzinsky",
+  "dancers": null,
+  "lyricists": [
+    "Reino Helismaa"
+  ],
+  "spokesperson": "Poppe Berg",
+  "stageDirector": null,
+  "writers": null
+}

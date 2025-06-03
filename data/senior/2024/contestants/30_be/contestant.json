@@ -1,0 +1,43 @@
+{
+  "id": 30,
+  "country": "BE",
+  "broadcaster": "RTBF",
+  "artist": "Mustii",
+  "artistPeople": [
+    "Thomas Mustin"
+  ],
+  "song": "Before the Party's Over",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hNIemQwCaM4",
+    "https://www.youtube-nocookie.com/embed/WCe9zrWEFNc",
+    "https://www.youtube-nocookie.com/embed/2_aOP5x0srs",
+    "https://www.youtube-nocookie.com/embed/4h1ZAQXYquM",
+    "https://www.youtube-nocookie.com/embed/0hCoFk6vuSs",
+    "https://www.youtube-nocookie.com/embed/dk7jzC1lyZg",
+    "https://www.youtube-nocookie.com/embed/Fp3NQjuJ49g"
+  ],
+  "bpm": 93,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": [
+    "Jean-Louis Lahaye",
+    "Maureen Louys",
+    "Peter Van de Veire"
+  ],
+  "composers": [
+    "Benoit Leclerq",
+    "Thomas Mustin",
+    "Pierre Dumoulin"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Arianna Damato",
+    "Charlotte Clark",
+    "Thomas Mustin",
+    "Nina Sampermans"
+  ],
+  "spokesperson": "Livia Dushkoff",
+  "stageDirector": null,
+  "writers": null
+}

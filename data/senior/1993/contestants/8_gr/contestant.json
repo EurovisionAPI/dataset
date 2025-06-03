@@ -1,0 +1,33 @@
+{
+  "id": 8,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Kaiti Garbi",
+  "artistPeople": [
+    "Keti Garbi"
+  ],
+  "song": "Ellada, hora tu fotos",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PzuHYDrn-kY",
+    "https://www.youtube-nocookie.com/embed/1wWJqe2WIUw"
+  ],
+  "bpm": 115,
+  "tone": "D minor",
+  "backings": [
+    "Nikos Terzis",
+    "Stelios Zachariou",
+    "Victoria Halkiti"
+  ],
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "composers": null,
+  "conductor": "Haris Andreadis",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Fotini Giannoulatou",
+  "stageDirector": null,
+  "writers": [
+    "Dimosthenis Stringlis"
+  ]
+}

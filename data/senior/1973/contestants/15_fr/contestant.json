@@ -1,0 +1,32 @@
+{
+  "id": 15,
+  "country": "FR",
+  "broadcaster": "ORTF",
+  "artist": "Martine Clémenceau",
+  "artistPeople": [
+    "Martine Clémenceau"
+  ],
+  "song": "Sans toi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_Ih4wpHaFe8",
+    "https://www.youtube-nocookie.com/embed/Y81izzAiCKM",
+    "https://www.youtube-nocookie.com/embed/Mwdfj30RaK0"
+  ],
+  "bpm": 162,
+  "tone": "F# major",
+  "backings": null,
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "composers": [
+    "Paul Koulak"
+  ],
+  "conductor": "Jean Claudric",
+  "dancers": null,
+  "lyricists": [
+    "Anne Grégory"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2,
+  "country": "MT",
+  "broadcaster": "XM",
+  "artist": "Mary Spiteri",
+  "artistPeople": [
+    "Mary Spiteri"
+  ],
+  "song": "Little Child",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tTB6JjVgiSg",
+    "https://www.youtube-nocookie.com/embed/ukfXeehixGQ",
+    "https://www.youtube-nocookie.com/embed/gdQFpV-m5ms",
+    "https://www.youtube-nocookie.com/embed/nXQjOEszTH0"
+  ],
+  "bpm": 155,
+  "tone": "E major",
+  "backings": [
+    "Elisabeth Melander",
+    "Margareta Nilsson",
+    "Staffan Paulsson"
+  ],
+  "commentators": null,
+  "composers": [
+    "Georgina Abela"
+  ],
+  "conductor": "Paul Abela",
+  "dancers": null,
+  "lyricists": [
+    "Raymond Mahoney"
+  ],
+  "spokesperson": "Anna Bonanno",
+  "stageDirector": null,
+  "writers": null
+}

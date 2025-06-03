@@ -1,0 +1,37 @@
+{
+  "id": 2,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Katja Ebstein",
+  "artistPeople": [
+    "Karin Ilse Überall",
+    "Karin Witkiewicz"
+  ],
+  "song": "Wunder gibt es immer wieder",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IuNyRmeDuRs",
+    "https://www.youtube-nocookie.com/embed/KDOSUSWL6zc",
+    "https://www.youtube-nocookie.com/embed/JfKjK9EPq24",
+    "https://www.youtube-nocookie.com/embed/ggOlGBMRsL4",
+    "https://www.youtube-nocookie.com/embed/q58v6eKsgzE",
+    "https://www.youtube-nocookie.com/embed/WpPpju-B0sE",
+    "https://www.youtube-nocookie.com/embed/ZHigdE06jX4"
+  ],
+  "bpm": 164,
+  "tone": "E major",
+  "backings": null,
+  "commentators": [
+    "Marie-Louise Steinbauer"
+  ],
+  "composers": [
+    "Christian Bruhn"
+  ],
+  "conductor": "Christian Bruhn",
+  "dancers": null,
+  "lyricists": [
+    "Günter Loose"
+  ],
+  "spokesperson": "Hans-Otto Grünefeldt",
+  "stageDirector": null,
+  "writers": null
+}

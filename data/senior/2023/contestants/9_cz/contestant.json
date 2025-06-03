@@ -1,0 +1,47 @@
+{
+  "id": 9,
+  "country": "CZ",
+  "broadcaster": "ČT",
+  "artist": "Vesna",
+  "artistPeople": [
+    "Bára Juránková",
+    "Markéta Vedralová",
+    "Olesya Ochepovská",
+    "Patricie Kaňok Fuxová",
+    "Tanita Yankova",
+    "Tereza Čepková"
+  ],
+  "song": "My Sister's Crown",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ag8qxpvTTy0",
+    "https://www.youtube-nocookie.com/embed/bFm-hw2rUeA",
+    "https://www.youtube-nocookie.com/embed/5nuypbLMfNQ",
+    "https://www.youtube-nocookie.com/embed/OZxQS4givVo",
+    "https://www.youtube-nocookie.com/embed/e9B3tRhxPfU",
+    "https://www.youtube-nocookie.com/embed/vZMPlXjMRe4",
+    "https://www.youtube-nocookie.com/embed/jyW6eOr8D-0"
+  ],
+  "bpm": 150,
+  "tone": "E minor",
+  "backings": null,
+  "commentators": [
+    "Jan Maxián"
+  ],
+  "composers": [
+    "Adam Albrecht",
+    "Michal Jiráň",
+    "Patricie Kaňok Fuxová",
+    "Šimon Martínek",
+    "Tanita Yankova"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Kateryna Vatchenko",
+    "Patricie Kaňok Fuxová",
+    "Tanita Yankova"
+  ],
+  "spokesperson": "Radka Rosická",
+  "stageDirector": "Matyáš Vorda, Vítek Bělohradský",
+  "writers": null
+}

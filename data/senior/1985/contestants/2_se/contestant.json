@@ -1,0 +1,38 @@
+{
+  "id": 2,
+  "country": "SE",
+  "broadcaster": "SVT",
+  "artist": "Kikki Danielsson",
+  "artistPeople": [
+    "Ann-Kristin Danielsson-Roos"
+  ],
+  "song": "Bra vibrationer",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4HzLAePT-5E",
+    "https://www.youtube-nocookie.com/embed/mYCbZzKptS8",
+    "https://www.youtube-nocookie.com/embed/_-N3QlNaWHw"
+  ],
+  "bpm": 98,
+  "tone": "C major",
+  "backings": [
+    "David Johnson",
+    "Lennart Sjöholm",
+    "Liza Öhman",
+    "Lotta Pedersen",
+    "Mary Johnson"
+  ],
+  "commentators": [
+    "Fredrik Belfrage"
+  ],
+  "composers": [
+    "Lasse Holm"
+  ],
+  "conductor": "Curt-Eric Holmquist",
+  "dancers": null,
+  "lyricists": [
+    "Ingela Forsman"
+  ],
+  "spokesperson": "Agneta Bolme-Börjefors",
+  "stageDirector": null,
+  "writers": null
+}

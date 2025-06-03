@@ -1,0 +1,31 @@
+{
+  "id": 4,
+  "country": "AZ",
+  "broadcaster": "İctimai",
+  "artist": "Efendi",
+  "artistPeople": [
+    "Samira Azer gizi Efendiyeva (Samirə Azər qızı Əfəndiyeva)"
+  ],
+  "song": "Cleopatra",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/I0VzBCvO1Wk",
+    "https://www.youtube-nocookie.com/embed/oNKGLJTGSNU",
+    "https://www.youtube-nocookie.com/embed/1xFrv8VFctc",
+    "https://www.youtube-nocookie.com/embed/snBZ7Gxi7_s"
+  ],
+  "bpm": 170,
+  "tone": "D major",
+  "backings": null,
+  "commentators": null,
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Alan Roy Scott",
+    "Luuk van Beers",
+    "Sarah Lake"
+  ]
+}

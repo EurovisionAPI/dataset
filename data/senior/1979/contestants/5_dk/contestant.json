@@ -1,0 +1,38 @@
+{
+  "id": 5,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Tommy Seebach",
+  "artistPeople": [
+    "Tommy Seebach"
+  ],
+  "song": "Disco tango",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XZ44_wBTHWU",
+    "https://www.youtube-nocookie.com/embed/SswthsHGDII",
+    "https://www.youtube-nocookie.com/embed/-TLFg-ulaG8",
+    "https://www.youtube-nocookie.com/embed/jAhtl5WInsE",
+    "https://www.youtube-nocookie.com/embed/di8I_YnmyYc"
+  ],
+  "bpm": 133,
+  "tone": "G minor",
+  "backings": [
+    "Debbie Cameron",
+    "Ianne Elo",
+    "Michael Elo"
+  ],
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "composers": [
+    "Tommy Seebach"
+  ],
+  "conductor": "Allan Botschinsky",
+  "dancers": null,
+  "lyricists": [
+    "Keld Heick"
+  ],
+  "spokesperson": "Bent Henius",
+  "stageDirector": null,
+  "writers": null
+}

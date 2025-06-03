@@ -1,0 +1,15 @@
+{
+  "year": 1975,
+  "arena": "St. Eriks Mässan Alvsjö",
+  "city": "Stockholm",
+  "country": "SE",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1975.png",
+  "presenters": [
+    "Karin Falck"
+  ],
+  "broadcasters": [
+    "SR"
+  ]
+}

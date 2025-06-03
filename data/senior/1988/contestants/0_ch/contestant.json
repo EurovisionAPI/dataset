@@ -1,0 +1,38 @@
+{
+  "id": 0,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Céline Dion",
+  "artistPeople": [
+    "Céline Marie Claudette Dion"
+  ],
+  "song": "Ne partez pas sans moi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VXLWfXmlXPc",
+    "https://www.youtube-nocookie.com/embed/TuSr-dJz3h8",
+    "https://www.youtube-nocookie.com/embed/VEenAGm7IpE",
+    "https://www.youtube-nocookie.com/embed/PiwY4QqRF8A",
+    "https://www.youtube-nocookie.com/embed/I1CwpCNThO4",
+    "https://www.youtube-nocookie.com/embed/fc15NK89NjI",
+    "https://www.youtube-nocookie.com/embed/6sShwQ6DryI"
+  ],
+  "bpm": 144,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Bernard Thurnheer",
+    "Ezio Guidi",
+    "Serge Moisson"
+  ],
+  "composers": [
+    "Atilla Şereftuğ"
+  ],
+  "conductor": "Atilla Şereftuğ",
+  "dancers": null,
+  "lyricists": [
+    "Nella Martinetti"
+  ],
+  "spokesperson": "Michel Stocker",
+  "stageDirector": null,
+  "writers": null
+}

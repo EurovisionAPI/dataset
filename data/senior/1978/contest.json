@@ -1,0 +1,16 @@
+{
+  "year": 1978,
+  "arena": "Palais des Congrès",
+  "city": "Paris",
+  "country": "FR",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1978.png",
+  "presenters": [
+    "Denise Fabre",
+    "Léon Zitrone"
+  ],
+  "broadcasters": [
+    "TF1"
+  ]
+}

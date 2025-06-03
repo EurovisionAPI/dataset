@@ -1,0 +1,48 @@
+{
+  "id": 22,
+  "country": "SI",
+  "broadcaster": "RTVSLO",
+  "artist": "Raiven",
+  "artistPeople": [
+    "Sara Briški Cirman"
+  ],
+  "song": "Veronika",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/l86DxpRnz5M",
+    "https://www.youtube-nocookie.com/embed/uWcSsi7SliI",
+    "https://www.youtube-nocookie.com/embed/tSek8SqlDIA",
+    "https://www.youtube-nocookie.com/embed/Pg2-kFhZTVk",
+    "https://www.youtube-nocookie.com/embed/g0angefcNow",
+    "https://www.youtube-nocookie.com/embed/CK9COsurgpw",
+    "https://www.youtube-nocookie.com/embed/qkRjJnJjBps"
+  ],
+  "bpm": 135,
+  "tone": "F minor",
+  "backings": null,
+  "commentators": [
+    "Mojca Mavec"
+  ],
+  "composers": [
+    "Bojan Cvjetićanin",
+    "Danilo Kapel",
+    "Martin Bezjak",
+    "Peter Khoo",
+    "Sara Briški Cirman"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Filippo Jorio",
+    "Lukas Bareman",
+    "Marin Ino",
+    "Mateja Železnik",
+    "Matteo Moretto"
+  ],
+  "lyricists": [
+    "Bojan Cvjetićanin",
+    "Klavdija Kopina",
+    "Sara Briški Cirman"
+  ],
+  "spokesperson": "Lorella Flego",
+  "stageDirector": "Nejc Levstik",
+  "writers": null
+}

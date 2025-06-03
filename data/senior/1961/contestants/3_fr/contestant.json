@@ -1,0 +1,32 @@
+{
+  "id": 3,
+  "country": "FR",
+  "broadcaster": "RTF",
+  "artist": "Jean-Paul Mauric",
+  "artistPeople": [
+    "Jean-Paul Mauric"
+  ],
+  "song": "Printemps, avril carillonne",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ci-6Sl2jO_4",
+    "https://www.youtube-nocookie.com/embed/bEIOrcvUFTI",
+    "https://www.youtube-nocookie.com/embed/-gd23_lQYyI"
+  ],
+  "bpm": 94,
+  "tone": "E major",
+  "backings": null,
+  "commentators": [
+    "Robert Beauvais"
+  ],
+  "composers": [
+    "Francis Baxter"
+  ],
+  "conductor": "Franck Pourcel",
+  "dancers": null,
+  "lyricists": [
+    "Guy Favereau"
+  ],
+  "spokesperson": "Armand Lanoux",
+  "stageDirector": null,
+  "writers": null
+}

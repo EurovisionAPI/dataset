@@ -1,0 +1,36 @@
+{
+  "id": 29,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Marcin Mroziński",
+  "artistPeople": [
+    "Marcin Mroziński"
+  ],
+  "song": "Legenda",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VmEUURZXUlE",
+    "https://www.youtube-nocookie.com/embed/BrE85gJsioM"
+  ],
+  "bpm": 112,
+  "tone": "E major",
+  "backings": [
+    "Małgorzata 'Malgosia' Czaczkowska",
+    "Mirella Kostrzewa",
+    "Oliwia Kukułka",
+    "Weronika Bochat-Piotrowska"
+  ],
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "composers": [
+    "Marcin Nierubiec"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Marcin Mroziński"
+  ],
+  "spokesperson": "Aleksandra Rosiak",
+  "stageDirector": "Dariusz Lewandowski",
+  "writers": null
+}

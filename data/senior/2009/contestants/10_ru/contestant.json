@@ -1,0 +1,35 @@
+{
+  "id": 10,
+  "country": "RU",
+  "broadcaster": "C1R",
+  "artist": "Anastasia Prikhodko",
+  "artistPeople": [
+    "Anastasiya Konstantynivna Prykhodko"
+  ],
+  "song": "Mamo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vxZGknFxE58",
+    "https://www.youtube-nocookie.com/embed/MtIddzCgMn0",
+    "https://www.youtube-nocookie.com/embed/vZbHXZtm9Ck"
+  ],
+  "bpm": 130,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": [
+    "Aleksey Manuylov",
+    "Philipp Kirkorov",
+    "Yana Churikova"
+  ],
+  "composers": [
+    "Konstantin Meladze"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Diana Golde",
+    "Konstantin Meladze"
+  ],
+  "spokesperson": "Ingeborga Dapkunaite",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": 7,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Mørland & Debrah Scarlett",
+  "artistPeople": [
+    "Joanna Deborah Bussinger",
+    "Kjetil Mørland"
+  ],
+  "song": "A Monster Like Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oVKJK9yb5xY",
+    "https://www.youtube-nocookie.com/embed/T0VSKeptWHc",
+    "https://www.youtube-nocookie.com/embed/3fwg5c2gCEg",
+    "https://www.youtube-nocookie.com/embed/LYMzvVyo0I4",
+    "https://www.youtube-nocookie.com/embed/8VbwwgxlVQo",
+    "https://www.youtube-nocookie.com/embed/I9NhOeJ-bzA",
+    "https://www.youtube-nocookie.com/embed/D509S6akMrU"
+  ],
+  "bpm": 147,
+  "tone": "E major",
+  "backings": [
+    "Bjørnar Reime Erlandsen",
+    "Håvard Gryting",
+    "Julie Lillehaug Kaasa",
+    "May Kristin Kaspersen"
+  ],
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Margrethe Røed",
+  "stageDirector": "Mattias Carlsson",
+  "writers": [
+    "Kjetil Mørland"
+  ]
+}

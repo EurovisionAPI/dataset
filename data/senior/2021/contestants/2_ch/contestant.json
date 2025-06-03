@@ -1,0 +1,46 @@
+{
+  "id": 2,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Gjon's Tears",
+  "artistPeople": [
+    "Gjon Muharremaj"
+  ],
+  "song": "Tout l'univers",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jznH_fltcYA",
+    "https://www.youtube-nocookie.com/embed/bpM6o6UiBIw",
+    "https://www.youtube-nocookie.com/embed/M_5mo8st8Mc",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/Wh6tUykHXYs",
+    "https://www.youtube-nocookie.com/embed/7LfTUYRzjXY",
+    "https://www.youtube-nocookie.com/embed/42mvv6tqGNU"
+  ],
+  "bpm": 123,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": [
+    "Clarissa Tami",
+    "Jean-Marc Richard",
+    "Joseph Gorgoni",
+    "Nicolas Tanner",
+    "Sebalter",
+    "Sven Epiney"
+  ],
+  "composers": [
+    "Gjon Muharremaj",
+    "Nina Sampermans",
+    "Wouter Hardy",
+    "Xavier Michel"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Gjon Muharremaj",
+    "Nina Sampermans",
+    "Wouter Hardy"
+  ],
+  "spokesperson": "Angélique Beldner",
+  "stageDirector": "Sacha Jean-Baptiste",
+  "writers": null
+}

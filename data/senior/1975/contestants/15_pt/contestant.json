@@ -1,0 +1,36 @@
+{
+  "id": 15,
+  "country": "PT",
+  "broadcaster": "RTP",
+  "artist": "Duarte Mendes",
+  "artistPeople": [
+    "José Henrique Duarte Mendes"
+  ],
+  "song": "Madrugada",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0GBNvbY4psM",
+    "https://www.youtube-nocookie.com/embed/lhDwxewFvI8",
+    "https://www.youtube-nocookie.com/embed/UktAgY-ugOE",
+    "https://www.youtube-nocookie.com/embed/VcCTgBqenOI",
+    "https://www.youtube-nocookie.com/embed/3R0U8j542ik"
+  ],
+  "bpm": 97,
+  "tone": "F major",
+  "backings": [
+    "Annica Risberg",
+    "Kerstin Bagge",
+    "Kerstin Dahl"
+  ],
+  "commentators": [
+    "Júlio Isidro"
+  ],
+  "composers": null,
+  "conductor": "Pedro Osório",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ana Zanatti",
+  "stageDirector": null,
+  "writers": [
+    "José Luís Tinoco"
+  ]
+}

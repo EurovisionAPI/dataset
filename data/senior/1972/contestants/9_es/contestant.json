@@ -1,0 +1,32 @@
+{
+  "id": 9,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Jaime Morey",
+  "artistPeople": [
+    "Jaime Garcia Morey"
+  ],
+  "song": "Amanece",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gQhFbPhyhfI",
+    "https://www.youtube-nocookie.com/embed/4aZwVqMmHqg",
+    "https://www.youtube-nocookie.com/embed/gb8zgjFSfn8"
+  ],
+  "bpm": 114,
+  "tone": "B minor",
+  "backings": null,
+  "commentators": [
+    "Julio Rico"
+  ],
+  "composers": [
+    "Augusto Algueró"
+  ],
+  "conductor": "Augusto Algueró",
+  "dancers": null,
+  "lyricists": [
+    "Ramón Arcusa"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

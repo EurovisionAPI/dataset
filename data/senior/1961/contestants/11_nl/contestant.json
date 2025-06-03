@@ -1,0 +1,31 @@
+{
+  "id": 11,
+  "country": "NL",
+  "broadcaster": "NTS",
+  "artist": "Greetje Kauffeld",
+  "artistPeople": [
+    "Greetje Kauffeld"
+  ],
+  "song": "Wat een dag",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eBnIF9gQxkg",
+    "https://www.youtube-nocookie.com/embed/0u8A9rgrh_w"
+  ],
+  "bpm": 89,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Piet te Nuyl Jr."
+  ],
+  "composers": [
+    "Dick Schallies"
+  ],
+  "conductor": "Dolf van der Linden",
+  "dancers": null,
+  "lyricists": [
+    "Pieter Goemans"
+  ],
+  "spokesperson": "Siebe van der Zee",
+  "stageDirector": null,
+  "writers": null
+}

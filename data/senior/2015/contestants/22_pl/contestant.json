@@ -1,0 +1,38 @@
+{
+  "id": 22,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Monika Kuszyńska",
+  "artistPeople": [
+    "Monika Kuszyńska"
+  ],
+  "song": "In The Name Of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TReYIZYloSg",
+    "https://www.youtube-nocookie.com/embed/VBI8TQXi--M",
+    "https://www.youtube-nocookie.com/embed/4fjWLzeQ9K8",
+    "https://www.youtube-nocookie.com/embed/IEuYeLzQjXQ",
+    "https://www.youtube-nocookie.com/embed/ipe7-P7miIA"
+  ],
+  "bpm": 83,
+  "tone": "C# major",
+  "backings": [
+    "Jan Radwan",
+    "Natalia Bajak",
+    "Ola Tabiszewska"
+  ],
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "composers": [
+    "Jakub Raczyński"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Monika Kuszyńska"
+  ],
+  "spokesperson": "Ola Ciupa",
+  "stageDirector": "Mikołaj Dobrowolski",
+  "writers": null
+}

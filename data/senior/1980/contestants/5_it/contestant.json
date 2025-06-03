@@ -1,0 +1,31 @@
+{
+  "id": 5,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Alan Sorrenti",
+  "artistPeople": [
+    "Alan Sorrenti"
+  ],
+  "song": "Non so che darei",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/f3lzcABXEA4",
+    "https://www.youtube-nocookie.com/embed/Lx3NA-M3VoU",
+    "https://www.youtube-nocookie.com/embed/jaK4ukE999w",
+    "https://www.youtube-nocookie.com/embed/-tmBjgs3jfg"
+  ],
+  "bpm": 172,
+  "tone": "A major",
+  "backings": null,
+  "commentators": [
+    "Michele Gammino"
+  ],
+  "composers": null,
+  "conductor": "Del Newman",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Mariolina Cannuli",
+  "stageDirector": null,
+  "writers": [
+    "Alan Sorrenti"
+  ]
+}

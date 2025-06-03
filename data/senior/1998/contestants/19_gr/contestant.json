@@ -1,0 +1,39 @@
+{
+  "id": 19,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Thalassa",
+  "artistPeople": [
+    "Dionyssia Karoki Georgopoulou",
+    "Yiannis Valvis"
+  ],
+  "song": "Mia krifi evesthisia",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RJ8UEtgDqQQ",
+    "https://www.youtube-nocookie.com/embed/STNeokuKZxk",
+    "https://www.youtube-nocookie.com/embed/kEhfgfaV9l0",
+    "https://www.youtube-nocookie.com/embed/Y4q7qwPvDdY"
+  ],
+  "bpm": 133,
+  "tone": "C# minor",
+  "backings": [
+    "Dimitra Meteveli",
+    "Elsa Afentaki",
+    "Iakovos Misrachi",
+    "Manos Manouselis"
+  ],
+  "commentators": [
+    "Giorgos Mitropoulos"
+  ],
+  "composers": [
+    "Yiannis Valvis"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Yiannis Malachias"
+  ],
+  "spokesperson": "Alexis Kostalas",
+  "stageDirector": null,
+  "writers": null
+}

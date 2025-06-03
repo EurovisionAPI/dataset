@@ -1,0 +1,40 @@
+{
+  "id": 24,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Gunvor",
+  "artistPeople": [
+    "Gunvor Guggisberg"
+  ],
+  "song": "Lass ihn",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Tyh39VaRcV0",
+    "https://www.youtube-nocookie.com/embed/c7QE8gRrowo",
+    "https://www.youtube-nocookie.com/embed/yqRyzU8_MoE"
+  ],
+  "bpm": 150,
+  "tone": "G minor",
+  "backings": [
+    "Claudio Sivano",
+    "Damian Meyer",
+    "Egon Egemann",
+    "Irja Guggisberg",
+    "Sandra Heusser"
+  ],
+  "commentators": [
+    "Heinz Margot",
+    "Jean-Marc Richard",
+    "Jonathan Tedesco",
+    "Roman Kilchsperger"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Regula Elsener",
+  "stageDirector": null,
+  "writers": [
+    "Egon Egemann",
+    "Gunvor Guggisberg"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 18,
+  "country": "FR",
+  "broadcaster": "France 3",
+  "artist": "Sébastien Tellier",
+  "artistPeople": [
+    "Sébastien Tellier"
+  ],
+  "song": "Divine",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CZQjBCvFd9E",
+    "https://www.youtube-nocookie.com/embed/Vz58Hw9hldw",
+    "https://www.youtube-nocookie.com/embed/2aXBoj-aPQ4"
+  ],
+  "bpm": 142,
+  "tone": "Eb major",
+  "backings": [
+    "Abigael Debit",
+    "Falone Tayoung",
+    "Marie Djemali",
+    "Sheliyah Masry",
+    "Stanislas Debit"
+  ],
+  "commentators": [
+    "Jean-Paul Gaultier",
+    "Julien Lepers",
+    "Peggy Olmi",
+    "Yann Renoard"
+  ],
+  "composers": [
+    "Sébastien Tellier"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Amandine de La Richardière",
+    "Sébastien Tellier"
+  ],
+  "spokesperson": "Cyril Hanouna",
+  "stageDirector": null,
+  "writers": null
+}

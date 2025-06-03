@@ -1,0 +1,16 @@
+{
+  "year": 1994,
+  "arena": "Point Theatre",
+  "city": "Dublin",
+  "country": "IE",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1994.png",
+  "presenters": [
+    "Cynthia Ni Mhurchú",
+    "Gerry Ryan"
+  ],
+  "broadcasters": [
+    "Raidió Teilifís Éireann (RTÉ)"
+  ]
+}

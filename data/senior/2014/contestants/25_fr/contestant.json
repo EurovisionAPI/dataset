@@ -1,0 +1,44 @@
+{
+  "id": 25,
+  "country": "FR",
+  "broadcaster": "FT3",
+  "artist": "Twin Twin",
+  "artistPeople": [
+    "François Djemel",
+    "Lorent Ardouvin",
+    "Patrick Biyik"
+  ],
+  "song": "Moustache",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vjkqciwP034",
+    "https://www.youtube-nocookie.com/embed/hWJFfnHNOWI",
+    "https://www.youtube-nocookie.com/embed/JgETLmo7utQ"
+  ],
+  "bpm": 128,
+  "tone": "Eb minor",
+  "backings": [
+    "Ulrich Kwasi"
+  ],
+  "commentators": [
+    "Audrey Chauveau",
+    "Bruno Berberes",
+    "Cyril Féraud",
+    "Natasha St-Pier"
+  ],
+  "composers": [
+    "Kim N'Guyen",
+    "Pierre Beyres"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Céline Baron",
+    "Jonathan Jenvrin"
+  ],
+  "lyricists": [
+    "François Ardouvin",
+    "Lorent Idir"
+  ],
+  "spokesperson": "Elodie Suigo",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": 18,
+  "country": "BE",
+  "broadcaster": "VRT",
+  "artist": "Hooverphonic",
+  "artistPeople": [
+    "Geike Arnaert"
+  ],
+  "song": "The Wrong Place",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HbpxcUMtjwY",
+    "https://www.youtube-nocookie.com/embed/DaBiom7_rvU",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/0EQyG1Yjlgw",
+    "https://www.youtube-nocookie.com/embed/NnlFBdL4maY",
+    "https://www.youtube-nocookie.com/embed/VHdN3_B5YdA",
+    "https://www.youtube-nocookie.com/embed/aeX0RgvzmNI"
+  ],
+  "bpm": 80,
+  "tone": "C major",
+  "backings": [
+    "Alex Callier",
+    "Arnout Hellofs",
+    "Stef Caers",
+    "Monique Harcum",
+    "Raymond Geerts"
+  ],
+  "commentators": [
+    "Fanny Jandrain",
+    "Jean-Louis Lahaye",
+    "Peter Van de Veire"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Danira Boukhriss Terkessidis",
+  "stageDirector": "Hans Pannecoucke, Ignace D'Haese",
+  "writers": [
+    "Alex Callier",
+    "Charlotte Foret"
+  ]
+}

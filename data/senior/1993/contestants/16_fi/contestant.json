@@ -1,0 +1,37 @@
+{
+  "id": 16,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Katri-Helena",
+  "artistPeople": [
+    "Katri Helena Kalaoja"
+  ],
+  "song": "Tule luo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EJCCQ_4_jgw",
+    "https://www.youtube-nocookie.com/embed/htDhjtnT35U",
+    "https://www.youtube-nocookie.com/embed/-4B5fihtYO4"
+  ],
+  "bpm": 178,
+  "tone": "G minor",
+  "backings": [
+    "Anita Pajunen",
+    "Pave Maijanen",
+    "Pepe Willberg"
+  ],
+  "commentators": [
+    "Erkki Pohjanheimo",
+    "Kirsi-Maria Niemi"
+  ],
+  "composers": [
+    "Matti Puurtinen"
+  ],
+  "conductor": "Olli Ahvenlahti",
+  "dancers": null,
+  "lyricists": [
+    "Jukka Saarinen"
+  ],
+  "spokesperson": "Solveig Herlin",
+  "stageDirector": null,
+  "writers": null
+}

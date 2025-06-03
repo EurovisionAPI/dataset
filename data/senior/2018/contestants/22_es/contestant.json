@@ -1,0 +1,37 @@
+{
+  "id": 22,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Amaia & Alfred",
+  "artistPeople": [
+    "Alfred García Castillo",
+    "Amaia Romero Arbizu"
+  ],
+  "song": "Tu canción",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/28oMEFgSoyk",
+    "https://www.youtube-nocookie.com/embed/nO4mDiJRH6Q",
+    "https://www.youtube-nocookie.com/embed/g8wx7BRfqSI",
+    "https://www.youtube-nocookie.com/embed/RDm-GGHYfU4",
+    "https://www.youtube-nocookie.com/embed/UD2Wkqr0RD0",
+    "https://www.youtube-nocookie.com/embed/d7mbclbS1Fo",
+    "https://www.youtube-nocookie.com/embed/PKsoEFJueP0"
+  ],
+  "bpm": 121,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Julia Varela",
+    "Tony Aguilar"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Nieves Álvarez",
+  "stageDirector": "Tinet Rubira",
+  "writers": [
+    "Raúl Gómez García",
+    "Sylvia Ruth Santoro López"
+  ]
+}

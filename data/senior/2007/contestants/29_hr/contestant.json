@@ -1,0 +1,33 @@
+{
+  "id": 29,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Dragonfly feat. Dado Topic",
+  "artistPeople": [
+    "Branko Badanjak",
+    "Branko Kužnar-Žan",
+    "Adolf Topić",
+    "Drago Vidaković",
+    "Iva Gluhak"
+  ],
+  "song": "Vjerujem u ljubav",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/orMSTz7povE",
+    "https://www.youtube-nocookie.com/embed/mnA7HV4EPQ8"
+  ],
+  "bpm": 100,
+  "tone": "B minor",
+  "backings": null,
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Barbara Kolar",
+  "stageDirector": null,
+  "writers": [
+    "Dado Topić"
+  ]
+}

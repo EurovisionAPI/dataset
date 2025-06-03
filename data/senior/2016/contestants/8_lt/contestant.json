@@ -1,0 +1,40 @@
+{
+  "id": 8,
+  "country": "LT",
+  "broadcaster": "LRT",
+  "artist": "Donny Montell",
+  "artistPeople": [
+    "Donatas Montvydas"
+  ],
+  "song": "I've Been Waiting for This Night",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/O1wS7NNCo38",
+    "https://www.youtube-nocookie.com/embed/7cAIsbUczSI",
+    "https://www.youtube-nocookie.com/embed/EdOEKBhMN-U",
+    "https://www.youtube-nocookie.com/embed/2TOeliUKPMU",
+    "https://www.youtube-nocookie.com/embed/HZhH4CfqvT0",
+    "https://www.youtube-nocookie.com/embed/MnZbPWUlreI",
+    "https://www.youtube-nocookie.com/embed/8hXWnAa2r-c"
+  ],
+  "bpm": 134,
+  "tone": "A major",
+  "backings": [
+    "Justina Budaitė",
+    "Karolina Rasten",
+    "Kotryna Juodzevičiūtė",
+    "Rasa Doniela"
+  ],
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ugnė Galadauskaitė",
+  "stageDirector": "Sacha Jean-Baptiste",
+  "writers": [
+    "Beatrice Robertsson",
+    "Jonas Thander"
+  ]
+}

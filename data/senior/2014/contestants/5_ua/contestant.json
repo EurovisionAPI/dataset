@@ -1,0 +1,42 @@
+{
+  "id": 5,
+  "country": "UA",
+  "broadcaster": "NTU",
+  "artist": "Mariya Yaremchuk",
+  "artistPeople": [
+    "Mariya Nazarivna Yaremchuk (Марія Назарівна Яремчук)"
+  ],
+  "song": "Tick - Tock",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/slHboKF9PIQ",
+    "https://www.youtube-nocookie.com/embed/h5DhH0jWyfk",
+    "https://www.youtube-nocookie.com/embed/sdAf2EjhRiE",
+    "https://www.youtube-nocookie.com/embed/dJHRLjnkiuI",
+    "https://www.youtube-nocookie.com/embed/kvc1wqPvqp8",
+    "https://www.youtube-nocookie.com/embed/a38Q2H06REg"
+  ],
+  "bpm": 125,
+  "tone": "F# minor",
+  "backings": [
+    "Anna Linnéa Isbäck",
+    "Anneli Maria Tornkvist",
+    "Elin Eva Maria Svensson",
+    "Graciela Chin A Loi"
+  ],
+  "commentators": [
+    "Tetyana Terekhova",
+    "Timur Miroshnychenko"
+  ],
+  "composers": [
+    "Mariya Yaremchuk"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Mariya Yaremchuk",
+    "Sandra Bjurman"
+  ],
+  "spokesperson": "Zlata Ognevich",
+  "stageDirector": "Olena Kolyadenko",
+  "writers": null
+}

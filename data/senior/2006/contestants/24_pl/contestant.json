@@ -1,0 +1,41 @@
+{
+  "id": 24,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "Ich Troje",
+  "artistPeople": [
+    "Anna Katarzyna Magdalena Wiśniewska",
+    "Jacek Łągwa",
+    "Justyna Majkowska",
+    "Magdalena Pokora",
+    "Michał Krystian Wiśniewski",
+    "Olaf 'O-Jay' Jeglitza"
+  ],
+  "song": "Follow My Heart",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/n7pL-jaEnwQ",
+    "https://www.youtube-nocookie.com/embed/beUSlB55Bto",
+    "https://www.youtube-nocookie.com/embed/Gl8RjG_asWE"
+  ],
+  "bpm": 107,
+  "tone": "Eb major",
+  "backings": null,
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "composers": [
+    "André Franke"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "André Franke",
+    "Michał Krystian Wiśniewski",
+    "Nikolai Galanov",
+    "Real McCoy",
+    "Wiliam Lennox"
+  ],
+  "spokesperson": "Maciej Orłoś",
+  "stageDirector": null,
+  "writers": null
+}

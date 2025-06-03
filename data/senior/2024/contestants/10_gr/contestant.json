@@ -1,0 +1,53 @@
+{
+  "id": 10,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Marina Satti",
+  "artistPeople": [
+    "Marina Satti"
+  ],
+  "song": "Zari",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ENb4LCeq9Lc",
+    "https://www.youtube-nocookie.com/embed/uTYalXf184A",
+    "https://www.youtube-nocookie.com/embed/VRBBQ-B4q4s",
+    "https://www.youtube-nocookie.com/embed/EPoIHd_EsPY",
+    "https://www.youtube-nocookie.com/embed/r_G7vrg-0uY",
+    "https://www.youtube-nocookie.com/embed/82bhJlGdEdQ",
+    "https://www.youtube-nocookie.com/embed/UIJZPitW4Kw"
+  ],
+  "bpm": 102,
+  "tone": "C major",
+  "backings": [
+    "Erasmia Markidi"
+  ],
+  "commentators": [
+    "Jérôme Kaluta",
+    "Thanasis Alevras"
+  ],
+  "composers": [
+    "Gino the Ghost",
+    "Jay Stolar",
+    "Jordan Palmer",
+    "Kay Be",
+    "Marina Satti",
+    "Nick Kodonas",
+    "OGE"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Hüso Çetintas",
+    "Irini Damianidou",
+    "Vassilis Karagiannis",
+    "Yasin Ao"
+  ],
+  "lyricists": [
+    "Marina Satti",
+    "OGE",
+    "Solmeister",
+    "Vlospa"
+  ],
+  "spokesperson": "Helena Paparizou",
+  "stageDirector": "Fokas Evangelinos, Mecnun Giasar",
+  "writers": null
+}

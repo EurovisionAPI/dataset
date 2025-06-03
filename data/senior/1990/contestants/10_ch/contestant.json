@@ -1,0 +1,35 @@
+{
+  "id": 10,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Egon Egemann",
+  "artistPeople": [
+    "Egon Lackner"
+  ],
+  "song": "Musik klingt in die Welt hinaus",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rJzFwpqMmMM",
+    "https://www.youtube-nocookie.com/embed/5-Mv-lTNdIw",
+    "https://www.youtube-nocookie.com/embed/8mIOdBSt36M"
+  ],
+  "bpm": 120,
+  "tone": "D major",
+  "backings": [
+    "George Schwarz",
+    "Karim La Sala"
+  ],
+  "commentators": [
+    "Bernard Thurnheer",
+    "Emanuela Gaggini",
+    "Thierry Masselot"
+  ],
+  "composers": null,
+  "conductor": "Bela Balint",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Michel Stocker",
+  "stageDirector": null,
+  "writers": [
+    "Cornelia Lackner"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 6,
+  "country": "BE",
+  "broadcaster": "RTB",
+  "artist": "Claude Lombard",
+  "artistPeople": [
+    "Claude Lombard"
+  ],
+  "song": "Quand tu reviendras",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MySlh7ah_MQ",
+    "https://www.youtube-nocookie.com/embed/k5sQwrWZC0I",
+    "https://www.youtube-nocookie.com/embed/Hhbcj745f8E",
+    "https://www.youtube-nocookie.com/embed/RH5ceMRxAR4",
+    "https://www.youtube-nocookie.com/embed/BDioUdv-Mrg"
+  ],
+  "bpm": 110,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": [
+    "Herman Verelst",
+    "Paule Herreman"
+  ],
+  "composers": [
+    "Jo van Wetter"
+  ],
+  "conductor": "Henri Segers",
+  "dancers": null,
+  "lyricists": [
+    "Roland Dero"
+  ],
+  "spokesperson": "André Hagon",
+  "stageDirector": null,
+  "writers": null
+}

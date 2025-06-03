@@ -1,0 +1,39 @@
+{
+  "id": 35,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "LUM!X & Pia Maria",
+  "artistPeople": [
+    "LUM!X",
+    "Lumix",
+    "Pia Maria Ausserlechner"
+  ],
+  "song": "Halo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dMgjHYwXSuo",
+    "https://www.youtube-nocookie.com/embed/tF6LY7lnVFU",
+    "https://www.youtube-nocookie.com/embed/sPEwzlxEv6c"
+  ],
+  "bpm": 150,
+  "tone": "E minor",
+  "backings": [
+    "Corinne Marchini",
+    "Elisa Bava"
+  ],
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Philipp Hansa",
+  "stageDirector": "Dan Shipton, Marvin Dietmann",
+  "writers": [
+    "Anders Nilsen",
+    "Gabriele Ponte",
+    "Luca Michlmayr",
+    "Rasmus Flyckt",
+    "Sophie Alexandra Tweed-Simmons"
+  ]
+}

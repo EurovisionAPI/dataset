@@ -1,0 +1,35 @@
+{
+  "id": 5,
+  "country": "BA",
+  "broadcaster": "BHRT",
+  "artist": "Dino Merlin",
+  "artistPeople": [
+    "Edin Dervišhalidović"
+  ],
+  "song": "Love In Rewind",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mBg3coarF_8",
+    "https://www.youtube-nocookie.com/embed/Ki-TigxUm5I"
+  ],
+  "bpm": 166,
+  "tone": "F# major",
+  "backings": [
+    "Aida Mušanović",
+    "Edvin Hadžić",
+    "Mahir Sulejmanović",
+    "MayaSar",
+    "Nermin Puškar"
+  ],
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ivana Vidmar",
+  "stageDirector": "Gorčin Stojanović",
+  "writers": [
+    "Dino Merlin"
+  ]
+}

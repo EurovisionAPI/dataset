@@ -1,0 +1,33 @@
+{
+  "id": 6,
+  "country": "BE",
+  "broadcaster": "BRT",
+  "artist": "Louis Neefs",
+  "artistPeople": [
+    "Ludwig Neefs"
+  ],
+  "song": "Ik heb zorgen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SDXe3A8a5NM",
+    "https://www.youtube-nocookie.com/embed/TevhC0Gw1fQ",
+    "https://www.youtube-nocookie.com/embed/KjfSIPPdKxY"
+  ],
+  "bpm": 178,
+  "tone": "C# minor",
+  "backings": null,
+  "commentators": [
+    "Herman Verelst",
+    "Paule Herreman"
+  ],
+  "composers": [
+    "Paul Quintens"
+  ],
+  "conductor": "Francis Bay",
+  "dancers": null,
+  "lyricists": [
+    "Phil van Cauwenbergh"
+  ],
+  "spokesperson": "Ward Bogaert",
+  "stageDirector": null,
+  "writers": null
+}

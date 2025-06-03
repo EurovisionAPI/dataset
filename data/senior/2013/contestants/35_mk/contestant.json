@@ -1,0 +1,36 @@
+{
+  "id": 35,
+  "country": "MK",
+  "broadcaster": "MKRTV",
+  "artist": "Esma & Lozano",
+  "artistPeople": [
+    "Esma Redžepova",
+    "Vlatko Lozanoski"
+  ],
+  "song": "Pred Da Se Razdeni",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Vi1VYsOUCsY"
+  ],
+  "bpm": 125,
+  "tone": "G minor",
+  "backings": [
+    "Eleonora Mustafovska",
+    "Nina Yaneva"
+  ],
+  "commentators": [
+    "Karolina Petkovska"
+  ],
+  "composers": [
+    "Darko Dimitrov",
+    "Lazar Cvetkoski",
+    "Simeon Atanasov"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Magdalena Cvetovska-Ena"
+  ],
+  "spokesperson": "Dimitar Atanasovski",
+  "stageDirector": null,
+  "writers": null
+}

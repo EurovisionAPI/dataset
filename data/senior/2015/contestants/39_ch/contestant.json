@@ -1,0 +1,43 @@
+{
+  "id": 39,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Mélanie René",
+  "artistPeople": [
+    "Mélanie René"
+  ],
+  "song": "Time To Shine",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ya1r_nFHiCQ",
+    "https://www.youtube-nocookie.com/embed/uBn2PeYPaYY",
+    "https://www.youtube-nocookie.com/embed/SDRM-sIu4zg",
+    "https://www.youtube-nocookie.com/embed/D-yBnnLy79o",
+    "https://www.youtube-nocookie.com/embed/DHCQGEAuCTE"
+  ],
+  "bpm": 140,
+  "tone": "A minor",
+  "backings": [
+    "Anissa Condemi Montemouhin",
+    "Flavie Crisinel Cheuwa",
+    "Idyl Nahla",
+    "Natacha Karine Montille"
+  ],
+  "commentators": [
+    "Clarissa Tami",
+    "Gabriel Vetter",
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Paolo Meneguzzi",
+    "Peter Schneider",
+    "Sven Epiney"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Laetitia Guarino",
+  "stageDirector": null,
+  "writers": [
+    "Mélanie René"
+  ]
+}

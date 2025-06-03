@@ -1,0 +1,35 @@
+{
+  "id": 20,
+  "country": "TR",
+  "broadcaster": "TRT",
+  "artist": "Pan",
+  "artistPeople": [
+    "Arzu Ece",
+    "Hazal Selçuk",
+    "Sarper Semiz",
+    "Vedat Sakman"
+  ],
+  "song": "Bana bana",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NblD5bDryNk",
+    "https://www.youtube-nocookie.com/embed/0ikWK3tSu58",
+    "https://www.youtube-nocookie.com/embed/gTZ4pCnXB-M",
+    "https://www.youtube-nocookie.com/embed/TAdAAxYacus",
+    "https://www.youtube-nocookie.com/embed/bUaeZRbdmSE"
+  ],
+  "bpm": 127,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "composers": null,
+  "conductor": "Timur Selçuk",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Canan Kumbasar",
+  "stageDirector": null,
+  "writers": [
+    "Timur Selçuk"
+  ]
+}

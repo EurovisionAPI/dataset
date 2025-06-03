@@ -1,0 +1,40 @@
+{
+  "id": 0,
+  "country": "EE",
+  "broadcaster": "ERR",
+  "artist": "Tanel Padar, Dave Benton & 2XL",
+  "artistPeople": [
+    "Efren Eugene Benita",
+    "Tanel Padar"
+  ],
+  "song": "Everybody",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/92TSUlqzFi8",
+    "https://www.youtube-nocookie.com/embed/zTDtRxMslAo",
+    "https://www.youtube-nocookie.com/embed/kGtwZ3zoMaA",
+    "https://www.youtube-nocookie.com/embed/DpYXQ1ligsE",
+    "https://www.youtube-nocookie.com/embed/tMsrLRse98c"
+  ],
+  "bpm": 124,
+  "tone": "B major",
+  "backings": [
+    "Indrek 'Ince' Soom",
+    "Kaido Põldma",
+    "Lauri Pihlap",
+    "Sergei 'Semy' Morgun"
+  ],
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "composers": [
+    "Ivar Must"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Maian-Anna Kärmas"
+  ],
+  "spokesperson": "Elektra",
+  "stageDirector": null,
+  "writers": null
+}

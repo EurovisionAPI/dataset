@@ -1,0 +1,39 @@
+{
+  "id": 33,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Daria",
+  "artistPeople": [
+    "Daria Kinzer"
+  ],
+  "song": "Celebrate",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wTJzolnObu0",
+    "https://www.youtube-nocookie.com/embed/4hsoB5wWn3s",
+    "https://www.youtube-nocookie.com/embed/jS61sDrRyaI",
+    "https://www.youtube-nocookie.com/embed/su_Bt2d3nKg"
+  ],
+  "bpm": 128,
+  "tone": "F# major",
+  "backings": [
+    "Ana Jakšić",
+    "Irena Križ",
+    "Jasenka Rutar",
+    "Katarina Jurić",
+    "Segej Voronstov"
+  ],
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "composers": [
+    "Boris Đurđević"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Andrea Čubrić"
+  ],
+  "spokesperson": "Nevena Rendeli",
+  "stageDirector": null,
+  "writers": null
+}

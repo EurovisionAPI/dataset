@@ -1,0 +1,34 @@
+{
+  "id": 7,
+  "country": "IE",
+  "broadcaster": "RTÉ",
+  "artist": "Tina",
+  "artistPeople": [
+    "Philomena Reynolds"
+  ],
+  "song": "Cross Your Heart",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NgQFrqPaFwc",
+    "https://www.youtube-nocookie.com/embed/PAl06cvp3r0",
+    "https://www.youtube-nocookie.com/embed/k562pC90Gmo"
+  ],
+  "bpm": 93,
+  "tone": "Bb major",
+  "backings": [
+    "Anne Bushnell",
+    "John Curran",
+    "Pat Reilly"
+  ],
+  "commentators": [
+    "Mike Murphy"
+  ],
+  "composers": null,
+  "conductor": "Colman Pearce",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Brendan Balfe",
+  "stageDirector": null,
+  "writers": [
+    "Paul Lyttle"
+  ]
+}

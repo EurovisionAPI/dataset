@@ -1,0 +1,31 @@
+{
+  "id": 20,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "Tie Break",
+  "artistPeople": [
+    "Stefan di Bernardo",
+    "Thomas Elzenbaumer",
+    "Tommy Pegram"
+  ],
+  "song": "Du Bist",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_KXWrVtNFiE",
+    "https://www.youtube-nocookie.com/embed/SruHT-NU2Ks"
+  ],
+  "bpm": 130,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Dodo Roščić",
+  "stageDirector": null,
+  "writers": [
+    "Peter Zimmermann"
+  ]
+}

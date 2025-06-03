@@ -1,0 +1,34 @@
+{
+  "id": 15,
+  "country": "IL",
+  "broadcaster": "IBA",
+  "artist": "Tal Sondak",
+  "artistPeople": [
+    "Tal Sondak"
+  ],
+  "song": "Ein Davar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IA7d3pBUoHU",
+    "https://www.youtube-nocookie.com/embed/allqIneangg"
+  ],
+  "bpm": 102,
+  "tone": "D minor",
+  "backings": [
+    "Dana Sondak",
+    "Guy Mintz",
+    "Jackie Toledo",
+    "Lola Caspi"
+  ],
+  "commentators": null,
+  "composers": [
+    "Yair Klinger"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Shimrit Orr"
+  ],
+  "spokesperson": "Yoav Ginai",
+  "stageDirector": null,
+  "writers": null
+}

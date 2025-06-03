@@ -1,0 +1,45 @@
+{
+  "id": 28,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Marko Bošnjak",
+  "artistPeople": [
+    "Marko Bošnjak"
+  ],
+  "song": "Poison Cake",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jzK4D_gfRjQ",
+    "https://www.youtube-nocookie.com/embed/xOodVfY8hCs",
+    "https://www.youtube-nocookie.com/embed/jW-C0V5a3VQ",
+    "https://www.youtube-nocookie.com/embed/-XZn8qB1MTs",
+    "https://www.youtube-nocookie.com/embed/_yq9lCFFonY",
+    "https://www.youtube-nocookie.com/embed/YFPf7F9AL78",
+    "https://www.youtube-nocookie.com/embed/wjaWwJGwxeg"
+  ],
+  "bpm": 171,
+  "tone": "F# minor",
+  "backings": null,
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "composers": [
+    "Bas Wissink",
+    "Ben Pyne",
+    "Emma Gale",
+    "Marko Bošnjak"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Ana Erić",
+    "Lora Marija Kolar",
+    "Nikolina Roso",
+    "Tatjana Bogomolec"
+  ],
+  "lyricists": [
+    "Ben Pyne",
+    "Emma Gale"
+  ],
+  "spokesperson": "Doris Pinčić",
+  "stageDirector": "Luka Grgić",
+  "writers": null
+}

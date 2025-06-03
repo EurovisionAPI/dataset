@@ -1,0 +1,40 @@
+{
+  "id": 17,
+  "country": "LT",
+  "broadcaster": "LRT",
+  "artist": "Monika & Vaidas",
+  "artistPeople": [
+    "Monika Linkytė",
+    "Vaidas Jacob Baumila"
+  ],
+  "song": "This Time",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xtB_slM63JA",
+    "https://www.youtube-nocookie.com/embed/oD0XTvKcUk4",
+    "https://www.youtube-nocookie.com/embed/r13a2VUTajU",
+    "https://www.youtube-nocookie.com/embed/hoz1K_Ja8HU",
+    "https://www.youtube-nocookie.com/embed/NXZyD4XrdR0"
+  ],
+  "bpm": 130,
+  "tone": "Eb major",
+  "backings": [
+    "Dainotas Varnas",
+    "Jurijus Veklenko",
+    "Justė Kraujelytė",
+    "Rūta Loop"
+  ],
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "composers": [
+    "Vytautas Bikus"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Monika Liu"
+  ],
+  "spokesperson": "Ugnė Galadauskaitė",
+  "stageDirector": null,
+  "writers": null
+}

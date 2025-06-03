@@ -1,0 +1,29 @@
+{
+  "id": 9,
+  "country": "IE",
+  "broadcaster": "RTÉ",
+  "artist": "Kim Jackson",
+  "artistPeople": [
+    "Kim Jackson"
+  ],
+  "song": "Could It Be That I'm In Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZiDf8RQqzt4",
+    "https://www.youtube-nocookie.com/embed/PT09O39GEu8"
+  ],
+  "bpm": 152,
+  "tone": "E major",
+  "backings": null,
+  "commentators": [
+    "Pat Kenny"
+  ],
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Eileen Dunne",
+  "stageDirector": null,
+  "writers": [
+    "Liam O'Reilly"
+  ]
+}

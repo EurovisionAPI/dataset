@@ -1,0 +1,30 @@
+{
+  "id": 9,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "Bob Martin",
+  "artistPeople": [
+    "Leo Heppe"
+  ],
+  "song": "Wohin, kleines Pony?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5mETWk_nB1Q",
+    "https://www.youtube-nocookie.com/embed/VRKKMKzUFKY"
+  ],
+  "bpm": 102,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Kurt Svab"
+  ],
+  "conductor": "Carl de Groof",
+  "dancers": null,
+  "lyricists": [
+    "Hans Werner",
+    "Kurt Svab"
+  ],
+  "spokesperson": "Karl Bruck",
+  "stageDirector": null,
+  "writers": null
+}

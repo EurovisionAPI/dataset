@@ -1,0 +1,39 @@
+{
+  "id": 5,
+  "country": "LV",
+  "broadcaster": "LTV",
+  "artist": "Aminata",
+  "artistPeople": [
+    "Aminata Savadogo"
+  ],
+  "song": "Love Injected",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-usdXbeGHi8",
+    "https://www.youtube-nocookie.com/embed/PgmZaf1Sb_4",
+    "https://www.youtube-nocookie.com/embed/wrdCvrobtQE",
+    "https://www.youtube-nocookie.com/embed/CLtK3mxZAjc",
+    "https://www.youtube-nocookie.com/embed/5BYp1gvBXcE",
+    "https://www.youtube-nocookie.com/embed/4FMf4XK-j_E",
+    "https://www.youtube-nocookie.com/embed/a1oQCVRS4NI"
+  ],
+  "bpm": 108,
+  "tone": "Eb major",
+  "backings": [
+    "Anna Zankovska",
+    "Katrīna Anna Vīgante",
+    "Līva Zariņa"
+  ],
+  "commentators": [
+    "Toms Grēviņš",
+    "Valters Frīdenbergs"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Markus Riva",
+  "stageDirector": "Nicoline Refsing",
+  "writers": [
+    "Aminata Savadogo"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 9,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Sergio Endrigo",
+  "artistPeople": [
+    "Sergio Endrigo"
+  ],
+  "song": "Marianne",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9rXq0RVY-4g",
+    "https://www.youtube-nocookie.com/embed/BNkTMwjWR_g",
+    "https://www.youtube-nocookie.com/embed/5VsfauNLY1M"
+  ],
+  "bpm": 123,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "composers": null,
+  "conductor": "Giancarlo Chiaramello",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Mike Bongiorno",
+  "stageDirector": null,
+  "writers": [
+    "Sergio Endrigo"
+  ]
+}

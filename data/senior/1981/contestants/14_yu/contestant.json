@@ -1,0 +1,38 @@
+{
+  "id": 14,
+  "country": "YU",
+  "broadcaster": "JRT",
+  "artist": "Seid-Memić Vajta",
+  "artistPeople": [
+    "Seid-Memić Vajta"
+  ],
+  "song": "Lejla",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fWV5yZD7U8c",
+    "https://www.youtube-nocookie.com/embed/kI17xe8534U",
+    "https://www.youtube-nocookie.com/embed/FAYxXMe90k0",
+    "https://www.youtube-nocookie.com/embed/9mjx8IPqzqA",
+    "https://www.youtube-nocookie.com/embed/Br_R9AXsaUM"
+  ],
+  "bpm": 133,
+  "tone": "A major",
+  "backings": [
+    "Ismeta Dervoz-Krvavac",
+    "Jadranka Stojaković",
+    "Neda Ukraden"
+  ],
+  "commentators": [
+    "Mladen Popović",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "composers": null,
+  "conductor": "Ranko Rihtman",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Helga Vlahović",
+  "stageDirector": null,
+  "writers": [
+    "Ranko Boban"
+  ]
+}

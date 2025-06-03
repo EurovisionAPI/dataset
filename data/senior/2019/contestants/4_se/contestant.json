@@ -1,0 +1,42 @@
+{
+  "id": 4,
+  "country": "SE",
+  "broadcaster": "SVT",
+  "artist": "John Lundvik",
+  "artistPeople": [
+    "John Hassim Lundvik"
+  ],
+  "song": "Too Late for Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oEdWkdVKIqQ",
+    "https://www.youtube-nocookie.com/embed/YKR2GiorZuQ",
+    "https://www.youtube-nocookie.com/embed/iEEuG5XML-A",
+    "https://www.youtube-nocookie.com/embed/cPAy0XTinJQ",
+    "https://www.youtube-nocookie.com/embed/y5w8qSEg9Ls",
+    "https://www.youtube-nocookie.com/embed/CTaMD3JUtA8"
+  ],
+  "bpm": 105,
+  "tone": "B major",
+  "backings": [
+    "Ashley Haynes",
+    "Dinah Yonas Manna",
+    "Loulou Lamotte",
+    "Paris Renita",
+    "Stefan Nykvist"
+  ],
+  "commentators": [
+    "Charlotte Perrelli",
+    "Edward af Sillén"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Eric Saade",
+  "stageDirector": "Dennis Bröchner, Lotta Furebäck, Sacha Jean-Baptiste, Zain Odelstål",
+  "writers": [
+    "Anderz Wrethov",
+    "Andreas Johansson",
+    "John Lundvik"
+  ]
+}

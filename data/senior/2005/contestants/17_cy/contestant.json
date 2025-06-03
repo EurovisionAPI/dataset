@@ -1,0 +1,31 @@
+{
+  "id": 17,
+  "country": "CY",
+  "broadcaster": "CyBC",
+  "artist": "Constantinos Christoforou",
+  "artistPeople": [
+    "Constantinos"
+  ],
+  "song": "Ela ela",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/C2v6N1X4x6c",
+    "https://www.youtube-nocookie.com/embed/vdEGkSCuOLI"
+  ],
+  "bpm": 102,
+  "tone": "G minor",
+  "backings": [
+    "Elina Konstantopoulou"
+  ],
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Melani Steliou",
+  "stageDirector": "Fotis Nikolaou",
+  "writers": [
+    "Constantinos Christoforou"
+  ]
+}

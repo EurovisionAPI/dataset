@@ -1,0 +1,43 @@
+{
+  "id": 1,
+  "country": "RU",
+  "broadcaster": "C1R",
+  "artist": "Polina Gagarina",
+  "artistPeople": [
+    "Polina Sergeyevna Gagarina (Поли́на Серге́евна Гага́рина)"
+  ],
+  "song": "A Million Voices",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Q2gbKglCL5s",
+    "https://www.youtube-nocookie.com/embed/jBVY7Glcd84",
+    "https://www.youtube-nocookie.com/embed/QPIwvOlZok8",
+    "https://www.youtube-nocookie.com/embed/WbFmITXubT8",
+    "https://www.youtube-nocookie.com/embed/9FziuRFZJfI"
+  ],
+  "bpm": 152,
+  "tone": "G major",
+  "backings": [
+    "Alexander Pozdnyakov",
+    "Alexandra Belyakova",
+    "Gabriel Alares",
+    "Kat Vinter",
+    "Nikita Pozdnyakov"
+  ],
+  "commentators": [
+    "Yana Churikova",
+    "Yuriy Aksuta"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Dmitry Shepelev",
+  "stageDirector": "Alexei Golubev",
+  "writers": [
+    "Gabriel Alares",
+    "Joakim Björnberg",
+    "Katrina Noorbergen",
+    "Leonid Gutkin",
+    "Vladimir Matetsky"
+  ]
+}

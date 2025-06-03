@@ -1,0 +1,32 @@
+{
+  "id": 6,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Nora Brockstedt",
+  "artistPeople": [
+    "Nora Brockstedt"
+  ],
+  "song": "Sommer i Palma",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5i_BCD46-fo",
+    "https://www.youtube-nocookie.com/embed/9DYLmR6JkWE",
+    "https://www.youtube-nocookie.com/embed/4o7LDNJqYA4"
+  ],
+  "bpm": 163,
+  "tone": "E minor",
+  "backings": null,
+  "commentators": [
+    "Leif Rustad"
+  ],
+  "composers": [
+    "Jan Wølner"
+  ],
+  "conductor": "Øivind Bergh",
+  "dancers": null,
+  "lyricists": [
+    "Egil Hagen"
+  ],
+  "spokesperson": "Mette Janson",
+  "stageDirector": null,
+  "writers": null
+}

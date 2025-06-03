@@ -1,0 +1,35 @@
+{
+  "id": 12,
+  "country": "NL",
+  "broadcaster": "NOS",
+  "artist": "Esther Hart",
+  "artistPeople": [
+    "Esther Katinka Hartkamp"
+  ],
+  "song": "One More Night",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EIkoKOPN_7k",
+    "https://www.youtube-nocookie.com/embed/qqCpbo6W07w"
+  ],
+  "bpm": 116,
+  "tone": "C# major",
+  "backings": [
+    "Dedre Twiss",
+    "Linda Bloemhard",
+    "Roger Happel",
+    "Vera van der Poel"
+  ],
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Marlayne",
+  "stageDirector": null,
+  "writers": [
+    "Alan Michael",
+    "Tjeerd van Zanen"
+  ]
+}

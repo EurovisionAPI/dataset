@@ -1,0 +1,42 @@
+{
+  "id": 1,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Sam Ryder",
+  "artistPeople": [
+    "Sam Ryder Robinson"
+  ],
+  "song": "Space Man",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RZ0hqX_92zI",
+    "https://www.youtube-nocookie.com/embed/udsMTb2NIak",
+    "https://www.youtube-nocookie.com/embed/rbtPxZby4js",
+    "https://www.youtube-nocookie.com/embed/9H5386XBr80",
+    "https://www.youtube-nocookie.com/embed/_fkB-Ic9s6I",
+    "https://www.youtube-nocookie.com/embed/uvYicg0822E",
+    "https://www.youtube-nocookie.com/embed/PXDzvttdEG0"
+  ],
+  "bpm": 162,
+  "tone": "B major",
+  "backings": [
+    "Adam Smiley Wade",
+    "Jay Verma",
+    "Lewie Allen"
+  ],
+  "commentators": [
+    "Graham Norton",
+    "Rylan Clark",
+    "Scott Mills"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "AJ Odudu",
+  "stageDirector": "Dan Shipton, Marvin Dietmann",
+  "writers": [
+    "Amy Wadge",
+    "Max Wolfgang",
+    "Sam Ryder"
+  ]
+}

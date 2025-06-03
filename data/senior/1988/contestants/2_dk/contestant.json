@@ -1,0 +1,39 @@
+{
+  "id": 2,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Kirsten & Søren",
+  "artistPeople": [
+    "Kirsten Siggaard",
+    "Søren Bundgaard"
+  ],
+  "song": "Ka' du se hva' jeg sa'?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iOAnJN8CMww",
+    "https://www.youtube-nocookie.com/embed/y9q6AvNfcfU",
+    "https://www.youtube-nocookie.com/embed/OjAeGpdy6-Y",
+    "https://www.youtube-nocookie.com/embed/E0DpU-bTJ5U"
+  ],
+  "bpm": 155,
+  "tone": "Eb minor",
+  "backings": [
+    "Cita de Friis",
+    "Mette Riis",
+    "Otto Leander Nielsen",
+    "Susanne Carstensen"
+  ],
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "composers": [
+    "Søren Bundgaard"
+  ],
+  "conductor": "Henrik Krogsgaard",
+  "dancers": null,
+  "lyricists": [
+    "Keld Heick"
+  ],
+  "spokesperson": "Bent Henius",
+  "stageDirector": null,
+  "writers": null
+}

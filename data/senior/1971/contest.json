@@ -1,0 +1,15 @@
+{
+  "year": 1971,
+  "arena": "Gaiety Theatre",
+  "city": "Dublin",
+  "country": "IE",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1971.png",
+  "presenters": [
+    "Bernadette Ní Ghallchoir"
+  ],
+  "broadcasters": [
+    "RTÉ"
+  ]
+}

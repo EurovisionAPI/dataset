@@ -1,0 +1,33 @@
+{
+  "id": 1,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Kathy Kirby",
+  "artistPeople": [
+    "Kathleen O'Rourke"
+  ],
+  "song": "I Belong",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qpMABNQqrJA",
+    "https://www.youtube-nocookie.com/embed/rp5GvxGWeYk",
+    "https://www.youtube-nocookie.com/embed/Cg6N2LQRmUs",
+    "https://www.youtube-nocookie.com/embed/19sprd14Gqg"
+  ],
+  "bpm": 143,
+  "tone": "Eb major",
+  "backings": null,
+  "commentators": [
+    "David Jacobs"
+  ],
+  "composers": [
+    "Peter Lee Sterling"
+  ],
+  "conductor": "Eric Robinson",
+  "dancers": null,
+  "lyricists": [
+    "Phil Peters"
+  ],
+  "spokesperson": "Alastair Burnet",
+  "stageDirector": null,
+  "writers": null
+}

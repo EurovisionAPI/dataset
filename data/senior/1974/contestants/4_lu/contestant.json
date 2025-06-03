@@ -1,0 +1,38 @@
+{
+  "id": 4,
+  "country": "LU",
+  "broadcaster": "CLT",
+  "artist": "Ireen Sheer",
+  "artistPeople": [
+    "Ireen Sheer"
+  ],
+  "song": "Bye Bye I Love You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ODcfXdEHwz0",
+    "https://www.youtube-nocookie.com/embed/6wVX8WYB_p4",
+    "https://www.youtube-nocookie.com/embed/POe9khbC0m4",
+    "https://www.youtube-nocookie.com/embed/KfcnQqc_TRk"
+  ],
+  "bpm": 178,
+  "tone": "Bb major",
+  "backings": [
+    "Catherine Bonnevay",
+    "Dominique Poulain",
+    "Francine Chantereau",
+    "Martine Latorre"
+  ],
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Charles Blackwell",
+  "dancers": null,
+  "lyricists": [
+    "Michael Kunze"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": 10,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Fredi and The Friends",
+  "artistPeople": [
+    "Aimo Lehto",
+    "Anneli Koivisto",
+    "Antti Hyvärinen",
+    "Irma Tapio",
+    "Matti Kalevi Siitonen",
+    "Titta Jokinen"
+  ],
+  "song": "Pump-Pump",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RNW3KrUWJco",
+    "https://www.youtube-nocookie.com/embed/aHO_mFsR9Eg",
+    "https://www.youtube-nocookie.com/embed/O21Cyabfv-4",
+    "https://www.youtube-nocookie.com/embed/kIDsyp1E8VM",
+    "https://www.youtube-nocookie.com/embed/X_VnrQ41Dh0",
+    "https://www.youtube-nocookie.com/embed/Lf-Chk_Dddk"
+  ],
+  "bpm": 99,
+  "tone": "A major",
+  "backings": null,
+  "commentators": [
+    "Vesa Nuotio"
+  ],
+  "composers": [
+    "Matti Kalevi Siitonen"
+  ],
+  "conductor": "Ossi Runne",
+  "dancers": null,
+  "lyricists": [
+    "Pertti Reponen"
+  ],
+  "spokesperson": "Erkki Vihtonen",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": 5,
+  "country": "CZ",
+  "broadcaster": "ČT",
+  "artist": "Mikolas Josef",
+  "artistPeople": [
+    "Mikoláš Josef"
+  ],
+  "song": "Lie To Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/w0ZUuQe0shk",
+    "https://www.youtube-nocookie.com/embed/UatZDDfc3bU",
+    "https://www.youtube-nocookie.com/embed/9zZPB3y70oU",
+    "https://www.youtube-nocookie.com/embed/24BvXiBwUXY",
+    "https://www.youtube-nocookie.com/embed/FeTmibaEzMs",
+    "https://www.youtube-nocookie.com/embed/LRe3T2-U2zM",
+    "https://www.youtube-nocookie.com/embed/vzHTCFPSCDI"
+  ],
+  "bpm": 106,
+  "tone": "F# major",
+  "backings": [
+    "Alžbeta Bartošová",
+    "Juraj Bernáth",
+    "Pamela Koky"
+  ],
+  "commentators": [
+    "Libor Bouček"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Kristián Mensa",
+    "Marek Mensa"
+  ],
+  "lyricists": null,
+  "spokesperson": "Radka Rosická",
+  "stageDirector": "Jan Potměšil",
+  "writers": [
+    "Mikolas Josef"
+  ]
+}

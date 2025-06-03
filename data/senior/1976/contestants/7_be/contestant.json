@@ -1,0 +1,35 @@
+{
+  "id": 7,
+  "country": "BE",
+  "broadcaster": "RTB",
+  "artist": "Pierre Rapsat",
+  "artistPeople": [
+    "Pierre Raepsaet"
+  ],
+  "song": "Judy et Cie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PMmpH-0k_Jg",
+    "https://www.youtube-nocookie.com/embed/8aouXDMGC6U"
+  ],
+  "bpm": 146,
+  "tone": "E minor",
+  "backings": [
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "commentators": [
+    "Georges Désir",
+    "Luc Appermont"
+  ],
+  "composers": [
+    "Pierre Rapsat"
+  ],
+  "conductor": "Michel Bernholc",
+  "dancers": null,
+  "lyricists": [
+    "Eric van Hulse"
+  ],
+  "spokesperson": "André Hagon",
+  "stageDirector": null,
+  "writers": null
+}

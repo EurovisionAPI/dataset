@@ -1,0 +1,40 @@
+{
+  "id": 32,
+  "country": "NL",
+  "broadcaster": "TROS",
+  "artist": "Joan Franka",
+  "artistPeople": [
+    "Ayten Kalan"
+  ],
+  "song": "You And Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JCc0Iiu3DiU",
+    "https://www.youtube-nocookie.com/embed/1QmmXELJeb0",
+    "https://www.youtube-nocookie.com/embed/UqlJaubki0o"
+  ],
+  "bpm": 98,
+  "tone": "F# major",
+  "backings": [
+    "Arjen Rommens",
+    "Brendo Festen",
+    "Erica Groeneveld",
+    "Marc Udo",
+    "Rens Damberg"
+  ],
+  "commentators": [
+    "Daniël Dekker",
+    "Jan Smit"
+  ],
+  "composers": [
+    "Jessica Hogeboom",
+    "Joan Franka"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Joan Franka"
+  ],
+  "spokesperson": "Vivienne van den Assem",
+  "stageDirector": null,
+  "writers": null
+}

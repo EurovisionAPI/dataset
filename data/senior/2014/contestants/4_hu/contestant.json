@@ -1,0 +1,40 @@
+{
+  "id": 4,
+  "country": "HU",
+  "broadcaster": "MTV",
+  "artist": "András Kállay-Saunders",
+  "artistPeople": [
+    "András Kállay-Saunders"
+  ],
+  "song": "Running",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/T_RxJZ3N9kE",
+    "https://www.youtube-nocookie.com/embed/QzfRDZmuFUI",
+    "https://www.youtube-nocookie.com/embed/71oOTdHfULY",
+    "https://www.youtube-nocookie.com/embed/7RzDmKLCW-Y"
+  ],
+  "bpm": 90,
+  "tone": "Bb minor",
+  "backings": [
+    "Kyra Fedor",
+    "Rozina Cselovszky"
+  ],
+  "commentators": [
+    "Gábor Gundel Takács"
+  ],
+  "composers": [
+    "András Kállay-Saunders",
+    "Krisztián Szakos"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Alexandra Likovics",
+    "Tibor Nagy"
+  ],
+  "lyricists": [
+    "András Kállay-Saunders"
+  ],
+  "spokesperson": "Éva Novodomszky",
+  "stageDirector": null,
+  "writers": null
+}

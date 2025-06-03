@@ -1,0 +1,36 @@
+{
+  "id": 22,
+  "country": "MT",
+  "broadcaster": "PBS",
+  "artist": "Firelight",
+  "artistPeople": [
+    "Daniel Micallef",
+    "Leslie Decesare",
+    "Michelle Mifsud",
+    "Richard Edwards Micallef",
+    "Tony Polidano",
+    "Wayne William Micallef"
+  ],
+  "song": "Coming Home",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/E_hT08vzHt8",
+    "https://www.youtube-nocookie.com/embed/Qxi5C-lGX2Y",
+    "https://www.youtube-nocookie.com/embed/mXY0imG1SzQ",
+    "https://www.youtube-nocookie.com/embed/z-tQJoddqxo"
+  ],
+  "bpm": 128,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": [
+    "Carlo Borg Bonaci"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Valentina Rossi",
+  "stageDirector": null,
+  "writers": [
+    "Richard Edwards Micallef"
+  ]
+}

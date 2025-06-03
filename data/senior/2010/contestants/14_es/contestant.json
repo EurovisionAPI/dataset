@@ -1,0 +1,36 @@
+{
+  "id": 14,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Daniel Diges",
+  "artistPeople": [
+    "Daniel Diges García"
+  ],
+  "song": "Algo pequeñito",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6gltZu8lsFc",
+    "https://www.youtube-nocookie.com/embed/IGlKLUujURk",
+    "https://www.youtube-nocookie.com/embed/TS9C3wGgINc"
+  ],
+  "bpm": 178,
+  "tone": "D minor",
+  "backings": [
+    "África Martínez",
+    "Arnaldo Iasorli",
+    "David Velardo",
+    "Margalida Riera",
+    "Yuri Olmechenko"
+  ],
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ainhoa Arbizu",
+  "stageDirector": "Maite Marcos",
+  "writers": [
+    "Jesús Cañadilla"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 30,
+  "country": "AL",
+  "broadcaster": "RTSH",
+  "artist": "Aida & Frederik Ndoci",
+  "artistPeople": [
+    "Frederik Ndoci"
+  ],
+  "song": "Hear My Plea",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rP2OECgTA5k",
+    "https://www.youtube-nocookie.com/embed/mo1imIAPWJk",
+    "https://www.youtube-nocookie.com/embed/74248c1nSB4"
+  ],
+  "bpm": 142,
+  "tone": "A minor",
+  "backings": [
+    "Aida Ndoci"
+  ],
+  "commentators": [
+    "Leon Menkshi"
+  ],
+  "composers": [
+    "Adrian Hila"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "June Muftaraj Taylor",
+    "Pandi Laço"
+  ],
+  "spokesperson": "Leon Menkshi",
+  "stageDirector": null,
+  "writers": null
+}

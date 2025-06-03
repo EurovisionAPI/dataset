@@ -1,0 +1,16 @@
+{
+  "year": 2008,
+  "arena": "Belgrade Arena",
+  "city": "Belgrade",
+  "country": "RS",
+  "intendedCountry": null,
+  "slogan": "Confluence of Sound",
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2008.png",
+  "presenters": [
+    "Jovana Janković",
+    "Željko Joksimović"
+  ],
+  "broadcasters": [
+    "RTS"
+  ]
+}

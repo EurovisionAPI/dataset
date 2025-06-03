@@ -1,0 +1,36 @@
+{
+  "id": 1,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "The New Seekers",
+  "artistPeople": [
+    "Evelyn May Beatson",
+    "Lynda Susan Belcher",
+    "Martin Vanags",
+    "Paul Layton",
+    "Peter Doyle"
+  ],
+  "song": "Beg, Steal or Borrow",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/so2LUz73WS0",
+    "https://www.youtube-nocookie.com/embed/tP36ftaMXJk",
+    "https://www.youtube-nocookie.com/embed/V6TAhNFkitM"
+  ],
+  "bpm": 137,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Tom Fleming"
+  ],
+  "composers": null,
+  "conductor": "David McKay",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Graeme Hall",
+    "Steve Wolfe",
+    "Tony Cole"
+  ]
+}

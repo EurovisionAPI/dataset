@@ -1,0 +1,43 @@
+{
+  "id": 36,
+  "country": "AM",
+  "broadcaster": "AMPTV",
+  "artist": "Srbuk",
+  "artistPeople": [
+    "Srbuhi Sargsyan (Սրբուհի Սարգսյան)"
+  ],
+  "song": "Walking Out",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/avBwSUYlTtI",
+    "https://www.youtube-nocookie.com/embed/q_46dy4yJwg",
+    "https://www.youtube-nocookie.com/embed/hKHsNcgfMk8",
+    "https://www.youtube-nocookie.com/embed/5oKqBnWIDv4",
+    "https://www.youtube-nocookie.com/embed/1KhKaGj4imY",
+    "https://www.youtube-nocookie.com/embed/ZtyT9IN2QcY"
+  ],
+  "bpm": 130,
+  "tone": "F minor",
+  "backings": [
+    "Arevik Grigoryan",
+    "David Badalyan",
+    "Julieta Grigoryan",
+    "Saro Gevorgyan"
+  ],
+  "commentators": [
+    "Aram MP3",
+    "Avet Barseghyan"
+  ],
+  "composers": [
+    "Ashot Petrosyan",
+    "Tokionine",
+    "Hovhannes Hovhannisyan"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Garik Papoyan"
+  ],
+  "spokesperson": "Aram MP3",
+  "stageDirector": "Arthur Manukyan",
+  "writers": null
+}

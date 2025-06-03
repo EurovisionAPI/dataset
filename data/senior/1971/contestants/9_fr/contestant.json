@@ -1,0 +1,32 @@
+{
+  "id": 9,
+  "country": "FR",
+  "broadcaster": "ORTF",
+  "artist": "Serge Lama",
+  "artistPeople": [
+    "Serge Chauvier"
+  ],
+  "song": "Un jardin sur la terre",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RVI4hgFBfhw",
+    "https://www.youtube-nocookie.com/embed/6wyq4gUfkTQ"
+  ],
+  "bpm": 124,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Georges de Caunes"
+  ],
+  "composers": [
+    "Alice Dona"
+  ],
+  "conductor": "Franck Pourcel",
+  "dancers": null,
+  "lyricists": [
+    "Henri Djian",
+    "Jacques Demarny"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

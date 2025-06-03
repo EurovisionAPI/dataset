@@ -1,0 +1,36 @@
+{
+  "id": 19,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Didrik Solli-Tangen",
+  "artistPeople": [
+    "Didrik Solli-Tangen"
+  ],
+  "song": "My Heart Is Yours",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9w527tADNpc",
+    "https://www.youtube-nocookie.com/embed/mTSvd12_lwM"
+  ],
+  "bpm": 132,
+  "tone": "E major",
+  "backings": [
+    "Håkon Sigernes",
+    "Jorunn Hauge",
+    "Karianne Kjærnes",
+    "May Kristin Kaspersen",
+    "Øyvind Boye Løvold"
+  ],
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Anne Rimmen",
+  "stageDirector": "Mattias Carlsson",
+  "writers": [
+    "Fredrik Kempe",
+    "Hanne Margrethe Fredriksen Sørvaag"
+  ]
+}

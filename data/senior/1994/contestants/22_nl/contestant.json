@@ -1,0 +1,38 @@
+{
+  "id": 22,
+  "country": "NL",
+  "broadcaster": "NOS",
+  "artist": "Willeke Alberti",
+  "artistPeople": [
+    "Willy Albertina Verbruggen"
+  ],
+  "song": "Waar is de zon?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ld25kNjautA",
+    "https://www.youtube-nocookie.com/embed/iwS0jQLCVLo",
+    "https://www.youtube-nocookie.com/embed/XL0DDw4HNdc"
+  ],
+  "bpm": 78,
+  "tone": "Bb major",
+  "backings": [
+    "Dian Senders",
+    "Edward Reekers",
+    "Edwin Schimscheimer",
+    "Jody Pijper",
+    "Pim Roos"
+  ],
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "composers": [
+    "Edwin Schimscheimer"
+  ],
+  "conductor": "Harry van Hoof",
+  "dancers": null,
+  "lyricists": [
+    "Coot van Doesburgh"
+  ],
+  "spokesperson": "Joop van Os",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Ingrid Peters",
+  "artistPeople": [
+    "Ingrid Peters"
+  ],
+  "song": "Über die Brücke geh'n",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ecTPDbSEUr8",
+    "https://www.youtube-nocookie.com/embed/iiXWx2LgeCE",
+    "https://www.youtube-nocookie.com/embed/XqcZC-3ghwo"
+  ],
+  "bpm": 138,
+  "tone": "A major",
+  "backings": [
+    "Klaus Pröpper"
+  ],
+  "commentators": [
+    "Ado Schlier"
+  ],
+  "composers": null,
+  "conductor": "Hans Blum",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Christoph Deumling",
+  "stageDirector": null,
+  "writers": [
+    "Hans Blum"
+  ]
+}

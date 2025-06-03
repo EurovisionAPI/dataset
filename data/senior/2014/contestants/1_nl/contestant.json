@@ -1,0 +1,40 @@
+{
+  "id": 1,
+  "country": "NL",
+  "broadcaster": "AVROTROS",
+  "artist": "The Common Linnets",
+  "artistPeople": [
+    "Ilse Annoeska de Lange",
+    "Willem Bijkerk"
+  ],
+  "song": "Calm After The Storm",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4ggBPAm5XLA",
+    "https://www.youtube-nocookie.com/embed/hkrF8uC92O4",
+    "https://www.youtube-nocookie.com/embed/bWe8PRsW4T0"
+  ],
+  "bpm": 116,
+  "tone": "C# major",
+  "backings": [
+    "Bart Vergoossen",
+    "JB Meijers",
+    "Martijn van Agt"
+  ],
+  "commentators": [
+    "Cornald Maas",
+    "Jan Smit"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Tim Douwsma",
+  "stageDirector": "Hans Pannecoucke",
+  "writers": [
+    "Ilse DeLange",
+    "Jake Etheridge",
+    "JB Meijers",
+    "Matthew Crosby",
+    "Rob Crosby"
+  ]
+}

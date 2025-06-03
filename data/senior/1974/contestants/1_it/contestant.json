@@ -1,0 +1,41 @@
+{
+  "id": 1,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Gigliola Cinquetti",
+  "artistPeople": [
+    "Gigliola Cinquetti"
+  ],
+  "song": "Sì",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YJ-fWh3j7ZM",
+    "https://www.youtube-nocookie.com/embed/DxLrcWUjZfs",
+    "https://www.youtube-nocookie.com/embed/ks8h2y4sFJ8",
+    "https://www.youtube-nocookie.com/embed/q-8gtdptjEY",
+    "https://www.youtube-nocookie.com/embed/5cip_s-RnHg",
+    "https://www.youtube-nocookie.com/embed/tcNWRFqov3o"
+  ],
+  "bpm": 172,
+  "tone": "G major",
+  "backings": [
+    "Lalla Francia",
+    "Mirella Bossi",
+    "Paola Orlandi",
+    "Silvia Annichiarico"
+  ],
+  "commentators": [
+    "Rosanna Vaudetti"
+  ],
+  "composers": null,
+  "conductor": "Gianfranco Monaldi",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Anna Maria Gambineri",
+  "stageDirector": null,
+  "writers": [
+    "Corrado Conti",
+    "Daniele Pace",
+    "Lorenzo Pilat",
+    "Mario Panzeri"
+  ]
+}

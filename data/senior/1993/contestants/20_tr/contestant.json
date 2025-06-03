@@ -1,0 +1,31 @@
+{
+  "id": 20,
+  "country": "TR",
+  "broadcaster": "TRT",
+  "artist": "Burak Aydos, Baybora & Serter Öztürk",
+  "artistPeople": [
+    "Burak Aydos"
+  ],
+  "song": "Esmer yarim",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/k3QddyzaY4U",
+    "https://www.youtube-nocookie.com/embed/RiVV-0PomfI",
+    "https://www.youtube-nocookie.com/embed/j_WVZGX4Nz4",
+    "https://www.youtube-nocookie.com/embed/y_FF57VnZdw"
+  ],
+  "bpm": 102,
+  "tone": "B major",
+  "backings": null,
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ömer Önder",
+  "stageDirector": null,
+  "writers": [
+    "Burak Aydos"
+  ]
+}

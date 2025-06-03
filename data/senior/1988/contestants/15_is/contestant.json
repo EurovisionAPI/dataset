@@ -1,0 +1,33 @@
+{
+  "id": 15,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Beathoven",
+  "artistPeople": [
+    "Stefán Hilmarsson",
+    "Sverrir Stormsker"
+  ],
+  "song": "Sókrates",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IgpAVZ-0EV4",
+    "https://www.youtube-nocookie.com/embed/vMLdwS54Mm0",
+    "https://www.youtube-nocookie.com/embed/-rqojUpyJ84"
+  ],
+  "bpm": 172,
+  "tone": "C major",
+  "backings": [
+    "Edda Borg Ólafsdóttir"
+  ],
+  "commentators": [
+    "Hermann Gunnarsson"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Guðrún Skúladóttir",
+  "stageDirector": null,
+  "writers": [
+    "Sverrir Stormsker"
+  ]
+}

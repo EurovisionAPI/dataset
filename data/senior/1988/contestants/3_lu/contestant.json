@@ -1,0 +1,34 @@
+{
+  "id": 3,
+  "country": "LU",
+  "broadcaster": "CLT",
+  "artist": "Lara Fabian",
+  "artistPeople": [
+    "Lara Crokaert"
+  ],
+  "song": "Croire",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fk1OKOuTKy8",
+    "https://www.youtube-nocookie.com/embed/8q78UrUSCMM",
+    "https://www.youtube-nocookie.com/embed/eEOaNiS9Pdo",
+    "https://www.youtube-nocookie.com/embed/DkvfurCqnd4",
+    "https://www.youtube-nocookie.com/embed/Z5OxvU97UJI"
+  ],
+  "bpm": 89,
+  "tone": "F# major",
+  "backings": null,
+  "commentators": [
+    "Valérie Sarn"
+  ],
+  "composers": [
+    "Jacques Cardona"
+  ],
+  "conductor": "Régis Dupré",
+  "dancers": null,
+  "lyricists": [
+    "Alain Garcia"
+  ],
+  "spokesperson": "Jean-Luc Bertrand",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": 24,
+  "country": "DE",
+  "broadcaster": "NDR",
+  "artist": "Jendrik",
+  "artistPeople": [
+    "Jendrik Sigwart"
+  ],
+  "song": "I Don't Feel Hate",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1m0VEAfLV4E",
+    "https://www.youtube-nocookie.com/embed/BRxuYhrOsgM",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/ENHnAP20R1g",
+    "https://www.youtube-nocookie.com/embed/iDQw0s6KmTk",
+    "https://www.youtube-nocookie.com/embed/OKBAIeQCJ4o",
+    "https://www.youtube-nocookie.com/embed/JMFNEMLR2Eg"
+  ],
+  "bpm": 114,
+  "tone": "F minor",
+  "backings": [
+    "Elvin Karakurt",
+    "Madina Frey",
+    "Myriam Küppers"
+  ],
+  "commentators": [
+    "Peter Urban"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Sophia Euskirchen"
+  ],
+  "lyricists": null,
+  "spokesperson": "Barbara Schöneberger",
+  "stageDirector": "Povilas Varvuolis",
+  "writers": [
+    "Christoph Oswald",
+    "Jendrik Sigwart"
+  ]
+}

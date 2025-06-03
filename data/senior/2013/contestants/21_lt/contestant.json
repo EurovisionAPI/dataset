@@ -1,0 +1,34 @@
+{
+  "id": 21,
+  "country": "LT",
+  "broadcaster": "LRT",
+  "artist": "Andrius Pojavis",
+  "artistPeople": [
+    "Andrius Pojavis"
+  ],
+  "song": "Something",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0VLhnzk_dAs",
+    "https://www.youtube-nocookie.com/embed/8WwBxE8_hk4"
+  ],
+  "bpm": 130,
+  "tone": "F major",
+  "backings": [
+    "Anatolijus Oleinikas",
+    "Jurijus Veklenko",
+    "Martynas Puchovičius",
+    "Monica Cikanovačikté"
+  ],
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ignas Krupavičius",
+  "stageDirector": null,
+  "writers": [
+    "Andrius Pojavis"
+  ]
+}

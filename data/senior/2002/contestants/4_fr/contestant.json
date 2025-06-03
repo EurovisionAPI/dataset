@@ -1,0 +1,36 @@
+{
+  "id": 4,
+  "country": "FR",
+  "broadcaster": "France 3",
+  "artist": "Sandrine François",
+  "artistPeople": [
+    "Sandrine François"
+  ],
+  "song": "Il Faut Du Temps",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/m_Abg3Tv8so",
+    "https://www.youtube-nocookie.com/embed/MCaUGqKZaVc",
+    "https://www.youtube-nocookie.com/embed/p8KcQUkYXRE",
+    "https://www.youtube-nocookie.com/embed/rXjqJW1Uihk"
+  ],
+  "bpm": 140,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Marc-Olivier Fogiel",
+    "Dave"
+  ],
+  "composers": [
+    "Marie-Florence Gros",
+    "Patrick Bruel"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Patrick Bruel",
+    "Rick Allison"
+  ],
+  "spokesperson": "Marie Myriam",
+  "stageDirector": null,
+  "writers": null
+}

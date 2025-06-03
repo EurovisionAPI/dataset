@@ -1,0 +1,30 @@
+{
+  "id": 9,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Margot Eskens",
+  "artistPeople": [
+    "Margot Eskens-Münchow"
+  ],
+  "song": "Die Zeiger der Uhr",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4H1vm10LRNw"
+  ],
+  "bpm": 185,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Hans-Joachim Rauschenbach"
+  ],
+  "composers": [
+    "Walter Dobschinski"
+  ],
+  "conductor": "Willy Berking",
+  "dancers": null,
+  "lyricists": [
+    "Hans Bradtke"
+  ],
+  "spokesperson": "Werner Veigel",
+  "stageDirector": null,
+  "writers": null
+}

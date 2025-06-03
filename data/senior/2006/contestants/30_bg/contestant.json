@@ -1,0 +1,38 @@
+{
+  "id": 30,
+  "country": "BG",
+  "broadcaster": "BNT",
+  "artist": "Mariana Popova",
+  "artistPeople": [
+    "Mariana Popova"
+  ],
+  "song": "Let Me Cry",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_Q_x1lOmdpM",
+    "https://www.youtube-nocookie.com/embed/J8ukIvsia4g",
+    "https://www.youtube-nocookie.com/embed/7h0VC1eWfHg",
+    "https://www.youtube-nocookie.com/embed/6X0ZnqTs8hA",
+    "https://www.youtube-nocookie.com/embed/yhF3eSqGtu8"
+  ],
+  "bpm": 100,
+  "tone": "A minor",
+  "backings": [
+    "Azis",
+    "Dani Milev"
+  ],
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "composers": [
+    "Dani Milev"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Elina Gavrilova"
+  ],
+  "spokesperson": "Dragomir Simeonov",
+  "stageDirector": null,
+  "writers": null
+}

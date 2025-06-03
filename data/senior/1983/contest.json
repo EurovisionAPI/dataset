@@ -1,0 +1,15 @@
+{
+  "year": 1983,
+  "arena": "Rudi-Sedlmayer-Halle",
+  "city": "Munich",
+  "country": "DE",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1983.png",
+  "presenters": [
+    "Marlene Charell"
+  ],
+  "broadcasters": [
+    "ARD"
+  ]
+}

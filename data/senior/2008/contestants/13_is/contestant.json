@@ -1,0 +1,40 @@
+{
+  "id": 13,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Euroband",
+  "artistPeople": [
+    "Friðrik Ómar Hjörleifsson",
+    "Regína Ósk"
+  ],
+  "song": "This Is My Life",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zinGFmaYdZ8",
+    "https://www.youtube-nocookie.com/embed/EQBC-io7Vnc",
+    "https://www.youtube-nocookie.com/embed/x_xPsyxKcL8",
+    "https://www.youtube-nocookie.com/embed/quR6fc_xiF0"
+  ],
+  "bpm": 138,
+  "tone": "Bb minor",
+  "backings": [
+    "Grétar Örvarsson",
+    "Guðrún Gunnarsdóttir",
+    "Hera Björk",
+    "Pétur Örn Guðmundsson"
+  ],
+  "commentators": [
+    "Sigmar Guðmundsson"
+  ],
+  "composers": [
+    "Örlygur Smári"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Paul Oscar",
+    "Peter Fenner"
+  ],
+  "spokesperson": "Brynja Þorgeirsdóttir",
+  "stageDirector": null,
+  "writers": null
+}

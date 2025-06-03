@@ -1,0 +1,41 @@
+{
+  "id": 35,
+  "country": "RU",
+  "broadcaster": "C1R",
+  "artist": "Julia Samoylova",
+  "artistPeople": [
+    "Yuliya Olegovna Samoylova (Ю́лия Оле́говна Само́йлова)"
+  ],
+  "song": "I Won't Break",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KujGHwyfMWM",
+    "https://www.youtube-nocookie.com/embed/bgBwbr_fUxA",
+    "https://www.youtube-nocookie.com/embed/knZwgMWIzXc",
+    "https://www.youtube-nocookie.com/embed/HiZzgCiCuG8"
+  ],
+  "bpm": 91,
+  "tone": "D major",
+  "backings": [
+    "Arie Burshtein",
+    "Ksenia Korobkova",
+    "Netta Nimrodi"
+  ],
+  "commentators": [
+    "Yana Churikova",
+    "Yuriy Aksuta"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Anastasiya Dzhurkina",
+    "Ildar Gainutdinov"
+  ],
+  "lyricists": null,
+  "spokesperson": "Alsou",
+  "stageDirector": "Alexei Golubev",
+  "writers": [
+    "Arie Burshtein",
+    "Leonid Gutkin",
+    "Netta Nimrodi"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "year": 1995,
+  "arena": "Point Theatre",
+  "city": "Dublin",
+  "country": "IE",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1995.png",
+  "presenters": [
+    "Mary Kennedy"
+  ],
+  "broadcasters": [
+    "Raidió Teilifís Éireann (RTÉ)"
+  ]
+}

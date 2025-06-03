@@ -1,0 +1,40 @@
+{
+  "id": 2,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Antique",
+  "artistPeople": [
+    "Helena Paparizou",
+    "Nikos Panagiotidis"
+  ],
+  "song": "Die For You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/H9z-Im59asU",
+    "https://www.youtube-nocookie.com/embed/Mz1p868y9pc",
+    "https://www.youtube-nocookie.com/embed/vk0z2G2UNSc",
+    "https://www.youtube-nocookie.com/embed/ImvTdmhxTmA",
+    "https://www.youtube-nocookie.com/embed/vLOhvFL9ZgE"
+  ],
+  "bpm": 124,
+  "tone": "G major",
+  "backings": [
+    "Britta Bergström",
+    "Jeanette Olsson",
+    "Jenny Petersson",
+    "Shirley Clamp"
+  ],
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "composers": [
+    "Nikos Terzis"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Antonis Pappas"
+  ],
+  "spokesperson": "Alexis Kostalas",
+  "stageDirector": null,
+  "writers": null
+}

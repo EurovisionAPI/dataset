@@ -1,0 +1,38 @@
+{
+  "id": 19,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Greta Salóme & Jónsi",
+  "artistPeople": [
+    "Greta Salóme Stefánsdóttir",
+    "Jón Jósep Snæbjörnsson"
+  ],
+  "song": "Never Forget",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zRqmHRbJvTo",
+    "https://www.youtube-nocookie.com/embed/BPkSz2-gu9M",
+    "https://www.youtube-nocookie.com/embed/p8RS0eulXDo",
+    "https://www.youtube-nocookie.com/embed/-kl_cCnCj74",
+    "https://www.youtube-nocookie.com/embed/-DnNN2iIARE"
+  ],
+  "bpm": 135,
+  "tone": "F minor",
+  "backings": [
+    "Alma Rut Kristinsdóttir",
+    "Gisli Magnason",
+    "Guðrún Árný Karlsdóttir",
+    "Pétur Örn Guðmundsson"
+  ],
+  "commentators": [
+    "Hrafnhildur Halldórsdóttir"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Matthías Matthíasson",
+  "stageDirector": null,
+  "writers": [
+    "Greta Salóme Stefánsdóttir"
+  ]
+}

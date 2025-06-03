@@ -1,0 +1,34 @@
+{
+  "id": 2,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Annie Cotton",
+  "artistPeople": [
+    "Annie Cotton"
+  ],
+  "song": "Moi, tout simplement",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5QG-kvD7GHo",
+    "https://www.youtube-nocookie.com/embed/ihiyD5H3c9M",
+    "https://www.youtube-nocookie.com/embed/PIzo5eXXCCg"
+  ],
+  "bpm": 132,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": [
+    "Bernard Thurnheer",
+    "Emanuela Gaggini",
+    "Jean-Marc Richard"
+  ],
+  "composers": [
+    "Christophe Duc"
+  ],
+  "conductor": "Marc Sorrentino",
+  "dancers": null,
+  "lyricists": [
+    "Jean-Jacques Egli"
+  ],
+  "spokesperson": "Michel Stocker",
+  "stageDirector": null,
+  "writers": null
+}

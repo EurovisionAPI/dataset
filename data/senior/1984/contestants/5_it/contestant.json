@@ -1,0 +1,38 @@
+{
+  "id": 5,
+  "country": "IT",
+  "broadcaster": "RAI",
+  "artist": "Alice & Battiato",
+  "artistPeople": [
+    "Carla Bissi",
+    "Franco Battiato"
+  ],
+  "song": "I treni di Tozeur",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UFrngxBXgdI",
+    "https://www.youtube-nocookie.com/embed/yVtkvuKpKf8",
+    "https://www.youtube-nocookie.com/embed/iG0XWaa0YsI",
+    "https://www.youtube-nocookie.com/embed/bXu8Oy6eXlA",
+    "https://www.youtube-nocookie.com/embed/_P14tgQWw0g"
+  ],
+  "bpm": 106,
+  "tone": "Ab major",
+  "backings": [
+    "Marilyn Horne"
+  ],
+  "commentators": [
+    "Antonio De Robertis"
+  ],
+  "composers": [
+    "Franco Battiato"
+  ],
+  "conductor": "Giusto Pio",
+  "dancers": null,
+  "lyricists": [
+    "Giusto Pio",
+    "Rosario Consentino"
+  ],
+  "spokesperson": "Mariolina Cannuli",
+  "stageDirector": null,
+  "writers": null
+}

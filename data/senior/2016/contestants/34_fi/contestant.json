@@ -1,0 +1,49 @@
+{
+  "id": 34,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Sandhja",
+  "artistPeople": [
+    "Sandhja Kuivalainen"
+  ],
+  "song": "Sing It Away",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oAQIPxgQkM8",
+    "https://www.youtube-nocookie.com/embed/Ge5iMzHc3cY",
+    "https://www.youtube-nocookie.com/embed/xWWB5aF_AB4",
+    "https://www.youtube-nocookie.com/embed/8nftN4nM0Uk",
+    "https://www.youtube-nocookie.com/embed/MKn0II8smQg"
+  ],
+  "bpm": 126,
+  "tone": "F major",
+  "backings": [
+    "Heini Ikonen",
+    "Jepa Lambert",
+    "Linda Ilves",
+    "Reetta Korhonen",
+    "Tuuli Ikonen"
+  ],
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Mikko Silvennoinen"
+  ],
+  "composers": [
+    "Markus Savijoki",
+    "Milos Rosas",
+    "Petri Matara",
+    "Sandhja Kuivalainen"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Heikki Korhonen",
+    "Markus Savijoki",
+    "Milos Rosas",
+    "Petri Matara",
+    "Sandhja Kuivalainen"
+  ],
+  "spokesperson": "Jussi-Pekka Rantanen",
+  "stageDirector": "Reija Wäre",
+  "writers": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": 8,
+  "country": "NL",
+  "broadcaster": "NOS",
+  "artist": "Marlayne",
+  "artistPeople": [
+    "Marleen van den Broek"
+  ],
+  "song": "One Good Reason",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ohTT9mMx-rs",
+    "https://www.youtube-nocookie.com/embed/c5ZwnIxDuKg",
+    "https://www.youtube-nocookie.com/embed/YhqJpF44sdg"
+  ],
+  "bpm": 95,
+  "tone": "C# major",
+  "backings": [
+    "Caroline Dest",
+    "Franky Rampen",
+    "Herman van Doorn",
+    "Leendert Haaksma"
+  ],
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Edsilia Rombley",
+  "stageDirector": null,
+  "writers": [
+    "Alan Michael",
+    "Tjeerd van Zanen"
+  ]
+}

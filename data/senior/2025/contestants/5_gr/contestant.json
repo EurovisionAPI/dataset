@@ -1,0 +1,48 @@
+{
+  "id": 5,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Klavdia",
+  "artistPeople": [
+    "Klavdia Papadopoulou"
+  ],
+  "song": "Asteromáta",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1qbWRl6h6to",
+    "https://www.youtube-nocookie.com/embed/OP9n_cO-6V4",
+    "https://www.youtube-nocookie.com/embed/UxzeTezgey4",
+    "https://www.youtube-nocookie.com/embed/acC7A4lLHZM",
+    "https://www.youtube-nocookie.com/embed/-4ZG70O5fLM",
+    "https://www.youtube-nocookie.com/embed/eWIMFXOsUCs",
+    "https://www.youtube-nocookie.com/embed/PeQRKaMNd68"
+  ],
+  "bpm": 122,
+  "tone": "C# minor",
+  "backings": null,
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "composers": [
+    "Diverno",
+    "Gabriel Russell",
+    "Gioni",
+    "Klavdia Papadopoulou",
+    "Loukas Damianakos",
+    "Pavlos Manolis"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Christina Kaliakatsou"
+  ],
+  "lyricists": [
+    "Diverno",
+    "Gabriel Russell",
+    "Gioni",
+    "Loukas Damianakos",
+    "Pavlos Manolis"
+  ],
+  "spokesperson": "Jenny Theona",
+  "stageDirector": "Fokas Evangelinos",
+  "writers": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": 6,
+  "country": "BE",
+  "broadcaster": "VRT",
+  "artist": "Gustaph",
+  "artistPeople": [
+    "Stef Caers"
+  ],
+  "song": "Because of You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/U1xD14IMKtg",
+    "https://www.youtube-nocookie.com/embed/ORhEoS6d8e4",
+    "https://www.youtube-nocookie.com/embed/enaSSMIo8AY",
+    "https://www.youtube-nocookie.com/embed/uYWhh-E_VPo",
+    "https://www.youtube-nocookie.com/embed/PbU8hTgC5ys",
+    "https://www.youtube-nocookie.com/embed/aleNY5uAN5o",
+    "https://www.youtube-nocookie.com/embed/vZJzNQI1Yjw"
+  ],
+  "bpm": 127,
+  "tone": "F minor",
+  "backings": [
+    "Chantal Kashala",
+    "Monique Harcum",
+    "PussCee West",
+    "Sandrine Van Handenhoven"
+  ],
+  "commentators": [
+    "Jean-Louis Lahaye",
+    "Maureen Louys",
+    "Peter Van de Veire"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Bart Cannaerts",
+  "stageDirector": "Hans Pannecoucke",
+  "writers": [
+    "Stef Caers",
+    "Jaouad Alloul"
+  ]
+}

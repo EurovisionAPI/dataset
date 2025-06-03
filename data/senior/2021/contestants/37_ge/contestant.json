@@ -1,0 +1,32 @@
+{
+  "id": 37,
+  "country": "GE",
+  "broadcaster": "GPB",
+  "artist": "Tornike Kipiani",
+  "artistPeople": [
+    "Tornike Kipiani"
+  ],
+  "song": "You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5qnogt74_F8",
+    "https://www.youtube-nocookie.com/embed/zOHwiWElR1A",
+    "https://www.youtube-nocookie.com/embed/w6jzan8nfxc",
+    "https://www.youtube-nocookie.com/embed/v5onk9a4wPA",
+    "https://www.youtube-nocookie.com/embed/yVpMg3hCblQ"
+  ],
+  "bpm": 134,
+  "tone": "C major",
+  "backings": null,
+  "commentators": [
+    "Nika Lobiladze"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Oto Nemsadze",
+  "stageDirector": "Emilia Sandquist",
+  "writers": [
+    "Tornike Kipiani"
+  ]
+}

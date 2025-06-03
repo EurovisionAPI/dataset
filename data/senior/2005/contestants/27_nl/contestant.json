@@ -1,0 +1,32 @@
+{
+  "id": 27,
+  "country": "NL",
+  "broadcaster": "NOS",
+  "artist": "Glennis Grace",
+  "artistPeople": [
+    "Glenda Batta"
+  ],
+  "song": "My Impossible Dream",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/S_Yy3L4mJKo",
+    "https://www.youtube-nocookie.com/embed/v65DIfYw5mE"
+  ],
+  "bpm": 136,
+  "tone": "Eb major",
+  "backings": null,
+  "commentators": [
+    "Cornald Maas",
+    "Willem van Beusekom"
+  ],
+  "composers": [
+    "Robert D. Fisher"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Bruce Smith"
+  ],
+  "spokesperson": "Nancy Coolen",
+  "stageDirector": null,
+  "writers": null
+}

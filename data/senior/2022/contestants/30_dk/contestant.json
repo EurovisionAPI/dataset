@@ -1,0 +1,40 @@
+{
+  "id": 30,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Reddi",
+  "artistPeople": null,
+  "song": "The Show",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cVg6MpVR2Pw",
+    "https://www.youtube-nocookie.com/embed/xqakAZP4D24",
+    "https://www.youtube-nocookie.com/embed/_6oJE6nImaI",
+    "https://www.youtube-nocookie.com/embed/kjZnFKceS3M",
+    "https://www.youtube-nocookie.com/embed/h8XcQVkDdfM"
+  ],
+  "bpm": 185,
+  "tone": "C major",
+  "backings": [
+    "Jeanette Bonde"
+  ],
+  "commentators": [
+    "Henrik Milling",
+    "Nicolai Molbech"
+  ],
+  "composers": [
+    "Chief 1",
+    "Ihan Haydar",
+    "Remee",
+    "Siggy Savery"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Ihan Haydar",
+    "Julia Fabrin",
+    "Siggy Savery"
+  ],
+  "spokesperson": "Tina Müller",
+  "stageDirector": "Birgitte Næss-Schmidt",
+  "writers": null
+}

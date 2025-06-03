@@ -1,0 +1,37 @@
+{
+  "id": 19,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Antonio Carbonell",
+  "artistPeople": [
+    "Antonio Carbonell Muñoz",
+    "Consuelo Delgado",
+    "Irene Delgado"
+  ],
+  "song": "¡Ay, Qué Deseo!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dRFfHq3_MgI",
+    "https://www.youtube-nocookie.com/embed/inneT0xIeDY"
+  ],
+  "bpm": 103,
+  "tone": "Eb major",
+  "backings": [
+    "Javier Catalá",
+    "Jesús Fernández",
+    "Julio Jiménez"
+  ],
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "composers": null,
+  "conductor": "Eduardo Leiva",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Belén Fernández de Henestrosa",
+  "stageDirector": null,
+  "writers": [
+    "Antonio Carmona",
+    "Josemi Carmona",
+    "Juan Carmona"
+  ]
+}

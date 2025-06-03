@@ -1,0 +1,42 @@
+{
+  "id": 9,
+  "country": "MD",
+  "broadcaster": "TRM",
+  "artist": "DoReDos",
+  "artistPeople": [
+    "Evgeny Andrianov",
+    "Marina Djundiet",
+    "Sergiu Mîța"
+  ],
+  "song": "My Lucky Day",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5evrVL1rJPA",
+    "https://www.youtube-nocookie.com/embed/pKLKeVC-9Y4",
+    "https://www.youtube-nocookie.com/embed/m1kjPaVAeeE",
+    "https://www.youtube-nocookie.com/embed/5ts-jxdW6AQ",
+    "https://www.youtube-nocookie.com/embed/Kg3ecHrFM_4",
+    "https://www.youtube-nocookie.com/embed/jP2H75ISzl8",
+    "https://www.youtube-nocookie.com/embed/OPwUncsFlYU"
+  ],
+  "bpm": 122,
+  "tone": "D minor",
+  "backings": [
+    "Erik Høiby",
+    "Kostya Vechersky",
+    "Sara Linnea Larsson"
+  ],
+  "commentators": [
+    "Djulieta Ardovan"
+  ],
+  "composers": [
+    "Philipp Kirkorov"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "John Ballard"
+  ],
+  "spokesperson": "Djulieta Ardovan",
+  "stageDirector": "Fokas Evangelinos",
+  "writers": null
+}

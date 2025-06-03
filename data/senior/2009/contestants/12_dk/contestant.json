@@ -1,0 +1,40 @@
+{
+  "id": 12,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Brinck",
+  "artistPeople": [
+    "Niels Brinck Kristensen"
+  ],
+  "song": "Believe Again",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/j7ZatW7tsxQ",
+    "https://www.youtube-nocookie.com/embed/rqw8rHBzTgc",
+    "https://www.youtube-nocookie.com/embed/7ejbZxeSYMo",
+    "https://www.youtube-nocookie.com/embed/KauLC0cKd1c",
+    "https://www.youtube-nocookie.com/embed/Og711V7CBrw"
+  ],
+  "bpm": 120,
+  "tone": "G major",
+  "backings": [
+    "Anders Øhrstrøm",
+    "Claus Petersen",
+    "Oliver McEwan",
+    "Søren Andersen",
+    "Tim McEwan"
+  ],
+  "commentators": [
+    "Nicolai Molbech"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Felix Smith",
+  "stageDirector": "Vicky Leander",
+  "writers": [
+    "Lars Halvor Jensen",
+    "Martin Michael Larsson",
+    "Ronan Keating"
+  ]
+}

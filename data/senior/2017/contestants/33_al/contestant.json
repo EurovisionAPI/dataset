@@ -1,0 +1,42 @@
+{
+  "id": 33,
+  "country": "AL",
+  "broadcaster": "RTSH",
+  "artist": "Lindita",
+  "artistPeople": [
+    "Lindita Halimi"
+  ],
+  "song": "World",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NyKOBMAXFFA",
+    "https://www.youtube-nocookie.com/embed/cP0aQAdYNjY",
+    "https://www.youtube-nocookie.com/embed/FR12a6Kaf9U",
+    "https://www.youtube-nocookie.com/embed/fCCCu_uTJ7U",
+    "https://www.youtube-nocookie.com/embed/9MWqK_PxrmA",
+    "https://www.youtube-nocookie.com/embed/1KXsuchavk8",
+    "https://www.youtube-nocookie.com/embed/gzXJfvd7xy0"
+  ],
+  "bpm": 85,
+  "tone": "D minor",
+  "backings": [
+    "Anxhelo Miho",
+    "Denisa Xhemnica",
+    "Gjergj Kaçinari",
+    "Greta Radovani"
+  ],
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "composers": [
+    "Klodian Qafoku"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Big Basta",
+    "Lindita Halimi"
+  ],
+  "spokesperson": "Andri Xhahu",
+  "stageDirector": "Kleidi Eski",
+  "writers": null
+}

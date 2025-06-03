@@ -1,0 +1,42 @@
+{
+  "id": 17,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Kyle Alessandro",
+  "artistPeople": [
+    "Kyle Alessandro Helgesen Villalobos"
+  ],
+  "song": "Lighter",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gQOGxx6Fk9k",
+    "https://www.youtube-nocookie.com/embed/WReEi3jLRFQ",
+    "https://www.youtube-nocookie.com/embed/h7jkEmoBvU0",
+    "https://www.youtube-nocookie.com/embed/pUjWzQ671MQ",
+    "https://www.youtube-nocookie.com/embed/btHmbxrgbb8",
+    "https://www.youtube-nocookie.com/embed/w599Rio7qpc",
+    "https://www.youtube-nocookie.com/embed/2R_7YrwvxQ4"
+  ],
+  "bpm": 105,
+  "tone": "D minor",
+  "backings": [
+    "Frode Vassel",
+    "Sondrey"
+  ],
+  "commentators": [
+    "Marte Stokstad"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Daniel Grindeland",
+    "Oliver Paulsson",
+    "Reno Andersen"
+  ],
+  "lyricists": null,
+  "spokesperson": "Tom Hugo",
+  "stageDirector": "Mona Berntsen",
+  "writers": [
+    "Adam Woods",
+    "Kyle Alessandro"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 24,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Gåte",
+  "artistPeople": [
+    "Gunnhild Sundli",
+    "John Stenersen",
+    "Jon Even Schärer",
+    "Magnus Børmark",
+    "Mats Paulsen"
+  ],
+  "song": "Ulveham",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YBbL8ORqNVU",
+    "https://www.youtube-nocookie.com/embed/JArm2ozAm0Q",
+    "https://www.youtube-nocookie.com/embed/UycoKAz1Jm8",
+    "https://www.youtube-nocookie.com/embed/UipzszlJwRQ",
+    "https://www.youtube-nocookie.com/embed/67V4QTypleM",
+    "https://www.youtube-nocookie.com/embed/Qs4ibmEh-qk",
+    "https://www.youtube-nocookie.com/embed/EmmXeF0MvQI"
+  ],
+  "bpm": 130,
+  "tone": "B minor",
+  "backings": null,
+  "commentators": [
+    "Marte Stokstad"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Ingvild Helljesen",
+  "stageDirector": "Mona Berntsen",
+  "writers": [
+    "Gunnhild Sundli",
+    "Jon Even Schärer",
+    "Magnus Børmark",
+    "Marit Jensen Lillebuen",
+    "Ronny Graff Janssen",
+    "Sveinung Eklo Sundli"
+  ]
+}

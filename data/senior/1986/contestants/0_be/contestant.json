@@ -1,0 +1,41 @@
+{
+  "id": 0,
+  "country": "BE",
+  "broadcaster": "RTBF",
+  "artist": "Sandra Kim",
+  "artistPeople": [
+    "Sandra Caldarone"
+  ],
+  "song": "J'aime la vie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/AT3c41gi3B4",
+    "https://www.youtube-nocookie.com/embed/-SPzSC2gFew",
+    "https://www.youtube-nocookie.com/embed/dR95Rx2iDZo",
+    "https://www.youtube-nocookie.com/embed/Ts5ujYQFneA",
+    "https://www.youtube-nocookie.com/embed/R9ecPhgIODk"
+  ],
+  "bpm": 139,
+  "tone": "D major",
+  "backings": [
+    "Angelo Crisci",
+    "Françoise Vidick",
+    "Jean-Paul Furnémont",
+    "Patricia Maessen"
+  ],
+  "commentators": [
+    "Luc Appermont",
+    "Patrick Duhamel"
+  ],
+  "composers": [
+    "Angelo Crisci",
+    "Jean-Paul Furnémont"
+  ],
+  "conductor": "Jo Carlier",
+  "dancers": null,
+  "lyricists": [
+    "Rosario Marino Atria"
+  ],
+  "spokesperson": "Jacques Olivier",
+  "stageDirector": null,
+  "writers": null
+}

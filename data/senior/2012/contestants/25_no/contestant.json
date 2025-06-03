@@ -1,0 +1,38 @@
+{
+  "id": 25,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Tooji",
+  "artistPeople": [
+    "Touraj Keshtkar"
+  ],
+  "song": "Stay",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-ZaxIY1VAbM",
+    "https://www.youtube-nocookie.com/embed/7prpZqI10Ck",
+    "https://www.youtube-nocookie.com/embed/qVEXghAvBko"
+  ],
+  "bpm": 127,
+  "tone": "F minor",
+  "backings": [
+    "Anne-Marit Tynes",
+    "BamBam",
+    "Daniel Gill",
+    "Hans Esben Gihle",
+    "Maria"
+  ],
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Nadia Hasnaoui",
+  "stageDirector": null,
+  "writers": [
+    "Figge Boström",
+    "Peter Boström",
+    "Tooji"
+  ]
+}

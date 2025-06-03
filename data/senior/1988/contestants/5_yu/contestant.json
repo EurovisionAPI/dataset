@@ -1,0 +1,40 @@
+{
+  "id": 5,
+  "country": "YU",
+  "broadcaster": "JRT",
+  "artist": "Srebrna Krila",
+  "artistPeople": [
+    "Lidija Asanović",
+    "Mustafa Ismailovski",
+    "Oleg Colnago",
+    "Slavko Pintarić Pišta"
+  ],
+  "song": "Mangup",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mPnRNwH_uSs",
+    "https://www.youtube-nocookie.com/embed/R87zUXkMaFE",
+    "https://www.youtube-nocookie.com/embed/-m6EGo9hNHA",
+    "https://www.youtube-nocookie.com/embed/wM-usdFp0Wo",
+    "https://www.youtube-nocookie.com/embed/A5uuX4A9Zbg"
+  ],
+  "bpm": 118,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Mladen Popović",
+    "Oliver Mlakar",
+    "Slobodan Kaloper"
+  ],
+  "composers": [
+    "Rajko Dujmić"
+  ],
+  "conductor": "Nikica Kalogjera",
+  "dancers": null,
+  "lyricists": [
+    "Rajko Dujmić",
+    "Stevo Cvikić"
+  ],
+  "spokesperson": "Miša Molk",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": 9,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Jowst",
+  "artistPeople": [
+    "Aleksander Walmann Åsgården"
+  ],
+  "song": "Grab the Moment",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/U-Bk0PCotY0",
+    "https://www.youtube-nocookie.com/embed/I4fCXVfbOjQ",
+    "https://www.youtube-nocookie.com/embed/e22HgB_pHxo",
+    "https://www.youtube-nocookie.com/embed/_QVH8vPZVRw",
+    "https://www.youtube-nocookie.com/embed/zAGsvpwLh2Y",
+    "https://www.youtube-nocookie.com/embed/UBgyXDKqjmo",
+    "https://www.youtube-nocookie.com/embed/B5UCQ2lSnmM"
+  ],
+  "bpm": 104,
+  "tone": "B minor",
+  "backings": [
+    "Adrian Jørgensen",
+    "Frode Vassel",
+    "Ole Arnold Børud",
+    "Ole-André Enggrav"
+  ],
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "composers": [
+    "Joakim With Steen"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Jonas McDonnell"
+  ],
+  "spokesperson": "Marcus Gunnarsen, Martinus Gunnarsen",
+  "stageDirector": "Mattias Carlsson",
+  "writers": null
+}

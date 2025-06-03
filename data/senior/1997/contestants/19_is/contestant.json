@@ -1,0 +1,40 @@
+{
+  "id": 19,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Paul Oscar",
+  "artistPeople": [
+    "Páll Óskar Hjálmtýsson"
+  ],
+  "song": "Minn hinsti dans",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rVZ0VNsXhTA",
+    "https://www.youtube-nocookie.com/embed/Oecd6PcbotA",
+    "https://www.youtube-nocookie.com/embed/mna1_6kIokc",
+    "https://www.youtube-nocookie.com/embed/xjpx9c5Ly_M",
+    "https://www.youtube-nocookie.com/embed/86bhB9V7-yU"
+  ],
+  "bpm": 141,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": [
+    "Jakob Frímann Magnússon"
+  ],
+  "composers": [
+    "Páll Óskar Hjálmtýsson",
+    "Trausti Haraldsson"
+  ],
+  "conductor": "Szymon Kuran",
+  "dancers": [
+    "Guðrún Kaldal",
+    "Helena Jónsdóttir",
+    "Hlíf Þorgeirsdóttir",
+    "Ingibjörg Agnes Jónsdóttir"
+  ],
+  "lyricists": [
+    "Páll Óskar Hjálmtýsson"
+  ],
+  "spokesperson": "Svanhildur Konráðsdóttir",
+  "stageDirector": null,
+  "writers": null
+}

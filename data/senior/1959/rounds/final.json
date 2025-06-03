@@ -1,0 +1,250 @@
+{
+  "name": null,
+  "date": "1959-03-11",
+  "time": null,
+  "disqualifieds": null,
+  "performances": [
+    {
+      "contestantId": 0,
+      "running": 5,
+      "place": 1,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AT": 3,
+            "BE": 3,
+            "DK": 0,
+            "FR": 4,
+            "DE": 2,
+            "IT": 7,
+            "MC": 1,
+            "SE": 0,
+            "CH": 0,
+            "GB": 1
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 1,
+      "running": 10,
+      "place": 2,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AT": 2,
+            "BE": 2,
+            "DK": 1,
+            "FR": 1,
+            "DE": 0,
+            "IT": 0,
+            "MC": 2,
+            "NL": 5,
+            "SE": 0,
+            "CH": 3
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 2,
+      "running": 1,
+      "place": 3,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AT": 1,
+            "BE": 2,
+            "DK": 4,
+            "DE": 4,
+            "IT": 1,
+            "MC": 2,
+            "NL": 0,
+            "SE": 0,
+            "CH": 1,
+            "GB": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 3,
+      "running": 8,
+      "place": 4,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AT": 1,
+            "BE": 1,
+            "DK": 2,
+            "FR": 0,
+            "DE": 1,
+            "IT": 0,
+            "MC": 1,
+            "NL": 0,
+            "SE": 3,
+            "GB": 5
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 4,
+      "running": 2,
+      "place": 5,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AT": 2,
+            "BE": 0,
+            "FR": 0,
+            "DE": 0,
+            "IT": 1,
+            "MC": 1,
+            "NL": 1,
+            "SE": 4,
+            "CH": 1,
+            "GB": 2
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 5,
+      "running": 3,
+      "place": 6,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AT": 0,
+            "BE": 1,
+            "DK": 0,
+            "FR": 3,
+            "DE": 0,
+            "MC": 1,
+            "NL": 0,
+            "SE": 1,
+            "CH": 3,
+            "GB": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 6,
+      "running": 11,
+      "place": 6,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AT": 0,
+            "DK": 2,
+            "FR": 0,
+            "DE": 3,
+            "IT": 0,
+            "MC": 1,
+            "NL": 1,
+            "SE": 0,
+            "CH": 0,
+            "GB": 2
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 7,
+      "running": 6,
+      "place": 8,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AT": 0,
+            "BE": 1,
+            "DK": 0,
+            "FR": 2,
+            "IT": 1,
+            "MC": 0,
+            "NL": 0,
+            "SE": 0,
+            "CH": 1,
+            "GB": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 8,
+      "running": 7,
+      "place": 9,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AT": 0,
+            "BE": 0,
+            "DK": 1,
+            "FR": 0,
+            "DE": 0,
+            "IT": 0,
+            "MC": 0,
+            "NL": 3,
+            "CH": 0,
+            "GB": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 9,
+      "running": 9,
+      "place": 9,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "BE": 0,
+            "DK": 0,
+            "FR": 0,
+            "DE": 0,
+            "IT": 0,
+            "MC": 1,
+            "NL": 0,
+            "SE": 2,
+            "CH": 1,
+            "GB": 0
+          }
+        }
+      ]
+    },
+    {
+      "contestantId": 10,
+      "running": 4,
+      "place": 11,
+      "scores": [
+        {
+          "name": "total",
+          "votes": {
+            "AT": 1,
+            "BE": 0,
+            "DK": 0,
+            "FR": 0,
+            "DE": 0,
+            "IT": 0,
+            "NL": 0,
+            "SE": 0,
+            "CH": 0,
+            "GB": 0
+          }
+        }
+      ]
+    }
+  ]
+}

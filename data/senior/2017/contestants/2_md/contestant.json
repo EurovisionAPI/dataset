@@ -1,0 +1,41 @@
+{
+  "id": 2,
+  "country": "MD",
+  "broadcaster": "TRM",
+  "artist": "Sunstroke Project",
+  "artistPeople": null,
+  "song": "Hey Mamma",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SWaQdHoCvYk",
+    "https://www.youtube-nocookie.com/embed/mvaLAs9cex4",
+    "https://www.youtube-nocookie.com/embed/prqZ8MSAPh4",
+    "https://www.youtube-nocookie.com/embed/QecWkJWB7zI",
+    "https://www.youtube-nocookie.com/embed/pPprtz36QSw",
+    "https://www.youtube-nocookie.com/embed/oc8rfE9u4Z0",
+    "https://www.youtube-nocookie.com/embed/aW2C1qXKxLE"
+  ],
+  "bpm": 110,
+  "tone": "Bb minor",
+  "backings": [
+    "Catarina Sandu",
+    "Dana Markitan",
+    "Helena Abegaz"
+  ],
+  "commentators": [
+    "Gloria Gorceag"
+  ],
+  "composers": [
+    "Anton Ragoza",
+    "Mihail Cebotarenco",
+    "Sergei Yalovitsky",
+    "Sergey Stepanov"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Alina Galetskaya"
+  ],
+  "spokesperson": "Gloria Gorceag",
+  "stageDirector": "Maru Petrova",
+  "writers": null
+}

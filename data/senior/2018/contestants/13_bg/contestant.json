@@ -1,0 +1,44 @@
+{
+  "id": 13,
+  "country": "BG",
+  "broadcaster": "BNT",
+  "artist": "Equinox",
+  "artistPeople": [
+    "Georgi Simeonov",
+    "Johnny Manuel",
+    "Trey Campbell",
+    "Vladdi",
+    "Zhana Bergendorff"
+  ],
+  "song": "Bones",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vC-1tdGDFQc",
+    "https://www.youtube-nocookie.com/embed/ajOe6ZmHq-0",
+    "https://www.youtube-nocookie.com/embed/Uvy_R3fTHQ4",
+    "https://www.youtube-nocookie.com/embed/2qlPAzoWYkk",
+    "https://www.youtube-nocookie.com/embed/jjDb0OgxYPA",
+    "https://www.youtube-nocookie.com/embed/-f3E5IxP320",
+    "https://www.youtube-nocookie.com/embed/3k9uNVh25-s"
+  ],
+  "bpm": 88,
+  "tone": "F# minor",
+  "backings": [
+    "Maria Georgieva"
+  ],
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Yoanna Dragneva",
+  "stageDirector": "Sacha Jean-Baptiste",
+  "writers": [
+    "Borislav Milanov",
+    "Brandon Treyshun Campbell",
+    "Dag Lundberg",
+    "Joacim Persson"
+  ]
+}

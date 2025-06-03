@@ -1,0 +1,38 @@
+{
+  "id": 38,
+  "country": "GE",
+  "broadcaster": "GPB",
+  "artist": "Circus Mircus",
+  "artistPeople": [
+    "Bavonc Gevorkyan",
+    "Damocles Stavriadis",
+    "Archil Sulakvelidze",
+    "Nikoloz Valerieovich Kocharov (ნიკოლოზ ვალერიოვიჩი კოჩაროვი)"
+  ],
+  "song": "Lock Me In",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zXiZAbqETvk",
+    "https://www.youtube-nocookie.com/embed/qgukml7zDAA",
+    "https://www.youtube-nocookie.com/embed/64vAwSRlcOs",
+    "https://www.youtube-nocookie.com/embed/E2QF_QB-mnM",
+    "https://www.youtube-nocookie.com/embed/cTYNJoqsOnY"
+  ],
+  "bpm": 107,
+  "tone": "D major",
+  "backings": null,
+  "commentators": [
+    "Nika Lobiladze"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": "Emilia Sandquist",
+  "writers": [
+    "Bavonc Gevorkyan",
+    "Damocles Stavriadis",
+    "Iago Waitman",
+    "Igor Von Lichtenstein"
+  ]
+}

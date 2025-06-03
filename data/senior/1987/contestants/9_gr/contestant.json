@@ -1,0 +1,37 @@
+{
+  "id": 9,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Bang",
+  "artistPeople": [
+    "Thanos Kalliris",
+    "Vassilis Dertillis"
+  ],
+  "song": "Stop!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/W0xXBsnhhb8",
+    "https://www.youtube-nocookie.com/embed/QTiYMMCx-Hk",
+    "https://www.youtube-nocookie.com/embed/is77nlgW0VE",
+    "https://www.youtube-nocookie.com/embed/gIG9unjotlc"
+  ],
+  "bpm": 90,
+  "tone": "Bb major",
+  "backings": [
+    "Katerina Kalliris",
+    "Marianna Efstratiou",
+    "Tereza"
+  ],
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "composers": null,
+  "conductor": "Giorgos Niachros",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Kelly Sakakou",
+  "stageDirector": null,
+  "writers": [
+    "Thanos Kalliris",
+    "Vassilis Dertillis"
+  ]
+}

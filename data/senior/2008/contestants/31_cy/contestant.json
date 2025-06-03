@@ -1,0 +1,37 @@
+{
+  "id": 31,
+  "country": "CY",
+  "broadcaster": "CyBC",
+  "artist": "Evdokia Kadi",
+  "artistPeople": [
+    "Evdokia Kadi"
+  ],
+  "song": "Femme Fatale",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6m2HZD3eXfI",
+    "https://www.youtube-nocookie.com/embed/8hd2udzdYJg",
+    "https://www.youtube-nocookie.com/embed/al0eikRFX50"
+  ],
+  "bpm": 155,
+  "tone": "C# minor",
+  "backings": [
+    "Andreas Vanezis",
+    "Christos Shakallis",
+    "Polys Kourousides",
+    "Tefkros Neokleous"
+  ],
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "composers": [
+    "Nikos Evangelou"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Vangelis Evangelou"
+  ],
+  "spokesperson": "Hristina Marouhou",
+  "stageDirector": "Fotis Nikolaou",
+  "writers": null
+}

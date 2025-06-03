@@ -1,0 +1,43 @@
+{
+  "id": 16,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Blanca Paloma",
+  "artistPeople": [
+    "Blanca Paloma Ramos Baeza"
+  ],
+  "song": "Eaea",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Vw6qPWhjevk",
+    "https://www.youtube-nocookie.com/embed/NGnEoSypBhE",
+    "https://www.youtube-nocookie.com/embed/Rt78Zv357oc",
+    "https://www.youtube-nocookie.com/embed/yxuO0qZITko",
+    "https://www.youtube-nocookie.com/embed/n8W7qWM80UU",
+    "https://www.youtube-nocookie.com/embed/_6Mef__R5dU",
+    "https://www.youtube-nocookie.com/embed/j4TOA5jd-XY"
+  ],
+  "bpm": 116,
+  "tone": "F minor",
+  "backings": null,
+  "commentators": [
+    "Julia Varela",
+    "Tony Aguilar"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Angelica Moyano",
+    "Desire Paredes",
+    "Paloma Scharfhausen",
+    "Paula Valbuena Rivera",
+    "Saray Frutos"
+  ],
+  "lyricists": null,
+  "spokesperson": "Ruth Lorenzo",
+  "stageDirector": null,
+  "writers": [
+    "Álvaro Tato",
+    "Blanca Paloma",
+    "José Pablo Polo"
+  ]
+}

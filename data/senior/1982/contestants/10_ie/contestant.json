@@ -1,0 +1,33 @@
+{
+  "id": 10,
+  "country": "IE",
+  "broadcaster": "RTÉ",
+  "artist": "The Duskeys",
+  "artistPeople": [
+    "Barbara Ellis",
+    "Dan Duskey",
+    "Nina Duskey",
+    "Sandy Kelly"
+  ],
+  "song": "Here Today, Gone Tomorrow",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ms_aDsasL4Y",
+    "https://www.youtube-nocookie.com/embed/78yZxMGyU_A",
+    "https://www.youtube-nocookie.com/embed/OwdPVO255wI"
+  ],
+  "bpm": 134,
+  "tone": "C minor",
+  "backings": null,
+  "commentators": [
+    "Larry Gogan"
+  ],
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "John Skehan",
+  "stageDirector": null,
+  "writers": [
+    "Sally Keating"
+  ]
+}

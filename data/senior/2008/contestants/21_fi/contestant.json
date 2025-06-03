@@ -1,0 +1,42 @@
+{
+  "id": 21,
+  "country": "FI",
+  "broadcaster": "YLE",
+  "artist": "Teräsbetoni",
+  "artistPeople": [
+    "Arto Järvinen",
+    "Jari Kuokkanen",
+    "Jarkko Ahola",
+    "Viljo Rantanen"
+  ],
+  "song": "Missä miehet ratsastaa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/a-nbF9dxbJ0",
+    "https://www.youtube-nocookie.com/embed/TheV9eBTT3Q",
+    "https://www.youtube-nocookie.com/embed/dxWA1RLROBA",
+    "https://www.youtube-nocookie.com/embed/WoHUjTYXbyI",
+    "https://www.youtube-nocookie.com/embed/DRt1lUS4RCY",
+    "https://www.youtube-nocookie.com/embed/H3ngp0PGLlI"
+  ],
+  "bpm": 140,
+  "tone": "B minor",
+  "backings": [
+    "Antto Tuomainen",
+    "Osku Ketola"
+  ],
+  "commentators": [
+    "Asko Murtomäki",
+    "Jaana Pelkonen",
+    "Mikko Peltola",
+    "Thomas Lundin"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Mikko Leppilampi",
+  "stageDirector": null,
+  "writers": [
+    "Jarkko Ahola"
+  ]
+}

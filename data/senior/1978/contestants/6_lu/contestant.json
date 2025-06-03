@@ -1,0 +1,37 @@
+{
+  "id": 6,
+  "country": "LU",
+  "broadcaster": "CLT",
+  "artist": "Baccara",
+  "artistPeople": [
+    "María Mendiola",
+    "Mayte Mateos"
+  ],
+  "song": "Parlez-vous français ?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rRCXqCBiuaQ",
+    "https://www.youtube-nocookie.com/embed/PpvdNFPZyAI",
+    "https://www.youtube-nocookie.com/embed/mBhRf9tjYqc",
+    "https://www.youtube-nocookie.com/embed/4ixboN6xSGY",
+    "https://www.youtube-nocookie.com/embed/JgnAikjvQOI",
+    "https://www.youtube-nocookie.com/embed/0O4RugBkSxk"
+  ],
+  "bpm": 133,
+  "tone": "F minor",
+  "backings": null,
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "composers": [
+    "Rolf Soja"
+  ],
+  "conductor": "Rolf Soja",
+  "dancers": null,
+  "lyricists": [
+    "Frank Dostal",
+    "Péter Zentner"
+  ],
+  "spokesperson": "Jacques Harvey",
+  "stageDirector": null,
+  "writers": null
+}

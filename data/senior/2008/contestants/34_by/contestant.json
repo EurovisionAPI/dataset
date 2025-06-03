@@ -1,0 +1,37 @@
+{
+  "id": 34,
+  "country": "BY",
+  "broadcaster": "BTRC",
+  "artist": "Ruslan Alehno",
+  "artistPeople": [
+    "Ruslan Alehno"
+  ],
+  "song": "Hasta la vista",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wG8p0fSHc3U",
+    "https://www.youtube-nocookie.com/embed/R9kxjofDDxI",
+    "https://www.youtube-nocookie.com/embed/8S5YYzAf5cw",
+    "https://www.youtube-nocookie.com/embed/5sq5PmFaRDE",
+    "https://www.youtube-nocookie.com/embed/Uz0S1zkgWHo"
+  ],
+  "bpm": 128,
+  "tone": "C minor",
+  "backings": [
+    "Bogdan Reshetnyk",
+    "Emy Armine Zaryan"
+  ],
+  "commentators": [
+    "Denis Kurian"
+  ],
+  "composers": [
+    "Taras Demchuk"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Eleonora Melnik"
+  ],
+  "spokesperson": "Olga Barabanschikova",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": 13,
+  "country": "LU",
+  "broadcaster": "CLT",
+  "artist": "Jürgen Marcus",
+  "artistPeople": [
+    "Jürgen Beumer"
+  ],
+  "song": "Chansons pour ceux qui s'aiment",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/J3uZs6JLN8w",
+    "https://www.youtube-nocookie.com/embed/axc2F0bgtzk",
+    "https://www.youtube-nocookie.com/embed/fzG1M8EOuYw",
+    "https://www.youtube-nocookie.com/embed/hRRJUnyEi0c"
+  ],
+  "bpm": 163,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "composers": [
+    "Jack White"
+  ],
+  "conductor": "Jo Plée",
+  "dancers": null,
+  "lyricists": [
+    "Fred Jay",
+    "Vline Buggy"
+  ],
+  "spokesperson": "Jacques Harvey",
+  "stageDirector": null,
+  "writers": null
+}

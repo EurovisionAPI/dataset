@@ -1,0 +1,41 @@
+{
+  "id": 31,
+  "country": "EE",
+  "broadcaster": "ERR",
+  "artist": "Sandra",
+  "artistPeople": [
+    "Sandra Oxenryd"
+  ],
+  "song": "Through My Window",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zOybfT_x8Sc",
+    "https://www.youtube-nocookie.com/embed/TyesYqE0zZU",
+    "https://www.youtube-nocookie.com/embed/K3D0JmPkdfA",
+    "https://www.youtube-nocookie.com/embed/SRSw-l4zk7c"
+  ],
+  "bpm": 142,
+  "tone": "Eb major",
+  "backings": [
+    "Carita Nyström",
+    "Dagmar Oja",
+    "Emma Andersson",
+    "Jacob Gyldenskog",
+    "Jelena Juzvik"
+  ],
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "composers": [
+    "Alar Kotkas",
+    "Ilmar Laisaar",
+    "Pearu Paulus"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Jana Hallas"
+  ],
+  "spokesperson": "Evelin Samuel",
+  "stageDirector": null,
+  "writers": null
+}

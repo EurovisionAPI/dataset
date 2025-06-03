@@ -1,0 +1,32 @@
+{
+  "id": 14,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Daisy Auvray",
+  "artistPeople": [
+    "Daisy Auvray"
+  ],
+  "song": "Mister Music Man",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/orAK7bpOg5I",
+    "https://www.youtube-nocookie.com/embed/NoYp71QpkQY",
+    "https://www.youtube-nocookie.com/embed/_tN3Wg2yJgA"
+  ],
+  "bpm": 83,
+  "tone": "B minor",
+  "backings": null,
+  "commentators": [
+    "Emanuela Gaggini",
+    "Ivan Frésard",
+    "Mariano Tschuor"
+  ],
+  "composers": null,
+  "conductor": "Roby Seidel",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Michel Stocker",
+  "stageDirector": null,
+  "writers": [
+    "Gordon Dent"
+  ]
+}

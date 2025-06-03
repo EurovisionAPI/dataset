@@ -1,0 +1,29 @@
+{
+  "id": 8,
+  "country": "DK",
+  "broadcaster": "DR",
+  "artist": "Bjørn Tidmand",
+  "artistPeople": [
+    "Bjørn Tidmand"
+  ],
+  "song": "Sangen om dig",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3BfWGu7lhhU",
+    "https://www.youtube-nocookie.com/embed/-uw1uY_TBas"
+  ],
+  "bpm": 96,
+  "tone": "E major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Aksel V. Rasmussen"
+  ],
+  "conductor": "Kai Mortensen",
+  "dancers": null,
+  "lyricists": [
+    "Mogens Dam"
+  ],
+  "spokesperson": "Pedro Biker",
+  "stageDirector": null,
+  "writers": null
+}

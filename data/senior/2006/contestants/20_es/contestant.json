@@ -1,0 +1,34 @@
+{
+  "id": 20,
+  "country": "ES",
+  "broadcaster": "TVE",
+  "artist": "Las Ketchup",
+  "artistPeople": [
+    "Lola Muñoz",
+    "Lucía Muñoz",
+    "Pilar Muñoz",
+    "Rocío Muñoz"
+  ],
+  "song": "Bloody Mary",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/N8HnyH8PHVI"
+  ],
+  "bpm": 136,
+  "tone": "C minor",
+  "backings": [
+    "Álvaro Esteban",
+    "Laura Ramos"
+  ],
+  "commentators": [
+    "Beatriz Pécker"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Sonia Ferrer",
+  "stageDirector": null,
+  "writers": [
+    "Queco"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9,
+  "country": "AT",
+  "broadcaster": "ORF",
+  "artist": "Ferry Graf",
+  "artistPeople": [
+    "Ferry Graf"
+  ],
+  "song": "Der K. und K. Kalypso aus Wien",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vYwxry6G-jQ",
+    "https://www.youtube-nocookie.com/embed/GN0yfFm-WuQ"
+  ],
+  "bpm": 154,
+  "tone": "G minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Norbert Pawlicki"
+  ],
+  "conductor": "Franck Pourcel",
+  "dancers": null,
+  "lyricists": [
+    "Günther Leopold"
+  ],
+  "spokesperson": "Karl Bruck",
+  "stageDirector": null,
+  "writers": null
+}

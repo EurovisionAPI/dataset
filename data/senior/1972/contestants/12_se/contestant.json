@@ -1,0 +1,33 @@
+{
+  "id": 12,
+  "country": "SE",
+  "broadcaster": "SR",
+  "artist": "Family Four",
+  "artistPeople": [
+    "Agneta Munther",
+    "Berndt Öst",
+    "Marie Bergman",
+    "Pierre Isacsson"
+  ],
+  "song": "Härliga sommardag",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7xpOEArqJQc",
+    "https://www.youtube-nocookie.com/embed/bxFcQDFchlg",
+    "https://www.youtube-nocookie.com/embed/Hi84A4GYZBU"
+  ],
+  "bpm": 178,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": [
+    "Bo Billtén"
+  ],
+  "composers": null,
+  "conductor": "Mats Olsson",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Håkan Elmquist"
+  ]
+}

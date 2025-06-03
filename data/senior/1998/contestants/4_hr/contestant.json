@@ -1,0 +1,36 @@
+{
+  "id": 4,
+  "country": "HR",
+  "broadcaster": "HRT",
+  "artist": "Danijela",
+  "artistPeople": [
+    "Danijela Martinović"
+  ],
+  "song": "Neka mi ne svane",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HFhL3lNzHV0",
+    "https://www.youtube-nocookie.com/embed/OyEICTuUei4",
+    "https://www.youtube-nocookie.com/embed/5yqPPVfFzIg",
+    "https://www.youtube-nocookie.com/embed/GVKLw616n-Y"
+  ],
+  "bpm": 123,
+  "tone": "Ab major",
+  "backings": [
+    "Alenka Milano",
+    "Ksenija Erker"
+  ],
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "composers": null,
+  "conductor": "Stipica Kalogjera",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Davor Meštrović",
+  "stageDirector": null,
+  "writers": [
+    "Petar Grašo",
+    "Remi Kazinotti",
+    "Stjepan Kalogjera"
+  ]
+}

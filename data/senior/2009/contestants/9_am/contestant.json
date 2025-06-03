@@ -1,0 +1,35 @@
+{
+  "id": 9,
+  "country": "AM",
+  "broadcaster": "AMPTV",
+  "artist": "Inga & Anush",
+  "artistPeople": [
+    "Anush Arshakyan",
+    "Inga Arshakyan"
+  ],
+  "song": "Jan Jan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YhfqLTT8mpo",
+    "https://www.youtube-nocookie.com/embed/UF9BcOvBwfM",
+    "https://www.youtube-nocookie.com/embed/1AH6jCbDh98",
+    "https://www.youtube-nocookie.com/embed/-2lDEZr8txU"
+  ],
+  "bpm": 115,
+  "tone": "E minor",
+  "backings": null,
+  "commentators": [
+    "Khoren Levonyan"
+  ],
+  "composers": [
+    "Mane Akopyan"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Avet Barseghyan",
+    "Vardan Zadoyan"
+  ],
+  "spokesperson": "Sirusho",
+  "stageDirector": null,
+  "writers": null
+}

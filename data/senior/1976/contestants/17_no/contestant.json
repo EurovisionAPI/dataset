@@ -1,0 +1,37 @@
+{
+  "id": 17,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Anne-Karine Ström",
+  "artistPeople": [
+    "Anne Karine"
+  ],
+  "song": "Mata Hari",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ygdpc0cRxno",
+    "https://www.youtube-nocookie.com/embed/JPVJKdu0BuY",
+    "https://www.youtube-nocookie.com/embed/awW9ARtSX_8",
+    "https://www.youtube-nocookie.com/embed/geU7xTrx6bA"
+  ],
+  "bpm": 131,
+  "tone": "Eb major",
+  "backings": [
+    "Judith Damsté",
+    "Titia Dekker",
+    "Wanda Stellaard"
+  ],
+  "commentators": [
+    "Jo Vestly"
+  ],
+  "composers": [
+    "Frode Thingnæs"
+  ],
+  "conductor": "Frode Thingnæs",
+  "dancers": null,
+  "lyricists": [
+    "Philip A. Kruse"
+  ],
+  "spokesperson": "Sverre Christophersen",
+  "stageDirector": null,
+  "writers": null
+}

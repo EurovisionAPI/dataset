@@ -1,0 +1,36 @@
+{
+  "id": 2,
+  "country": "DE",
+  "broadcaster": "ARD",
+  "artist": "Katja Ebstein",
+  "artistPeople": [
+    "Karin Ilse Überall",
+    "Karin Witkiewicz"
+  ],
+  "song": "Diese Welt",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OPSo98zF12w",
+    "https://www.youtube-nocookie.com/embed/9x-5XmXqsNc",
+    "https://www.youtube-nocookie.com/embed/IYmaP_BUSpk",
+    "https://www.youtube-nocookie.com/embed/GlAUNrPimx4",
+    "https://www.youtube-nocookie.com/embed/rZyMB8jPoZA",
+    "https://www.youtube-nocookie.com/embed/RzypYZeQOgg"
+  ],
+  "bpm": 92,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Hanns Verres"
+  ],
+  "composers": [
+    "Dieter Zimmermann"
+  ],
+  "conductor": "Dieter Zimmermann",
+  "dancers": null,
+  "lyricists": [
+    "Fred Jay"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

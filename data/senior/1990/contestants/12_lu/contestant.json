@@ -1,0 +1,35 @@
+{
+  "id": 12,
+  "country": "LU",
+  "broadcaster": "CLT",
+  "artist": "Céline Carzo",
+  "artistPeople": [
+    "Céline Carzo"
+  ],
+  "song": "Quand je te rêve",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tsRkzXXmlNw",
+    "https://www.youtube-nocookie.com/embed/jYppMF_kwkU",
+    "https://www.youtube-nocookie.com/embed/xXsA2IZ2e4o"
+  ],
+  "bpm": 140,
+  "tone": "D major",
+  "backings": [
+    "Francine Chantereau",
+    "Martine Latorre"
+  ],
+  "commentators": [
+    "Valérie Sarn"
+  ],
+  "composers": [
+    "Jean-Charles France"
+  ],
+  "conductor": "Thierry Durbet",
+  "dancers": null,
+  "lyricists": [
+    "Thierry Delianis"
+  ],
+  "spokesperson": "Jean-Luc Bertrand",
+  "stageDirector": null,
+  "writers": null
+}

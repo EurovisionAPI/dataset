@@ -1,0 +1,41 @@
+{
+  "id": 9,
+  "country": "RS",
+  "broadcaster": "RTS",
+  "artist": "Bojana Stamenov",
+  "artistPeople": [
+    "Bojana Stamenov"
+  ],
+  "song": "Beauty Never Lies",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gXGo70i94S8",
+    "https://www.youtube-nocookie.com/embed/c40kVKIoPvE",
+    "https://www.youtube-nocookie.com/embed/6zCz_fJa1yA",
+    "https://www.youtube-nocookie.com/embed/FKT4BwMq3h8",
+    "https://www.youtube-nocookie.com/embed/RGFWcOW6nC8",
+    "https://www.youtube-nocookie.com/embed/8EbuuNSxGb8"
+  ],
+  "bpm": 129,
+  "tone": "Bb minor",
+  "backings": [
+    "Marko Nikolić",
+    "Oliver Katić",
+    "Sanja Bogosavljević",
+    "Saška Janković"
+  ],
+  "commentators": [
+    "Duška Vučinić-Lučić",
+    "Silvana Grujić"
+  ],
+  "composers": [
+    "Vladimir Graić"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Charlie Mason"
+  ],
+  "spokesperson": "Maja Nikolić",
+  "stageDirector": "Gorčin Stojanović",
+  "writers": null
+}

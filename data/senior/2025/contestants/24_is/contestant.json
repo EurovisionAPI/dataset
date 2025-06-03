@@ -1,0 +1,48 @@
+{
+  "id": 24,
+  "country": "IS",
+  "broadcaster": "RÚV",
+  "artist": "Væb",
+  "artistPeople": [
+    "Hálfdán Helgi Matthíasson",
+    "Matthías Davíð Matthíasson"
+  ],
+  "song": "Róa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/c73Lx1QUZZA",
+    "https://www.youtube-nocookie.com/embed/f3mAIpm5QxI",
+    "https://www.youtube-nocookie.com/embed/LZE1WzOwtQQ",
+    "https://www.youtube-nocookie.com/embed/WicOhU7AUrw",
+    "https://www.youtube-nocookie.com/embed/-yJwUsA40K4",
+    "https://www.youtube-nocookie.com/embed/tArzQ9at5dk",
+    "https://www.youtube-nocookie.com/embed/4d2dB7Xs9Cw"
+  ],
+  "bpm": 140,
+  "tone": "Ab major",
+  "backings": [
+    "Arna Rún Ómarsdóttir"
+  ],
+  "commentators": [
+    "Gunna Dís Emilsdóttir"
+  ],
+  "composers": [
+    "Gunnar Björn Gunnarsson",
+    "Hálfdán Helgi Matthíasson",
+    "Ingi Bauer",
+    "Matthías Davíð Matthíasson"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Baldvin Alan Thorarensen",
+    "Ola Getka",
+    "Úlfhildur Tómasdóttir"
+  ],
+  "lyricists": [
+    "Hálfdán Helgi Matthíasson",
+    "Ingi Bauer",
+    "Matthías Davíð Matthíasson"
+  ],
+  "spokesperson": "Hera Björk",
+  "stageDirector": "Selma Björnsdóttir",
+  "writers": null
+}

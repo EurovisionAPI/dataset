@@ -1,0 +1,31 @@
+{
+  "id": 7,
+  "country": "FR",
+  "broadcaster": "A2F",
+  "artist": "Annick Thoumazeau",
+  "artistPeople": [
+    "Annick Thoumazeau"
+  ],
+  "song": "Autant d'amoureux que d'étoiles",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4k28wNXmgsU",
+    "https://www.youtube-nocookie.com/embed/vdo6UMhZ2Ws"
+  ],
+  "bpm": 133,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": [
+    "Léon Zitrone"
+  ],
+  "composers": [
+    "Vladimir Kosma"
+  ],
+  "conductor": "François Rauber",
+  "dancers": null,
+  "lyricists": [
+    "Charles Level"
+  ],
+  "spokesperson": "Gillette Aho",
+  "stageDirector": null,
+  "writers": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 5,
+  "country": "IE",
+  "broadcaster": "RTÉ",
+  "artist": "Bambie Thug",
+  "artistPeople": [
+    "Bambie Ray Robinson"
+  ],
+  "song": "Doomsday Blue",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UMq8ofCstMQ",
+    "https://www.youtube-nocookie.com/embed/ZGRXRrlIspY",
+    "https://www.youtube-nocookie.com/embed/BNc5zTYkTaQ",
+    "https://www.youtube-nocookie.com/embed/eA2fKlT8Khw",
+    "https://www.youtube-nocookie.com/embed/PcFyY6hrhI4",
+    "https://www.youtube-nocookie.com/embed/ifH864BB9aI",
+    "https://www.youtube-nocookie.com/embed/ffkB5OyB8bA"
+  ],
+  "bpm": 130,
+  "tone": "Bb minor",
+  "backings": null,
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Matt Williams"
+  ],
+  "lyricists": null,
+  "spokesperson": "Paul Harrington",
+  "stageDirector": "Sergio Jaen",
+  "writers": [
+    "Bambie Ray Robinson",
+    "Olivia Cassy Brooking",
+    "Sam Matlock",
+    "Tyler Ryder"
+  ]
+}

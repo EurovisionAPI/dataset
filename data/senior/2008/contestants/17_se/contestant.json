@@ -1,0 +1,39 @@
+{
+  "id": 17,
+  "country": "SE",
+  "broadcaster": "SVT",
+  "artist": "Charlotte Perrelli",
+  "artistPeople": [
+    "Anna Jenny Charlotte Jensen Perrelli"
+  ],
+  "song": "Hero",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/M9_XxUjDw0Q",
+    "https://www.youtube-nocookie.com/embed/idBPJ9WXX3o",
+    "https://www.youtube-nocookie.com/embed/nx5S01zY4x4"
+  ],
+  "bpm": 127,
+  "tone": "D major",
+  "backings": [
+    "Dea Norberg",
+    "Martin Kagemark",
+    "Micke Blomqvist",
+    "Wictoria Nilsson"
+  ],
+  "commentators": [
+    "Josef Sterzenbach",
+    "Kristian Luuk"
+  ],
+  "composers": [
+    "Bobby Ljunggren",
+    "Fredrik Kempe"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Fredrik Kempe"
+  ],
+  "spokesperson": "Björn Gustafsson",
+  "stageDirector": null,
+  "writers": null
+}

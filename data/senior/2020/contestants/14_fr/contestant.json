@@ -1,0 +1,34 @@
+{
+  "id": 14,
+  "country": "FR",
+  "broadcaster": "France 2",
+  "artist": "Tom Leeb",
+  "artistPeople": [
+    "Tom Leeb"
+  ],
+  "song": "The Best in Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/J5SOdhXjYko",
+    "https://www.youtube-nocookie.com/embed/O-1WR2Vd7Qk",
+    "https://www.facebook.com/plugins/video.php"
+  ],
+  "bpm": 136,
+  "tone": "C# major",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Peter Boström",
+    "Thomas G:son"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Amir",
+    "John Lundvik",
+    "Léa Ivanne",
+    "Tom Leeb"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

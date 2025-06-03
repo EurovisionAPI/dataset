@@ -1,0 +1,38 @@
+{
+  "id": 32,
+  "country": "CH",
+  "broadcaster": "SRG SSR idée suisse",
+  "artist": "Lovebugs",
+  "artistPeople": [
+    "Adrian Sieber",
+    "Florian Senn",
+    "Simon Ramseier",
+    "Stefan Wagner",
+    "Thomas Rechberger"
+  ],
+  "song": "The Highest Heights",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OqBhqj5nIpE",
+    "https://www.youtube-nocookie.com/embed/CseWa_d43ck"
+  ],
+  "bpm": 118,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Sandy Altermatt",
+    "Sven Epiney"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Cécile Bähler",
+  "stageDirector": null,
+  "writers": [
+    "Adrian Sieber",
+    "Florian Senn",
+    "Thomas Rechberger"
+  ]
+}

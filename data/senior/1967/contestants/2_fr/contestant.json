@@ -1,0 +1,31 @@
+{
+  "id": 2,
+  "country": "FR",
+  "broadcaster": "ORTF",
+  "artist": "Noëlle Cordier",
+  "artistPeople": [
+    "Noëlle Cordier"
+  ],
+  "song": "Il doit faire beau là-bas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9eWFFOduXWI",
+    "https://www.youtube-nocookie.com/embed/3_Hktnik5mk"
+  ],
+  "bpm": 115,
+  "tone": "F major",
+  "backings": null,
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "composers": [
+    "Hubert Giraud"
+  ],
+  "conductor": "Franck Pourcel",
+  "dancers": null,
+  "lyricists": [
+    "Pierre Delanoë"
+  ],
+  "spokesperson": "Jean-Claude Massoulier",
+  "stageDirector": null,
+  "writers": null
+}

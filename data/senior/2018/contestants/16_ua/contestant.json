@@ -1,0 +1,45 @@
+{
+  "id": 16,
+  "country": "UA",
+  "broadcaster": "UA:PBC",
+  "artist": "Mélovin",
+  "artistPeople": [
+    "Kostyantyn Mykolayovych Bocharov (Костянти́н Микола́йович Бочаро́в)"
+  ],
+  "song": "Under The Ladder",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lhOuMYtQ94M",
+    "https://www.youtube-nocookie.com/embed/cKM8c-9rGC0",
+    "https://www.youtube-nocookie.com/embed/DJ9ajcic9fI",
+    "https://www.youtube-nocookie.com/embed/XpQwJl-niqE",
+    "https://www.youtube-nocookie.com/embed/xAlyLy_CElE",
+    "https://www.youtube-nocookie.com/embed/1liNT4qbIVw",
+    "https://www.youtube-nocookie.com/embed/EOIEYXtXXmw"
+  ],
+  "bpm": 140,
+  "tone": "Eb minor",
+  "backings": [
+    "Dasha Ptashnik",
+    "Denis Nadyozhin",
+    "Konstantin Sologub",
+    "Luiza Kazaryan"
+  ],
+  "commentators": [
+    "Alyosha",
+    "Jamala",
+    "Mariya Yaremchuk",
+    "Serhiy Prytula",
+    "Timur Miroshnychenko"
+  ],
+  "composers": [
+    "Kostyantyn Mykolayovych Bocharov"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Mike Ryals"
+  ],
+  "spokesperson": "Nata Zhyzhchenko",
+  "stageDirector": "Kostiantyn Tomilchenko, Oleksandr Bratkovskyi",
+  "writers": null
+}

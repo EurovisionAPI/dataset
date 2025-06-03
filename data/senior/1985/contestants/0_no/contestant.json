@@ -1,0 +1,38 @@
+{
+  "id": 0,
+  "country": "NO",
+  "broadcaster": "NRK",
+  "artist": "Bobbysocks",
+  "artistPeople": [
+    "Elisabeth Gunilla Andreassen",
+    "Hanne Krogh Sundbø"
+  ],
+  "song": "La det swinge",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/U94_AErNBZU",
+    "https://www.youtube-nocookie.com/embed/hUSaDGxkYDs",
+    "https://www.youtube-nocookie.com/embed/u37IaR0gdlQ",
+    "https://www.youtube-nocookie.com/embed/E_-1iNbVlcU",
+    "https://www.youtube-nocookie.com/embed/-ytkd3t94ZM"
+  ],
+  "bpm": 148,
+  "tone": "F# major",
+  "backings": [
+    "Håkon Iversen",
+    "Kari Gjærum",
+    "Per Øystein Sørensen",
+    "Rolf Løvland"
+  ],
+  "commentators": [
+    "Veslemøy Kjendsli"
+  ],
+  "composers": null,
+  "conductor": "Terje Fjærn",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Erik Diesen",
+  "stageDirector": null,
+  "writers": [
+    "Rolf Løvland"
+  ]
+}

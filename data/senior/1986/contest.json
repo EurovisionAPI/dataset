@@ -1,0 +1,15 @@
+{
+  "year": 1986,
+  "arena": "Grieghallen",
+  "city": "Bergen",
+  "country": "NO",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1986.png",
+  "presenters": [
+    "Åse Kleveland"
+  ],
+  "broadcasters": [
+    "NRK"
+  ]
+}

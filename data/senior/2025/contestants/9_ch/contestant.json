@@ -1,0 +1,40 @@
+{
+  "id": 9,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Zoë Më",
+  "artistPeople": [
+    "Zoë Anina Kressler"
+  ],
+  "song": "Voyage",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5TMc6HzimQo",
+    "https://www.youtube-nocookie.com/embed/F4lALgxBiYI",
+    "https://www.youtube-nocookie.com/embed/dGX54zRExR8",
+    "https://www.youtube-nocookie.com/embed/pz5JAbZxSYk",
+    "https://www.youtube-nocookie.com/embed/61fLi8ziHDk",
+    "https://www.youtube-nocookie.com/embed/bb8Kx6SUdaM",
+    "https://www.youtube-nocookie.com/embed/Pjj5sbYVUiM"
+  ],
+  "bpm": 170,
+  "tone": "C minor",
+  "backings": null,
+  "commentators": [
+    "Ellis Cavallini",
+    "Gian-Andrea Costa",
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Sven Epiney"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Mélanie Freymond, Sven Epiney",
+  "stageDirector": "Theo Adams",
+  "writers": [
+    "Emily Middlemas",
+    "Tom Oehler",
+    "Zoë Më"
+  ]
+}

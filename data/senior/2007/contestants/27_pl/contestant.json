@@ -1,0 +1,34 @@
+{
+  "id": 27,
+  "country": "PL",
+  "broadcaster": "TVP",
+  "artist": "The Jet Set",
+  "artistPeople": [
+    "Aleksandra \"Sasha\" Strunin",
+    "David Junior Serame"
+  ],
+  "song": "Time To Party",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lYBuHhT4q_Y",
+    "https://www.youtube-nocookie.com/embed/S9Vbal0F5Ec",
+    "https://www.youtube-nocookie.com/embed/-k0cRjANM2U"
+  ],
+  "bpm": 130,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "composers": [
+    "Mateusz Krezan"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "David Junior Serame",
+    "Kamil Varen"
+  ],
+  "spokesperson": "Maciej Orłoś",
+  "stageDirector": null,
+  "writers": null
+}

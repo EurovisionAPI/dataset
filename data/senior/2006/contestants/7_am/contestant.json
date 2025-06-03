@@ -1,0 +1,34 @@
+{
+  "id": 7,
+  "country": "AM",
+  "broadcaster": "AMPTV",
+  "artist": "André",
+  "artistPeople": [
+    "Andrey Hovnanyan"
+  ],
+  "song": "Without Your Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FbsnjmFk-1s",
+    "https://www.youtube-nocookie.com/embed/HTZBTFDf6O4"
+  ],
+  "bpm": 166,
+  "tone": "A minor",
+  "backings": [
+    "Shprot"
+  ],
+  "commentators": [
+    "Felix Khachatryan",
+    "Gohar Gasparyan"
+  ],
+  "composers": [
+    "Armen Martirosyan"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Catherine Bekian"
+  ],
+  "spokesperson": "Gohar Gasparyan",
+  "stageDirector": "Anush Hovnanyan",
+  "writers": null
+}

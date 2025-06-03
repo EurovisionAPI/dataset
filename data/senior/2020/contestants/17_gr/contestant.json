@@ -1,0 +1,29 @@
+{
+  "id": 17,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Stefania",
+  "artistPeople": [
+    "Stefania Liberakakis (Στεφανία Λυμπερακάκη)"
+  ],
+  "song": "Superg!rl​",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dJxCINWp_j0"
+  ],
+  "bpm": 158,
+  "tone": "D minor",
+  "backings": null,
+  "commentators": null,
+  "composers": [
+    "Dimitris Kontopoulos"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Dimitris Kontopoulos",
+    "Sharon Vaughn"
+  ],
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": null
+}

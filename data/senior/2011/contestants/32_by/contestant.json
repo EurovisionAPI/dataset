@@ -1,0 +1,38 @@
+{
+  "id": 32,
+  "country": "BY",
+  "broadcaster": "BTRC",
+  "artist": "Anastasiya Vinnikova",
+  "artistPeople": [
+    "Anastasiya Vinnikova"
+  ],
+  "song": "I Love Belarus",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/frhQMuyH0lg",
+    "https://www.youtube-nocookie.com/embed/Asz9f-9SxiE"
+  ],
+  "bpm": 134,
+  "tone": "G minor",
+  "backings": [
+    "Alyona Gorbachova",
+    "Anastasiya Shik",
+    "Artyom Ahpash",
+    "Ludmila Kutz",
+    "Uzari"
+  ],
+  "commentators": [
+    "Denis Kurian"
+  ],
+  "composers": [
+    "Evgeny Oleynik"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Evgeny Oleynik",
+    "Svetlana Geraskova"
+  ],
+  "spokesperson": "Leila Ismailava",
+  "stageDirector": "Olga Shamrova",
+  "writers": null
+}

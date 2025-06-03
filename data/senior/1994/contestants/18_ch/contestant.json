@@ -1,0 +1,31 @@
+{
+  "id": 18,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Duilio",
+  "artistPeople": [
+    "Lorenzo di Cicco"
+  ],
+  "song": "Sto pregando",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kCc6GbO5TJc",
+    "https://www.youtube-nocookie.com/embed/LhuAqWXVhZE"
+  ],
+  "bpm": 145,
+  "tone": "Bb major",
+  "backings": null,
+  "commentators": [
+    "Bernard Thurnheer",
+    "Jean-Marc Richard",
+    "Wilma Gilardi"
+  ],
+  "composers": null,
+  "conductor": "Valeriano Chiaravalle",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Sandra Studer",
+  "stageDirector": null,
+  "writers": [
+    "Giuseppe Scaramello"
+  ]
+}

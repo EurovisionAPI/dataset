@@ -1,0 +1,29 @@
+{
+  "id": 6,
+  "country": "FR",
+  "broadcaster": "FT2",
+  "artist": "Fanny",
+  "artistPeople": [
+    "Fanny Torres"
+  ],
+  "song": "Sentiments songes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/quWb2KME_fw",
+    "https://www.youtube-nocookie.com/embed/VNGHuqWKbkU"
+  ],
+  "bpm": 96,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": [
+    "Olivier Minne"
+  ],
+  "composers": null,
+  "conductor": "Régis Dupré",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Frédéric Ferrer, Marie Myriam",
+  "stageDirector": null,
+  "writers": [
+    "Jean-Paul Dréau"
+  ]
+}

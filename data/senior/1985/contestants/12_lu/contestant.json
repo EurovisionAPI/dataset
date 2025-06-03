@@ -1,0 +1,37 @@
+{
+  "id": 12,
+  "country": "LU",
+  "broadcaster": "CLT",
+  "artist": "Margo, Franck, Diane, Ireen, Malcolm & Chris",
+  "artistPeople": [
+    "Christian Franz Klusáček",
+    "Diane Solomon",
+    "Claude Vangansbeck",
+    "Ireen Sheer",
+    "Malcolm Roberts",
+    "Annemieke Verdoorn"
+  ],
+  "song": "Children, Kinder, Enfants",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XumSPzsl6mQ",
+    "https://www.youtube-nocookie.com/embed/XGHLf81wuqE"
+  ],
+  "bpm": null,
+  "tone": null,
+  "backings": null,
+  "commentators": [
+    "Valérie Sarn"
+  ],
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Norbert Daum",
+  "dancers": null,
+  "lyricists": [
+    "Gunter Johansen",
+    "Jean-Michel Beriat"
+  ],
+  "spokesperson": "Frédérique Ries",
+  "stageDirector": null,
+  "writers": null
+}

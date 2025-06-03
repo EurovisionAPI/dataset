@@ -1,0 +1,39 @@
+{
+  "id": 13,
+  "country": "BE",
+  "broadcaster": "VRT",
+  "artist": "Sergio & the Ladies",
+  "artistPeople": [
+    "Serge Quisquater"
+  ],
+  "song": "Sister",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eOTyfceOwAw",
+    "https://www.youtube-nocookie.com/embed/W3gPfs5GxHk",
+    "https://www.youtube-nocookie.com/embed/JVGW_WJtf1M"
+  ],
+  "bpm": 133,
+  "tone": "F major",
+  "backings": [
+    "Ibernice Macbean",
+    "Ingrid Simons",
+    "Jody Pijper",
+    "Rick Aerts",
+    "Walter Mets"
+  ],
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Pierre Hautier"
+  ],
+  "composers": [
+    "Marc Paelinck"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Dirk Paelinck"
+  ],
+  "spokesperson": "Geena Lisa",
+  "stageDirector": null,
+  "writers": null
+}

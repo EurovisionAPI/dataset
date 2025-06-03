@@ -1,0 +1,34 @@
+{
+  "id": 8,
+  "country": "MT",
+  "broadcaster": "PBS",
+  "artist": "Debbie Scerri",
+  "artistPeople": [
+    "Debbie Scerri"
+  ],
+  "song": "Let Me Fly",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VIYs6dye8oA",
+    "https://www.youtube-nocookie.com/embed/BA8o4HUi0VQ",
+    "https://www.youtube-nocookie.com/embed/W-ZN1fssKuQ"
+  ],
+  "bpm": 147,
+  "tone": "E minor",
+  "backings": [
+    "Donata Mattei",
+    "Philip Vella",
+    "Renzo Spiteri"
+  ],
+  "commentators": [
+    "Gino Cauchi"
+  ],
+  "composers": null,
+  "conductor": "Ray Agius",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Anna Bonanno",
+  "stageDirector": null,
+  "writers": [
+    "Ray Agius"
+  ]
+}

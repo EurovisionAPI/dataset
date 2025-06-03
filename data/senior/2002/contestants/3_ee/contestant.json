@@ -1,0 +1,41 @@
+{
+  "id": 3,
+  "country": "EE",
+  "broadcaster": "ERR",
+  "artist": "Sahléne",
+  "artistPeople": [
+    "Anna Cecilia Sahlin"
+  ],
+  "song": "Runaway",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tky7vWXSZrs",
+    "https://www.youtube-nocookie.com/embed/ltTLUc9AYP8",
+    "https://www.youtube-nocookie.com/embed/jnTDz1Y-3iU",
+    "https://www.youtube-nocookie.com/embed/U7Fb4NbVB0I"
+  ],
+  "bpm": 128,
+  "tone": "F# major",
+  "backings": [
+    "Charlotte Berg",
+    "Jelena Juzvik",
+    "Joel Sahlin",
+    "Jüri Mazurtšak",
+    "Lena Olsson-Björkén"
+  ],
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "composers": [
+    "Alar Kotkas",
+    "Ilmar Laisaar",
+    "Pearu Paulus"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Jana Hallas"
+  ],
+  "spokesperson": "Elektra",
+  "stageDirector": null,
+  "writers": null
+}

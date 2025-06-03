@@ -1,0 +1,32 @@
+{
+  "id": 14,
+  "country": "YU",
+  "broadcaster": "JRT",
+  "artist": "Zdravko Čolić",
+  "artistPeople": [
+    "Zdravko Čolić"
+  ],
+  "song": "Gori vatra",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Wh8dmQSegZY",
+    "https://www.youtube-nocookie.com/embed/ykH1uSfC0sc",
+    "https://www.youtube-nocookie.com/embed/yrexCJH3UIU"
+  ],
+  "bpm": 98,
+  "tone": "A minor",
+  "backings": null,
+  "commentators": [
+    "Milovan Ilić",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "composers": null,
+  "conductor": "Esad Arnautalić",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": null,
+  "stageDirector": null,
+  "writers": [
+    "Kemal Monteno"
+  ]
+}

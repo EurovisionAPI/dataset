@@ -1,0 +1,35 @@
+{
+  "id": 10,
+  "country": "NL",
+  "broadcaster": "NTS",
+  "artist": "Conny Van den bos",
+  "artistPeople": [
+    "Jacoba Adriana Hollestelle"
+  ],
+  "song": "Het is genoeg",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/A3e6RPue-WI",
+    "https://www.youtube-nocookie.com/embed/RSEbJEeEYnU",
+    "https://www.youtube-nocookie.com/embed/gAcb8ivIWjk",
+    "https://www.youtube-nocookie.com/embed/NaP6eKiZagU"
+  ],
+  "bpm": 155,
+  "tone": "C minor",
+  "backings": [
+    "Wim van der Beek"
+  ],
+  "commentators": [
+    "Teddy Scholten"
+  ],
+  "composers": [
+    "Johnny Woodhouse"
+  ],
+  "conductor": "Dolf van der Linden",
+  "dancers": null,
+  "lyricists": [
+    "Joke van Soest"
+  ],
+  "spokesperson": "Pim Jacobs",
+  "stageDirector": null,
+  "writers": null
+}

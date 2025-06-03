@@ -1,0 +1,34 @@
+{
+  "id": 5,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "Emma",
+  "artistPeople": [
+    "Emma Booth"
+  ],
+  "song": "Give A Little Love Back To The World",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ObKX1lmFebI",
+    "https://www.youtube-nocookie.com/embed/e-t3W9f3So8",
+    "https://www.youtube-nocookie.com/embed/Z_wcbEe0y_g",
+    "https://www.youtube-nocookie.com/embed/15052c-LUH4"
+  ],
+  "bpm": 156,
+  "tone": "Eb major",
+  "backings": [
+    "Miriam Stockley",
+    "Sam Blue"
+  ],
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "composers": null,
+  "conductor": "Alyn Ainsworth",
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Colin Berry",
+  "stageDirector": null,
+  "writers": [
+    "Paul Curtis"
+  ]
+}

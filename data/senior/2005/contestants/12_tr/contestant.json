@@ -1,0 +1,41 @@
+{
+  "id": 12,
+  "country": "TR",
+  "broadcaster": "TRT",
+  "artist": "Gülseren",
+  "artistPeople": [
+    "Gülseren Yıldırım Gomez"
+  ],
+  "song": "Rimi Rimi Ley",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hZ5JLyGSlHU",
+    "https://www.youtube-nocookie.com/embed/VcoxtBim6Iw",
+    "https://www.youtube-nocookie.com/embed/qKrL336zQmE",
+    "https://www.youtube-nocookie.com/embed/20_0yD3x_Ak",
+    "https://www.youtube-nocookie.com/embed/CcSI-J0v0OE"
+  ],
+  "bpm": 99,
+  "tone": "Bb major",
+  "backings": [
+    "Arif Durgeç"
+  ],
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "composers": [
+    "Erdinç Tunç"
+  ],
+  "conductor": null,
+  "dancers": [
+    "Aslı Fırtına",
+    "Banu Kurtoğlu",
+    "Beril Şenöz",
+    "Demet Coşkun"
+  ],
+  "lyricists": [
+    "Göksan Arman"
+  ],
+  "spokesperson": "Meltem Ersan Yazgan",
+  "stageDirector": null,
+  "writers": null
+}

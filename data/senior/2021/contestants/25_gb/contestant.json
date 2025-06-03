@@ -1,0 +1,48 @@
+{
+  "id": 25,
+  "country": "GB",
+  "broadcaster": "BBC",
+  "artist": "James Newman",
+  "artistPeople": [
+    "James Richard Newman"
+  ],
+  "song": "Embers",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VxNOynEJ6wc",
+    "https://www.youtube-nocookie.com/embed/Isth9_oNNa8",
+    "https://www.youtube-nocookie.com/embed/BMDGTsa_Qq0",
+    "https://www.youtube-nocookie.com/embed/VL7ExPBiEuc",
+    "https://www.youtube-nocookie.com/embed/CGRjOWpTfPc",
+    "https://www.youtube-nocookie.com/embed/cDoUo7uJyIw",
+    "https://www.youtube-nocookie.com/embed/hfuoBneIHs8"
+  ],
+  "bpm": 126,
+  "tone": "B major",
+  "backings": [
+    "Annabel Williams"
+  ],
+  "commentators": [
+    "Chelcee Grimes",
+    "Graham Norton",
+    "Sara Cox",
+    "Scott Mills"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": [
+    "Alex Chambers",
+    "Israel Donowa",
+    "Shaun Niles",
+    "Yves Cueni"
+  ],
+  "lyricists": null,
+  "spokesperson": "Amanda Holden",
+  "stageDirector": "Jerry Reeve, Tom Denning",
+  "writers": [
+    "Conor Blake",
+    "Danny Shah",
+    "James Newman",
+    "Samuel Brennan",
+    "Tom Hollings"
+  ]
+}

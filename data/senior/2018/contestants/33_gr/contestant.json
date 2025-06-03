@@ -1,0 +1,41 @@
+{
+  "id": 33,
+  "country": "GR",
+  "broadcaster": "ERT",
+  "artist": "Yianna Terzi",
+  "artistPeople": [
+    "Yianna Terzi"
+  ],
+  "song": "Oniro mou",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-XOR1DhtDC0",
+    "https://www.youtube-nocookie.com/embed/K12GyVSJ_-A",
+    "https://www.youtube-nocookie.com/embed/zFjyPrIzG28",
+    "https://www.youtube-nocookie.com/embed/K2WtOx_d5eY",
+    "https://www.youtube-nocookie.com/embed/RCAK55gXhJA"
+  ],
+  "bpm": 150,
+  "tone": "C# minor",
+  "backings": [
+    "Evgenia Balafa",
+    "Giannis Lafis",
+    "Irini Psyhrami",
+    "Victoria Halkiti"
+  ],
+  "commentators": [
+    "Alexandros Lizardos",
+    "Daphne Skalioni"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Olina Xenopoulou",
+  "stageDirector": "Chali Jennings",
+  "writers": [
+    "Aris Kalimeris",
+    "Dimitris Stamatiou",
+    "Mihalis Papathanasiou",
+    "Yianna Terzi"
+  ]
+}

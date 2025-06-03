@@ -1,0 +1,31 @@
+{
+  "id": 9,
+  "country": "SE",
+  "broadcaster": "SR",
+  "artist": "Siw Malmkvist",
+  "artistPeople": [
+    "Siw Malmkvist"
+  ],
+  "song": "Alla andra får varann",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yt5OZsc7r6Y",
+    "https://www.youtube-nocookie.com/embed/dpVTjQSeV6c"
+  ],
+  "bpm": 145,
+  "tone": "G major",
+  "backings": null,
+  "commentators": [
+    "Jan Gabrielsson"
+  ],
+  "composers": [
+    "Ulf Kjellqvist"
+  ],
+  "conductor": "Thore Ehrling",
+  "dancers": null,
+  "lyricists": [
+    "Åke Gerhard"
+  ],
+  "spokesperson": "Tage Danielsson",
+  "stageDirector": null,
+  "writers": null
+}

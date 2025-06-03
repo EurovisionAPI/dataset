@@ -1,0 +1,44 @@
+{
+  "id": 28,
+  "country": "CH",
+  "broadcaster": "SSR SRG",
+  "artist": "Timebelle",
+  "artistPeople": null,
+  "song": "Apollo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OrNPRfS9Sbg",
+    "https://www.youtube-nocookie.com/embed/DpF2PHzgd8o",
+    "https://www.youtube-nocookie.com/embed/pkvOk6vA_EA",
+    "https://www.youtube-nocookie.com/embed/2OIUFwCFCPI",
+    "https://www.youtube-nocookie.com/embed/OeZxt5fURuU",
+    "https://www.youtube-nocookie.com/embed/Tx6Jyp3gsVQ",
+    "https://www.youtube-nocookie.com/embed/XxqSdhMnh2s"
+  ],
+  "bpm": 87,
+  "tone": "Bb major",
+  "backings": [
+    "Nori Rickenbacher",
+    "Nyssina Swerissen",
+    "Tanja Dankner"
+  ],
+  "commentators": [
+    "Clarissa Tami",
+    "Jean-Marc Richard",
+    "Micky Beisenherz",
+    "Nicolas Tanner",
+    "Sebalter",
+    "Stefan Büsser",
+    "Sven Epiney"
+  ],
+  "composers": null,
+  "conductor": null,
+  "dancers": null,
+  "lyricists": null,
+  "spokesperson": "Luca Hänni",
+  "stageDirector": "Nicoline Refsing",
+  "writers": [
+    "Alessandra Günthardt",
+    "Elias Näslin",
+    "Nicolas Günthardt"
+  ]
+}

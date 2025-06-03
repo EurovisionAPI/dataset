@@ -1,0 +1,36 @@
+{
+  "id": 10,
+  "country": "GE",
+  "broadcaster": "GPB",
+  "artist": "Diana Gurtskaya",
+  "artistPeople": [
+    "Diana Gurtskaya"
+  ],
+  "song": "Peace Will Come",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/paPjkp6s2u8",
+    "https://www.youtube-nocookie.com/embed/VHadSSYljmE",
+    "https://www.youtube-nocookie.com/embed/U69-UB4URrQ",
+    "https://www.youtube-nocookie.com/embed/7DArsPrXdGE",
+    "https://www.youtube-nocookie.com/embed/MyCR0hnzsMY"
+  ],
+  "bpm": 154,
+  "tone": "F minor",
+  "backings": [
+    "Anri Jokhadze"
+  ],
+  "commentators": [
+    "Bibi Kvachadze"
+  ],
+  "composers": [
+    "Kim Breitburg"
+  ],
+  "conductor": null,
+  "dancers": null,
+  "lyricists": [
+    "Karen Kavaleryan"
+  ],
+  "spokesperson": "Tika Patsatsia",
+  "stageDirector": null,
+  "writers": null
+}
