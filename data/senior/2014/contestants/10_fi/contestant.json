@@ -3,7 +3,13 @@
   "country": "FI",
   "broadcaster": "YLE",
   "artist": "Softengine",
-  "artistPeople": null,
+  "artistPeople": [
+    "Topi Latukka",
+    "Eero Keskinen",
+    "Henri Oskár",
+    "Ossi Mäkelä",
+    "Tuomo Alarinta"
+  ],
   "song": "Something Better",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3FDWaFfo1CU",

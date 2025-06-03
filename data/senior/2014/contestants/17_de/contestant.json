@@ -3,7 +3,11 @@
   "country": "DE",
   "broadcaster": "NDR",
   "artist": "Elaiza",
-  "artistPeople": null,
+  "artistPeople": [
+    "Ela Steinmetz",
+    "Natalie Plöger",
+    "Yvonne Grünwald"
+  ],
   "song": "Is It Right",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/BFuGH2Kp9dI",

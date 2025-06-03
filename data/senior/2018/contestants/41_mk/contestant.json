@@ -17,8 +17,8 @@
     "https://www.youtube-nocookie.com/embed/epZFvKR0JoA",
     "https://www.youtube-nocookie.com/embed/8ZAL0y8dl30"
   ],
-  "bpm": null,
-  "tone": null,
+  "bpm": 120,
+  "tone": "Ab major",
   "backings": [
     "Antonia Gigovska",
     "Dina Jashari",

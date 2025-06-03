@@ -13,8 +13,8 @@
     "https://www.youtube-nocookie.com/embed/WfsN43-K3hU",
     "https://www.youtube-nocookie.com/embed/7UOdO4yqq_k"
   ],
-  "bpm": null,
-  "tone": null,
+  "bpm": 78,
+  "tone": "F# minor",
   "backings": [
     "Adam Yosef",
     "Ariel Zohar",

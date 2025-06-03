@@ -244,28 +244,6 @@ Unavailable data of contest 2024:
 
 
 ### Senior
-Unavailable data of contest 1972:
-        Contestant Finland:
-                Bpm
-                Tone
-
-
-Unavailable data of contest 1973:
-        Contestant Finland:
-                Bpm
-                Tone
-
-
-Unavailable data of contest 1985:
-        Contestant Luxembourg:
-                Bpm
-                Tone
-
-
-Unavailable data of contest 1999:
-        Contestant Bosnia and Herzegovina:
-                Bpm
-                Tone
 
 
 Unavailable data of contest 2003:
@@ -274,23 +252,10 @@ Unavailable data of contest 2003:
                 Tone
 
 
-Unavailable data of contest 2008:
-        Contestant Israel:
-                Bpm
-                Tone
-
-
 Unavailable data of contest 2009:
         Contestant North Macedonia:
                 Bpm
                 Tone
-
-
-Unavailable data of contest 2014:
-        Contestant Finland:
-                Artist people
-        Contestant Germany:
-                Artist people
 
 
 Unavailable data of contest 2015:
@@ -329,12 +294,6 @@ Unavailable data of contest 2017:
                 Artist people
 
 
-Unavailable data of contest 2018:
-        Contestant North Macedonia:
-                Bpm
-                Tone
-
-
 Unavailable data of contest 2022:
         Contestant Moldova:
                 Artist people
@@ -359,9 +318,4 @@ Unavailable data of contest 2024:
                 Bpm
                 Tone
 
-
-Unavailable data of contest 2025:
-        Contestant Israel:
-                Bpm
-                Tone
 
