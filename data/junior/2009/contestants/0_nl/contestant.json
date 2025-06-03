@@ -10,8 +10,8 @@
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/T7JVCz5ImBA"
   ],
-  "bpm": 115,
-  "tone": "C minor",
+  "bpm": null,
+  "tone": null,
   "backings": null,
   "commentators": null,
   "composers": null,
