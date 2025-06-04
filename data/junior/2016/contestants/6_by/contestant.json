@@ -11,8 +11,8 @@
     "https://www.youtube-nocookie.com/embed/n2PH1B6nhE8",
     "https://www.youtube-nocookie.com/embed/rg7V947PxVk"
   ],
-  "bpm": null,
-  "tone": null,
+  "bpm": 120,
+  "tone": "B minor",
   "backings": null,
   "commentators": null,
   "composers": [

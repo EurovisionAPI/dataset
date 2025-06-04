@@ -3,7 +3,11 @@
   "country": "AT",
   "broadcaster": "ORF",
   "artist": "The Makemakes",
-  "artistPeople": null,
+  "artistPeople": [
+    "Dominic Muhrer",
+    "Florian Meindl",
+    "Markus Christ"
+  ],
   "song": "I Am Yours",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-f993p0CAV8",

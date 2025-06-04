@@ -3,7 +3,13 @@
   "country": "RO",
   "broadcaster": "TVR",
   "artist": "Voltaj",
-  "artistPeople": null,
+  "artistPeople": [
+    "Călin Gavril Goia",
+    "Adrian M. Cristescu",
+    "Gabriel Constantin",
+    "Oliver Sterian",
+    "Valeriu Ionescu"
+  ],
   "song": "De la capăt / All Over Again",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/o7iOFkEymXA",

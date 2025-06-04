@@ -3,7 +3,12 @@
   "country": "FI",
   "broadcaster": "YLE",
   "artist": "Pertti Kurikan Nimipäivät",
-  "artistPeople": null,
+  "artistPeople": [
+    "Kari Aalto",
+    "Pertti Kurikka",
+    "Sami Helle",
+    "Toni Välitalo"
+  ],
   "song": "Aina mun pitää",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/v4Y0HOPL5GU",

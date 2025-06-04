@@ -11,8 +11,8 @@
     "https://www.youtube-nocookie.com/embed/BTu0RbX2YOc",
     "https://www.youtube-nocookie.com/embed/uBRfSCfxwEg"
   ],
-  "bpm": null,
-  "tone": null,
+  "bpm": 120,
+  "tone": "F# major",
   "backings": null,
   "commentators": null,
   "composers": [

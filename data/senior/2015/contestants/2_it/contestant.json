@@ -3,7 +3,11 @@
   "country": "IT",
   "broadcaster": "RAI",
   "artist": "Il Volo",
-  "artistPeople": null,
+  "artistPeople": [
+    "Gianluca Ginoble",
+    "Ignazio Boschetto",
+    "Piero Barone"
+  ],
   "song": "Grande amore",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/1TOMqZV2jA8",

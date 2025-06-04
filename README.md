@@ -189,24 +189,6 @@ Unavailable data of contest 2015:
                 Tone
 
 
-Unavailable data of contest 2016:
-        Contestant Italy:
-                Bpm
-                Tone
-        Contestant Belarus:
-                Bpm
-                Tone
-        Contestant Netherlands:
-                Bpm
-                Tone
-        Contestant Ireland:
-                Bpm
-                Tone
-        Contestant Serbia:
-                Bpm
-                Tone
-
-
 
 ### Senior
 
@@ -221,17 +203,6 @@ Unavailable data of contest 2009:
         Contestant North Macedonia:
                 Bpm
                 Tone
-
-
-Unavailable data of contest 2015:
-        Contestant Italy:
-                Artist people
-        Contestant Romania:
-                Artist people
-        Contestant Austria:
-                Artist people
-        Contestant Finland:
-                Artist people
 
 
 Unavailable data of contest 2017:
