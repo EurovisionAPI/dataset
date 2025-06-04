@@ -3,7 +3,12 @@
   "country": "GE",
   "broadcaster": "GPB",
   "artist": "Nika Kocharov & Young Georgian Lolitaz",
-  "artistPeople": null,
+  "artistPeople": [
+    "Nika Kocharov",
+    "Dimitri Oganesian",
+    "Giorgi Marr",
+    "Levan Shanshiashvili"
+  ],
   "song": "Midnight Gold",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/rviE2-9eiTI",

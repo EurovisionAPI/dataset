@@ -3,7 +3,11 @@
   "country": "MT",
   "broadcaster": "PBS",
   "artist": "The Busker",
-  "artistPeople": null,
+  "artistPeople": [
+    "David Meilak",
+    "Jean Paul Borg",
+    "Sean Meachen"
+  ],
   "song": "Dance (Our Own Party)",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/zVmVt9qmg9g",

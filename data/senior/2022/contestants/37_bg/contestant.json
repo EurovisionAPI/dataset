@@ -3,7 +3,14 @@
   "country": "BG",
   "broadcaster": "BNT",
   "artist": "Intelligent Music Project",
-  "artistPeople": null,
+  "artistPeople": [
+    "Bisser Ivanov",
+    "Dimiter Sirakov",
+    "Ivo Stefanov",
+    "Ronnie Romero",
+    "Slavin Slavchev",
+    "Stoyan Yankoulov"
+  ],
   "song": "Intention",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/EwZTI5AoTg4",
@@ -16,7 +23,9 @@
   ],
   "bpm": 162,
   "tone": "D major",
-  "backings": null,
+  "backings": [
+    "Slavin Slavchev"
+  ],
   "commentators": [
     "Elena Rosberg",
     "Petko Kralev"

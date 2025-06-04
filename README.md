@@ -269,13 +269,6 @@ Unavailable data of contest 2015:
                 Artist people
 
 
-Unavailable data of contest 2016:
-        Contestant Georgia:
-                Artist people
-        Contestant Cyprus:
-                Artist people
-
-
 Unavailable data of contest 2017:
         Contestant Moldova:
                 Artist people
@@ -292,30 +285,3 @@ Unavailable data of contest 2017:
                 Artist people
         Contestant Latvia:
                 Artist people
-
-
-Unavailable data of contest 2022:
-        Contestant Moldova:
-                Artist people
-        Contestant Denmark:
-                Artist people
-        Contestant Bulgaria:
-                Artist people
-
-
-Unavailable data of contest 2023:
-        Contestant Germany:
-                Artist people
-        Contestant Malta:
-                Artist people
-
-
-Unavailable data of contest 2024:
-        Contestant Sweden:
-                Bpm
-                Tone
-        Contestant Georgia:
-                Bpm
-                Tone
-
-

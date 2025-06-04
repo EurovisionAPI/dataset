@@ -3,7 +3,12 @@
   "country": "DK",
   "broadcaster": "DR",
   "artist": "Reddi",
-  "artistPeople": null,
+  "artistPeople": [
+    "Agnes Roslund",
+    "Ida Bergkvist",
+    "Ihan Haydar",
+    "Siggy Savery"
+  ],
   "song": "The Show",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/cVg6MpVR2Pw",

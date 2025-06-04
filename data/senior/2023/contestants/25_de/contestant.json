@@ -3,7 +3,13 @@
   "country": "DE",
   "broadcaster": "NDR",
   "artist": "Lord Of The Lost",
-  "artistPeople": null,
+  "artistPeople": [
+    "Chris Harms",
+    "Class Grenayde",
+    "Gared Dirge",
+    "Niklas Kahl",
+    "Pi Stoffers"
+  ],
   "song": "Blood & Glitter",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/dyGR4YWlPEs",

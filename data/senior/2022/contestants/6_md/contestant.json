@@ -3,7 +3,11 @@
   "country": "MD",
   "broadcaster": "TRM",
   "artist": "Zdob și Zdub & Advahov Brothers",
-  "artistPeople": null,
+  "artistPeople": [
+    "Roman Iagupov",
+    "Vasile Advahov",
+    "Vitalie Advahov"
+  ],
   "song": "Trenulețul",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/DUqf_zO2QaI",

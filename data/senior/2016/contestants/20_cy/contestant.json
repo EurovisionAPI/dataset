@@ -3,7 +3,13 @@
   "country": "CY",
   "broadcaster": "CyBC",
   "artist": "Minus One",
-  "artistPeople": null,
+  "artistPeople": [
+    "François Micheletto",
+    "Antonis Loizides",
+    "Chris J",
+    "Constantinos Amerikanos",
+    "Harrys Pari"
+  ],
   "song": "Alter Ego",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/idUxTqmCFR0",
