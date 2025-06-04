@@ -147,12 +147,6 @@ Unavailable data of contest 2012:
                 Tone
 
 
-Unavailable data of contest 2013:
-        Contestant Armenia:
-                Bpm
-                Tone
-
-
 Unavailable data of contest 2014:
         Contestant Bulgaria:
                 Bpm
@@ -212,35 +206,6 @@ Unavailable data of contest 2016:
                 Bpm
                 Tone
 
-
-Unavailable data of contest 2017:
-        Contestant Italy:
-                Bpm
-                Tone
-
-
-Unavailable data of contest 2018:
-        Contestant Armenia:
-                Bpm
-                Tone
-
-
-Unavailable data of contest 2021:
-        Contestant Kazakhstan:
-                Bpm
-                Tone
-
-
-Unavailable data of contest 2023:
-        Contestant Netherlands:
-                Bpm
-                Tone
-
-
-Unavailable data of contest 2024:
-        Contestant North Macedonia:
-                Bpm
-                Tone
 
 
 ### Senior

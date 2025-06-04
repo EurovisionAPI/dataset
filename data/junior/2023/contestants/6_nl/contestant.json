@@ -17,8 +17,8 @@
     "https://www.youtube-nocookie.com/embed/DW63VZoKkgg",
     "https://www.youtube-nocookie.com/embed/9piC9V0KfeA"
   ],
-  "bpm": null,
-  "tone": null,
+  "bpm": 128,
+  "tone": "C# major",
   "backings": null,
   "commentators": null,
   "composers": null,
