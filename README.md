@@ -3,30 +3,6 @@
 ## Missing data to be added
 ### Junior
 
-Unavailable data of contest 2003:
-        Contestant Belarus:
-                Bpm
-                Tone
-        Contestant Romania:
-                Bpm
-                Tone
-
-
-Unavailable data of contest 2004:
-        Contestant Romania:
-                Bpm
-                Tone
-        Contestant North Macedonia:
-                Bpm
-                Tone
-        Contestant Norway:
-                Bpm
-                Tone
-        Contestant Belarus:
-                Bpm
-                Tone
-
-
 Unavailable data of contest 2005:
         Contestant Norway:
                 Bpm
@@ -123,18 +99,6 @@ Unavailable data of contest 2010:
                 Tone
 
 
-Unavailable data of contest 2011:
-        Contestant Belarus:
-                Bpm
-                Tone
-        Contestant Ukraine:
-                Bpm
-                Tone
-        Contestant Latvia:
-                Bpm
-                Tone
-
-
 Unavailable data of contest 2012:
         Contestant Ukraine:
                 Bpm
@@ -189,35 +153,4 @@ Unavailable data of contest 2015:
                 Tone
 
 
-
 ### Senior
-
-
-Unavailable data of contest 2003:
-        Contestant Ukraine:
-                Bpm
-                Tone
-
-
-Unavailable data of contest 2009:
-        Contestant North Macedonia:
-                Bpm
-                Tone
-
-
-Unavailable data of contest 2017:
-        Contestant Moldova:
-                Artist people
-        Contestant Ukraine:
-                Artist people
-        Contestant Switzerland:
-                Artist people
-        Contestant Finland:
-                Artist people
-        Contestant North Macedonia:
-                Bpm
-                Tone
-        Contestant Lithuania:
-                Artist people
-        Contestant Latvia:
-                Artist people

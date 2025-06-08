@@ -3,7 +3,10 @@
   "country": "FI",
   "broadcaster": "YLE",
   "artist": "Norma John",
-  "artistPeople": null,
+  "artistPeople": [
+    "Leena Tirronen",
+    "Lasse Piirainen"
+  ],
   "song": "Blackbird",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Ufba0nOz0fQ",

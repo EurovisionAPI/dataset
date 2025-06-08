@@ -3,7 +3,11 @@
   "country": "MD",
   "broadcaster": "TRM",
   "artist": "Sunstroke Project",
-  "artistPeople": null,
+  "artistPeople": [
+    "Sergei Yalovitsky",
+    "Anton Ragoza",
+    "Sergey Stepanov"
+  ],
   "song": "Hey Mamma",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/SWaQdHoCvYk",

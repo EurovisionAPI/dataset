@@ -3,7 +3,11 @@
   "country": "CH",
   "broadcaster": "SSR SRG",
   "artist": "Timebelle",
-  "artistPeople": null,
+  "artistPeople": [
+    "Miruna Mănescu",
+    "Emanuel Daniel Andriescu",
+    "Samuel Forster"
+  ],
   "song": "Apollo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/OrNPRfS9Sbg",

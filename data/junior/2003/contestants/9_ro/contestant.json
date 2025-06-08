@@ -11,8 +11,8 @@
     "https://www.youtube-nocookie.com/embed/_mIFnrn6HAE",
     "https://www.youtube-nocookie.com/embed/dPrcQSc89IU"
   ],
-  "bpm": null,
-  "tone": null,
+  "bpm": 130,
+  "tone": "D major",
   "backings": null,
   "commentators": null,
   "composers": null,

@@ -3,7 +3,13 @@
   "country": "UA",
   "broadcaster": "UA:PBC",
   "artist": "O.Torvald",
-  "artistPeople": null,
+  "artistPeople": [
+    "Yevhen Halych",
+    "Denys Myzyuk",
+    "Mykola Rayda",
+    "Mykyta Vasyl'yev",
+    "Oleksandr Solokha"
+  ],
   "song": "Time",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/mogNLkIEI0k",

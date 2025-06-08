@@ -15,8 +15,8 @@
     "https://www.youtube-nocookie.com/embed/8njm6iLMlYI",
     "https://www.youtube-nocookie.com/embed/mf7joMX9yEA"
   ],
-  "bpm": null,
-  "tone": null,
+  "bpm": 120,
+  "tone": "C# minor",
   "backings": [
     "Katya Krusteva",
     "Krustina Kokorska",
