@@ -171,7 +171,7 @@ Unavailable data of contest 2015:
                 Tone
 <!-- JUNIOR-END -->
 
-#### 🧔‍♂️👩 Senior
+#### 🧔👩 Senior
 <!-- SENIOR-START -->
 
 <!-- SENIOR-END -->
