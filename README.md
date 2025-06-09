@@ -1,4 +1,13 @@
-# Eurovision API Dataset
+# ❤️ Unofficial Eurovision Song Contest Dataset ❤️
+
+This site is a freely accessible dataset that contains information about the participants and votes of all editions of the Eurovision Song Contest and Junior Eurovision Song Contest.
+
+The dataset will be updated annually with the results of the contest, covering all editions from its inception in 1956 to the present. For Junior Eurovision, the dataset includes results starting from its first edition in 2003.
+
+The data is obtained from the [ESC Home](https://eschome.net/), [Eurovision World](https://eurovisionworld.com), [Eurovision LOD](https://so-we-must-think.space/greenstone3/eurovision-library/collection/eurovision/page/about), [Logopedia](https://logos.fandom.com/), [Ogaespain](https://www.ogaespain.com/), [Tunebat](https://tunebat.com/), [Musictax](https://musicstax.com/) and [Chordify](https://chordify.net/) websites.
+
+You can find more information on the [website](https://eurovisionapi.runasp.net/).
+
 
 ## Missing data to be added
 ### Junior
