@@ -21,157 +21,179 @@ To contribute:
 ### ❓ Known Missing Data
 #### 👦👧 Junior
 <!-- JUNIOR-START -->
-Unavailable data of contest 2005:
-        Contestant Norway:
-                Bpm
-                Tone
-        Contestant North Macedonia:
-                Bpm
-                Tone
-        Contestant Croatia:
-                Bpm
-                Tone
+#### 📅 2008
+  - Contestants:
+    - 🇲🇰 **North Macedonia**
+      - Bpm
+      - Tone
+    - 🇨🇾 **Cyprus**
+      - Bpm
+      - Tone
+    - 🇷🇺 **Russia**
+      - Bpm
+      - Tone
+    - 🇱🇹 **Lithuania**
+      - Bpm
+      - Tone
+    - 🇧🇬 **Bulgaria**
+      - Bpm
+      - Tone
+    - 🇬🇷 **Greece**
+      - Bpm
+      - Tone
 
+#### 📅 2009
+  - Contestants:
+    - 🇺🇦 **Ukraine**
+      - Bpm
+      - Tone
+    - 🇳🇱 **Netherlands**
+      - Bpm
+      - Tone
+    - 🇧🇾 **Belarus**
+      - Bpm
+      - Tone
+    - 🇷🇸 **Serbia**
+      - Bpm
+      - Tone
 
-Unavailable data of contest 2006:
-        Contestant Russia:
-                Bpm
-                Tone
-        Contestant Belarus:
-                Bpm
-                Tone
-        Contestant Serbia:
-                Bpm
-                Tone
-        Contestant Ukraine:
-                Bpm
-                Tone
+#### 📅 2010
+  - Contestants:
+    - 🇲🇰 **North Macedonia**
+      - Bpm
+      - Tone
+    - 🇺🇦 **Ukraine**
+      - Bpm
+      - Tone
+    - 🇲🇩 **Moldova**
+      - Bpm
+      - Tone
+    - 🇬🇪 **Georgia**
+      - Bpm
+      - Tone
 
+#### 📅 2012
+  - Contestants:
+    - 🇧🇾 **Belarus**
+      - Bpm
+      - Tone
+    - 🇦🇱 **Albania**
+      - Bpm
+      - Tone
+    - 🇺🇦 **Ukraine**
+      - Bpm
+      - Tone
 
-Unavailable data of contest 2007:
-        Contestant Armenia:
-                Bpm
-                Tone
-        Contestant North Macedonia:
-                Bpm
-                Tone
-        Contestant Ukraine:
-                Bpm
-                Tone
-        Contestant Belgium:
-                Bpm
-                Tone
-        Contestant Greece:
-                Bpm
-                Tone
+#### 📅 2014
+  - Contestants:
+    - 🇸🇮 **Slovenia**
+      - Bpm
+      - Tone
+    - 🇭🇷 **Croatia**
+      - Bpm
+      - Tone
+    - 🇷🇺 **Russia**
+      - Bpm
+      - Tone
+    - 🇧🇾 **Belarus**
+      - Bpm
+      - Tone
+    - 🇧🇬 **Bulgaria**
+      - Bpm
+      - Tone
+    - 🇷🇸 **Serbia**
+      - Bpm
+      - Tone
+    - 🇲🇹 **Malta**
+      - Bpm
+      - Tone
 
-
-Unavailable data of contest 2008:
-        Contestant Lithuania:
-                Bpm
-                Tone
-        Contestant North Macedonia:
-                Bpm
-                Tone
-        Contestant Russia:
-                Bpm
-                Tone
-        Contestant Cyprus:
-                Bpm
-                Tone
-        Contestant Greece:
-                Bpm
-                Tone
-        Contestant Bulgaria:
-                Bpm
-                Tone
-
-
-Unavailable data of contest 2009:
-        Contestant Netherlands:
-                Bpm
-                Tone
-        Contestant Ukraine:
-                Bpm
-                Tone
-        Contestant Belarus:
-                Bpm
-                Tone
-        Contestant Serbia:
-                Bpm
-                Tone
-
-
-Unavailable data of contest 2010:
-        Contestant Georgia:
-                Bpm
-                Tone
-        Contestant Moldova:
-                Bpm
-                Tone
-        Contestant North Macedonia:
-                Bpm
-                Tone
-        Contestant Ukraine:
-                Bpm
-                Tone
-
-
-Unavailable data of contest 2012:
-        Contestant Ukraine:
-                Bpm
-                Tone
-        Contestant Belarus:
-                Bpm
-                Tone
-        Contestant Albania:
-                Bpm
-                Tone
-
-
-Unavailable data of contest 2014:
-        Contestant Bulgaria:
-                Bpm
-                Tone
-        Contestant Malta:
-                Bpm
-                Tone
-        Contestant Russia:
-                Bpm
-                Tone
-        Contestant Belarus:
-                Bpm
-                Tone
-        Contestant Serbia:
-                Bpm
-                Tone
-        Contestant Slovenia:
-                Bpm
-                Tone
-        Contestant Croatia:
-                Bpm
-                Tone
-
-
-Unavailable data of contest 2015:
-        Contestant Slovenia:
-                Bpm
-                Tone
-        Contestant Albania:
-                Bpm
-                Tone
-        Contestant Russia:
-                Bpm
-                Tone
-        Contestant Georgia:
-                Bpm
-                Tone
-        Contestant North Macedonia:
-                Bpm
-                Tone
+#### 📅 2015
+  - Contestants:
+    - 🇦🇱 **Albania**
+      - Bpm
+      - Tone
+    - 🇬🇪 **Georgia**
+      - Bpm
+      - Tone
+    - 🇲🇰 **North Macedonia**
+      - Bpm
+      - Tone
+    - 🇷🇺 **Russia**
+      - Bpm
+      - Tone
+    - 🇸🇮 **Slovenia**
+      - Bpm
+      - Tone
 <!-- JUNIOR-END -->
 
 #### 🧔👩 Senior
 <!-- SENIOR-START -->
+#### 📅 1979
+  - Contestants:
+    - 🇮🇹 **Italy**
+      - Conductor
 
+#### 📅 1980
+  - Contestants:
+    - 🇧🇪 **Belgium**
+      - Conductor
+
+#### 📅 1986
+  - Contestants:
+    - 🇬🇧 **United Kingdom**
+      - Conductor
+
+#### 📅 1987
+  - Contestants:
+    - 🇨🇭 **Switzerland**
+      - Conductor
+
+#### 📅 1988
+  - Contestants:
+    - 🇮🇹 **Italy**
+      - Conductor
+    - 🇮🇸 **Iceland**
+      - Conductor
+
+#### 📅 1989
+  - Contestants:
+    - 🇩🇪 **Germany**
+      - Conductor
+    - 🇦🇹 **Austria**
+      - Conductor
+    - 🇮🇸 **Iceland**
+      - Conductor
+
+#### 📅 1993
+  - Contestants:
+    - 🇹🇷 **Turkey**
+      - Conductor
+
+#### 📅 1994
+  - Contestants:
+    - 🇮🇪 **Ireland**
+      - Conductor
+
+#### 📅 1997
+  - Contestants:
+    - 🇮🇪 **Ireland**
+      - Conductor
+    - 🇦🇹 **Austria**
+      - Conductor
+    - 🇩🇪 **Germany**
+      - Conductor
+    - 🇭🇷 **Croatia**
+      - Conductor
+
+#### 📅 1998
+  - Contestants:
+    - 🇧🇪 **Belgium**
+      - Conductor
+    - 🇨🇭 **Switzerland**
+      - Conductor
+    - 🇬🇷 **Greece**
+      - Conductor
+    - 🇲🇹 **Malta**
+      - Conductor
 <!-- SENIOR-END -->
