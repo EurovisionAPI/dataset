@@ -12,8 +12,8 @@
     "https://www.youtube-nocookie.com/embed/ALqCQAS6Ri8",
     "https://www.youtube-nocookie.com/embed/TLXZ25DQFxc"
   ],
-  "bpm": null,
-  "tone": null,
+  "bpm": 130,
+  "tone": "C major",
   "backings": null,
   "commentators": null,
   "composers": [
