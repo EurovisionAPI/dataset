@@ -9,8 +9,17 @@ The data is obtained from the [ESC Home](https://eschome.net/), [Eurovision Worl
 You can find more information on the [website](https://eurovisionapi.runasp.net/).
 
 
-## Missing data to be added
-### Junior
+## 🙌 Contributions Welcome!
+We truly appreciate any contribution to improve the dataset!
+If you notice any missing data, feel free to help by adding it.
+
+To contribute:
+1. Fork the repository.
+2. Make the changes in your fork. Do not edit the README, it will be automatically updated.
+3. Open a Pull Request (PR). In the PR description, please include the source of the data so we can verify its accuracy.
+
+### ❓ Known Missing Data
+#### 👦👧 Junior
 
 Unavailable data of contest 2005:
         Contestant Norway:
@@ -162,4 +171,4 @@ Unavailable data of contest 2015:
                 Tone
 
 
-### Senior
+#### 🧔‍♂️👩 Senior
