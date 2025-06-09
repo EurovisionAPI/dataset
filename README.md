@@ -20,7 +20,7 @@ To contribute:
 
 ### ❓ Known Missing Data
 #### 👦👧 Junior
-
+<!-- JUNIOR-START -->
 Unavailable data of contest 2005:
         Contestant Norway:
                 Bpm
@@ -169,6 +169,9 @@ Unavailable data of contest 2015:
         Contestant North Macedonia:
                 Bpm
                 Tone
-
+<!-- JUNIOR-END -->
 
 #### 🧔‍♂️👩 Senior
+<!-- SENIOR-START -->
+
+<!-- SENIOR-END -->
