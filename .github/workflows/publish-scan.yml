@@ -1,0 +1,163 @@
+name: Publish and scan
+
+# Declaring shared variables
+env:
+  DATASET_FOLDER: dataset
+  TOOLS_FOLDER: tools
+  ARTIFACTS_FOLDER: artifacts
+  ARTIFACTS_NAME: artifacts
+
+on:
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: "Publish?"
+        required: true
+        default: "true"
+        type: choice
+        options: ["true", "false"]
+      scan:
+        description: "Scan?"
+        required: true
+        default: "true"
+        type: choice
+        options: ["true", "false"]
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/**'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    env:
+      PROJECT_NAME: FormatConverter
+      CONVERTER_EXE_FOLDER: converter
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: ${{ env.DATASET_FOLDER }}
+
+      - name: Clone tools repository
+        uses: actions/checkout@v4
+        with:
+          repository: EurovisionAPI/tools
+          path: ${{ env.TOOLS_FOLDER }}
+
+      - name: Install .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 9.0.x
+      
+      - name: Build converter
+        run: dotnet build $PROJECT_NAME/$PROJECT_NAME.csproj -c Release -o $GITHUB_WORKSPACE/$CONVERTER_EXE_FOLDER
+        working-directory: ${{ env.TOOLS_FOLDER }}
+
+      - name: Run senior converter
+        run: dotnet $PROJECT_NAME.dll -mode 1 -input $GITHUB_WORKSPACE/$DATASET_FOLDER/data/senior -output $GITHUB_WORKSPACE/$ARTIFACTS_FOLDER/senior
+        working-directory: ${{ env.CONVERTER_EXE_FOLDER }}
+
+      - name: Run junior converter
+        run: dotnet $PROJECT_NAME.dll -mode 1 -input $GITHUB_WORKSPACE/$DATASET_FOLDER/data/junior -output $GITHUB_WORKSPACE/$ARTIFACTS_FOLDER/junior
+        working-directory: ${{ env.CONVERTER_EXE_FOLDER }}
+      
+      - name: Copy countries.json to artifacts folder
+        run: cp $DATASET_FOLDER/data/countries.json $ARTIFACTS_FOLDER
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.ARTIFACTS_NAME }}
+          path: ${{ env.ARTIFACTS_FOLDER }}/*
+  
+  publish:
+    runs-on: ubuntu-latest
+    needs: convert
+    if: ${{ github.event.inputs.publish == 'true' }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ env.ARTIFACTS_NAME }}
+          path: ${{ env.ARTIFACTS_FOLDER }}
+    
+      - name: Calculate version
+        id: get_version
+        run: |
+          current_year=$(date +%Y)
+
+          # Get the latest number part of the current year
+          last_version=$(git tag | grep "^$current_year\." | sort -V | tail -n 1)
+
+          if [ -z "$last_version" ]; then
+            next_number=0
+          else
+            number_part=${last_version##*.}
+            next_number=$((number_part + 1))
+          fi
+
+          new_version="$current_year.$next_number"
+          echo "version=$new_version" >> $GITHUB_OUTPUT
+
+      - name: Create release
+        run: |
+          assets=()
+          for asset in ./$ARTIFACTS_FOLDER/*.json; do
+            assets+=("$asset")
+          done
+
+          tag_name=${{ steps.get_version.outputs.version }}
+          gh release create "$tag_name" "${assets[@]}" --title "$tag_name"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  scan:
+    runs-on: ubuntu-latest
+    needs: convert
+    if: ${{ github.event.inputs.scan == 'true' }}
+    env:
+      PROJECT_NAME: Scanner
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: ${{ env.DATASET_FOLDER }}
+
+      - name: Clone tools repository
+        uses: actions/checkout@v4
+        with:
+          repository: EurovisionAPI/tools
+          path: ${{ env.TOOLS_FOLDER }}
+
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ env.ARTIFACTS_NAME }}
+          path: ${{ env.ARTIFACTS_FOLDER }}
+
+      - name: Install .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 9.0.x
+
+      - name: Prueba
+        run: echo $ARTIFACTS_FOLDER
+      
+      - name: Run scanner
+        run: dotnet run -c Release --project $TOOLS_FOLDER/$PROJECT_NAME/$PROJECT_NAME.csproj -- -input $ARTIFACTS_FOLDER -readme $DATASET_FOLDER/README.md
+    
+      - name: Commit README changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update dataset scan results
+          file_pattern: 'README.md'
+          repository: ${{ env.DATASET_FOLDER }}
+          skip_fetch: false
+          skip_checkout: false
