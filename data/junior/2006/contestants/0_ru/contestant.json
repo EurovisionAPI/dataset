@@ -12,8 +12,8 @@
     "https://www.youtube-nocookie.com/embed/xQmKJlyq1Ug",
     "https://www.youtube-nocookie.com/embed/15be86rapg0"
   ],
-  "bpm": null,
-  "tone": null,
+  "bpm": 130,
+  "tone": "E major",
   "backings": null,
   "commentators": null,
   "composers": null,
