@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "BY",
-  "broadcaster": null,
   "artist": "Liza Misnikova",
-  "artistPeople": [
-    "Elizaveta Misnikova"
-  ],
   "song": "Pepelny",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/cFer5iAMUNM",
@@ -14,18 +10,23 @@
   ],
   "bpm": 112,
   "tone": "A minor",
+  "artistPeople": [
+    "Elizaveta Misnikova"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Kirill Good"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Liza Misnikova",
     "Natalia Tambovtseva"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

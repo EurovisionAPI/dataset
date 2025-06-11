@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "RU",
-  "broadcaster": null,
   "artist": "Katya Ryabova",
-  "artistPeople": [
-    "Katya Ryabova"
-  ],
   "song": "Romeo and Juliet",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Lwf_R4uR9vg",
@@ -13,15 +9,20 @@
   ],
   "bpm": 66,
   "tone": "E major",
+  "artistPeople": [
+    "Katya Ryabova"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Katya Ryabova"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

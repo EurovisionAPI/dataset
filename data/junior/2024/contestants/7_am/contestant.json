@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "AM",
-  "broadcaster": null,
   "artist": "Leo",
-  "artistPeople": [
-    "Leo Mkrtchyan"
-  ],
   "song": "Cosmic Friend",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/P1wT0VYqwjM",
@@ -14,18 +10,23 @@
   ],
   "bpm": 118,
   "tone": "C# major",
+  "artistPeople": [
+    "Leo Mkrtchyan"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Tokionine"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Maléna",
     "Vahram Petrosyan"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

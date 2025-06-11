@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "KZ",
-  "broadcaster": null,
   "artist": "Yerzhan Maxim",
-  "artistPeople": [
-    "Yerzhan Maxim"
-  ],
   "song": "Armanyńnan Qalma",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/tSVmX1E25C8",
@@ -13,18 +9,23 @@
   ],
   "bpm": 137,
   "tone": "Ab major",
+  "artistPeople": [
+    "Yerzhan Maxim"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Khamit Shangaliyev"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Aldabergenov Daniyar",
     "Timur Balymbetov"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

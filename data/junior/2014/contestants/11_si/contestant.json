@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "SI",
-  "broadcaster": null,
   "artist": "Ula Ložar",
-  "artistPeople": [
-    "Ula Ložar"
-  ],
   "song": "Nisi sam",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ko3TsP7Jmyc",
@@ -14,21 +10,26 @@
   ],
   "bpm": null,
   "tone": null,
+  "artistPeople": [
+    "Ula Ložar"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Marjetka Vovk",
     "Raay",
     "Ula Ložar"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Erika Mager",
     "Lucienne Lonchina",
     "Raay"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

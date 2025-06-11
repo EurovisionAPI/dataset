@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "UA",
-  "broadcaster": null,
   "artist": "Nazar Slyusarchuk",
-  "artistPeople": [
-    "Nazar Slyusarchuk"
-  ],
   "song": "Khlopchyk Rock 'n' Roll",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/JbrM4GotPrk",
@@ -13,15 +9,20 @@
   ],
   "bpm": 130,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Nazar Slyusarchuk"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Nazar Slyusarchuk"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

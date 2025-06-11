@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "2016-11-20",
   "time": null,
   "disqualifieds": null,
@@ -11,18 +10,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 239,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 83,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 144,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 12,
           "votes": null
         }
       ]
@@ -34,18 +37,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 232,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 110,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 99,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 23,
           "votes": null
         }
       ]
@@ -57,18 +64,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 209,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 103,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 84,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 22,
           "votes": null
         }
       ]
@@ -80,18 +91,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 202,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 105,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 68,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 29,
           "votes": null
         }
       ]
@@ -103,18 +118,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 202,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 99,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 86,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 17,
           "votes": null
         }
       ]
@@ -126,18 +145,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 191,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 105,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 80,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 6,
           "votes": null
         }
       ]
@@ -149,18 +172,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 177,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 65,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 92,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 20,
           "votes": null
         }
       ]
@@ -172,18 +199,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 174,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 65,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 94,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 15,
           "votes": null
         }
       ]
@@ -195,18 +226,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 161,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 68,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 78,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 15,
           "votes": null
         }
       ]
@@ -218,18 +253,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 122,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 57,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 56,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 9,
           "votes": null
         }
       ]
@@ -241,18 +280,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 60,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 36,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 21,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 3,
           "votes": null
         }
       ]
@@ -264,18 +307,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 41,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 24,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 17,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 0,
           "votes": null
         }
       ]
@@ -287,18 +334,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 38,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 13,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 23,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 2,
           "votes": null
         }
       ]
@@ -310,18 +361,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 30,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 12,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 18,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 0,
           "votes": null
         }
       ]
@@ -333,18 +388,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 27,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 20,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 6,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 1,
           "votes": null
         }
       ]
@@ -356,18 +415,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 27,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 12,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 15,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 0,
           "votes": null
         }
       ]
@@ -379,18 +442,22 @@
       "scores": [
         {
           "name": "total\n100%",
+          "points": 14,
           "votes": null
         },
         {
           "name": "kids\n46%",
+          "points": 9,
           "votes": null
         },
         {
           "name": "adults\n46%",
+          "points": 5,
           "votes": null
         },
         {
           "name": "experts\n8%",
+          "points": 0,
           "votes": null
         }
       ]

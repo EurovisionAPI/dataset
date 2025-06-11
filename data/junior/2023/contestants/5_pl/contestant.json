@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "PL",
-  "broadcaster": null,
   "artist": "Maja Krzyżewska",
-  "artistPeople": [
-    "Maja Krzyżewska"
-  ],
   "song": "I Just Need A Friend",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/F0Fi1rDvpbo",
@@ -18,8 +14,12 @@
   ],
   "bpm": 132,
   "tone": "Bb major",
+  "artistPeople": [
+    "Maja Krzyżewska"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Carla Fernandes",
     "Dominik Buczkowski-Wojtaszek",
@@ -27,13 +27,14 @@
     "Piotr Zborowski"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Carla Fernandes",
     "Maria Dzięcielak",
     "Patryk Kumór"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

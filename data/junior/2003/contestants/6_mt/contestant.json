@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "MT",
-  "broadcaster": null,
   "artist": "Sarah Harrison",
-  "artistPeople": [
-    "Sarah Harrison"
-  ],
   "song": "Like a Star",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/XlAEW1K30aA",
@@ -13,15 +9,20 @@
   ],
   "bpm": 122,
   "tone": "A major",
+  "artistPeople": [
+    "Sarah Harrison"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Sarah Harrison"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "ES",
-  "broadcaster": null,
   "artist": "Sergio",
-  "artistPeople": [
-    "Sergio"
-  ],
   "song": "Desde el cielo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Pub_FWm2RRM",
@@ -13,15 +9,20 @@
   ],
   "bpm": 179,
   "tone": "A major",
+  "artistPeople": [
+    "Sergio"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Sergio Jesús García"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

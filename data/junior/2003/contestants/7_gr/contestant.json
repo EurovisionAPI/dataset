@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "GR",
-  "broadcaster": null,
   "artist": "Nicolas Ganopoulos",
-  "artistPeople": [
-    "Nicolas Ganopoulos"
-  ],
   "song": "Fili gia panta",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/osbJckkWj4I",
@@ -13,13 +9,18 @@
   ],
   "bpm": 101,
   "tone": "E major",
+  "artistPeople": [
+    "Nicolas Ganopoulos"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

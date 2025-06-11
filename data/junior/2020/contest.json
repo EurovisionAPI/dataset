@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2020.png",
+  "broadcasters": null,
   "presenters": [
     "Ida Nowakowska-Herndon",
     "Rafał Brzozowski",
     "Małgorzata Tomaszewska"
-  ],
-  "broadcasters": null
+  ]
 }

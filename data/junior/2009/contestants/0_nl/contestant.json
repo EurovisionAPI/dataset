@@ -1,26 +1,27 @@
 {
   "id": 0,
   "country": "NL",
-  "broadcaster": null,
   "artist": "Ralf Mackenbach",
-  "artistPeople": [
-    "Ralf Mackenbach"
-  ],
   "song": "Click Clack",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/T7JVCz5ImBA"
   ],
   "bpm": null,
   "tone": null,
+  "artistPeople": [
+    "Ralf Mackenbach"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Ralf Mackenbach"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

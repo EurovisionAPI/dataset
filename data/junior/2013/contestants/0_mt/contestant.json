@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "MT",
-  "broadcaster": null,
   "artist": "Gaia Cauchi",
-  "artistPeople": [
-    "Gaia Cauchi"
-  ],
   "song": "The Start",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/thje0DAh_lU",
@@ -13,20 +9,25 @@
   ],
   "bpm": 95,
   "tone": "Ab major",
+  "artistPeople": [
+    "Gaia Cauchi"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Elton Zarb",
     "Gaia Cauchi",
     "Gillian Attard"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Gaia Cauchi",
     "Matt Muxu"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

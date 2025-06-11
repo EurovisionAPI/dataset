@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "RS",
-  "broadcaster": null,
   "artist": "Darija Vračević",
-  "artistPeople": [
-    "Darija Vračević"
-  ],
   "song": "Podigni Glas",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/UD2XanNM690",
@@ -13,17 +9,22 @@
   ],
   "bpm": 90,
   "tone": "G major",
+  "artistPeople": [
+    "Darija Vračević"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Aleksandra Milutinović"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Leontina Vukomanović Pat"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

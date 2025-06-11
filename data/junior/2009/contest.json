@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2009.png",
+  "broadcasters": null,
   "presenters": [
     "Ani Lorak",
     "Timur Miroshnychenko",
     "Dmytro Borodin (Green Room)"
-  ],
-  "broadcasters": null
+  ]
 }

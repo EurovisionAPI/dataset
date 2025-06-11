@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "GB",
-  "broadcaster": null,
   "artist": "Tom Morley",
-  "artistPeople": [
-    "Tom Morley"
-  ],
   "song": "My Song for the World",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/q_lBaxbKOP4",
@@ -13,15 +9,20 @@
   ],
   "bpm": 122,
   "tone": "E minor",
+  "artistPeople": [
+    "Tom Morley"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Tom Morley"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

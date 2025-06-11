@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "PL",
-  "broadcaster": null,
   "artist": "Laura",
-  "artistPeople": [
-    "Laura Bączkiewicz"
-  ],
   "song": "To The Moon",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/tu_077hvb7A",
@@ -15,17 +11,22 @@
   ],
   "bpm": 130,
   "tone": "G minor",
+  "artistPeople": [
+    "Laura Bączkiewicz"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jakub Krupski"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Monika Wydrzyńska"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

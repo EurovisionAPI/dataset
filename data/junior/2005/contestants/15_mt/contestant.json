@@ -1,12 +1,7 @@
 {
   "id": 15,
   "country": "MT",
-  "broadcaster": null,
   "artist": "Thea and Friends",
-  "artistPeople": [
-    "Thea",
-    "Friends"
-  ],
   "song": "Make It Right!",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/GRbdYfbCV8g",
@@ -14,15 +9,21 @@
   ],
   "bpm": 110,
   "tone": "C major",
+  "artistPeople": [
+    "Thea",
+    "Friends"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Thea Saliba"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

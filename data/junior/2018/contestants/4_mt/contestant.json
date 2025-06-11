@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "MT",
-  "broadcaster": null,
   "artist": "Ela",
-  "artistPeople": [
-    "Ela Mangion"
-  ],
   "song": "Marchin' On",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/6ec2l2NERS0",
@@ -13,17 +9,22 @@
   ],
   "bpm": 100,
   "tone": "D major",
+  "artistPeople": [
+    "Ela Mangion"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Cyprian Cassar"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Emil Calleja Bayliss"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "BY",
-  "broadcaster": null,
   "artist": "Lidiya Zablotskaya",
-  "artistPeople": [
-    "Lidiya Zablotskaya"
-  ],
   "song": "Angely dobra",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/zdr6erOa7KM",
@@ -13,15 +9,20 @@
   ],
   "bpm": 100,
   "tone": "F# minor",
+  "artistPeople": [
+    "Lidiya Zablotskaya"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Lidiya Zablotskaya"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

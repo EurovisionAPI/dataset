@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "SE",
-  "broadcaster": null,
   "artist": "The Honeypies",
-  "artistPeople": [
-    "The Honeypies"
-  ],
   "song": "Stoppa mig",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/q8TPnKTH9Cw",
@@ -13,13 +9,18 @@
   ],
   "bpm": 115,
   "tone": "A minor",
+  "artistPeople": [
+    "The Honeypies"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

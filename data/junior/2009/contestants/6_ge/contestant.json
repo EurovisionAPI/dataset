@@ -1,8 +1,14 @@
 {
   "id": 6,
   "country": "GE",
-  "broadcaster": null,
   "artist": "Group Princesses",
+  "song": "Lurji Prinveli",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/C2XNBMOFS4I",
+    "https://www.youtube-nocookie.com/embed/01GUje6pmp0"
+  ],
+  "bpm": 140,
+  "tone": "F# major",
   "artistPeople": [
     "Mariam Bokeria",
     "Mariam Gurgenidze",
@@ -11,26 +17,21 @@
     "Lizi Ramishvili",
     "Ana Tkeshelashvili"
   ],
-  "song": "Lurji Prinveli",
-  "videoUrls": [
-    "https://www.youtube-nocookie.com/embed/C2XNBMOFS4I",
-    "https://www.youtube-nocookie.com/embed/01GUje6pmp0"
-  ],
-  "bpm": 140,
-  "tone": "F# major",
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Elene Makashvili",
     "Zaza Tsurtsumia"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Irina Sanikidze",
     "Liza Kenia"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

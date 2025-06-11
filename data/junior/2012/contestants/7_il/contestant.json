@@ -1,8 +1,14 @@
 {
   "id": 7,
   "country": "IL",
-  "broadcaster": null,
   "artist": "Kids.il",
+  "song": "Let the Music Win",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2n7YCVZZ0w0",
+    "https://www.youtube-nocookie.com/embed/ilekzL1eOk8"
+  ],
+  "bpm": 98,
+  "tone": "C# major",
   "artistPeople": [
     "Libi Panker",
     "Adi Bity",
@@ -11,23 +17,18 @@
     "Tali Sorokin",
     "Daniel Pruzansky"
   ],
-  "song": "Let the Music Win",
-  "videoUrls": [
-    "https://www.youtube-nocookie.com/embed/2n7YCVZZ0w0",
-    "https://www.youtube-nocookie.com/embed/ilekzL1eOk8"
-  ],
-  "bpm": 98,
-  "tone": "C# major",
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Kids.il",
     "Ohad Hitman"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

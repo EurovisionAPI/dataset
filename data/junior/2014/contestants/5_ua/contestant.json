@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "UA",
-  "broadcaster": null,
   "artist": "Sympho",
-  "artistPeople": [
-    "Sympho-Nick"
-  ],
   "song": "Nick",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/PkI94PySknw",
@@ -13,8 +9,12 @@
   ],
   "bpm": 135,
   "tone": "B minor",
+  "artistPeople": [
+    "Sympho-Nick"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ameliya Kryms’ka",
     "Marta Rak",
@@ -22,14 +22,15 @@
     "Sofiia Kutsenko"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Ameliya Kryms’ka",
     "Marta Rak",
     "Sofiia Kutsenko",
     "Yevgeny Matyushenko"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

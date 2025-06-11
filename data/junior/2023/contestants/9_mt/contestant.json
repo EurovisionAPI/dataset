@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "MT",
-  "broadcaster": null,
   "artist": "Yulan",
-  "artistPeople": [
-    "Yulan Law"
-  ],
   "song": "Stronger",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/CUChtXOTKAg",
@@ -16,19 +12,24 @@
   ],
   "bpm": 127,
   "tone": "G major",
+  "artistPeople": [
+    "Yulan Law"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Elise Hedengren",
     "Isak Alvedahl",
     "John-Emil Johansson",
     "Sandra Wikström",
     "Yulan Law"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

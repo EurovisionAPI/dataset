@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "IE",
-  "broadcaster": null,
   "artist": "Jessica McKean",
-  "artistPeople": [
-    "Jessica McKean"
-  ],
   "song": "Aisling",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/YdgIEhevovE",
@@ -14,22 +10,27 @@
   ],
   "bpm": 135,
   "tone": "G major",
+  "artistPeople": [
+    "Jessica McKean"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ken McHugh",
     "Niall Mooney",
     "Will Weeks"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Fiona Mooney",
     "Niall Mooney",
     "Niamh Mooney",
     "Sophie Lennon"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

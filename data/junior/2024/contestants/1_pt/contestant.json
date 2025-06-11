@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "PT",
-  "broadcaster": null,
   "artist": "Victoria Nicole",
-  "artistPeople": [
-    "Victoria Nicole Sánchez Rodríguez"
-  ],
   "song": "Esperança",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Ysnj4_JK_0g",
@@ -15,15 +11,20 @@
   ],
   "bpm": 156,
   "tone": "F# major",
+  "artistPeople": [
+    "Victoria Nicole Sánchez Rodríguez"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Victoria Nicole"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

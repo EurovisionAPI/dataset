@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "BY",
-  "broadcaster": null,
   "artist": "Egor Volchek",
-  "artistPeople": [
-    "Egor Volchek"
-  ],
   "song": "Spiavajcie sa mnoju",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/CZ7Fdbo0U5A",
@@ -14,16 +10,21 @@
   ],
   "bpm": 143,
   "tone": "Db major",
+  "artistPeople": [
+    "Egor Volchek"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Egor Volchek",
     "Ulada Suslenka"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

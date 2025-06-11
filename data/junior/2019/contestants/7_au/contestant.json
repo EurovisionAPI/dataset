@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "AU",
-  "broadcaster": null,
   "artist": "Jordan Anthony",
-  "artistPeople": [
-    "Jordan Anthony"
-  ],
   "song": "We Will Rise",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/IGU9C6lppwQ",
@@ -13,16 +9,21 @@
   ],
   "bpm": 118,
   "tone": "Bb major",
+  "artistPeople": [
+    "Jordan Anthony"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Jordan Anthony",
     "MSquared"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

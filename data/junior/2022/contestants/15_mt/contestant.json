@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "MT",
-  "broadcaster": null,
   "artist": "Gaia Gambuzza",
-  "artistPeople": [
-    "Gaia Gambuzza"
-  ],
   "song": "Diamonds in the Skies",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/lImLm3fvgqs",
@@ -14,15 +10,20 @@
   ],
   "bpm": 112,
   "tone": "A major",
+  "artistPeople": [
+    "Gaia Gambuzza"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Matthew James"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

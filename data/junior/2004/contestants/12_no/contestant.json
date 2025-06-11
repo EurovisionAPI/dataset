@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "NO",
-  "broadcaster": null,
   "artist": "@lek",
-  "artistPeople": [
-    "Aleksander Moberg"
-  ],
   "song": "En stjerne skal jeg bli",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/u6DNJtgblJQ",
@@ -13,15 +9,20 @@
   ],
   "bpm": 100,
   "tone": "Eb minor",
+  "artistPeople": [
+    "Aleksander Moberg"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Aleksander Moberg"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "GE",
-  "broadcaster": null,
   "artist": "Mariam Romelashvili",
-  "artistPeople": [
-    "Mariam Romelashvili"
-  ],
   "song": "Odelia Ranuni",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/4No2PyIMu0E",
@@ -14,15 +10,20 @@
   ],
   "bpm": 70,
   "tone": "B major",
+  "artistPeople": [
+    "Mariam Romelashvili"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Mariam Romelashvili"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

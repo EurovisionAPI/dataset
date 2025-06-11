@@ -1,24 +1,25 @@
 {
   "id": 9,
   "country": "RO",
-  "broadcaster": null,
   "artist": "4Kids",
-  "artistPeople": [
-    "4Kids"
-  ],
   "song": "Sha",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/9VNi7nJhFRA"
   ],
   "bpm": 96,
   "tone": "G major",
+  "artistPeople": [
+    "4Kids"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

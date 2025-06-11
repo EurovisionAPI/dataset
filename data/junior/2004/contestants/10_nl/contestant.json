@@ -1,12 +1,7 @@
 {
   "id": 10,
   "country": "NL",
-  "broadcaster": null,
   "artist": "Klaartje & Nicky",
-  "artistPeople": [
-    "Klaartje Meulemeester",
-    "Nicky Bruin"
-  ],
   "song": "Hij is een kei",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/go0_ABNDlVY",
@@ -14,16 +9,22 @@
   ],
   "bpm": 123,
   "tone": "D minor",
+  "artistPeople": [
+    "Klaartje Meulemeester",
+    "Nicky Bruin"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Klaartje Meulemeester",
     "Nicky Bruin"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

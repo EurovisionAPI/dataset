@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "AU",
-  "broadcaster": null,
   "artist": "Isabella Clarke",
-  "artistPeople": [
-    "Isabella Clarke"
-  ],
   "song": "Speak Up",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/PFxmKOagFvc",
@@ -13,18 +9,23 @@
   ],
   "bpm": 100,
   "tone": "F major",
+  "artistPeople": [
+    "Isabella Clarke"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Cameron Hollywood Nacson",
     "Chloe Papandrea",
     "Jess Porfiri",
     "Toby Chew Lee"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

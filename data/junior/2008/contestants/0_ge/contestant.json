@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "GE",
-  "broadcaster": null,
   "artist": "Bzikebi",
-  "artistPeople": [
-    "Bzikebi"
-  ],
   "song": "Bzz..",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/LMHcS_QdiIU",
@@ -14,17 +10,22 @@
   ],
   "bpm": 158,
   "tone": "D major",
+  "artistPeople": [
+    "Bzikebi"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Giorgi Shiolashvili",
     "Mariam Kikuashvili",
     "Mariam Talulashvili"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

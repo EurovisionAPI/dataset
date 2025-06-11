@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "UA",
-  "broadcaster": null,
   "artist": "Sofia Tarasova",
-  "artistPeople": [
-    "Sofia Tarasova"
-  ],
   "song": "We Are One",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ottakpwZLrc",
@@ -14,19 +10,24 @@
   ],
   "bpm": 127,
   "tone": "F minor",
+  "artistPeople": [
+    "Sofia Tarasova"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Michael Nekrasov",
     "Sofia Tarasova"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Sofia Tarasova",
     "Yevgeny Matyushenko"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

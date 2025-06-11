@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "IT",
-  "broadcaster": null,
   "artist": "Chanel Dilecta",
-  "artistPeople": [
-    "Chanel Dilecta"
-  ],
   "song": "Bla bla bla",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/CEY1WPDTDsU",
@@ -14,19 +10,24 @@
   ],
   "bpm": 124,
   "tone": "D major",
+  "artistPeople": [
+    "Chanel Dilecta"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Marco Iardella"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Angela Senatore",
     "Carmine Spera",
     "Fabrizio Palaferri"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

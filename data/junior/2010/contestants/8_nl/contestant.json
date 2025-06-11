@@ -1,12 +1,7 @@
 {
   "id": 8,
   "country": "NL",
-  "broadcaster": null,
   "artist": "Anna & Senna",
-  "artistPeople": [
-    "Anna Lagerweij",
-    "Senna Sitalsing"
-  ],
   "song": "My Family",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/uHBvr5Esm_c",
@@ -14,17 +9,23 @@
   ],
   "bpm": 148,
   "tone": "D major",
+  "artistPeople": [
+    "Anna Lagerweij",
+    "Senna Sitalsing"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Anna Lagerweij",
     "Senna Sitalsing",
     "Tjeerd Oosterhuis"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

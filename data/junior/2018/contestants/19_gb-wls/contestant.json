@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "GB-WLS",
-  "broadcaster": null,
   "artist": "Manw",
-  "artistPeople": [
-    "Manw"
-  ],
   "song": "Perta",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/yepoR_Ze748",
@@ -13,19 +9,24 @@
   ],
   "bpm": 168,
   "tone": "D major",
+  "artistPeople": [
+    "Manw"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ifan Siôn Davies",
     "Richard James Hooson Roberts",
     "Ywain Gwynedd"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Ywain Gwynedd"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

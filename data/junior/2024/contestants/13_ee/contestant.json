@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "EE",
-  "broadcaster": null,
   "artist": "Annabelle",
-  "artistPeople": [
-    "Annabelle Ats"
-  ],
   "song": "Tänavad",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/GozNntDgx54",
@@ -15,15 +11,20 @@
   ],
   "bpm": 134,
   "tone": "G major",
+  "artistPeople": [
+    "Annabelle Ats"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Sven Lõhmus"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

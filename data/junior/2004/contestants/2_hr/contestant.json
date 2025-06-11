@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "HR",
-  "broadcaster": null,
   "artist": "Nika Turković",
-  "artistPeople": [
-    "Nika Turković"
-  ],
   "song": "Hej mali",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/eVI7bVDMEyg",
@@ -13,15 +9,20 @@
   ],
   "bpm": 127,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Nika Turković"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Nika Turković"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

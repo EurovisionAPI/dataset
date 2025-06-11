@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "IE",
-  "broadcaster": null,
   "artist": "Enya Cox Dempsey",
-  "artistPeople": [
-    "Enya Cox Dempsey"
-  ],
   "song": "Le chéile",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/gcyTfQOE1GM",
@@ -14,18 +10,23 @@
   ],
   "bpm": 120,
   "tone": "Ab major",
+  "artistPeople": [
+    "Enya Cox Dempsey"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ian James White",
     "Nicky Brennan"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Laoise Ní Nualláin"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

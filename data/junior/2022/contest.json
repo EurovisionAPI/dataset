@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": "Spin The Magic",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2022.png",
+  "broadcasters": null,
   "presenters": [
     "Iveta Mukuchyan",
     "Garik Papoyan",
     "Karina Ignatyan"
-  ],
-  "broadcasters": null
+  ]
 }

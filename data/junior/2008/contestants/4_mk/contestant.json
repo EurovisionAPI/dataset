@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "MK",
-  "broadcaster": null,
   "artist": "Bobi Andonov",
-  "artistPeople": [
-    "Bobi Andonov"
-  ],
   "song": "Prati mi SMS",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/iZ8p7_Mvh38",
@@ -13,15 +9,20 @@
   ],
   "bpm": null,
   "tone": null,
+  "artistPeople": [
+    "Bobi Andonov"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Bobi Andonov"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

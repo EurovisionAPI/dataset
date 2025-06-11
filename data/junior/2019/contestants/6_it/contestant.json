@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "IT",
-  "broadcaster": null,
   "artist": "Marta Viola",
-  "artistPeople": [
-    "Marta Viola"
-  ],
   "song": "La Voce Della Terra",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/lRt2PPdex4w",
@@ -13,19 +9,24 @@
   ],
   "bpm": 144,
   "tone": "F major",
+  "artistPeople": [
+    "Marta Viola"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Franco Fasano",
     "Marco Iardella"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Emilio di Stefano",
     "Fabrizio Palaferri"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

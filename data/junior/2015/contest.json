@@ -6,8 +6,8 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2015.png",
+  "broadcasters": null,
   "presenters": [
     "Poli Genova"
-  ],
-  "broadcasters": null
+  ]
 }

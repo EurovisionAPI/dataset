@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "RS",
-  "broadcaster": null,
   "artist": "Lena Stamenković",
-  "artistPeople": [
-    "Lena Stamenković"
-  ],
   "song": "Lenina pesma",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/R7AUTZfy-0E",
@@ -13,18 +9,23 @@
   ],
   "bpm": 91,
   "tone": "E major",
+  "artistPeople": [
+    "Lena Stamenković"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Leontina Vukomanović"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Lena Stamenković",
     "Leontina Vukomanović"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

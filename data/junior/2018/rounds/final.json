@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "2018-11-25",
   "time": "15:00:00",
   "disqualifieds": null,
@@ -11,14 +10,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 215,
           "votes": null
         },
         {
           "name": "online",
+          "points": 136,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 79,
           "votes": null
         }
       ]
@@ -30,14 +32,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 203,
           "votes": null
         },
         {
           "name": "online",
+          "points": 117,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 86,
           "votes": null
         }
       ]
@@ -49,14 +54,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 201,
           "votes": null
         },
         {
           "name": "online",
+          "points": 53,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 148,
           "votes": null
         }
       ]
@@ -68,14 +76,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 182,
           "votes": null
         },
         {
           "name": "online",
+          "points": 78,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 104,
           "votes": null
         }
       ]
@@ -87,14 +98,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 181,
           "votes": null
         },
         {
           "name": "online",
+          "points": 43,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 138,
           "votes": null
         }
       ]
@@ -106,14 +120,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 171,
           "votes": null
         },
         {
           "name": "online",
+          "points": 103,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 68,
           "votes": null
         }
       ]
@@ -125,14 +142,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 151,
           "votes": null
         },
         {
           "name": "online",
+          "points": 57,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 94,
           "votes": null
         }
       ]
@@ -144,14 +164,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 144,
           "votes": null
         },
         {
           "name": "online",
+          "points": 39,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 105,
           "votes": null
         }
       ]
@@ -163,14 +186,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 125,
           "votes": null
         },
         {
           "name": "online",
+          "points": 70,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 55,
           "votes": null
         }
       ]
@@ -182,14 +208,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 122,
           "votes": null
         },
         {
           "name": "online",
+          "points": 62,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 60,
           "votes": null
         }
       ]
@@ -201,14 +230,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 114,
           "votes": null
         },
         {
           "name": "online",
+          "points": 53,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 61,
           "votes": null
         }
       ]
@@ -220,14 +252,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 99,
           "votes": null
         },
         {
           "name": "online",
+          "points": 35,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 64,
           "votes": null
         }
       ]
@@ -239,14 +274,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 91,
           "votes": null
         },
         {
           "name": "online",
+          "points": 68,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 23,
           "votes": null
         }
       ]
@@ -258,14 +296,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 81,
           "votes": null
         },
         {
           "name": "online",
+          "points": 47,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 34,
           "votes": null
         }
       ]
@@ -277,14 +318,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 48,
           "votes": null
         },
         {
           "name": "online",
+          "points": 36,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 12,
           "votes": null
         }
       ]
@@ -296,14 +340,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 47,
           "votes": null
         },
         {
           "name": "online",
+          "points": 30,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 17,
           "votes": null
         }
       ]
@@ -315,14 +362,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 44,
           "votes": null
         },
         {
           "name": "online",
+          "points": 34,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 10,
           "votes": null
         }
       ]
@@ -334,14 +384,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 42,
           "votes": null
         },
         {
           "name": "online",
+          "points": 42,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 0,
           "votes": null
         }
       ]
@@ -353,14 +406,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 30,
           "votes": null
         },
         {
           "name": "online",
+          "points": 28,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 2,
           "votes": null
         }
       ]
@@ -372,14 +428,17 @@
       "scores": [
         {
           "name": "total",
+          "points": 29,
           "votes": null
         },
         {
           "name": "online",
+          "points": 29,
           "votes": null
         },
         {
           "name": "jury",
+          "points": 0,
           "votes": null
         }
       ]

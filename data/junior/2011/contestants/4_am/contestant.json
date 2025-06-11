@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "AM",
-  "broadcaster": null,
   "artist": "Dalita",
-  "artistPeople": [
-    "Dalita Artin Avanesian"
-  ],
   "song": "Welcome to Armenia",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/KEJu8e_ZTXQ",
@@ -13,15 +9,20 @@
   ],
   "bpm": 156,
   "tone": "G major",
+  "artistPeople": [
+    "Dalita Artin Avanesian"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Dalita Artin Avanesian"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

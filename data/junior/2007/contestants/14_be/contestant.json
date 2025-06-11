@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "BE",
-  "broadcaster": null,
   "artist": "Trust",
-  "artistPeople": [
-    "Trust"
-  ],
   "song": "Anders",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/8mUGmE0djUA",
@@ -13,20 +9,25 @@
   ],
   "bpm": 130,
   "tone": "F major",
+  "artistPeople": [
+    "Trust"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Luc Standaert"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Eva Storme",
     "Laurens Platteeuw",
     "Matthieu Renier",
     "Mirek Coutigny"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "UA",
-  "broadcaster": null,
   "artist": "Anastasiya Baginska",
-  "artistPeople": [
-    "Anastasiya Baginska"
-  ],
   "song": "Don't Stop",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/USZsQEejK8o",
@@ -14,16 +10,21 @@
   ],
   "bpm": 152,
   "tone": "B minor",
+  "artistPeople": [
+    "Anastasiya Baginska"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Anastasiya Baginska",
     "Kateryna Komar"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

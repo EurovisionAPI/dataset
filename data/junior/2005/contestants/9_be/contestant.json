@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "BE",
-  "broadcaster": null,
   "artist": "Lindsay",
-  "artistPeople": [
-    "Lindsay Daenen"
-  ],
   "song": "Mes rêves",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/G1Znif6pJzc",
@@ -13,15 +9,20 @@
   ],
   "bpm": 109,
   "tone": "C major",
+  "artistPeople": [
+    "Lindsay Daenen"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Lindsay Daenen"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

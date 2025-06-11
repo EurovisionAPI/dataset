@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "GE",
-  "broadcaster": null,
   "artist": "Mariam Mamadashvili",
-  "artistPeople": [
-    "Mariam Mamadashvili"
-  ],
   "song": "Mzeo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/6ZqcUxZvc4A",
@@ -14,17 +10,22 @@
   ],
   "bpm": 84,
   "tone": "Bb major",
+  "artistPeople": [
+    "Mariam Mamadashvili"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Giga Kukhianidze"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Maka Davitaia"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

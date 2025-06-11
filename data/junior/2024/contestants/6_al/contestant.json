@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "AL",
-  "broadcaster": null,
   "artist": "Nikol Çabeli",
-  "artistPeople": [
-    "Nikol Çabeli"
-  ],
   "song": "Vallëzoj",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/sfxW5eme17Q",
@@ -16,17 +12,22 @@
   ],
   "bpm": 100,
   "tone": "A major",
+  "artistPeople": [
+    "Nikol Çabeli"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Endri Muçaj"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Eriona Rushiti"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

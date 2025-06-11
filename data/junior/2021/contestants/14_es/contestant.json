@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "ES",
-  "broadcaster": null,
   "artist": "Levi Díaz",
-  "artistPeople": [
-    "Levi Díaz"
-  ],
   "song": "Reír",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/2_2cMyuGn6A",
@@ -14,15 +10,20 @@
   ],
   "bpm": 133,
   "tone": "B major",
+  "artistPeople": [
+    "Levi Díaz"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "David Roma"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "RS",
-  "broadcaster": null,
   "artist": "Nevena Božović",
-  "artistPeople": [
-    "Nevena Božović"
-  ],
   "song": "Piši mi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/lnHn37ZFECE",
@@ -14,13 +10,18 @@
   ],
   "bpm": 175,
   "tone": "D major",
+  "artistPeople": [
+    "Nevena Božović"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

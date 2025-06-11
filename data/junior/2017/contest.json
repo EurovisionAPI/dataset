@@ -6,9 +6,9 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2017.png",
+  "broadcasters": null,
   "presenters": [
     "Helen Kalandadze",
     "Lizi Japaridze"
-  ],
-  "broadcasters": null
+  ]
 }

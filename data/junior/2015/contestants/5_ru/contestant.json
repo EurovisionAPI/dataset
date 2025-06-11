@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "RU",
-  "broadcaster": null,
   "artist": "Mikhail Smirnov",
-  "artistPeople": [
-    "Mikhail Smirnov"
-  ],
   "song": "Mechta",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/fJiqeiyPpSU",
@@ -13,16 +9,21 @@
   ],
   "bpm": null,
   "tone": null,
+  "artistPeople": [
+    "Mikhail Smirnov"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Mikhail Smirnov",
     "Vladimir Dushevny"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

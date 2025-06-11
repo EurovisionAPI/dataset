@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "UA",
-  "broadcaster": null,
   "artist": "Anastasia Dymyd",
-  "artistPeople": [
-    "Anastasia Dymyd"
-  ],
   "song": "Kvitka",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/R1AsQdWR2Kw",
@@ -17,15 +13,20 @@
   ],
   "bpm": 124,
   "tone": "F minor",
+  "artistPeople": [
+    "Anastasia Dymyd"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Svitlana Tarabarova"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

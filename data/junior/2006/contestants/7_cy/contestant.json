@@ -1,12 +1,7 @@
 {
   "id": 7,
   "country": "CY",
-  "broadcaster": null,
   "artist": "Louis Panagiotou & Christina Christofi",
-  "artistPeople": [
-    "Louis Panagiotou",
-    "Christina Christofi"
-  ],
   "song": "Agoria koritsia",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/HCe9fUBLNGw",
@@ -14,16 +9,22 @@
   ],
   "bpm": 64,
   "tone": "C major",
+  "artistPeople": [
+    "Louis Panagiotou",
+    "Christina Christofi"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Christina Christofi",
     "Louis Panagiotou"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

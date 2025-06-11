@@ -1,12 +1,7 @@
 {
   "id": 15,
   "country": "IT",
-  "broadcaster": null,
   "artist": "Chiara & Martina",
-  "artistPeople": [
-    "Chiara Scarpari",
-    "Martina Scarpari"
-  ],
   "song": "Viva",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/xdCf55-18nM",
@@ -14,20 +9,26 @@
   ],
   "bpm": 93,
   "tone": "C# minor",
+  "artistPeople": [
+    "Chiara Scarpari",
+    "Martina Scarpari"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Adriano Pennino",
     "Luigi D'Alessio"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Chiara Scarpari",
     "Fabrizio Berlincioni",
     "Martina Scarpari"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

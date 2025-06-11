@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "UA",
-  "broadcaster": null,
   "artist": "Viktoria Petryk",
-  "artistPeople": [
-    "Viktoria Petryk"
-  ],
   "song": "Matrosy",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Q4qM87SOMz4",
@@ -13,15 +9,20 @@
   ],
   "bpm": 156,
   "tone": "D major",
+  "artistPeople": [
+    "Viktoria Petryk"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Viktoria Petryk"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

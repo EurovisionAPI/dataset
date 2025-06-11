@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "AL",
-  "broadcaster": null,
   "artist": "Anna Gjebrea",
-  "artistPeople": [
-    "Anna Gjebrea"
-  ],
   "song": "Stand By You",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/YASU8NPu7dw",
@@ -13,18 +9,23 @@
   ],
   "bpm": 194,
   "tone": "C# major",
+  "artistPeople": [
+    "Anna Gjebrea"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Adam Watts",
     "Endi Çuçi",
     "Gannin Arnold",
     "Sanni M'Mairura"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

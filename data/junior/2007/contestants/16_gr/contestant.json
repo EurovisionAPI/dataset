@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "GR",
-  "broadcaster": null,
   "artist": "Made in Greece",
-  "artistPeople": [
-    "Made in Greece"
-  ],
   "song": "Kapou berdeftika",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/C3Wh1xui7T4",
@@ -13,17 +9,22 @@
   ],
   "bpm": 120,
   "tone": "C major",
+  "artistPeople": [
+    "Made in Greece"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Anna Trepekli",
     "Stefani Trepekli",
     "Susan Trepekli"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

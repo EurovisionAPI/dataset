@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "IE",
-  "broadcaster": null,
   "artist": "Muireann McDonnell",
-  "artistPeople": [
-    "Muireann McDonnell"
-  ],
   "song": "Súile Glasa",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/6p_RNvYsdD4",
@@ -13,17 +9,22 @@
   ],
   "bpm": 130,
   "tone": "E major",
+  "artistPeople": [
+    "Muireann McDonnell"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "James McGuire",
     "Muireann McDonnell",
     "Robert McGuire"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

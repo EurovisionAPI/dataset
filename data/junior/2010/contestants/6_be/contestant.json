@@ -1,12 +1,7 @@
 {
   "id": 6,
   "country": "BE",
-  "broadcaster": null,
   "artist": "Jill & Lauren",
-  "artistPeople": [
-    "Jill Van Vooren",
-    "Lauren De Ruyck"
-  ],
   "song": "Get Up!",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/fpOXfsVpSJk",
@@ -14,19 +9,25 @@
   ],
   "bpm": 100,
   "tone": "Eb minor",
+  "artistPeople": [
+    "Jill Van Vooren",
+    "Lauren De Ruyck"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Alain Vande Putte",
     "Jill Van Vooren",
     "Lauren De Ruyck",
     "Miguel Wiels",
     "Peter Gillis"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

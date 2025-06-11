@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "RU",
-  "broadcaster": null,
   "artist": "Sofia Feskova",
-  "artistPeople": [
-    "Sofia Feskova"
-  ],
   "song": "My New Day",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Pymmca_D__U",
@@ -14,17 +10,22 @@
   ],
   "bpm": 90,
   "tone": "Ab major",
+  "artistPeople": [
+    "Sofia Feskova"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Anna Petryasheva",
     "Sofia Veskova",
     "Vitaly Tomin"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

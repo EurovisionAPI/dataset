@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": "Heroes",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2023.png",
+  "broadcasters": null,
   "presenters": [
     "Olivier Minne",
     "Laury Thilleman",
     "Ophenya"
-  ],
-  "broadcasters": null
+  ]
 }

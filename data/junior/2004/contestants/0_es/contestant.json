@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "ES",
-  "broadcaster": null,
   "artist": "María Isabel",
-  "artistPeople": [
-    "María Isabel"
-  ],
   "song": "Antes muerta que sencilla",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/rY5B5BX5A1g",
@@ -14,16 +10,21 @@
   ],
   "bpm": 160,
   "tone": "C major",
+  "artistPeople": [
+    "María Isabel"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "José Muñiz",
     "María Isabel"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

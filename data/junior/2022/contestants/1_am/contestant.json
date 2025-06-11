@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "AM",
-  "broadcaster": null,
   "artist": "Nare",
-  "artistPeople": [
-    "Nare Ghazaryan"
-  ],
   "song": "Dance!",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/S6YYs4kFePY",
@@ -14,18 +10,23 @@
   ],
   "bpm": 120,
   "tone": "C# major",
+  "artistPeople": [
+    "Nare Ghazaryan"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Grigor Kyokchyan",
     "Nick Egibyan"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Grigor Kyokchyan"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "UA",
-  "broadcaster": null,
   "artist": "Sophia Ivanko",
-  "artistPeople": [
-    "Sophia Ivanko"
-  ],
   "song": "The Spirit of Music",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/JUo6pKdSRtM",
@@ -13,18 +9,23 @@
   ],
   "bpm": 100,
   "tone": "G minor",
+  "artistPeople": [
+    "Sophia Ivanko"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Mykhailo Tolmachov",
     "Sophia Ivanko"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Sophia Ivanko"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

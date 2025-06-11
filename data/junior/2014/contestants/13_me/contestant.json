@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "ME",
-  "broadcaster": null,
   "artist": "Maša Vujadinović & Lejla Vulić",
-  "artistPeople": [
-    "Maša Vujadinović & Lejla Vulić"
-  ],
   "song": "Budi dijete na jedan dan",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/O1rcZxMYMsA",
@@ -13,18 +9,23 @@
   ],
   "bpm": 120,
   "tone": "E major",
+  "artistPeople": [
+    "Maša Vujadinović & Lejla Vulić"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Slaven Knezović"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Lejla Vulić",
     "Sanja Perić"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

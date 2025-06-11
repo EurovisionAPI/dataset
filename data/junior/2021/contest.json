@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2021.png",
+  "broadcasters": null,
   "presenters": [
     "Carla Lazzari",
     "Élodie Gossuin",
     "Olivier Minne"
-  ],
-  "broadcasters": null
+  ]
 }

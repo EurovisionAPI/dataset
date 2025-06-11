@@ -1,26 +1,27 @@
 {
   "id": 10,
   "country": "MT",
-  "broadcaster": null,
   "artist": "Sophie Debattista",
-  "artistPeople": [
-    "Sophie Debattista"
-  ],
   "song": "Extra Cute",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Hw5Addp7h1s"
   ],
   "bpm": 70,
   "tone": "Ab minor",
+  "artistPeople": [
+    "Sophie Debattista"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Sophie Debattista"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,15 +1,7 @@
 {
   "id": 11,
   "country": "MT",
-  "broadcaster": null,
   "artist": "Cute",
-  "artistPeople": [
-    "Salaia Gerada",
-    "Trisha Smith",
-    "Celaine Borg",
-    "Marzia Farrugia",
-    "Paulanne Farrugia"
-  ],
   "song": "Music",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/QSzXXooqRII",
@@ -18,19 +10,28 @@
   ],
   "bpm": 85,
   "tone": "D major",
+  "artistPeople": [
+    "Salaia Gerada",
+    "Trisha Smith",
+    "Celaine Borg",
+    "Marzia Farrugia",
+    "Paulanne Farrugia"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Celaine Borg",
     "Marzia Farrugia",
     "Paulanne Farrugia",
     "Salaia Gerada",
     "Trisha Smith"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

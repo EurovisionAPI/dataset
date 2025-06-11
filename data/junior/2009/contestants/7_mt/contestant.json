@@ -1,12 +1,7 @@
 {
   "id": 7,
   "country": "MT",
-  "broadcaster": null,
   "artist": "Francesca & Mikaela",
-  "artistPeople": [
-    "Mikaela Bajada",
-    "Francesca Sciberras"
-  ],
   "song": "Double Trouble",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/vRLoykyb6GQ",
@@ -14,16 +9,22 @@
   ],
   "bpm": 60,
   "tone": "C major",
+  "artistPeople": [
+    "Mikaela Bajada",
+    "Francesca Sciberras"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Francesca Sciberras",
     "Mikaela Bajada"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

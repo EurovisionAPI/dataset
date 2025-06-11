@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "EE",
-  "broadcaster": null,
   "artist": "Arhanna",
-  "artistPeople": [
-    "Arhanna Sandra Arbma"
-  ],
   "song": "Hoiame kokku",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/toqZ58Rm1x4",
@@ -14,19 +10,24 @@
   ],
   "bpm": 160,
   "tone": "E minor",
+  "artistPeople": [
+    "Arhanna Sandra Arbma"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Arhanna Sandra Arbma",
     "Karl-Ander Reismann"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Leelo Tungal",
     "Rael Laikre"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

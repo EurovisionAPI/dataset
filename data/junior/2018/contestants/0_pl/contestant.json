@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "PL",
-  "broadcaster": null,
   "artist": "Roksana Węgiel",
-  "artistPeople": [
-    "Roksana Węgiel"
-  ],
   "song": "Anyone I Want to Be",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/PT-EzzJxySI",
@@ -16,8 +12,12 @@
   ],
   "bpm": 140,
   "tone": "F# major",
+  "artistPeople": [
+    "Roksana Węgiel"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Cutfather",
     "Daniel Davidsen",
@@ -26,12 +26,13 @@
     "Peter Wallevik"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Małgorzata Uściłowska",
     "Patryk Kumór"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

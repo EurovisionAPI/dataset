@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "AM",
-  "broadcaster": null,
   "artist": "Monica Avanesyan",
-  "artistPeople": [
-    "Monica Avanesyan"
-  ],
   "song": "Choco Factory",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/YYxb7Dr5KgY",
@@ -13,16 +9,21 @@
   ],
   "bpm": 112,
   "tone": "F minor",
+  "artistPeople": [
+    "Monica Avanesyan"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Emma Asatryan",
     "Monika Avanesyan"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,12 +1,7 @@
 {
   "id": 10,
   "country": "NL",
-  "broadcaster": null,
   "artist": "Lisa, Amy & Shelley",
-  "artistPeople": [
-    "Lisa",
-    "Amy & Shelley"
-  ],
   "song": "Adem in, adem uit",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/s-EhwKHqxBA",
@@ -15,13 +10,19 @@
   ],
   "bpm": 148,
   "tone": "F major",
+  "artistPeople": [
+    "Lisa",
+    "Amy & Shelley"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

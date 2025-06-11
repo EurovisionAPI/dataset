@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "MK",
-  "broadcaster": null,
   "artist": "Barbara Popović",
-  "artistPeople": [
-    "Barbara Popović"
-  ],
   "song": "Ohrid i muzika",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/4d1wiUBsILg",
@@ -13,15 +9,20 @@
   ],
   "bpm": 141,
   "tone": "G minor",
+  "artistPeople": [
+    "Barbara Popović"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Barbara Popović"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

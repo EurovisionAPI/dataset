@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "IE",
-  "broadcaster": null,
   "artist": "Zena Donnelly",
-  "artistPeople": [
-    "Zena Donnelly"
-  ],
   "song": "Bríce ar Bhríce",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/QQv08myY68c",
@@ -13,15 +9,20 @@
   ],
   "bpm": 103,
   "tone": "F major",
+  "artistPeople": [
+    "Zena Donnelly"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Zena Donnelly"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

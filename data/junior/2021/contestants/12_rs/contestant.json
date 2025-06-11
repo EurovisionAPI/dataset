@@ -1,12 +1,7 @@
 {
   "id": 12,
   "country": "RS",
-  "broadcaster": null,
   "artist": "Jovana & Dunja",
-  "artistPeople": [
-    "Jovana Radonjić",
-    "Dunja Živković"
-  ],
   "song": "Oči Deteta",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/UyQS66swDJU",
@@ -14,15 +9,21 @@
   ],
   "bpm": 168,
   "tone": "B major",
+  "artistPeople": [
+    "Jovana Radonjić",
+    "Dunja Živković"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Ana Frlin"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

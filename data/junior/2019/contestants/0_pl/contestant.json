@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "PL",
-  "broadcaster": null,
   "artist": "Viki Gabor",
-  "artistPeople": [
-    "Wiktoria Gabor"
-  ],
   "song": "Superhero",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/TvmqnNxnuJM",
@@ -16,17 +12,22 @@
   ],
   "bpm": 110,
   "tone": "Ab minor",
+  "artistPeople": [
+    "Wiktoria Gabor"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Dominic Buczkowski-Wojtaszek",
     "Małgorzata Uściłowska",
     "Patryk Kumór"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

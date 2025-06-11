@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "NL",
-  "broadcaster": null,
   "artist": "Kisses",
-  "artistPeople": [
-    "Kisses"
-  ],
   "song": "Kisses and Dancin'",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/BTu0RbX2YOc",
@@ -13,20 +9,25 @@
   ],
   "bpm": 120,
   "tone": "F# major",
+  "artistPeople": [
+    "Kisses"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Hansen Tomas",
     "Joost Griffioen",
     "Stas Swaczyna"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Hansen Tomas",
     "Joost Griffioen"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

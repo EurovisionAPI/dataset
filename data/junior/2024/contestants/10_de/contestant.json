@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "DE",
-  "broadcaster": null,
   "artist": "Bjarne",
-  "artistPeople": [
-    "Bjarne"
-  ],
   "song": "Save the Best for Us",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/F4UKzdVarzo",
@@ -15,17 +11,22 @@
   ],
   "bpm": 168,
   "tone": "Bb major",
+  "artistPeople": [
+    "Bjarne"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Ignacio Uriarte",
     "Kai Oliver Krug",
     "Thomas Meilstrup"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "RU",
-  "broadcaster": null,
   "artist": "Anna Filipchuk",
-  "artistPeople": [
-    "Anna Filipchuk"
-  ],
   "song": "Unbreakable",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/GndNjKP34Fg",
@@ -13,15 +9,20 @@
   ],
   "bpm": 88,
   "tone": "F major",
+  "artistPeople": [
+    "Anna Filipchuk"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Taras Demchuk"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "NO",
-  "broadcaster": null,
   "artist": "Malin",
-  "artistPeople": [
-    "Malin Reitan"
-  ],
   "song": "Sommer og skolefri",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/F31exPFdNzc",
@@ -14,15 +10,20 @@
   ],
   "bpm": 83,
   "tone": "C major",
+  "artistPeople": [
+    "Malin Reitan"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Malin Reitan"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

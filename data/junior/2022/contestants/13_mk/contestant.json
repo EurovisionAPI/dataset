@@ -1,13 +1,7 @@
 {
   "id": 13,
   "country": "MK",
-  "broadcaster": null,
   "artist": "Lara feat. Jovan & Irina",
-  "artistPeople": [
-    "Lara Trpcheska",
-    "Jovan Trpcheski",
-    "Irina Davidovska"
-  ],
   "song": "Životot e pred mene",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/pKlMtlR9c88",
@@ -15,19 +9,26 @@
   ],
   "bpm": 100,
   "tone": "Ab major",
+  "artistPeople": [
+    "Lara Trpcheska",
+    "Jovan Trpcheski",
+    "Irina Davidovska"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Darko Dimitrov",
     "Simon Trpcheski"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Jovan Trpcheski",
     "Lara Trpcheska"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "AM",
-  "broadcaster": null,
   "artist": "Arevik",
-  "artistPeople": [
-    "Arevik"
-  ],
   "song": "Erazanq",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/KIjPAT6gM1w",
@@ -14,16 +10,21 @@
   ],
   "bpm": 111,
   "tone": "C minor",
+  "artistPeople": [
+    "Arevik"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Mariana Javakhyan",
     "Sargis Mzikyan"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

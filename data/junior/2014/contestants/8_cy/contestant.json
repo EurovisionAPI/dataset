@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "CY",
-  "broadcaster": null,
   "artist": "Sophia Patsalides",
-  "artistPeople": [
-    "Sophia Patsalides"
-  ],
   "song": "I pio omorfi mera",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/mFj_vqZmLO0",
@@ -13,19 +9,24 @@
   ],
   "bpm": 128,
   "tone": "C# minor",
+  "artistPeople": [
+    "Sophia Patsalides"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Alex Panayi"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Alex Panayi",
     "Sophia Patsalides",
     "Stavros Stavrou"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

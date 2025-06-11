@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "RU",
-  "broadcaster": null,
   "artist": "Polina Bogusevich",
-  "artistPeople": [
-    "Polina Bogusevich"
-  ],
   "song": "Wings",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/bMj52qjlLIU",
@@ -14,15 +10,20 @@
   ],
   "bpm": 164,
   "tone": "A minor",
+  "artistPeople": [
+    "Polina Bogusevich"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Taras Demchuk"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

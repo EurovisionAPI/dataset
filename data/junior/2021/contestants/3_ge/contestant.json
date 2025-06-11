@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "GE",
-  "broadcaster": null,
   "artist": "Niko Kajaia",
-  "artistPeople": [
-    "Niko Kajaia"
-  ],
   "song": "Let's Count The Smiles",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/4wrbn4nS9lw",
@@ -13,15 +9,20 @@
   ],
   "bpm": 111,
   "tone": "D major",
+  "artistPeople": [
+    "Niko Kajaia"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Giorgi Kukhianidze"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

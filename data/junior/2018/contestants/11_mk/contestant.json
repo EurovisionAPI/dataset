@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "MK",
-  "broadcaster": null,
   "artist": "Marija Spasovska",
-  "artistPeople": [
-    "Marija Spasovska"
-  ],
   "song": "Doma",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/0LI1VXv9BIk",
@@ -13,18 +9,23 @@
   ],
   "bpm": 149,
   "tone": "F minor",
+  "artistPeople": [
+    "Marija Spasovska"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Darko Dimitrov"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Darko Dimitrov",
     "Elena Risteska"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

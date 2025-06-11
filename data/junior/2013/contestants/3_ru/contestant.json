@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "RU",
-  "broadcaster": null,
   "artist": "Dayana Kirillova",
-  "artistPeople": [
-    "Dayana Kirillova"
-  ],
   "song": "Dream On",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/LCJttGChahQ",
@@ -13,15 +9,20 @@
   ],
   "bpm": 112,
   "tone": "A minor",
+  "artistPeople": [
+    "Dayana Kirillova"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Dayana Kirillova"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

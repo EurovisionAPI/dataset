@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "IT",
-  "broadcaster": null,
   "artist": "Elisabetta Lizza",
-  "artistPeople": [
-    "Elisabetta Lizza"
-  ],
   "song": "Specchio",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/7SEhGhSlKzs",
@@ -13,20 +9,25 @@
   ],
   "bpm": 200,
   "tone": "Ab minor",
+  "artistPeople": [
+    "Elisabetta Lizza"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Franco Fasano",
     "Marco Iardella",
     "Stefano Rigamonti"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Fabrizio Palaferri",
     "Stefano Rigamonti"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

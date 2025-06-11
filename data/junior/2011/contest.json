@@ -6,9 +6,9 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2011.png",
+  "broadcasters": null,
   "presenters": [
     "Gohar Gasparyan",
     "Avet Barseghyan"
-  ],
-  "broadcasters": null
+  ]
 }

@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "SM",
-  "broadcaster": null,
   "artist": "Kamilla Ismailova",
-  "artistPeople": [
-    "Kamilla Ismailova"
-  ],
   "song": "Mirror",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/_SYekWoAtqQ",
@@ -13,21 +9,26 @@
   ],
   "bpm": 136,
   "tone": "G major",
+  "artistPeople": [
+    "Kamilla Ismailova"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Andrelli",
     "Josefin Glenmark"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Andrelli",
     "Josefin Glenmark",
     "Kamilla Ismailova",
     "Piero Romitelli"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "IT",
-  "broadcaster": null,
   "artist": "Vincenzo Cantiello",
-  "artistPeople": [
-    "Vincenzo Cantiello"
-  ],
   "song": "Tu primo grande amore",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/aWKveH5_DY8",
@@ -14,21 +10,26 @@
   ],
   "bpm": 171,
   "tone": "E minor",
+  "artistPeople": [
+    "Vincenzo Cantiello"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Alterisio Paoletti",
     "Fabrizio Berlincioni",
     "Leonardo de Amicis"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Fabrizio Berlincioni",
     "Francesca Giuliano",
     "Vincenzo Cantiello"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "ES",
-  "broadcaster": null,
   "artist": "Melani García",
-  "artistPeople": [
-    "Melani García"
-  ],
   "song": "Marte",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Qo_Tod1GxyU",
@@ -14,16 +10,21 @@
   ],
   "bpm": 75,
   "tone": "Ab major",
+  "artistPeople": [
+    "Melani García"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Manu Chalud",
     "Pablo Mora"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

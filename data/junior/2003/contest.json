@@ -6,9 +6,9 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2003.png",
+  "broadcasters": null,
   "presenters": [
     "Camilla Ottesen",
     "Remee"
-  ],
-  "broadcasters": null
+  ]
 }

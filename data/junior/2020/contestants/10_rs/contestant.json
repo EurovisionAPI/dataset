@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "RS",
-  "broadcaster": null,
   "artist": "Petar Aničić",
-  "artistPeople": [
-    "Petar Aničić"
-  ],
   "song": "Heartbeat",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Io19mo9uRV0",
@@ -16,20 +12,25 @@
   ],
   "bpm": 116,
   "tone": "F major",
+  "artistPeople": [
+    "Petar Aničić"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Petar Aničić",
     "Vladimir Graić"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Charlie Mason",
     "Leontina Pat",
     "Petar Aničić"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

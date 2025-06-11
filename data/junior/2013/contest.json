@@ -6,9 +6,9 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2013.png",
+  "broadcasters": null,
   "presenters": [
     "Timur Miroshnychenko",
     "Zlata Ognevich"
-  ],
-  "broadcasters": null
+  ]
 }

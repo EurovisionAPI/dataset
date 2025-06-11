@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "AU",
-  "broadcaster": null,
   "artist": "Alexa Curtis",
-  "artistPeople": [
-    "Alexa Curtis"
-  ],
   "song": "We Are",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/6ZnxAW3MZ_c",
@@ -13,17 +9,22 @@
   ],
   "bpm": 58,
   "tone": "Eb minor",
+  "artistPeople": [
+    "Alexa Curtis"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Ali Tamposi",
     "Boi-1da",
     "Tania Doko"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

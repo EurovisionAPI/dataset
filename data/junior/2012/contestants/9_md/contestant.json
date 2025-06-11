@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "MD",
-  "broadcaster": null,
   "artist": "Denis Midone",
-  "artistPeople": [
-    "Denis Midone"
-  ],
   "song": "Toate vor fi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/pi2FTTJHUqc",
@@ -14,17 +10,22 @@
   ],
   "bpm": 141,
   "tone": "E minor",
+  "artistPeople": [
+    "Denis Midone"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Marian Stircea"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Radmila Paraschiv"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

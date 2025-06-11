@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "CY",
-  "broadcaster": null,
   "artist": "Theodora Rafti",
-  "artistPeople": [
-    "Theodora Rafti"
-  ],
   "song": "Mia efhi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/r5YdvamDuVg",
@@ -13,15 +9,20 @@
   ],
   "bpm": 100,
   "tone": "C# minor",
+  "artistPeople": [
+    "Theodora Rafti"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Theodora Rafti"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

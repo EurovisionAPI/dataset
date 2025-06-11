@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "CH",
-  "broadcaster": null,
   "artist": "Demis Mirarchi",
-  "artistPeople": [
-    "Demis Mirarchi"
-  ],
   "song": "Birichino",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/MzL8bZagCuo",
@@ -13,15 +9,20 @@
   ],
   "bpm": 120,
   "tone": "Ab major",
+  "artistPeople": [
+    "Demis Mirarchi"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Demis Mirarchi"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "SE",
-  "broadcaster": null,
   "artist": "Josefine Ridell",
-  "artistPeople": [
-    "Josefine Ridell"
-  ],
   "song": "Allt jag vill ha",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/DFGl4ls1hlE",
@@ -13,19 +9,24 @@
   ],
   "bpm": 126,
   "tone": "B major",
+  "artistPeople": [
+    "Josefine Ridell"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Arash Labaf",
     "Johan Bejerholm",
     "Josefine Ridell",
     "Robert Uhlmann",
     "Thomas G:son"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

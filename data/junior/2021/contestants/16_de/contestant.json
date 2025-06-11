@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "DE",
-  "broadcaster": null,
   "artist": "Pauline",
-  "artistPeople": [
-    "Pauline Steinmüller"
-  ],
   "song": "Imagine Us",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/i5aWA0hB_Dc",
@@ -14,18 +10,23 @@
   ],
   "bpm": 90,
   "tone": "F major",
+  "artistPeople": [
+    "Pauline Steinmüller"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Alex Henke",
     "Patrick Salmy",
     "Ricardo Muñoz",
     "Torben Brüggemann"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

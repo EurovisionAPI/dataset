@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "PT",
-  "broadcaster": null,
   "artist": "Joana Almeida",
-  "artistPeople": [
-    "Joana Almeida"
-  ],
   "song": "Vem Comigo (Come With Me)",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-SBE_03FxgY",
@@ -13,15 +9,20 @@
   ],
   "bpm": 120,
   "tone": "C major",
+  "artistPeople": [
+    "Joana Almeida"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "João Pedro Coimbra"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

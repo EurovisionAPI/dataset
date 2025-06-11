@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "ES",
-  "broadcaster": null,
   "artist": "Chloe DelaRosa",
-  "artistPeople": [
-    "Chloe de la Rosa"
-  ],
   "song": "Como la Lola",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/76YXbamX5po",
@@ -16,18 +12,23 @@
   ],
   "bpm": 90,
   "tone": "G major",
+  "artistPeople": [
+    "Chloe de la Rosa"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Alejandro Martínez Valderrama",
     "Chloe de la Rosa",
     "David Parejo Martín",
     "Luis Vicente Ramiro"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

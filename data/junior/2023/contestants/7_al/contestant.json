@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "AL",
-  "broadcaster": null,
   "artist": "Viola Gjyzeli",
-  "artistPeople": [
-    "Viola Gjyzeli"
-  ],
   "song": "Bota Ime",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/tOA52V_X-O0",
@@ -15,17 +11,22 @@
   ],
   "bpm": 173,
   "tone": "G major",
+  "artistPeople": [
+    "Viola Gjyzeli"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Enis Mullaj"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Eriona Rushiti"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

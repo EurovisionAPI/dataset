@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "MK",
-  "broadcaster": null,
   "artist": "Tamara Grujeska",
-  "artistPeople": [
-    "Tamara Grujeska"
-  ],
   "song": "Kaži mi, kaži mi koj",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/LOZmWRpqYks",
@@ -14,18 +10,23 @@
   ],
   "bpm": 156,
   "tone": "G minor",
+  "artistPeople": [
+    "Tamara Grujeska"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Robert Bilbilov"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Kosta Petrov",
     "Robert Bilbilov"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

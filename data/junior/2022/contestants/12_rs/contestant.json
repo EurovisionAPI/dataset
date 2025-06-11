@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "RS",
-  "broadcaster": null,
   "artist": "Katarina Savić",
-  "artistPeople": [
-    "Katarina Savić"
-  ],
   "song": "Svet bez granica",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/TfJ3K9t1Krk",
@@ -14,15 +10,20 @@
   ],
   "bpm": 133,
   "tone": "D minor",
+  "artistPeople": [
+    "Katarina Savić"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Ivana Dragićević"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "NL",
-  "broadcaster": null,
   "artist": "Julia van Bergen",
-  "artistPeople": [
-    "Julia van Bergen"
-  ],
   "song": "Around",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3wzsVhf3yN0",
@@ -14,17 +10,22 @@
   ],
   "bpm": 125,
   "tone": "Ab major",
+  "artistPeople": [
+    "Julia van Bergen"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "J. Griffioen",
     "Julia van Bergen",
     "R. Dorn"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

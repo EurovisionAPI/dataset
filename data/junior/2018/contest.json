@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2018.png",
+  "broadcasters": null,
   "presenters": [
     "Eugene Perlin",
     "Helena Meraai",
     "Zena"
-  ],
-  "broadcasters": null
+  ]
 }

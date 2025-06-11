@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "HR",
-  "broadcaster": null,
   "artist": "Lorena Jelusić",
-  "artistPeople": [
-    "Lorena Jelusić"
-  ],
   "song": "Rock Baby",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5lbDeCMv9yg",
@@ -13,15 +9,20 @@
   ],
   "bpm": 158,
   "tone": "A major",
+  "artistPeople": [
+    "Lorena Jelusić"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Lorena Jelusić"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

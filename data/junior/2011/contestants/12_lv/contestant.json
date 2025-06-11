@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "LV",
-  "broadcaster": null,
   "artist": "Amanda Bašmakova",
-  "artistPeople": [
-    "Amanda Bašmakova"
-  ],
   "song": "Moondog",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Mcop8euWDQs",
@@ -13,17 +9,22 @@
   ],
   "bpm": 73,
   "tone": "C major",
+  "artistPeople": [
+    "Amanda Bašmakova"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Amanda Bašmakova",
     "Guntars Račs",
     "Jānis Lūsēns"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

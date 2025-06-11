@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "MK",
-  "broadcaster": null,
   "artist": "Mina Blažev",
-  "artistPeople": [
-    "Mina Blažev"
-  ],
   "song": "Dancing Through Life",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/rDUASNf0l4c",
@@ -13,15 +9,20 @@
   ],
   "bpm": 147,
   "tone": "B minor",
+  "artistPeople": [
+    "Mina Blažev"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Aleksandar Masevski"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

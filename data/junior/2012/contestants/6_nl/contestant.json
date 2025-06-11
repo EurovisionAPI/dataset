@@ -1,31 +1,32 @@
 {
   "id": 6,
   "country": "NL",
-  "broadcaster": null,
   "artist": "Femke",
-  "artistPeople": [
-    "Femke Meijnes"
-  ],
   "song": "Tik Tak Tik",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/gXim_-NACPo"
   ],
   "bpm": 126,
   "tone": "F# minor",
+  "artistPeople": [
+    "Femke Meijnes"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Anne Kees Meines",
     "Femke Meines",
     "Tjeerd Oosterhuis"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Anne Kees Meines",
     "Femke Meines"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

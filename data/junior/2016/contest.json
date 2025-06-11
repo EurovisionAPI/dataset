@@ -6,9 +6,9 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2016.png",
+  "broadcasters": null,
   "presenters": [
     "Ben Camille",
     "Valerie Vella"
-  ],
-  "broadcasters": null
+  ]
 }

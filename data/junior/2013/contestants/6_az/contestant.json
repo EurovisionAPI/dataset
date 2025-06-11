@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "AZ",
-  "broadcaster": null,
   "artist": "Rustam Karimov",
-  "artistPeople": [
-    "Rustam Karimov"
-  ],
   "song": "Me and My Guitar",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/NyUAaV7JBtc",
@@ -13,16 +9,21 @@
   ],
   "bpm": 89,
   "tone": "D major",
+  "artistPeople": [
+    "Rustam Karimov"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Dmitry Saratsky",
     "Murad Arif"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

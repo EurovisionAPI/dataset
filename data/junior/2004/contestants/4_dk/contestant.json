@@ -1,13 +1,7 @@
 {
   "id": 4,
   "country": "DK",
-  "broadcaster": null,
   "artist": "Cool Kids",
-  "artistPeople": [
-    "Ibrahim Chouqeir",
-    "Niki Popovic",
-    "Caroline Forsberg Thybo"
-  ],
   "song": "Pigen er min",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/U5D0mkmql-w",
@@ -15,17 +9,24 @@
   ],
   "bpm": 100,
   "tone": "F minor",
+  "artistPeople": [
+    "Ibrahim Chouqeir",
+    "Niki Popovic",
+    "Caroline Forsberg Thybo"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Caroline Forsberg Thybo",
     "Ibrahim Chouqeir",
     "Niki Popovic"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

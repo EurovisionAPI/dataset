@@ -6,9 +6,9 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2007.png",
+  "broadcasters": null,
   "presenters": [
     "Sipke Jan Bousema",
     "Kim-Lian van der Meij"
-  ],
-  "broadcasters": null
+  ]
 }

@@ -6,8 +6,8 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2014.png",
+  "broadcasters": null,
   "presenters": [
     "Moira Delia"
-  ],
-  "broadcasters": null
+  ]
 }

@@ -1,15 +1,7 @@
 {
   "id": 14,
   "country": "SM",
-  "broadcaster": null,
   "artist": "The Peppermints",
-  "artistPeople": [
-    "Raffaella Perniola",
-    "Greta Doveri",
-    "Anita Simoncini",
-    "Arianna Ulivi",
-    "Sara Dall'Olio"
-  ],
   "song": "Breaking My Heart",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/k4-t5_FhRzo",
@@ -17,21 +9,30 @@
   ],
   "bpm": 115,
   "tone": "C# major",
+  "artistPeople": [
+    "Raffaella Perniola",
+    "Greta Doveri",
+    "Anita Simoncini",
+    "Arianna Ulivi",
+    "Sara Dall'Olio"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Chris Lapolla",
     "Luca Medri"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Antonello Carozza",
     "Chris Lapolla",
     "Luca Medri",
     "The Peppermints"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

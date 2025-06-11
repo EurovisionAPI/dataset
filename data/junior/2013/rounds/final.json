@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "2013-11-30",
   "time": null,
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 130,
           "votes": null
         }
       ]
@@ -22,6 +22,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 121,
           "votes": null
         }
       ]
@@ -33,6 +34,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 108,
           "votes": null
         }
       ]
@@ -44,6 +46,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 106,
           "votes": null
         }
       ]
@@ -55,6 +58,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 91,
           "votes": null
         }
       ]
@@ -66,6 +70,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 69,
           "votes": null
         }
       ]
@@ -77,6 +82,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 66,
           "votes": null
         }
       ]
@@ -88,6 +94,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 59,
           "votes": null
         }
       ]
@@ -99,6 +106,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 46,
           "votes": null
         }
       ]
@@ -110,6 +118,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 42,
           "votes": null
         }
       ]
@@ -121,6 +130,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 41,
           "votes": null
         }
       ]
@@ -132,6 +142,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 19,
           "votes": null
         }
       ]

@@ -1,12 +1,7 @@
 {
   "id": 8,
   "country": "RO",
-  "broadcaster": null,
   "artist": "Mădălina & Andrada",
-  "artistPeople": [
-    "Mădălina Lefter",
-    "Andrada Popa"
-  ],
   "song": "Salvaţi Planeta",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/_5qk-tWefcE",
@@ -14,13 +9,19 @@
   ],
   "bpm": 80,
   "tone": "D major",
+  "artistPeople": [
+    "Mădălina Lefter",
+    "Andrada Popa"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

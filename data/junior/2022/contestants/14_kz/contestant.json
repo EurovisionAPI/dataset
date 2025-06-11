@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "KZ",
-  "broadcaster": null,
   "artist": "David Charlin",
-  "artistPeople": [
-    "David Charlin"
-  ],
   "song": "Jer",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/sgx61ms2jP4",
@@ -14,18 +10,23 @@
   ],
   "bpm": 152,
   "tone": "F major",
+  "artistPeople": [
+    "David Charlin"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Khamit Shangaliyev"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Jordan Arakelyan",
     "Serzhan Bakhitzhan"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

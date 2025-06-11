@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "AL",
-  "broadcaster": null,
   "artist": "Mishela Rapo",
-  "artistPeople": [
-    "Mishela Rapo"
-  ],
   "song": "Dambaje",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/tnwLLBsjqO0",
@@ -13,17 +9,22 @@
   ],
   "bpm": null,
   "tone": null,
+  "artistPeople": [
+    "Mishela Rapo"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Adrian Hila"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Pandi Laco"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

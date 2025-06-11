@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "NL",
-  "broadcaster": null,
   "artist": "Ayana",
-  "artistPeople": [
-    "Ayana Voss"
-  ],
   "song": "Mata Sugu Aō Ne",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/H0oB5SQfDoc",
@@ -14,15 +10,20 @@
   ],
   "bpm": 126,
   "tone": "C major",
+  "artistPeople": [
+    "Ayana Voss"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Ferry Lagendijk"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

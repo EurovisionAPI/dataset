@@ -1,26 +1,27 @@
 {
   "id": 0,
   "country": "BY",
-  "broadcaster": null,
   "artist": "Ksenia Sitnik",
-  "artistPeople": [
-    "Ksenia Sitnik"
-  ],
   "song": "My vmeste",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Z9Mg16nupxo"
   ],
   "bpm": 100,
   "tone": "C minor",
+  "artistPeople": [
+    "Ksenia Sitnik"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Ksenia Sitnik"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

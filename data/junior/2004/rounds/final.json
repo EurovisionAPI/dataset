@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "2004-11-20",
   "time": null,
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 171,
           "votes": null
         }
       ]
@@ -22,6 +22,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 140,
           "votes": null
         }
       ]
@@ -33,6 +34,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 126,
           "votes": null
         }
       ]
@@ -44,6 +46,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 123,
           "votes": null
         }
       ]
@@ -55,6 +58,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 116,
           "votes": null
         }
       ]
@@ -66,6 +70,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 78,
           "votes": null
         }
       ]
@@ -77,6 +82,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 64,
           "votes": null
         }
       ]
@@ -88,6 +94,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 61,
           "votes": null
         }
       ]
@@ -99,6 +106,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 48,
           "votes": null
         }
       ]
@@ -110,6 +118,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 37,
           "votes": null
         }
       ]
@@ -121,6 +130,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 27,
           "votes": null
         }
       ]
@@ -132,6 +142,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 14,
           "votes": null
         }
       ]
@@ -143,6 +154,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 12,
           "votes": null
         }
       ]
@@ -154,6 +166,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 9,
           "votes": null
         }
       ]
@@ -165,6 +178,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 8,
           "votes": null
         }
       ]
@@ -176,6 +190,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 4,
           "votes": null
         }
       ]
@@ -187,6 +202,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 3,
           "votes": null
         }
       ]
@@ -198,6 +214,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 3,
           "votes": null
         }
       ]

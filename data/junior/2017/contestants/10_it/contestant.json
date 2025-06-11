@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "IT",
-  "broadcaster": null,
   "artist": "Maria Iside Fiore",
-  "artistPeople": [
-    "Maria Iside Fiore"
-  ],
   "song": "Scelgo (My Choice)",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/hr2Qd2NMtT0",
@@ -13,20 +9,25 @@
   ],
   "bpm": 124,
   "tone": "D major",
+  "artistPeople": [
+    "Maria Iside Fiore"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Marco lardella",
     "Stefano Rigamonti"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Fabrizio Palaferri",
     "Maria Iside Fiore",
     "Stefano Rigamonti"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

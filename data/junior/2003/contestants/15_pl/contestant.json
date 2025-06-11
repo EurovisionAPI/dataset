@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "PL",
-  "broadcaster": null,
   "artist": "Katarzyna Żurawik",
-  "artistPeople": [
-    "Katarzyna Żurawik"
-  ],
   "song": "Coś mnie nosi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/RzplD0_kbIE",
@@ -13,15 +9,20 @@
   ],
   "bpm": 93,
   "tone": "C major",
+  "artistPeople": [
+    "Katarzyna Żurawik"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Katarzyna Żurawik"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

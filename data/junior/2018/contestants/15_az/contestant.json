@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "AZ",
-  "broadcaster": null,
   "artist": "Fidan Huseynova",
-  "artistPeople": [
-    "Fidan Huseynova"
-  ],
   "song": "I Wanna Be Like You",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/DoN7MKxkpYo",
@@ -13,19 +9,24 @@
   ],
   "bpm": 160,
   "tone": "D major",
+  "artistPeople": [
+    "Fidan Huseynova"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Fidan Huseynova",
     "Isa Melikov"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Ayten Ismikhanova",
     "Elvira Michieva"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

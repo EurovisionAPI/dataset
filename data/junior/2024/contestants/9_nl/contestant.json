@@ -1,14 +1,7 @@
 {
   "id": 9,
   "country": "NL",
-  "broadcaster": null,
   "artist": "Stay Tuned",
-  "artistPeople": [
-    "Niek Mensing",
-    "Inkar",
-    "Miucha Buursen",
-    "Chiara Honkoop"
-  ],
   "song": "Music",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ut_x4g8mhk8",
@@ -19,16 +12,24 @@
   ],
   "bpm": 123,
   "tone": "C# minor",
+  "artistPeople": [
+    "Niek Mensing",
+    "Inkar",
+    "Miucha Buursen",
+    "Chiara Honkoop"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Jermain van der Bogt",
     "Willem Laseroms"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

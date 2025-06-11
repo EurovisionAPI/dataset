@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "NL",
-  "broadcaster": null,
   "artist": "Matheu",
-  "artistPeople": [
-    "Matheu Hinzen"
-  ],
   "song": "Dans Met Jou",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/G8-LOGjDlsc",
@@ -14,18 +10,23 @@
   ],
   "bpm": 118,
   "tone": "D major",
+  "artistPeople": [
+    "Matheu Hinzen"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jermain van der Bogt",
     "Willem Laseroms"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Dieter Kranenburg"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

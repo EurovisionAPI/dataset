@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "2008-11-22",
   "time": null,
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 154,
           "votes": null
         }
       ]
@@ -22,6 +22,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 135,
           "votes": null
         }
       ]
@@ -33,6 +34,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 103,
           "votes": null
         }
       ]
@@ -44,6 +46,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 100,
           "votes": null
         }
       ]
@@ -55,6 +58,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 93,
           "votes": null
         }
       ]
@@ -66,6 +70,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 86,
           "votes": null
         }
       ]
@@ -77,6 +82,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 73,
           "votes": null
         }
       ]
@@ -88,6 +94,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 59,
           "votes": null
         }
       ]
@@ -99,6 +106,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 58,
           "votes": null
         }
       ]
@@ -110,6 +118,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 46,
           "votes": null
         }
       ]
@@ -121,6 +130,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 45,
           "votes": null
         }
       ]
@@ -132,6 +142,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 37,
           "votes": null
         }
       ]
@@ -143,6 +154,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 27,
           "votes": null
         }
       ]
@@ -154,6 +166,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 19,
           "votes": null
         }
       ]
@@ -165,6 +178,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 15,
           "votes": null
         }
       ]

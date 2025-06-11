@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "RO",
-  "broadcaster": null,
   "artist": "Alina Eremia",
-  "artistPeople": [
-    "Alina Eremia"
-  ],
   "song": "Țurai!",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/EgrgYSN5scI",
@@ -13,15 +9,20 @@
   ],
   "bpm": 204,
   "tone": "C major",
+  "artistPeople": [
+    "Alina Eremia"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Alina Eremia"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

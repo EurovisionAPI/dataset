@@ -1,12 +1,7 @@
 {
   "id": 5,
   "country": "GR",
-  "broadcaster": null,
   "artist": "Alexandros & Kalli",
-  "artistPeople": [
-    "Alexandros Chountas",
-    "Kalli Georgelli"
-  ],
   "song": "Tora einai i seira mas",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/MAD-PU5EAjI",
@@ -15,16 +10,22 @@
   ],
   "bpm": 186,
   "tone": "F# minor",
+  "artistPeople": [
+    "Alexandros Chountas",
+    "Kalli Georgelli"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Alexandros Chountas",
     "Kalli Georgelli"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

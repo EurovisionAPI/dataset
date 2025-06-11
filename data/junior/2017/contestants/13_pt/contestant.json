@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "PT",
-  "broadcaster": null,
   "artist": "Mariana Venâncio",
-  "artistPeople": [
-    "Mariana Venâncio"
-  ],
   "song": "Youtuber",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/SOF9ljOhrrs",
@@ -13,16 +9,21 @@
   ],
   "bpm": 106,
   "tone": "F minor",
+  "artistPeople": [
+    "Mariana Venâncio"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "João Cabrita",
     "Mariana Andrade"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

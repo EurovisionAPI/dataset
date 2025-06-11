@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "DK",
-  "broadcaster": null,
   "artist": "Anne Gadegaard",
-  "artistPeople": [
-    "Anne Gadegaard"
-  ],
   "song": "Arabiens drøm",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/AXu6z1LUzcc",
@@ -13,15 +9,20 @@
   ],
   "bpm": 115,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Anne Gadegaard"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Anne Gadegaard"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

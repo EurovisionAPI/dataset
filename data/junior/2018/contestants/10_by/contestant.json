@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "BY",
-  "broadcaster": null,
   "artist": "Daniel Yastremski",
-  "artistPeople": [
-    "Daniel Yastremski"
-  ],
   "song": "Time",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/4tzB5lNkh4Y",
@@ -13,17 +9,22 @@
   ],
   "bpm": 100,
   "tone": "F major",
+  "artistPeople": [
+    "Daniel Yastremski"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Kirill Good"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Roman Kolodko"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

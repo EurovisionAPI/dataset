@@ -1,14 +1,7 @@
 {
   "id": 16,
   "country": "SM",
-  "broadcaster": null,
   "artist": "Idols SM",
-  "artistPeople": [
-    "Asia Ceccoli",
-    "Giulia Rinaldi",
-    "Giorgia Descisolo",
-    "Vera Stefania Olkhovskaya"
-  ],
   "song": "Come noi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/hp0YiNWSwlA",
@@ -18,17 +11,25 @@
   ],
   "bpm": 136,
   "tone": "A minor",
+  "artistPeople": [
+    "Asia Ceccoli",
+    "Giulia Rinaldi",
+    "Giorgia Descisolo",
+    "Vera Stefania Olkhovskaya"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Francesco Sancisi",
     "Nicola Della Valle",
     "Paolo Macina"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "RU",
-  "broadcaster": null,
   "artist": "Tanya Mezhentseva",
-  "artistPeople": [
-    "Tatyana Mezhentseva"
-  ],
   "song": "Mon Ami",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/QbpqULr7b0A",
@@ -14,19 +10,24 @@
   ],
   "bpm": 100,
   "tone": "A minor",
+  "artistPeople": [
+    "Tatyana Mezhentseva"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Alexander Brashovyan"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Danu Boyan",
     "Dmitriy Korochin",
     "Tanya Mezhentseva"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

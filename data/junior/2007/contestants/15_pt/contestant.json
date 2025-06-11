@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "PT",
-  "broadcaster": null,
   "artist": "Jorge Leiria",
-  "artistPeople": [
-    "Jorge Leiria"
-  ],
   "song": "Só quero é cantar",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/M1j2nbE6MGw",
@@ -15,15 +11,20 @@
   ],
   "bpm": 136,
   "tone": "D major",
+  "artistPeople": [
+    "Jorge Leiria"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Jorge Leiria"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "NL",
-  "broadcaster": null,
   "artist": "Shalisa",
-  "artistPeople": [
-    "Shalisa van der Laan"
-  ],
   "song": "Million Lights",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/J-ytjg9BX4k",
@@ -13,17 +9,22 @@
   ],
   "bpm": 140,
   "tone": "F# major",
+  "artistPeople": [
+    "Shalisa van der Laan"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "H. Tomas",
     "J. Griffioen",
     "Shalisa van der Laan"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

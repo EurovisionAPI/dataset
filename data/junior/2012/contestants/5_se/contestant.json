@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "SE",
-  "broadcaster": null,
   "artist": "Lova Sönnerbo",
-  "artistPeople": [
-    "Lova Sönnerbo"
-  ],
   "song": "Mitt mod",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/orBiLpxytgk",
@@ -13,17 +9,22 @@
   ],
   "bpm": 125,
   "tone": "A major",
+  "artistPeople": [
+    "Lova Sönnerbo"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Janni Steffner",
     "Lova Sönnerbo",
     "Lydia Westin Malm"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

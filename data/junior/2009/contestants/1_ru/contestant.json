@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "RU",
-  "broadcaster": null,
   "artist": "Ekaterina Ryabova",
-  "artistPeople": [
-    "Ekaterina Ryabova"
-  ],
   "song": "Malenkiy prints",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/mK0WRIH5orY",
@@ -13,15 +9,20 @@
   ],
   "bpm": 114,
   "tone": "D minor",
+  "artistPeople": [
+    "Ekaterina Ryabova"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Ekaterina Ryabova"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

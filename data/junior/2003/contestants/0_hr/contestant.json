@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "HR",
-  "broadcaster": null,
   "artist": "Dino Jelusić",
-  "artistPeople": [
-    "Dino Jelusić"
-  ],
   "song": "Ti si moja prva ljubav",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/GqBSjgwwBjU",
@@ -14,15 +10,20 @@
   ],
   "bpm": 92,
   "tone": "E minor",
+  "artistPeople": [
+    "Dino Jelusić"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Dino Jelusić"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

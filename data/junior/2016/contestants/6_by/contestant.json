@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "BY",
-  "broadcaster": null,
   "artist": "Alexander Minyonok",
-  "artistPeople": [
-    "Alexander Minyonok"
-  ],
   "song": "Musyka moikh pobed",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/n2PH1B6nhE8",
@@ -13,19 +9,24 @@
   ],
   "bpm": 120,
   "tone": "B minor",
+  "artistPeople": [
+    "Alexander Minyonok"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Alexander Minyonok",
     "Kirill Ermakov"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Alexander Minyonok",
     "Roman Kolodko"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

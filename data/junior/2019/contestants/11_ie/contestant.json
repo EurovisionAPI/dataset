@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "IE",
-  "broadcaster": null,
   "artist": "Anna Kearney",
-  "artistPeople": [
-    "Anna Kearney"
-  ],
   "song": "Banshee",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/X4gLmtUTAZc",
@@ -13,22 +9,27 @@
   ],
   "bpm": 95,
   "tone": "F major",
+  "artistPeople": [
+    "Anna Kearney"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Cyprian Cassar",
     "Daniel Caruana",
     "Jonas Gladnikoff"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Anna Banks",
     "Anna Kearney",
     "Fiachna O Bhraonáin",
     "Niall Mooney"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

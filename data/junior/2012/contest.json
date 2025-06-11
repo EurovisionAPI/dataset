@@ -6,9 +6,9 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/junior/2012.png",
+  "broadcasters": null,
   "presenters": [
     "Ewout Genemans",
     "Kim-Lian van der Meij"
-  ],
-  "broadcasters": null
+  ]
 }

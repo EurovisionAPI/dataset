@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "SE",
-  "broadcaster": null,
   "artist": "Molly Sandén",
-  "artistPeople": [
-    "Molly Sandén"
-  ],
   "song": "Det finaste någon kan få",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/aN5TA6GeH_A",
@@ -13,15 +9,20 @@
   ],
   "bpm": 76,
   "tone": "Ab major",
+  "artistPeople": [
+    "Molly Sandén"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Molly Sandén"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

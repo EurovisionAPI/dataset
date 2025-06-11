@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "UA",
-  "broadcaster": null,
   "artist": "Yulia Gurska",
-  "artistPeople": [
-    "Yulia Gurska"
-  ],
   "song": "Miy litak",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/d9VrbL6SYgE",
@@ -14,18 +10,23 @@
   ],
   "bpm": null,
   "tone": null,
+  "artistPeople": [
+    "Yulia Gurska"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Andrii Marusich"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Andrii Marusich",
     "Yuliya Gurska"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

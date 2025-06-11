@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "MD",
-  "broadcaster": null,
   "artist": "Rafael Bobeica",
-  "artistPeople": [
-    "Rafael Bobeica"
-  ],
   "song": "Cum să fim",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Yx60KKZ-6vk",
@@ -13,15 +9,20 @@
   ],
   "bpm": 83,
   "tone": "A minor",
+  "artistPeople": [
+    "Rafael Bobeica"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Eugen Doibani"
-  ]
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

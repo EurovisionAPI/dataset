@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "AL",
-  "broadcaster": null,
   "artist": "Ana Kodra",
-  "artistPeople": [
-    "Ana Kodra"
-  ],
   "song": "Don't Touch My Tree",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/pkdhZ8PQExA",
@@ -13,17 +9,22 @@
   ],
   "bpm": 122,
   "tone": "F# minor",
+  "artistPeople": [
+    "Ana Kodra"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Kristi Popa"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Jorgo Papingji"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }
