@@ -1,11 +1,7 @@
 {
   "id": 22,
   "country": "HR",
-  "broadcaster": "HRT",
   "artist": "Nina Kraljić",
-  "artistPeople": [
-    "Nina Kraljić"
-  ],
   "song": "Lighthouse",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/8QUM-_EbE2o",
@@ -17,23 +13,28 @@
   ],
   "bpm": 116,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Nina Kraljić"
+  ],
   "backings": [
     "Andrej Babić",
     "Danijela Večerinović",
     "Lino Lacmanović Ćućić",
     "Martina Majerle"
   ],
-  "commentators": [
-    "Duško Ćurlić"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Nevena Rendeli",
-  "stageDirector": null,
   "writers": [
     "Andreas Grass",
     "Nikola Paryla"
-  ]
+  ],
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": null,
+  "spokesperson": "Nevena Rendeli"
 }

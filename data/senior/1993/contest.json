@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1993.png",
-  "presenters": [
-    "Fionnuala Sweeney"
-  ],
   "broadcasters": [
     "Raidió Teilifís Éireann (RTÉ)"
+  ],
+  "presenters": [
+    "Fionnuala Sweeney"
   ]
 }

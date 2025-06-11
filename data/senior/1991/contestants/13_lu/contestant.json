@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Sarah Bray",
-  "artistPeople": [
-    "Monique Wersant"
-  ],
   "song": "Un baiser volé",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/I0b3TBBDCp4",
@@ -14,25 +10,30 @@
   ],
   "bpm": 73,
   "tone": "C# major",
+  "artistPeople": [
+    "Monique Wersant"
+  ],
   "backings": [
     "Bernard Wrincq",
     "Carenne Wrincq",
     "Nathalie Lavigne",
     "Patrick Alessi"
   ],
-  "commentators": [
-    "Valérie Sarn"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Patrick Hippert"
   ],
   "conductor": "Francis Goya",
-  "dancers": null,
   "lyricists": [
     "Linda Lecomte",
     "Monique Wersant"
   ],
-  "spokesperson": "Jean-Luc Bertrand",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Valérie Sarn"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Luc Bertrand"
 }

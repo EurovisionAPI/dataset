@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "IL",
-  "broadcaster": "KAN",
   "artist": "Noa Kirel",
-  "artistPeople": [
-    "Noya Kirel"
-  ],
   "song": "Unicorn",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Z3mIcCllJXY",
@@ -16,14 +12,10 @@
   ],
   "bpm": 130,
   "tone": "F# minor",
-  "backings": null,
-  "commentators": [
-    "Akiva Novik",
-    "Asaf Liberman",
-    "Doron Medalie"
+  "artistPeople": [
+    "Noya Kirel"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Amit Gueta",
     "Eden Shama",
@@ -31,13 +23,22 @@
     "Rephael Binyamin",
     "Zohar Fizitski"
   ],
-  "lyricists": null,
-  "spokesperson": "Ilanit",
   "stageDirector": "Avichai Hacham",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Doron Medalie",
     "May Sfadia",
     "Noa Kirel",
     "Yinon Yahel"
-  ]
+  ],
+  "broadcaster": "KAN",
+  "commentators": [
+    "Akiva Novik",
+    "Asaf Liberman",
+    "Doron Medalie"
+  ],
+  "jury": null,
+  "spokesperson": "Ilanit"
 }

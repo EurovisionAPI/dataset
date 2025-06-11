@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Christina Simon",
-  "artistPeople": [
-    "Ina Wolf"
-  ],
   "song": "Heute in Jerusalem",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/X3w26dtqpZY",
@@ -14,21 +10,26 @@
   ],
   "bpm": 113,
   "tone": "F# major",
+  "artistPeople": [
+    "Ina Wolf"
+  ],
   "backings": [
     "Lou Marini"
   ],
-  "commentators": [
-    "Max Schautzer"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Peter Wolf"
   ],
   "conductor": "Richard Österreicher",
-  "dancers": null,
   "lyricists": [
     "André Heller"
   ],
-  "spokesperson": "Jenny Pippal",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Max Schautzer"
+  ],
+  "jury": null,
+  "spokesperson": "Jenny Pippal"
 }

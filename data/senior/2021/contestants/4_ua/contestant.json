@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "UA",
-  "broadcaster": "UA:PBC",
   "artist": "Go_A",
-  "artistPeople": [
-    "Kateryna Pavlenko"
-  ],
   "song": "Shum",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/lqvzDkgok_g",
@@ -18,28 +14,33 @@
   ],
   "bpm": 118,
   "tone": "E major",
+  "artistPeople": [
+    "Kateryna Pavlenko"
+  ],
   "backings": [
     "Ihor Didenchuk",
     "Ivan Hryhoriak",
     "Taras Shevchenko"
   ],
-  "commentators": [
-    "Serhiy Prytula",
-    "Timur Miroshnychenko"
+  "dancers": [
+    "Dmitriy Sharipov",
+    "Vania Yurkiv"
   ],
+  "stageDirector": "Kostiantyn Tomilchenko, Oleksandr Bratkovskyi",
   "composers": [
     "Kateryna Pavlenko",
     "Taras Shevchenko"
   ],
   "conductor": null,
-  "dancers": [
-    "Dmitriy Sharipov",
-    "Vania Yurkiv"
-  ],
   "lyricists": [
     "Kateryna Pavlenko"
   ],
-  "spokesperson": "Tayanna",
-  "stageDirector": "Kostiantyn Tomilchenko, Oleksandr Bratkovskyi",
-  "writers": null
+  "writers": null,
+  "broadcaster": "UA:PBC",
+  "commentators": [
+    "Serhiy Prytula",
+    "Timur Miroshnychenko"
+  ],
+  "jury": null,
+  "spokesperson": "Tayanna"
 }

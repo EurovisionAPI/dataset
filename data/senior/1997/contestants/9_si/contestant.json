@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "SI",
-  "broadcaster": "RTVSLO",
   "artist": "Tanja Ribič",
-  "artistPeople": [
-    "Tanja Ribič"
-  ],
   "song": "Zbudi se",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/2lq5sEkluZE",
@@ -15,21 +11,26 @@
   ],
   "bpm": 165,
   "tone": "C minor",
+  "artistPeople": [
+    "Tanja Ribič"
+  ],
   "backings": [
     "Irena Vrckovnik"
   ],
-  "commentators": [
-    "Miša Molk"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Saša Lošić"
   ],
   "conductor": "Mojmir Sepe",
-  "dancers": null,
   "lyricists": [
     "Zoran Predin"
   ],
-  "spokesperson": "Mojca Mavec",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Miša Molk"
+  ],
+  "jury": null,
+  "spokesperson": "Mojca Mavec"
 }

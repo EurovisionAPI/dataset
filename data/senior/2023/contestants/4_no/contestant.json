@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Alessandra",
-  "artistPeople": [
-    "Alessandra Watle Mele"
-  ],
   "song": "Queen of Kings",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/PUHSM_vTqTI",
@@ -18,27 +14,32 @@
   ],
   "bpm": 126,
   "tone": "E minor",
+  "artistPeople": [
+    "Alessandra Watle Mele"
+  ],
   "backings": [
     "Hege Nesset",
     "Rebekka Norvik"
   ],
-  "commentators": [
-    "Marte Stokstad"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Christiane Bergersen",
     "Ola Samuelsen",
     "Reno Andersen"
   ],
-  "lyricists": null,
-  "spokesperson": "Ben Adams",
   "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Alessandra Mele",
     "Henning Olerud",
     "Linda Dale",
     "Stanley Ferdinandez"
-  ]
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Marte Stokstad"
+  ],
+  "jury": null,
+  "spokesperson": "Ben Adams"
 }

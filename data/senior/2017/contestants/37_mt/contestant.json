@@ -1,11 +1,7 @@
 {
   "id": 37,
   "country": "MT",
-  "broadcaster": "PBS",
   "artist": "Claudia Faniello",
-  "artistPeople": [
-    "Claudia Faniello"
-  ],
   "song": "Breathlessly",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/tGctKNrfn8M",
@@ -16,23 +12,28 @@
   ],
   "bpm": 152,
   "tone": "C# major",
+  "artistPeople": [
+    "Claudia Faniello"
+  ],
   "backings": [
     "Chantal Hartmann",
     "Hanna Köpf",
     "Janina Krömer",
     "Jeannette Marchewka"
   ],
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": "Gordon Bonello",
   "composers": [
     "Philip Vella",
     "Sean Vella"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Gerard James Borg"
   ],
-  "spokesperson": "Martha Fenech",
-  "stageDirector": "Gordon Bonello",
-  "writers": null
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Martha Fenech"
 }

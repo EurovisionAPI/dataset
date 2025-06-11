@@ -1,11 +1,7 @@
 {
   "id": 30,
   "country": "CY",
-  "broadcaster": "CyBC",
   "artist": "Christina Metaxa",
-  "artistPeople": [
-    "Christina Metaxa"
-  ],
   "song": "Firefly",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/NeYGROG0mZc",
@@ -14,6 +10,9 @@
   ],
   "bpm": 102,
   "tone": "F# major",
+  "artistPeople": [
+    "Christina Metaxa"
+  ],
   "backings": [
     "Anna-Karin Eliades",
     "Chris Charalambides",
@@ -21,16 +20,18 @@
     "Riana Athanasiou",
     "Richard Hall"
   ],
+  "dancers": null,
+  "stageDirector": "Fotis Nikolaou",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Nikolas Metaxas"
+  ],
+  "broadcaster": "CyBC",
   "commentators": [
     "Melina Karageorgiou"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Sophia Paraskeva",
-  "stageDirector": "Fotis Nikolaou",
-  "writers": [
-    "Nikolas Metaxas"
-  ]
+  "jury": null,
+  "spokesperson": "Sophia Paraskeva"
 }

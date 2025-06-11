@@ -1,11 +1,7 @@
 {
   "id": 32,
   "country": "PL",
-  "broadcaster": "TVP",
   "artist": "Gromee feat. Lukas Meijer",
-  "artistPeople": [
-    "Lukas Meijer"
-  ],
   "song": "Light Me Up",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/oyoiCyP4Bkg",
@@ -18,25 +14,30 @@
   ],
   "bpm": 122,
   "tone": "G major",
+  "artistPeople": [
+    "Lukas Meijer"
+  ],
   "backings": [
     "Christian Rabb",
     "Kasia Dereń",
     "Mahan Moin",
     "Sara Chmiel-Gromala"
   ],
-  "commentators": [
-    "Artur Orzech"
-  ],
+  "dancers": null,
+  "stageDirector": "Konrad Smuga",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Mateusz Szymkowiak",
-  "stageDirector": "Konrad Smuga",
   "writers": [
     "Christian Rabb",
     "Andrzej Gromala",
     "Lukas Meijer",
     "Mahan Moin"
-  ]
+  ],
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": null,
+  "spokesperson": "Mateusz Szymkowiak"
 }

@@ -1,11 +1,7 @@
 {
   "id": 24,
   "country": "MT",
-  "broadcaster": "PBS",
   "artist": "Destiny",
-  "artistPeople": [
-    "Destiny Chukunyere"
-  ],
   "song": "All of My Love",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/CFCn_8oViRw",
@@ -14,8 +10,12 @@
   ],
   "bpm": 100,
   "tone": "E minor",
+  "artistPeople": [
+    "Destiny Chukunyere"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Bernarda Brunović",
     "Borislav Milanov",
@@ -25,7 +25,6 @@
     "Sebastian Arman"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Bernarda Brunović",
     "Borislav Milanov",
@@ -33,7 +32,9 @@
     "Joacim Persson",
     "Sebastian Arman"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

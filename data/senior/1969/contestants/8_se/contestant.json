@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "SE",
-  "broadcaster": "SR",
   "artist": "Tommy Körberg",
-  "artistPeople": [
-    "Tommy Körberg"
-  ],
   "song": "Judy, min vän",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/l9Q9h5qNodM",
@@ -14,19 +10,24 @@
   ],
   "bpm": 172,
   "tone": "Ab major",
-  "backings": null,
-  "commentators": [
-    "Christina Hansegård"
+  "artistPeople": [
+    "Tommy Körberg"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Roger Wallis"
   ],
   "conductor": "Lars Samuelson",
-  "dancers": null,
   "lyricists": [
     "Britt Lindeborg"
   ],
-  "spokesperson": "Edvard Matz",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Christina Hansegård"
+  ],
+  "jury": null,
+  "spokesperson": "Edvard Matz"
 }

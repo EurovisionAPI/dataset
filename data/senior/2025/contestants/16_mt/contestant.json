@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "MT",
-  "broadcaster": "PBS",
   "artist": "Miriana Conte",
-  "artistPeople": [
-    "Miriana Conte"
-  ],
   "song": "Serving",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/povnGP6k0sI",
@@ -18,6 +14,9 @@
   ],
   "bpm": 122,
   "tone": "E minor",
+  "artistPeople": [
+    "Miriana Conte"
+  ],
   "backings": [
     "Cruzejude",
     "Mette Linturi",
@@ -25,17 +24,19 @@
     "Sofi Mukasheva",
     "Tyson Simon"
   ],
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": "Steven Levi Vella",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Ingrid Sammut",
-  "stageDirector": "Steven Levi Vella",
   "writers": [
     "Benjamin Schmid",
     "Miriana Conte",
     "Muxu",
     "Sarah Evelyn Fullerton"
-  ]
+  ],
+  "broadcaster": "PBS",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Ingrid Sammut"
 }

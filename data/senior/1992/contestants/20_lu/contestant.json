@@ -1,11 +1,7 @@
 {
   "id": 20,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Marion Welter and Kontinent",
-  "artistPeople": [
-    "Marion Welter"
-  ],
   "song": "Sou fräi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/QxvKroREYdk",
@@ -15,6 +11,9 @@
   ],
   "bpm": 130,
   "tone": "D major",
+  "artistPeople": [
+    "Marion Welter"
+  ],
   "backings": [
     "Ab van Goor",
     "Ander Hirtt",
@@ -22,17 +21,19 @@
     "Patrick Hartert",
     "Rom Heck"
   ],
-  "commentators": [
-    "Maurice Molitor"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Christian Jakob",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Ab van Goor",
     "Jang Linster"
-  ]
+  ],
+  "broadcaster": "CLT",
+  "commentators": [
+    "Maurice Molitor"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

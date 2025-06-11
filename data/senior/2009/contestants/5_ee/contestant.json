@@ -1,14 +1,7 @@
 {
   "id": 5,
   "country": "EE",
-  "broadcaster": "ERR",
   "artist": "Urban Symphony",
-  "artistPeople": [
-    "Johanna Mängel",
-    "Mann Halstein",
-    "Mari Möldre",
-    "Sandra Nurmsalu"
-  ],
   "song": "Rändajad",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/gi0FEO2tFFA",
@@ -19,21 +12,29 @@
   ],
   "bpm": 124,
   "tone": "F minor",
+  "artistPeople": [
+    "Johanna Mängel",
+    "Mann Halstein",
+    "Mari Möldre",
+    "Sandra Nurmsalu"
+  ],
   "backings": [
     "Marilin Kongo",
     "Mirjam Mesak"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sven Lõhmus"
+  ],
+  "broadcaster": "ERR",
   "commentators": [
     "Marko Reikop",
     "Olav Osolin"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Laura Põldvere",
-  "stageDirector": null,
-  "writers": [
-    "Sven Lõhmus"
-  ]
+  "jury": null,
+  "spokesperson": "Laura Põldvere"
 }

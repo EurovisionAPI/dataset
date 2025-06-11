@@ -1,12 +1,7 @@
 {
   "id": 27,
   "country": "MK",
-  "broadcaster": "MKRTV",
   "artist": "Next Time",
-  "artistPeople": [
-    "Martin Filipovski",
-    "Stefan Filipovski"
-  ],
   "song": "Neshto Shto Ke Ostane",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/TZzUe2gBkME",
@@ -15,25 +10,31 @@
   ],
   "bpm": 133,
   "tone": "B major",
+  "artistPeople": [
+    "Martin Filipovski",
+    "Stefan Filipovski"
+  ],
   "backings": [
     "Damjan Lazarov",
     "Goran Mihajlovski",
     "Maja Balevska",
     "Mario Stanković"
   ],
-  "commentators": [
-    "Karolina Petkovska"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Damjan Lazarov",
     "Jovan Jovanov"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Elvir Mekić"
   ],
-  "spokesperson": "Frosina Josifovska",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Karolina Petkovska"
+  ],
+  "jury": null,
+  "spokesperson": "Frosina Josifovska"
 }

@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Bonnie Tyler",
-  "artistPeople": [
-    "Gaynor Hopkins"
-  ],
   "song": "Believe In Me",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-agn-ERgTXA",
@@ -13,6 +9,9 @@
   ],
   "bpm": 132,
   "tone": "G major",
+  "artistPeople": [
+    "Gaynor Hopkins"
+  ],
   "backings": [
     "Anthony Goldsbrough",
     "Grant Mugent-Kershaw",
@@ -20,20 +19,22 @@
     "Kristen Cummings",
     "Michael Gazzard"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Christopher Braide",
+    "Desmond Child",
+    "Lauren Christy"
+  ],
+  "broadcaster": "BBC",
   "commentators": [
     "Ana Matronic",
     "Graham Norton",
     "Scott Mills"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Scott Mills",
-  "stageDirector": null,
-  "writers": [
-    "Christopher Braide",
-    "Desmond Child",
-    "Lauren Christy"
-  ]
+  "jury": null,
+  "spokesperson": "Scott Mills"
 }

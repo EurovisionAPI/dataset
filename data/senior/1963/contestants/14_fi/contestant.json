@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Laila Halme",
-  "artistPeople": [
-    "Laila Halme"
-  ],
   "song": "Muistojeni laulu",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/mIo8JxprBN0",
@@ -13,17 +9,22 @@
   ],
   "bpm": 111,
   "tone": "D major",
+  "artistPeople": [
+    "Laila Halme"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "George de Godzinsky",
+  "lyricists": null,
+  "writers": [
+    "Börje Sundgren"
+  ],
+  "broadcaster": "YLE",
   "commentators": [
     "Aarno Walli"
   ],
-  "composers": null,
-  "conductor": "George de Godzinsky",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Poppe Berg",
-  "stageDirector": null,
-  "writers": [
-    "Börje Sundgren"
-  ]
+  "jury": null,
+  "spokesperson": "Poppe Berg"
 }

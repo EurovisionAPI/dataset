@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "CZ",
-  "broadcaster": "ČT",
   "artist": "Benny Cristo",
-  "artistPeople": [
-    "Ben da Silva Cristóvão"
-  ],
   "song": "Kemama",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/wROqCHLnbko",
@@ -14,18 +10,23 @@
   ],
   "bpm": 128,
   "tone": "C# major",
+  "artistPeople": [
+    "Ben da Silva Cristóvão"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Ben Cristovao",
     "Charles Sarpong",
     "Osama Verse-Atile",
     "Rudy Ray"
-  ]
+  ],
+  "broadcaster": "ČT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

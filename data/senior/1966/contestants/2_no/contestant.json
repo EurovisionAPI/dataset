@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Åse Kleveland",
-  "artistPeople": [
-    "Åse Kleveland"
-  ],
   "song": "Intet er nytt under solen",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/tsEARycMg_8",
@@ -17,17 +13,22 @@
   ],
   "bpm": 185,
   "tone": "F minor",
+  "artistPeople": [
+    "Åse Kleveland"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Øivind Bergh",
+  "lyricists": null,
+  "writers": [
+    "Arne Bendiksen"
+  ],
+  "broadcaster": "NRK",
   "commentators": [
     "Sverre Christophersen"
   ],
-  "composers": null,
-  "conductor": "Øivind Bergh",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Erik Diesen",
-  "stageDirector": null,
-  "writers": [
-    "Arne Bendiksen"
-  ]
+  "jury": null,
+  "spokesperson": "Erik Diesen"
 }

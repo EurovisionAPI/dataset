@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "FR",
-  "broadcaster": "FT2",
   "artist": "Patrick Fiori",
-  "artistPeople": [
-    "Patrick Fiori"
-  ],
   "song": "Mama Corsica",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-nyNhpPSew8",
@@ -13,17 +9,22 @@
   ],
   "bpm": 128,
   "tone": "C major",
+  "artistPeople": [
+    "Patrick Fiori"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Christian Cravero",
+  "lyricists": null,
+  "writers": [
+    "François Valéry"
+  ],
+  "broadcaster": "FT2",
   "commentators": [
     "Patrice Laffont"
   ],
-  "composers": null,
-  "conductor": "Christian Cravero",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Olivier Minne",
-  "stageDirector": null,
-  "writers": [
-    "François Valéry"
-  ]
+  "jury": null,
+  "spokesperson": "Olivier Minne"
 }

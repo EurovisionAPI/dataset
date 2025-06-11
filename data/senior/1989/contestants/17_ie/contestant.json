@@ -1,8 +1,14 @@
 {
   "id": 17,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Kiev Connolly and the Missing Passengers",
+  "song": "The Real Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7jQvpVpkR2M",
+    "https://www.youtube-nocookie.com/embed/W8rEaSLH16s"
+  ],
+  "bpm": 83,
+  "tone": "G major",
   "artistPeople": [
     "Des Field",
     "Caomh Connolly",
@@ -11,25 +17,20 @@
     "Paul Seymour",
     "Victor Coughlan"
   ],
-  "song": "The Real Me",
-  "videoUrls": [
-    "https://www.youtube-nocookie.com/embed/7jQvpVpkR2M",
-    "https://www.youtube-nocookie.com/embed/W8rEaSLH16s"
-  ],
-  "bpm": 83,
-  "tone": "G major",
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Kiev Connolly"
+  ],
+  "broadcaster": "RTÉ",
   "commentators": [
     "Michelle Rocca",
     "Ronan Collins"
   ],
-  "composers": null,
-  "conductor": "Noel Kelehan",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Eileen Dunne",
-  "stageDirector": null,
-  "writers": [
-    "Kiev Connolly"
-  ]
+  "jury": null,
+  "spokesperson": "Eileen Dunne"
 }

@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Julio Iglesias",
-  "artistPeople": [
-    "Julio José Iglesias de la Cueva"
-  ],
   "song": "Gwendolyne",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/jxntJli1Mdw",
@@ -17,21 +13,26 @@
   ],
   "bpm": 153,
   "tone": "Eb minor",
+  "artistPeople": [
+    "Julio José Iglesias de la Cueva"
+  ],
   "backings": [
     "María Dolores Arenas",
     "María Jesús Aguirre",
     "Mercedes Valimaña"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Augusto Algueró",
+  "lyricists": null,
+  "writers": [
+    "Julio Iglesias"
+  ],
+  "broadcaster": "TVE",
   "commentators": [
     "José Luis Uribarri"
   ],
-  "composers": null,
-  "conductor": "Augusto Algueró",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Joaquín Prat",
-  "stageDirector": null,
-  "writers": [
-    "Julio Iglesias"
-  ]
+  "jury": null,
+  "spokesperson": "Joaquín Prat"
 }

@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "BE",
-  "broadcaster": "RTBF",
   "artist": "Jean Vallée",
-  "artistPeople": [
-    "Paul Goeders"
-  ],
   "song": "L'amour ça fait chanter la vie",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/N4hjjhCmTvI",
@@ -15,6 +11,9 @@
   ],
   "bpm": 153,
   "tone": "C# minor",
+  "artistPeople": [
+    "Paul Goeders"
+  ],
   "backings": [
     "Catherine Bonnevay",
     "Francine Chantereau",
@@ -22,17 +21,19 @@
     "Martine Latorre",
     "Michel Costa"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Jean Musy",
+  "lyricists": null,
+  "writers": [
+    "Jean Vallée"
+  ],
+  "broadcaster": "RTBF",
   "commentators": [
     "Claude Delacroix",
     "Luc Appermont"
   ],
-  "composers": null,
-  "conductor": "Jean Musy",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "André Hagon",
-  "stageDirector": null,
-  "writers": [
-    "Jean Vallée"
-  ]
+  "jury": null,
+  "spokesperson": "André Hagon"
 }

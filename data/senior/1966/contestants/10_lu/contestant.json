@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Michèle Torr",
-  "artistPeople": [
-    "Michèle Torr"
-  ],
   "song": "Ce soir je t'attendais",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/4syW1DjPiOA",
@@ -18,19 +14,24 @@
   ],
   "bpm": 166,
   "tone": "Bb major",
-  "backings": null,
-  "commentators": [
-    "Jacques Navadic"
+  "artistPeople": [
+    "Michèle Torr"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Bernard Kesslair"
   ],
   "conductor": "Jean Roderes",
-  "dancers": null,
   "lyricists": [
     "Jacques Chaumelle"
   ],
-  "spokesperson": "Camillo Felgen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": "Camillo Felgen"
 }

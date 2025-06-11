@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "MC",
-  "broadcaster": "TMC",
   "artist": "Romuald",
-  "artistPeople": [
-    "Romuald Figuier"
-  ],
   "song": "Où sont-elles passées?",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/zA9guTWE7kM",
@@ -13,19 +9,24 @@
   ],
   "bpm": 105,
   "tone": "Ab major",
-  "backings": null,
-  "commentators": [
-    "Robert Beauvais"
+  "artistPeople": [
+    "Romuald Figuier"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Francis Lai"
   ],
   "conductor": "Michel Colombier",
-  "dancers": null,
   "lyricists": [
     "Pierre Barouh"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Robert Beauvais"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

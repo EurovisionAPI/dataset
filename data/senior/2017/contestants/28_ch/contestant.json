@@ -1,13 +1,7 @@
 {
   "id": 28,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Timebelle",
-  "artistPeople": [
-    "Miruna Mănescu",
-    "Emanuel Daniel Andriescu",
-    "Samuel Forster"
-  ],
   "song": "Apollo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/OrNPRfS9Sbg",
@@ -20,11 +14,27 @@
   ],
   "bpm": 87,
   "tone": "Bb major",
+  "artistPeople": [
+    "Miruna Mănescu",
+    "Emanuel Daniel Andriescu",
+    "Samuel Forster"
+  ],
   "backings": [
     "Nori Rickenbacher",
     "Nyssina Swerissen",
     "Tanja Dankner"
   ],
+  "dancers": null,
+  "stageDirector": "Nicoline Refsing",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alessandra Günthardt",
+    "Elias Näslin",
+    "Nicolas Günthardt"
+  ],
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Clarissa Tami",
     "Jean-Marc Richard",
@@ -34,15 +44,6 @@
     "Stefan Büsser",
     "Sven Epiney"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Luca Hänni",
-  "stageDirector": "Nicoline Refsing",
-  "writers": [
-    "Alessandra Günthardt",
-    "Elias Näslin",
-    "Nicolas Günthardt"
-  ]
+  "jury": null,
+  "spokesperson": "Luca Hänni"
 }

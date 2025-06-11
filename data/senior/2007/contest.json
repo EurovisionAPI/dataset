@@ -6,11 +6,11 @@
   "intendedCountry": null,
   "slogan": "True Fantasy",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2007.png",
+  "broadcasters": [
+    "Yleisradio (YLE)"
+  ],
   "presenters": [
     "Jaana Pelkonen",
     "Mikko Leppilampi"
-  ],
-  "broadcasters": [
-    "Yleisradio (YLE)"
   ]
 }

@@ -1,12 +1,7 @@
 {
   "id": 5,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Lise Haavik & Trax",
-  "artistPeople": [
-    "John Hatting",
-    "Lise Haavik"
-  ],
   "song": "Du er fuld af løgn",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/TeKay_HxlIQ",
@@ -16,22 +11,28 @@
   ],
   "bpm": 98,
   "tone": "E major",
+  "artistPeople": [
+    "John Hatting",
+    "Lise Haavik"
+  ],
   "backings": [
     "Caroline Henderson",
     "David Johnson",
     "Maria Bramsen",
     "Mary Johnson"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Egil Monn-Iversen",
+  "lyricists": null,
+  "writers": [
+    "John Hatting"
+  ],
+  "broadcaster": "DR",
   "commentators": [
     "Jørgen de Mylius"
   ],
-  "composers": null,
-  "conductor": "Egil Monn-Iversen",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Bent Henius",
-  "stageDirector": null,
-  "writers": [
-    "John Hatting"
-  ]
+  "jury": null,
+  "spokesperson": "Bent Henius"
 }

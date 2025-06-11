@@ -1,12 +1,7 @@
 {
   "id": 6,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Maxine & Franklin Brown",
-  "artistPeople": [
-    "Franklin Kroonenberg",
-    "Gonny Buurmeester"
-  ],
   "song": "De eerste keer",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/n9ZwWM1Bfas",
@@ -15,25 +10,31 @@
   ],
   "bpm": 127,
   "tone": "E minor",
+  "artistPeople": [
+    "Franklin Kroonenberg",
+    "Gonny Buurmeester"
+  ],
   "backings": [
     "Dian Senders",
     "Dwight Muskita",
     "Ingrid Simons",
     "Jody Pijper"
   ],
-  "commentators": [
-    "Willem van Beusekom"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Peter van Asten"
   ],
   "conductor": "Dick Bakker",
-  "dancers": null,
   "lyricists": [
     "Peter van Asten",
     "Piet Souer"
   ],
-  "spokesperson": "Marga Bult",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Marga Bult"
 }

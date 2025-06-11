@@ -1,11 +1,7 @@
 {
   "id": 34,
   "country": "BE",
-  "broadcaster": "VRT",
   "artist": "Red Sebastian",
-  "artistPeople": [
-    "Seppe Herreman"
-  ],
   "song": "Strobe Lights",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/fl4LaADiLBY",
@@ -18,28 +14,33 @@
   ],
   "bpm": 145,
   "tone": "G major",
+  "artistPeople": [
+    "Seppe Herreman"
+  ],
   "backings": [
     "Lani Pellegrini"
   ],
-  "commentators": [
-    "Jean-Louis Lahaye",
-    "Joëlle Scoriels",
-    "Peter Van de Veire"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Bruno De Rouck",
     "Goran Tourenne",
     "Hugo Gebbia"
   ],
-  "lyricists": null,
-  "spokesperson": "Manu Van Acker",
   "stageDirector": "Yves Ruth",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Ameerah A. Roelants",
     "Billie Bentein",
     "Seppe Herreman",
     "Willem Vanderstichele"
-  ]
+  ],
+  "broadcaster": "VRT",
+  "commentators": [
+    "Jean-Louis Lahaye",
+    "Joëlle Scoriels",
+    "Peter Van de Veire"
+  ],
+  "jury": null,
+  "spokesperson": "Manu Van Acker"
 }

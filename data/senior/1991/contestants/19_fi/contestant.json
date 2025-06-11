@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Kaija",
-  "artistPeople": [
-    "Kaija Hannele Kärkinen"
-  ],
   "song": "Hullu yö",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/a4TUvtjlC_0",
@@ -16,23 +12,28 @@
   ],
   "bpm": 127,
   "tone": "F major",
+  "artistPeople": [
+    "Kaija Hannele Kärkinen"
+  ],
   "backings": [
     "Anita Pajunen",
     "Pemo Ojala",
     "Pirjo Aittomäki"
   ],
-  "commentators": [
-    "Erkki Pohjanheimo"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ile Kallio"
   ],
   "conductor": "Olli Ahvenlahti",
-  "dancers": null,
   "lyricists": [
     "Jukka Välimaa"
   ],
-  "spokesperson": "Heidi Kokki",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Pohjanheimo"
+  ],
+  "jury": null,
+  "spokesperson": "Heidi Kokki"
 }

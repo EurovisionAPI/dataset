@@ -1,12 +1,7 @@
 {
   "id": 21,
   "country": "SM",
-  "broadcaster": "SMRTV",
   "artist": "Senhit feat. Flo Rida",
-  "artistPeople": [
-    "Tramar Lacel Dillard",
-    "Senhit Zadik Zadik"
-  ],
   "song": "Adrenalina",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/TkhiH-JXFPs",
@@ -19,22 +14,21 @@
   ],
   "bpm": 104,
   "tone": "Bb minor",
-  "backings": null,
-  "commentators": [
-    "Gigi Restivo",
-    "Lia Fiorio"
+  "artistPeople": [
+    "Tramar Lacel Dillard",
+    "Senhit Zadik Zadik"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Ilaria Cavola",
     "Lucrezia Stopponi",
     "Patrizio Ratto",
     "Stefano Rei Ferrari"
   ],
-  "lyricists": null,
-  "spokesperson": "Monica Fabbri",
   "stageDirector": "Luca Tommassini",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Chanel Tukia",
     "Dillard Tramar",
@@ -46,5 +40,12 @@
     "Senhit Zadik Zadik",
     "Suzi Pancenkov",
     "Thomas Stengaard"
-  ]
+  ],
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Gigi Restivo",
+    "Lia Fiorio"
+  ],
+  "jury": null,
+  "spokesperson": "Monica Fabbri"
 }

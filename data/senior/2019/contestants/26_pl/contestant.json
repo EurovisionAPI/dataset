@@ -1,14 +1,7 @@
 {
   "id": 26,
   "country": "PL",
-  "broadcaster": "TVP",
   "artist": "Tulia",
-  "artistPeople": [
-    "Dominika Siepka",
-    "Joanna Sinkiewicz",
-    "Patrycja Nowicka",
-    "Tulia Biczak"
-  ],
   "song": "Pali się",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/IEu0F5uobVo",
@@ -20,21 +13,29 @@
   ],
   "bpm": 96,
   "tone": "A major",
-  "backings": null,
-  "commentators": [
-    "Artur Orzech"
+  "artistPeople": [
+    "Dominika Siepka",
+    "Joanna Sinkiewicz",
+    "Patrycja Nowicka",
+    "Tulia Biczak"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Konrad Smuga",
   "composers": [
     "Nadia Dalin"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Allan Rich",
     "Jud Friedman",
     "Sonia Krasny"
   ],
-  "spokesperson": "Mateusz Szymkowiak",
-  "stageDirector": "Konrad Smuga",
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": null,
+  "spokesperson": "Mateusz Szymkowiak"
 }

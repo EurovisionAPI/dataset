@@ -1,11 +1,7 @@
 {
   "id": 31,
   "country": "ME",
-  "broadcaster": "RTCG",
   "artist": "Highway",
-  "artistPeople": [
-    "Bojan Jovović"
-  ],
   "song": "The Real Thing",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/FgKehisElQI",
@@ -16,26 +12,31 @@
   ],
   "bpm": 117,
   "tone": "B major",
+  "artistPeople": [
+    "Bojan Jovović"
+  ],
   "backings": [
     "Marija Lazić",
     "Nikola Marjanović"
   ],
-  "commentators": [
-    "Ajda Šufta",
-    "Dražen Bauković",
-    "Tijana Mišković"
-  ],
+  "dancers": null,
+  "stageDirector": "Igor Basorović",
   "composers": [
     "Luka Vojvodić",
     "Maro Market",
     "Srđan Sekulović Skansi"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Srđan Sekulović Skansi"
   ],
-  "spokesperson": "Danijel Alibabić",
-  "stageDirector": "Igor Basorović",
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Ajda Šufta",
+    "Dražen Bauković",
+    "Tijana Mišković"
+  ],
+  "jury": null,
+  "spokesperson": "Danijel Alibabić"
 }

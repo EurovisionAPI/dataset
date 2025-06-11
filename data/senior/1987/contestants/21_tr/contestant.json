@@ -1,11 +1,7 @@
 {
   "id": 21,
   "country": "TR",
-  "broadcaster": "TRT",
   "artist": "Seyyal Taner & Lokomotif",
-  "artistPeople": [
-    "Seyyal Taner"
-  ],
   "song": "Şarkım Sevgi Üstüne",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/70-f2D8YDfs",
@@ -15,6 +11,9 @@
   ],
   "bpm": 139,
   "tone": "E major",
+  "artistPeople": [
+    "Seyyal Taner"
+  ],
   "backings": [
     "Alper Berksu",
     "Feridun Mete",
@@ -22,16 +21,18 @@
     "Melis Sökmen",
     "Tansu Atak"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Garo Mafyan",
+  "lyricists": null,
+  "writers": [
+    "Olcayto Ahmet Tuğsuz"
+  ],
+  "broadcaster": "TRT",
   "commentators": [
     "Gülgün Feyman"
   ],
-  "composers": null,
-  "conductor": "Garo Mafyan",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Canan Kumbasar",
-  "stageDirector": null,
-  "writers": [
-    "Olcayto Ahmet Tuğsuz"
-  ]
+  "jury": null,
+  "spokesperson": "Canan Kumbasar"
 }

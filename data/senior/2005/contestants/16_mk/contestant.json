@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "MK",
-  "broadcaster": "MKRTV",
   "artist": "Martin Vučić",
-  "artistPeople": [
-    "Martin Vučić"
-  ],
   "song": "Make My Day",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/wPiEpyPdto8",
@@ -14,22 +10,27 @@
   ],
   "bpm": 120,
   "tone": "C# minor",
+  "artistPeople": [
+    "Martin Vučić"
+  ],
   "backings": [
     "Gjoko Taneski",
     "Vlatko Ilievski"
   ],
-  "commentators": [
-    "Ivan Mircevski"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Dragan Vučić"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Branka Kostić"
   ],
-  "spokesperson": "Karolina Gočeva",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Ivan Mircevski"
+  ],
+  "jury": null,
+  "spokesperson": "Karolina Gočeva"
 }

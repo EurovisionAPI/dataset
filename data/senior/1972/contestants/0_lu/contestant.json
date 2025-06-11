@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Vicky Leandros",
-  "artistPeople": [
-    "Vassiliki Papathanassiou"
-  ],
   "song": "Après toi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/52W1665yI1Y",
@@ -18,21 +14,26 @@
   ],
   "bpm": 114,
   "tone": "Bb major",
-  "backings": null,
-  "commentators": [
-    "Jacques Navadic"
+  "artistPeople": [
+    "Vassiliki Papathanassiou"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Klaus Munro",
     "Mario Panas"
   ],
   "conductor": "Klaus Munro",
-  "dancers": null,
   "lyricists": [
     "Klaus Munro",
     "Yves Dessca"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

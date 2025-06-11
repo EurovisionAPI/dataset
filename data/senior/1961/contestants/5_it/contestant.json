@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Betty Curtis",
-  "artistPeople": [
-    "Roberta Corti"
-  ],
   "song": "Al di là",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/yUt5XlrAAY4",
@@ -15,19 +11,24 @@
   ],
   "bpm": 108,
   "tone": "Ab major",
-  "backings": null,
-  "commentators": [
-    "Corrado Mantoni"
+  "artistPeople": [
+    "Roberta Corti"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Carlo Donida"
   ],
   "conductor": "Gianfranco Intra",
-  "dancers": null,
   "lyricists": [
     "Mogol"
   ],
-  "spokesperson": "Enzo Tortora",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Corrado Mantoni"
+  ],
+  "jury": null,
+  "spokesperson": "Enzo Tortora"
 }

@@ -1,15 +1,7 @@
 {
   "id": 14,
   "country": "RO",
-  "broadcaster": "TVR",
   "artist": "Voltaj",
-  "artistPeople": [
-    "Călin Gavril Goia",
-    "Adrian M. Cristescu",
-    "Gabriel Constantin",
-    "Oliver Sterian",
-    "Valeriu Ionescu"
-  ],
   "song": "De la capăt / All Over Again",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/o7iOFkEymXA",
@@ -21,8 +13,16 @@
   ],
   "bpm": 140,
   "tone": "D minor",
+  "artistPeople": [
+    "Călin Gavril Goia",
+    "Adrian M. Cristescu",
+    "Gabriel Constantin",
+    "Oliver Sterian",
+    "Valeriu Ionescu"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": "Daniel Klinger",
   "composers": [
     "Adrian M. Cristescu",
     "Călin Gavril Goia",
@@ -31,7 +31,6 @@
     "Victor-Răzvan Alstani"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Adrian M. Cristescu",
     "Andrei-Madalin Leonte",
@@ -41,7 +40,9 @@
     "Silviu-Marian Păduraru",
     "Victor-Răzvan Alstani"
   ],
-  "spokesperson": "Sonia Argint-Ionescu",
-  "stageDirector": "Daniel Klinger",
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Sonia Argint-Ionescu"
 }

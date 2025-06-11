@@ -1,11 +1,7 @@
 {
   "id": 26,
   "country": "MK",
-  "broadcaster": "MKRTV",
   "artist": "Andrea",
-  "artistPeople": [
-    "Andrea Koevska"
-  ],
   "song": "Circles",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/zvOihqB4eKk",
@@ -17,21 +13,26 @@
   ],
   "bpm": 115,
   "tone": "D major",
+  "artistPeople": [
+    "Andrea Koevska"
+  ],
   "backings": [
     "Ana Petanovska",
     "Renata Kralevska"
   ],
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": "Biljana Pašarikovska",
   "composers": [
     "Aleksandar Masevski"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Aleksandar Masevski",
     "Andrea Koevska"
   ],
-  "spokesperson": "Jana Burčeska",
-  "stageDirector": "Biljana Pašarikovska",
-  "writers": null
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Jana Burčeska"
 }

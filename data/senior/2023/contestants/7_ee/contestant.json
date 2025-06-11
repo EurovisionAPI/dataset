@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "EE",
-  "broadcaster": "ERR",
   "artist": "Alika",
-  "artistPeople": [
-    "Alika Milova"
-  ],
   "song": "Bridges",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/HsbC-OYMA3s",
@@ -18,25 +14,30 @@
   ],
   "bpm": 140,
   "tone": "C minor",
+  "artistPeople": [
+    "Alika Milova"
+  ],
   "backings": [
     "Grettel Killing",
     "Sofia-Liis Liiv"
   ],
-  "commentators": [
-    "Marko Reikop"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Alika Milova",
     "Wouter Hardy"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Alika Milova",
     "Nina Sampermans",
     "Wouter Hardy"
   ],
-  "spokesperson": "Ragnar Klavan",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Ragnar Klavan"
 }

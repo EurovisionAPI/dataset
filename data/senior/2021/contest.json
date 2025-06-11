@@ -6,15 +6,15 @@
   "intendedCountry": null,
   "slogan": "Open Up",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2021.png",
+  "broadcasters": [
+    "AVROTROS",
+    "NOS",
+    "NPO"
+  ],
   "presenters": [
     "Edsilia Rombley",
     "Chantal Janzen",
     "Jan Smit",
     "Nikkie de Jager"
-  ],
-  "broadcasters": [
-    "AVROTROS",
-    "NOS",
-    "NPO"
   ]
 }

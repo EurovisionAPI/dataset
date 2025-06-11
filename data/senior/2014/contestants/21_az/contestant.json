@@ -1,11 +1,7 @@
 {
   "id": 21,
   "country": "AZ",
-  "broadcaster": "İctimai",
   "artist": "Dilara Kazimova",
-  "artistPeople": [
-    "Dilara Kazimova"
-  ],
   "song": "Start A Fire",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5mPUMPcFQAY",
@@ -15,23 +11,28 @@
   ],
   "bpm": 151,
   "tone": "D major",
+  "artistPeople": [
+    "Dilara Kazimova"
+  ],
   "backings": [
     "Jennie Jahns",
     "Lena Engman",
     "Sofia Lindström"
   ],
-  "commentators": [
-    "Konul Arifgizi"
-  ],
+  "dancers": null,
+  "stageDirector": "Åsa Engman",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Sabina Babayeva",
-  "stageDirector": "Åsa Engman",
   "writers": [
     "Alessandra Günthardt",
     "Johan Kronlund",
     "Stefan Örn"
-  ]
+  ],
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Konul Arifgizi"
+  ],
+  "jury": null,
+  "spokesperson": "Sabina Babayeva"
 }

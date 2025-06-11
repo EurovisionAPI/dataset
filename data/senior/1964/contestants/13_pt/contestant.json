@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "António Calvário",
-  "artistPeople": [
-    "António Calvário Da Paz"
-  ],
   "song": "Oração",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/avK0zW4LRwg",
@@ -14,20 +10,25 @@
   ],
   "bpm": 126,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "Gomes Ferreira"
+  "artistPeople": [
+    "António Calvário Da Paz"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "João Nobre"
   ],
   "conductor": "Kai Mortensen",
-  "dancers": null,
   "lyricists": [
     "Francisco Nicholson",
     "Rogério Bracinha"
   ],
-  "spokesperson": "Maria Manuela Furtado",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Gomes Ferreira"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Manuela Furtado"
 }

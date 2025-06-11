@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "MT",
-  "broadcaster": "MBA",
   "artist": "Renato",
-  "artistPeople": [
-    "Renato Micallef"
-  ],
   "song": "Singing This Song",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/VbhlDCqGDS0",
@@ -14,19 +10,24 @@
   ],
   "bpm": 113,
   "tone": "A minor",
-  "backings": null,
-  "commentators": [
-    "Norman Hamilton"
+  "artistPeople": [
+    "Renato Micallef"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Sammy Galea"
   ],
   "conductor": "Vince Tempera Grima",
-  "dancers": null,
   "lyricists": [
     "M. Iris Mifsud"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "MBA",
+  "commentators": [
+    "Norman Hamilton"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

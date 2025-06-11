@@ -6,11 +6,11 @@
   "intendedCountry": null,
   "slogan": "Confluence of Sound",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2008.png",
+  "broadcasters": [
+    "RTS"
+  ],
   "presenters": [
     "Jovana Janković",
     "Željko Joksimović"
-  ],
-  "broadcasters": [
-    "RTS"
   ]
 }

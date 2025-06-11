@@ -1,11 +1,7 @@
 {
   "id": 24,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Saara Aalto",
-  "artistPeople": [
-    "Saara Sofia Aalto"
-  ],
   "song": "Monsters",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/hdjiuCUUpPc",
@@ -18,29 +14,34 @@
   ],
   "bpm": 122,
   "tone": "G major",
+  "artistPeople": [
+    "Saara Sofia Aalto"
+  ],
   "backings": [
     "Heli Lyytikäinen",
     "Teemu Roivainen",
     "Tuuli Ikonen"
   ],
-  "commentators": [
-    "Eva Frantz",
-    "Johan Lindroos",
-    "Mikko Silvennoinen"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Kane Horn",
     "Yves Cueni"
   ],
-  "lyricists": null,
-  "spokesperson": "Anna Abreu",
   "stageDirector": "Brian Friedman",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Joy Deb",
     "Ki Fitzgerald",
     "Linnea Deb",
     "Saara Aalto"
-  ]
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Mikko Silvennoinen"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Abreu"
 }

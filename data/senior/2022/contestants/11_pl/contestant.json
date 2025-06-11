@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "PL",
-  "broadcaster": "TVP",
   "artist": "Ochman",
-  "artistPeople": [
-    "Ochman"
-  ],
   "song": "River",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/jRVDZ6446eM",
@@ -18,11 +14,17 @@
   ],
   "bpm": 140,
   "tone": "Eb major",
-  "backings": null,
-  "commentators": [
-    "Aleksander Sikora",
-    "Marek Sierocki"
+  "artistPeople": [
+    "Ochman"
   ],
+  "backings": null,
+  "dancers": [
+    "Jekaterina Nesterowa",
+    "Julia Adamczyk",
+    "Martyna Przybyłowska",
+    "Paulina Przestrzelska"
+  ],
+  "stageDirector": "Mikołaj Dobrowolski, Tomasz Klimek",
   "composers": [
     "Adam Wiśniewski",
     "Ashley Hicklin",
@@ -30,17 +32,16 @@
     "Mikołaj Trybulec"
   ],
   "conductor": null,
-  "dancers": [
-    "Jekaterina Nesterowa",
-    "Julia Adamczyk",
-    "Martyna Przybyłowska",
-    "Paulina Przestrzelska"
-  ],
   "lyricists": [
     "Ashley Hicklin",
     "Krystian Ochman"
   ],
-  "spokesperson": "Ida Nowakowska",
-  "stageDirector": "Mikołaj Dobrowolski, Tomasz Klimek",
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Aleksander Sikora",
+    "Marek Sierocki"
+  ],
+  "jury": null,
+  "spokesperson": "Ida Nowakowska"
 }

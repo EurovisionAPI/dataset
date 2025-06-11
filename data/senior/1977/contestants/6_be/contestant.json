@@ -1,14 +1,7 @@
 {
   "id": 6,
   "country": "BE",
-  "broadcaster": "BRT",
   "artist": "Dream Express",
-  "artistPeople": [
-    "Bianca Maessen",
-    "Luc Smets",
-    "Patricia Maessen",
-    "Stella"
-  ],
   "song": "A Million in One, Two, Three",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/8lo-oqcmg_A",
@@ -17,17 +10,25 @@
   ],
   "bpm": 113,
   "tone": "Eb major",
+  "artistPeople": [
+    "Bianca Maessen",
+    "Luc Smets",
+    "Patricia Maessen",
+    "Stella"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Alyn Ainsworth",
+  "lyricists": null,
+  "writers": [
+    "Luc Smets"
+  ],
+  "broadcaster": "BRT",
   "commentators": [
     "Luc Appermont"
   ],
-  "composers": null,
-  "conductor": "Alyn Ainsworth",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Anne Ploegaerts",
-  "stageDirector": null,
-  "writers": [
-    "Luc Smets"
-  ]
+  "jury": null,
+  "spokesperson": "Anne Ploegaerts"
 }

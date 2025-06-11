@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Finn Kalvik",
-  "artistPeople": [
-    "Finn Kalvik"
-  ],
   "song": "Aldri i livet",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/HnTmqt9rmDw",
@@ -16,6 +12,9 @@
   ],
   "bpm": 135,
   "tone": "F major",
+  "artistPeople": [
+    "Finn Kalvik"
+  ],
   "backings": [
     "Anita Skorgan",
     "George Keller",
@@ -23,16 +22,18 @@
     "Kari Gjærum",
     "Nissa Nyberget"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Sigurd Jansen",
+  "lyricists": null,
+  "writers": [
+    "Finn Kalvik"
+  ],
+  "broadcaster": "NRK",
   "commentators": [
     "Knut Aunbu"
   ],
-  "composers": null,
-  "conductor": "Sigurd Jansen",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Sverre Christophersen",
-  "stageDirector": null,
-  "writers": [
-    "Finn Kalvik"
-  ]
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
 }

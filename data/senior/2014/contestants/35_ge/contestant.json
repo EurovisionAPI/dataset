@@ -1,12 +1,7 @@
 {
   "id": 35,
   "country": "GE",
-  "broadcaster": "GPB",
   "artist": "The Shin and Mariko",
-  "artistPeople": [
-    "Alexander Chumburidze",
-    "Mariko Ebralidze"
-  ],
   "song": "Three Minutes To Earth",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/0v69AvCQJQY",
@@ -15,20 +10,26 @@
   ],
   "bpm": 152,
   "tone": "A major",
-  "backings": null,
-  "commentators": [
-    "Lado Tatishvili",
-    "Tamuna Museridze"
+  "artistPeople": [
+    "Alexander Chumburidze",
+    "Mariko Ebralidze"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Zaza Miminoshvili"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Eugen Eliu"
   ],
-  "spokesperson": "Nodiko Tatishvili, Sopho Gelovani",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "GPB",
+  "commentators": [
+    "Lado Tatishvili",
+    "Tamuna Museridze"
+  ],
+  "jury": null,
+  "spokesperson": "Nodiko Tatishvili, Sopho Gelovani"
 }

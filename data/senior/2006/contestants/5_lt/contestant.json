@@ -1,16 +1,7 @@
 {
   "id": 5,
   "country": "LT",
-  "broadcaster": "LRT",
   "artist": "LT United",
-  "artistPeople": [
-    "Andrius Mamontovas",
-    "Arnoldas Lukošius",
-    "Eimantas Belickas",
-    "Marijonas Mikutavičius",
-    "Saulius 'Samas' Urbonavičius",
-    "Viktoras Diawara"
-  ],
   "song": "We Are The Winners",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/DBAdOlQPbwg",
@@ -20,21 +11,31 @@
   ],
   "bpm": 130,
   "tone": "B minor",
-  "backings": null,
-  "commentators": [
-    "Darius Užkuraitis"
+  "artistPeople": [
+    "Andrius Mamontovas",
+    "Arnoldas Lukošius",
+    "Eimantas Belickas",
+    "Marijonas Mikutavičius",
+    "Saulius 'Samas' Urbonavičius",
+    "Viktoras Diawara"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Andrius Mamontovas",
     "Saulius 'Samas' Urbonavičius"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Andrius Mamontovas",
     "Viktoras Diawara"
   ],
-  "spokesperson": "Lavija Šurnaitė",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Lavija Šurnaitė"
 }

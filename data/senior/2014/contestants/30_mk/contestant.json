@@ -1,11 +1,7 @@
 {
   "id": 30,
   "country": "MK",
-  "broadcaster": "MKRTV",
   "artist": "Tijana",
-  "artistPeople": [
-    "Tijana Dapčević"
-  ],
   "song": "To the Sky",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/2BqLPMF8Xdc",
@@ -14,27 +10,32 @@
   ],
   "bpm": 128,
   "tone": "C# minor",
+  "artistPeople": [
+    "Tijana Dapčević"
+  ],
   "backings": [
     "Dimitar Andonovski",
     "Nikola Perevski",
     "Tamara Todevska"
   ],
-  "commentators": [
-    "Karolina Petkovska"
+  "dancers": [
+    "Dejan Kolarov"
   ],
+  "stageDirector": "Boris Miljković",
   "composers": [
     "Darko Dimitrov",
     "Lazar Cvetkoski"
   ],
   "conductor": null,
-  "dancers": [
-    "Dejan Kolarov"
-  ],
   "lyricists": [
     "Darko Dimitrov",
     "Elena Risteska Ivanovska"
   ],
-  "spokesperson": "Marko Mark",
-  "stageDirector": "Boris Miljković",
-  "writers": null
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Karolina Petkovska"
+  ],
+  "jury": null,
+  "spokesperson": "Marko Mark"
 }

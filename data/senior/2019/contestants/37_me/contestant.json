@@ -1,16 +1,7 @@
 {
   "id": 37,
   "country": "ME",
-  "broadcaster": "RTCG",
   "artist": "D mol",
-  "artistPeople": [
-    "Emel Franca",
-    "Ivana Obradović",
-    "Mirela Ljumić",
-    "Rizo Feratović",
-    "Tamara Vujačić",
-    "Željko Vukčević"
-  ],
   "song": "Heaven",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/oV200JAouTc",
@@ -23,20 +14,30 @@
   ],
   "bpm": 92,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Dražen Bauković",
-    "Tijana Mišković"
+  "artistPeople": [
+    "Emel Franca",
+    "Ivana Obradović",
+    "Mirela Ljumić",
+    "Rizo Feratović",
+    "Tamara Vujačić",
+    "Željko Vukčević"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Gorčin Stojanović",
   "composers": [
     "Dejan Božović"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Adis Eminić"
   ],
-  "spokesperson": "Ajda Šufta",
-  "stageDirector": "Gorčin Stojanović",
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Dražen Bauković",
+    "Tijana Mišković"
+  ],
+  "jury": null,
+  "spokesperson": "Ajda Šufta"
 }

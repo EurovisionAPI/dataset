@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "IS",
-  "broadcaster": "RÚV",
   "artist": "Eythor Ingi",
-  "artistPeople": [
-    "Eyþór Ingi Gunnlaugsson"
-  ],
   "song": "Ég á líf",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/GzE88IYzXLI",
@@ -15,23 +11,28 @@
   ],
   "bpm": 149,
   "tone": "A major",
+  "artistPeople": [
+    "Eyþór Ingi Gunnlaugsson"
+  ],
   "backings": [
     "Bergþór Smári Jakobsson",
     "Einar Þór Jóhannsson",
     "Hannes Heimir Friðbjarnarson",
     "Kristján Gíslason"
   ],
-  "commentators": [
-    "Felix Bergsson"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "María Sigrún Hilmarsdóttir",
-  "stageDirector": null,
   "writers": [
     "Örlygur Smári",
     "Pétur Örn Guðmundsson"
-  ]
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Felix Bergsson"
+  ],
+  "jury": null,
+  "spokesperson": "María Sigrún Hilmarsdóttir"
 }

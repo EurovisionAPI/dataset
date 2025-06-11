@@ -6,11 +6,11 @@
   "intendedCountry": null,
   "slogan": "Feel The Rhythm",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2006.png",
+  "broadcasters": [
+    "Ellinikí Radiofonía Tileórasi (ERT)"
+  ],
   "presenters": [
     "Maria Menounos",
     "Sakis Rouvas"
-  ],
-  "broadcasters": [
-    "Ellinikí Radiofonía Tileórasi (ERT)"
   ]
 }

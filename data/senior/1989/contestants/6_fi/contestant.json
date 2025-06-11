@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Anneli Saaristo",
-  "artistPeople": [
-    "Anneli Saaristo"
-  ],
   "song": "La dolce vita",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/bJv4eaBUocE",
@@ -15,24 +11,29 @@
   ],
   "bpm": 103,
   "tone": "G minor",
+  "artistPeople": [
+    "Anneli Saaristo"
+  ],
   "backings": [
     "Anita Pajunen",
     "Antti Jakoila",
     "Bert Karlsson",
     "Jokke Seppälä"
   ],
-  "commentators": [
-    "Heikki Harma"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Matti Puurtinen"
   ],
   "conductor": "Ossi Runne",
-  "dancers": null,
   "lyricists": [
     "Turkka Mali"
   ],
-  "spokesperson": "Solveig Herlin",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Heikki Harma"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
 }

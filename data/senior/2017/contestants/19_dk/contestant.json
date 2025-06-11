@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Anja",
-  "artistPeople": [
-    "Anja Nissen"
-  ],
   "song": "Where I Am",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/vUbGnq8maS0",
@@ -17,6 +13,9 @@
   ],
   "bpm": 91,
   "tone": "C# major",
+  "artistPeople": [
+    "Anja Nissen"
+  ],
   "backings": [
     "Andy Roda",
     "Jasmin Gabay",
@@ -24,18 +23,20 @@
     "Linda Andrews",
     "Trille Palsgaard"
   ],
-  "commentators": [
-    "Ole Tøpholm"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Ulla Essendrop",
-  "stageDirector": null,
   "writers": [
     "Angel Tupai",
     "Anja Nissen",
     "Michael D'Arcy"
-  ]
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "jury": null,
+  "spokesperson": "Ulla Essendrop"
 }

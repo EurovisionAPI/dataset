@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Tommy Nilsson",
-  "artistPeople": [
-    "Tommy Nilsson"
-  ],
   "song": "En dag",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3d3KM73977U",
@@ -16,6 +12,9 @@
   ],
   "bpm": 94,
   "tone": "C# major",
+  "artistPeople": [
+    "Tommy Nilsson"
+  ],
   "backings": [
     "Ankie Bagger",
     "Jean Paul Wall",
@@ -23,21 +22,23 @@
     "Tommy Ekman",
     "Vicki Benckert"
   ],
-  "commentators": [
-    "Jacob Dahlin"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Alexander Bard",
     "Ola Håkansson",
     "Tim Norell"
   ],
   "conductor": "Anders Berglund",
-  "dancers": null,
   "lyricists": [
     "Ola Håkansson",
     "Tim Norell"
   ],
-  "spokesperson": "Agneta Bolme-Börjefors",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Jacob Dahlin"
+  ],
+  "jury": null,
+  "spokesperson": "Agneta Bolme-Börjefors"
 }

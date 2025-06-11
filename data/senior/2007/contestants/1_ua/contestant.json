@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "UA",
-  "broadcaster": "NTU",
   "artist": "Verka Serduchka",
-  "artistPeople": [
-    "Andriy Mykhailovych Danylko (Андрі́й Миха́йлович Дани́лко)"
-  ],
   "song": "Dancing Lasha Tumbai",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/hfjHJneVonE",
@@ -17,6 +13,9 @@
   ],
   "bpm": 144,
   "tone": "E minor",
+  "artistPeople": [
+    "Andriy Mykhailovych Danylko (Андрі́й Миха́йлович Дани́лко)"
+  ],
   "backings": [
     "Elena Romanovskaya",
     "Natalia Gura-Golubovskaya",
@@ -24,16 +23,18 @@
     "Tudor Zberea",
     "Vasily Goldakovskiy"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Andriy Danylko"
+  ],
+  "broadcaster": "NTU",
   "commentators": [
     "Timur Miroshnychenko"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Kateryna Osadcha",
-  "stageDirector": null,
-  "writers": [
-    "Andriy Danylko"
-  ]
+  "jury": null,
+  "spokesperson": "Kateryna Osadcha"
 }

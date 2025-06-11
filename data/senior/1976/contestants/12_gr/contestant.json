@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "GR",
-  "broadcaster": "ERT",
   "artist": "Mariza Koch",
-  "artistPeople": [
-    "Mariza Koch"
-  ],
   "song": "Panaghia mou, panaghia mou",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/aU9bbyojcog",
@@ -14,21 +10,26 @@
   ],
   "bpm": 163,
   "tone": "G major",
+  "artistPeople": [
+    "Mariza Koch"
+  ],
   "backings": [
     "Dimitris Zouboulis"
   ],
-  "commentators": [
-    "Mako Georgiadou"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Mariza Koch"
   ],
   "conductor": "Michalis Rozakis",
-  "dancers": null,
   "lyricists": [
     "Michael Fotiades"
   ],
-  "spokesperson": "Irini Gavala",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Mako Georgiadou"
+  ],
+  "jury": null,
+  "spokesperson": "Irini Gavala"
 }

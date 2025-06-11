@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "CY",
-  "broadcaster": "CyBC",
   "artist": "Elena Tsagrinou",
-  "artistPeople": [
-    "Elena Tsagrinou"
-  ],
   "song": "El Diablo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/MgGc1F_cOE8",
@@ -18,27 +14,32 @@
   ],
   "bpm": 114,
   "tone": "C major",
+  "artistPeople": [
+    "Elena Tsagrinou"
+  ],
   "backings": [
     "Ksenija Erker"
   ],
-  "commentators": [
-    "Louis Patsalides"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Chali Jennings",
     "Liolia Kerogli",
     "Mariia Sharafetdinova",
     "Para Karat"
   ],
-  "lyricists": null,
-  "spokesperson": "Loukas Hamatsos",
   "stageDirector": "Dan Shipton, Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Jimmy Joker",
     "Laurell Barker",
     "Oxa",
     "Thomas Stengaard"
-  ]
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Louis Patsalides"
+  ],
+  "jury": null,
+  "spokesperson": "Loukas Hamatsos"
 }

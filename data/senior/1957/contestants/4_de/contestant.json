@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "DE",
-  "broadcaster": "ARD",
   "artist": "Margot Hielscher",
-  "artistPeople": [
-    "Margot Hielscher"
-  ],
   "song": "Telefon, Telefon",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/nKU5QAGt7Cw",
@@ -13,17 +9,22 @@
   ],
   "bpm": 112,
   "tone": "C major",
+  "artistPeople": [
+    "Margot Hielscher"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Friedrich Meyer"
   ],
   "conductor": "Willy Berking",
-  "dancers": null,
   "lyricists": [
     "Ralph Maria Siegel"
   ],
-  "spokesperson": "Joachim Fuchsberger",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Joachim Fuchsberger"
 }

@@ -1,15 +1,7 @@
 {
   "id": 20,
   "country": "LT",
-  "broadcaster": "LRT",
   "artist": "4Fun",
-  "artistPeople": [
-    "Andžej Zujevič",
-    "Julija Ritčik",
-    "Justas Jasenka",
-    "Laimonas Staniulionis",
-    "Rimantas Jasenka"
-  ],
   "song": "Love Or Leave",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Rebt7qd-HcI",
@@ -19,17 +11,26 @@
   ],
   "bpm": 166,
   "tone": "Eb major",
+  "artistPeople": [
+    "Andžej Zujevič",
+    "Julija Ritčik",
+    "Justas Jasenka",
+    "Laimonas Staniulionis",
+    "Rimantas Jasenka"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Julija Ritčik"
+  ],
+  "broadcaster": "LRT",
   "commentators": [
     "Darius Užkuraitis"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Lavija Šurnaitė",
-  "stageDirector": null,
-  "writers": [
-    "Julija Ritčik"
-  ]
+  "jury": null,
+  "spokesperson": "Lavija Šurnaitė"
 }

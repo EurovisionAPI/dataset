@@ -1,11 +1,7 @@
 {
   "id": 21,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Barbara Berta",
-  "artistPeople": [
-    "Barbara Berta"
-  ],
   "song": "Dentro di me",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/uSzDtezlXS0",
@@ -13,22 +9,27 @@
   ],
   "bpm": 155,
   "tone": "D major",
+  "artistPeople": [
+    "Barbara Berta"
+  ],
   "backings": [
     "Fabio Ciboldi"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Pietro Damiani",
+  "lyricists": null,
+  "writers": [
+    "Barbara Berta"
+  ],
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Heinz Margot",
     "Jonathan Tedesco",
     "Pierre Grandjean",
     "Roman Kilchsperger"
   ],
-  "composers": null,
-  "conductor": "Pietro Damiani",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Sandy Altermatt",
-  "stageDirector": null,
-  "writers": [
-    "Barbara Berta"
-  ]
+  "jury": null,
+  "spokesperson": "Sandy Altermatt"
 }

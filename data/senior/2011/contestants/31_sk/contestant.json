@@ -1,12 +1,7 @@
 {
   "id": 31,
   "country": "SK",
-  "broadcaster": "STV",
   "artist": "TWiiNS",
-  "artistPeople": [
-    "Daniela Jančichová-Nízlová",
-    "Veronika Nízlová"
-  ],
   "song": "I'm Still Alive",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/6OUulUX7_hE",
@@ -15,21 +10,27 @@
   ],
   "bpm": 87,
   "tone": "A major",
-  "backings": null,
-  "commentators": [
-    "Roman Bomboš"
+  "artistPeople": [
+    "Daniela Jančichová-Nízlová",
+    "Veronika Nízlová"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Bryan Todd"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Brano Jancich",
     "Bryan Todd",
     "Sandra Nordstrom"
   ],
-  "spokesperson": "Mária Pietrová",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "STV",
+  "commentators": [
+    "Roman Bomboš"
+  ],
+  "jury": null,
+  "spokesperson": "Mária Pietrová"
 }

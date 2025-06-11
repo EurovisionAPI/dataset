@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "GR",
-  "broadcaster": "ERT",
   "artist": "Yiannis Dimitras",
-  "artistPeople": [
-    "Yiannis Dimitras"
-  ],
   "song": "Feggari kalokerino",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-cuf1yoHO0Y",
@@ -14,21 +10,26 @@
   ],
   "bpm": 91,
   "tone": "B minor",
+  "artistPeople": [
+    "Yiannis Dimitras"
+  ],
   "backings": [
     "Sofia Houndra"
   ],
-  "commentators": [
-    "Mako Georgiadou"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Giorgos Niachros"
   ],
   "conductor": "Giorgos Niachros",
-  "dancers": null,
   "lyricists": [
     "Yiannis Dimitras"
   ],
-  "spokesperson": "Tatiana Darra",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Mako Georgiadou"
+  ],
+  "jury": null,
+  "spokesperson": "Tatiana Darra"
 }

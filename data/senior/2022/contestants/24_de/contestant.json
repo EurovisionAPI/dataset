@@ -1,11 +1,7 @@
 {
   "id": 24,
   "country": "DE",
-  "broadcaster": "NDR",
   "artist": "Malik Harris",
-  "artistPeople": [
-    "Malik Harris"
-  ],
   "song": "Rockstars",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/2BYIou-oWXA",
@@ -18,19 +14,24 @@
   ],
   "bpm": 81,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Peter Urban"
+  "artistPeople": [
+    "Malik Harris"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Dan Shipton, Marvin Dietmann",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Barbara Schöneberger",
-  "stageDirector": "Dan Shipton, Marvin Dietmann",
   "writers": [
     "Malik Harris",
     "Marie Kobylka",
     "Robin Karow"
-  ]
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Barbara Schöneberger"
 }

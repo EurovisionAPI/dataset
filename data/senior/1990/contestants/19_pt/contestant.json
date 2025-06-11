@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Nucha",
-  "artistPeople": [
-    "Cristina Baldaia"
-  ],
   "song": "Há sempre alguém",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/n-UJicNjoFg",
@@ -14,6 +10,9 @@
   ],
   "bpm": 115,
   "tone": "D major",
+  "artistPeople": [
+    "Cristina Baldaia"
+  ],
   "backings": [
     "Carla Burity",
     "Fernanda Lopes",
@@ -21,20 +20,22 @@
     "Octávio de Sousa",
     "Paula Monteiro"
   ],
-  "commentators": [
-    "Ana do Carmo"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jan van Dijck",
     "Luís Filipe"
   ],
   "conductor": "Carlos Alberto Moniz",
-  "dancers": null,
   "lyricists": [
     "Francisco Teotónio Pereira",
     "Frederico Teotónio Pereira"
   ],
-  "spokesperson": "João Abel da Fonseca",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Ana do Carmo"
+  ],
+  "jury": null,
+  "spokesperson": "João Abel da Fonseca"
 }

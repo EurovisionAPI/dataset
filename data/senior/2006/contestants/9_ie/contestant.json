@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Brian Kennedy",
-  "artistPeople": [
-    "Brian Edward Patrick Kennedy"
-  ],
   "song": "Every Song Is A Cry For Love",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/6BzFlczwSf8",
@@ -13,22 +9,27 @@
   ],
   "bpm": 133,
   "tone": "G major",
+  "artistPeople": [
+    "Brian Edward Patrick Kennedy"
+  ],
   "backings": [
     "Callum McColl",
     "Fran King",
     "Paula Gilbert",
     "Una Healy"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Brian Kennedy"
+  ],
+  "broadcaster": "RTÉ",
   "commentators": [
     "Marty Whelan"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Eimear Quinn",
-  "stageDirector": null,
-  "writers": [
-    "Brian Kennedy"
-  ]
+  "jury": null,
+  "spokesperson": "Eimear Quinn"
 }

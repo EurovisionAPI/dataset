@@ -1,14 +1,7 @@
 {
   "id": 17,
   "country": "TR",
-  "broadcaster": "TRT",
   "artist": "Modern Folk Trio & Ayşegül",
-  "artistPeople": [
-    "Ahmet Kurtaran",
-    "Ayşegül Aldinç",
-    "Doğan Canku",
-    "Selami Karaibrahimgil"
-  ],
   "song": "Dönme Dolap",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/4ktcsqjL6yg",
@@ -17,17 +10,25 @@
   ],
   "bpm": 103,
   "tone": "Bb major",
+  "artistPeople": [
+    "Ahmet Kurtaran",
+    "Ayşegül Aldinç",
+    "Doğan Canku",
+    "Selami Karaibrahimgil"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Onno Tunç",
+  "lyricists": null,
+  "writers": [
+    "Ali Kocatepe"
+  ],
+  "broadcaster": "TRT",
   "commentators": [
     "Bülend Özveren"
   ],
-  "composers": null,
-  "conductor": "Onno Tunç",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Başak Doğru",
-  "stageDirector": null,
-  "writers": [
-    "Ali Kocatepe"
-  ]
+  "jury": null,
+  "spokesperson": "Başak Doğru"
 }

@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Kate Gulbrandsen",
-  "artistPeople": [
-    "Kate Gulbrandsen"
-  ],
   "song": "Mitt liv",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/pSvYltrdjQk",
@@ -15,25 +11,30 @@
   ],
   "bpm": 172,
   "tone": "C# major",
+  "artistPeople": [
+    "Kate Gulbrandsen"
+  ],
   "backings": [
     "Amund Enger",
     "Kari Iveland",
     "Trygve Rasmussen"
   ],
-  "commentators": [
-    "John Andreassen",
-    "Tor Paulsen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Rolf Løvland"
   ],
   "conductor": "Terje Fjærn",
-  "dancers": null,
   "lyricists": [
     "Hanne Krogh",
     "Rolf Løvland"
   ],
-  "spokesperson": "Sverre Christophersen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "John Andreassen",
+    "Tor Paulsen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
 }

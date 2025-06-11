@@ -1,12 +1,7 @@
 {
   "id": 4,
   "country": "SE",
-  "broadcaster": "SR",
   "artist": "The Nova and The Dolls",
-  "artistPeople": [
-    "Claes af Geijerstam",
-    "Göran Fristorp"
-  ],
   "song": "You're Summer",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/qkhqOPmMMEY",
@@ -16,24 +11,30 @@
   ],
   "bpm": 163,
   "tone": "G major",
+  "artistPeople": [
+    "Claes af Geijerstam",
+    "Göran Fristorp"
+  ],
   "backings": [
     "Annica Risberg",
     "Kerstin Bagge",
     "Kerstin Dahl"
   ],
-  "commentators": [
-    "Alicia Lundberg"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Carl-Axel Dominique",
     "Monica Dominique"
   ],
   "conductor": "Monica Dominique",
-  "dancers": null,
   "lyricists": [
     "Lars Forssell"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Alicia Lundberg"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

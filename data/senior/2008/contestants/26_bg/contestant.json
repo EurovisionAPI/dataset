@@ -1,15 +1,7 @@
 {
   "id": 26,
   "country": "BG",
-  "broadcaster": "BNT",
   "artist": "Deep Zone & Balthazar",
-  "artistPeople": [
-    "Dian Savov",
-    "DJ Balthazar",
-    "Lyubomir Savov",
-    "Rosen Stoev",
-    "Yoanna Dragneva"
-  ],
   "song": "DJ, Take Me Away",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/yXSRbgM8cvs",
@@ -22,18 +14,27 @@
   ],
   "bpm": 130,
   "tone": "Bb major",
+  "artistPeople": [
+    "Dian Savov",
+    "DJ Balthazar",
+    "Lyubomir Savov",
+    "Rosen Stoev",
+    "Yoanna Dragneva"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Dian Savov"
+  ],
+  "broadcaster": "BNT",
   "commentators": [
     "Elena Rosberg",
     "Georgi Kushvaliev"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Valentina Voykova",
-  "stageDirector": null,
-  "writers": [
-    "Dian Savov"
-  ]
+  "jury": null,
+  "spokesperson": "Valentina Voykova"
 }

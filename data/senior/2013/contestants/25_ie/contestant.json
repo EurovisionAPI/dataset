@@ -1,34 +1,35 @@
 {
   "id": 25,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Ryan Dolan",
-  "artistPeople": [
-    "Ryan Dolan"
-  ],
   "song": "Only Love Survives",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/4tgtyl_5x5Y"
   ],
   "bpm": 128,
   "tone": "F# major",
+  "artistPeople": [
+    "Ryan Dolan"
+  ],
   "backings": [
     "Alan McGrath",
     "Colm Farrel",
     "Leanne Moore",
     "Nicky Bailey"
   ],
-  "commentators": [
-    "Marty Whelan"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Nicky Byrne",
-  "stageDirector": null,
   "writers": [
     "Ryan Dolan",
     "Wez Devine"
-  ]
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Nicky Byrne"
 }

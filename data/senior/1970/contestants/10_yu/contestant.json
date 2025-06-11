@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "YU",
-  "broadcaster": "JRT",
   "artist": "Eva Sršen",
-  "artistPeople": [
-    "Eva Sršen"
-  ],
   "song": "Pridi, dala ti bom cvet",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Pi3xEwDI1kU",
@@ -13,21 +9,26 @@
   ],
   "bpm": 106,
   "tone": "Eb minor",
+  "artistPeople": [
+    "Eva Sršen"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mojmir Sepe"
+  ],
+  "conductor": "Mojmir Sepe",
+  "lyricists": [
+    "Dušan Velkaverh"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
   "commentators": [
     "Milovan Ilić",
     "Oliver Mlakar",
     "Tomaž Terček"
   ],
-  "composers": [
-    "Mojmir Sepe"
-  ],
-  "conductor": "Mojmir Sepe",
-  "dancers": null,
-  "lyricists": [
-    "Dušan Velkaverh"
-  ],
-  "spokesperson": "Dragana Marković",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Dragana Marković"
 }

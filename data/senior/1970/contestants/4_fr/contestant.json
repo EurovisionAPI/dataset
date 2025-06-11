@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "FR",
-  "broadcaster": "ORTF",
   "artist": "Guy Bonnet",
-  "artistPeople": [
-    "Guy Bonnet"
-  ],
   "song": "Marie-Blanche",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/r3c9eeVsqCk",
@@ -15,19 +11,24 @@
   ],
   "bpm": 107,
   "tone": "C# major",
-  "backings": null,
-  "commentators": [
-    "Pierre Tchernia"
+  "artistPeople": [
+    "Guy Bonnet"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Guy Bonnet"
   ],
   "conductor": "Franck Pourcel",
-  "dancers": null,
   "lyricists": [
     "André-Pierre Dousset"
   ],
-  "spokesperson": "Jean-Claude Massoulier",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Claude Massoulier"
 }

@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Serafin",
-  "artistPeople": [
-    "Serafín Lizoain Vidondo"
-  ],
   "song": "Todo esto es la música",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/X2gWIT3WUBY",
@@ -13,6 +9,9 @@
   ],
   "bpm": 134,
   "tone": "Bb major",
+  "artistPeople": [
+    "Serafín Lizoain Vidondo"
+  ],
   "backings": [
     "Adolfo Rodríguez",
     "Ernesto Baquero",
@@ -20,19 +19,21 @@
     "Manuel Rodríguez",
     "María Lar"
   ],
-  "commentators": [
-    "José Luis Uribarri"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Alfredo Valbuena",
     "Luis Miguélez"
   ],
   "conductor": "Javier Losada",
-  "dancers": null,
   "lyricists": [
     "Luis Miguélez"
   ],
-  "spokesperson": "María Ángeles Balañac",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "María Ángeles Balañac"
 }

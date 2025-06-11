@@ -1,11 +1,7 @@
 {
   "id": 35,
   "country": "BY",
-  "broadcaster": "BTRC",
   "artist": "Polina Smolova",
-  "artistPeople": [
-    "Polina Smolova"
-  ],
   "song": "Mum",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/jkGqAU3m-jw",
@@ -14,19 +10,24 @@
   ],
   "bpm": 127,
   "tone": "E minor",
-  "backings": null,
-  "commentators": [
-    "Denis Kurian"
+  "artistPeople": [
+    "Polina Smolova"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Sergey Sukhomlin"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Andrey Kostiugov"
   ],
-  "spokesperson": "Corrianna",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Denis Kurian"
+  ],
+  "jury": null,
+  "spokesperson": "Corrianna"
 }

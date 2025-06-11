@@ -1,12 +1,7 @@
 {
   "id": 14,
   "country": "BA",
-  "broadcaster": "RTVBIH",
   "artist": "Alma & Dejan",
-  "artistPeople": [
-    "Alma Čardžić",
-    "Dejan Lazarević"
-  ],
   "song": "Ostani kraj mene",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/9t-ptOfHvtQ",
@@ -16,19 +11,25 @@
   ],
   "bpm": 94,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Ismeta Dervoz-Krvavac"
+  "artistPeople": [
+    "Alma Čardžić",
+    "Dejan Lazarević"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Adi Mulahalilović"
   ],
   "conductor": "Sinan Alimanović",
-  "dancers": null,
   "lyricists": [
     "Edo Mulahalilović"
   ],
-  "spokesperson": "Diana Grković-Foretić",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTVBIH",
+  "commentators": [
+    "Ismeta Dervoz-Krvavac"
+  ],
+  "jury": null,
+  "spokesperson": "Diana Grković-Foretić"
 }

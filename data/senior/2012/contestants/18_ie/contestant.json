@@ -1,12 +1,7 @@
 {
   "id": 18,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Jedward",
-  "artistPeople": [
-    "Edward Peter Anthony Kevin Patrick Grimes",
-    "John Paul Henry Daniel Richard Grimes"
-  ],
   "song": "Waterline",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/e1cuimKLNpU",
@@ -16,23 +11,29 @@
   ],
   "bpm": 144,
   "tone": "Bb major",
+  "artistPeople": [
+    "Edward Peter Anthony Kevin Patrick Grimes",
+    "John Paul Henry Daniel Richard Grimes"
+  ],
   "backings": [
     "Claire O'Malley",
     "Julian Edwards",
     "Leanne Moore",
     "Shane Creevey"
   ],
-  "commentators": [
-    "Marty Whelan"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Gráinne Seoige",
-  "stageDirector": null,
   "writers": [
     "Nick Jarl",
     "Sharon Vaughn"
-  ]
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Gráinne Seoige"
 }

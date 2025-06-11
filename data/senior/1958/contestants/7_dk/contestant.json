@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "DK",
-  "broadcaster": "DSR",
   "artist": "Raquel Rastenni",
-  "artistPeople": [
-    "Anna Rachel Rastén"
-  ],
   "song": "Jeg rev et blad ud af min dagbog",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/q30asQ45nyA",
@@ -13,18 +9,23 @@
   ],
   "bpm": 143,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "Gunnar Nu Hansen"
+  "artistPeople": [
+    "Anna Rachel Rastén"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Kai Mortensen",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Svend Pedersen",
-  "stageDirector": null,
   "writers": [
     "Harry Jensen",
     "Sven Ulrik"
-  ]
+  ],
+  "broadcaster": "DSR",
+  "commentators": [
+    "Gunnar Nu Hansen"
+  ],
+  "jury": null,
+  "spokesperson": "Svend Pedersen"
 }

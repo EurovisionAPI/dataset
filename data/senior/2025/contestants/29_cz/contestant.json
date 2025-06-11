@@ -1,11 +1,7 @@
 {
   "id": 29,
   "country": "CZ",
-  "broadcaster": "ČT",
   "artist": "Adonxs",
-  "artistPeople": [
-    "Adam Pavlovčin"
-  ],
   "song": "Kiss Kiss Goodbye",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/hdxna1DC7yo",
@@ -18,13 +14,19 @@
   ],
   "bpm": 186,
   "tone": "A minor",
+  "artistPeople": [
+    "Adam Pavlovčin"
+  ],
   "backings": [
     "Ben Moon"
   ],
-  "commentators": [
-    "Aiko",
-    "Ondřej Cikán"
+  "dancers": [
+    "Fanda Čech",
+    "Michal Černý",
+    "Mirek Košík",
+    "Shaquille Lloyd Brush"
   ],
+  "stageDirector": "Matyáš Vorda",
   "composers": [
     "Adam Pavlovčin",
     "Adriano Lopes da Silva",
@@ -35,19 +37,18 @@
     "Ronald Janeček"
   ],
   "conductor": null,
-  "dancers": [
-    "Fanda Čech",
-    "Michal Černý",
-    "Mirek Košík",
-    "Shaquille Lloyd Brush"
-  ],
   "lyricists": [
     "Adam Pavlovčin",
     "Adriano Lopes da Silva",
     "Inés Coulon",
     "Michaela Charvátová"
   ],
-  "spokesperson": "Radka Rosická",
-  "stageDirector": "Matyáš Vorda",
-  "writers": null
+  "writers": null,
+  "broadcaster": "ČT",
+  "commentators": [
+    "Aiko",
+    "Ondřej Cikán"
+  ],
+  "jury": null,
+  "spokesperson": "Radka Rosická"
 }

@@ -1,11 +1,7 @@
 {
   "id": 20,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Rui Bandeira",
-  "artistPeople": [
-    "Rui Pedro Neto de Melo Bandeira"
-  ],
   "song": "Como tudo começou",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/NyMiRXGrA-I",
@@ -14,6 +10,9 @@
   ],
   "bpm": 128,
   "tone": "D major",
+  "artistPeople": [
+    "Rui Pedro Neto de Melo Bandeira"
+  ],
   "backings": [
     "Carlos Gonçalves",
     "Fernanda Lopes",
@@ -21,18 +20,20 @@
     "Jorge do Carmo",
     "Tó Andrade"
   ],
-  "commentators": [
-    "Rui Unas"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jorge do Carmo"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Tó Andrade"
   ],
-  "spokesperson": "Manuel Luís Goucha",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Rui Unas"
+  ],
+  "jury": null,
+  "spokesperson": "Manuel Luís Goucha"
 }

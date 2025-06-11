@@ -1,11 +1,7 @@
 {
   "id": 37,
   "country": "AD",
-  "broadcaster": "RTVA",
   "artist": "Gisela",
-  "artistPeople": [
-    "Gisela Lladó Cánovas"
-  ],
   "song": "Casanova",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/lUs3WNB-v44",
@@ -15,18 +11,23 @@
   ],
   "bpm": 138,
   "tone": "F# major",
+  "artistPeople": [
+    "Gisela Lladó Cánovas"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jordi Cubino"
+  ],
+  "broadcaster": "RTVA",
   "commentators": [
     "Josep Lluís Trabal",
     "Meri Picart"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Alfred Llahí",
-  "stageDirector": null,
-  "writers": [
-    "Jordi Cubino"
-  ]
+  "jury": null,
+  "spokesperson": "Alfred Llahí"
 }

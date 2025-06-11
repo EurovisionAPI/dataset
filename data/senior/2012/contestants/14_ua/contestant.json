@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "UA",
-  "broadcaster": "NTU",
   "artist": "Gaitana",
-  "artistPeople": [
-    "Gaitana Lurdes"
-  ],
   "song": "Be My Guest",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/sLsTn_li5d8",
@@ -17,25 +13,30 @@
   ],
   "bpm": 128,
   "tone": "Bb major",
+  "artistPeople": [
+    "Gaitana Lurdes"
+  ],
   "backings": [
     "Alexander Flomboym",
     "Andrej Gutsal"
   ],
-  "commentators": [
-    "Tetyana Terekhova",
-    "Timur Miroshnychenko"
-  ],
+  "dancers": null,
+  "stageDirector": "Olha Semeshkina",
   "composers": [
     "Alex Nabrodov",
     "Gaitana",
     "Igor Nikolayev"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Gaitana"
   ],
-  "spokesperson": "Oleksiy Matias",
-  "stageDirector": "Olha Semeshkina",
-  "writers": null
+  "writers": null,
+  "broadcaster": "NTU",
+  "commentators": [
+    "Tetyana Terekhova",
+    "Timur Miroshnychenko"
+  ],
+  "jury": null,
+  "spokesperson": "Oleksiy Matias"
 }

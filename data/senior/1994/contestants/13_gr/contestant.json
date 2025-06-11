@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "GR",
-  "broadcaster": "ERT",
   "artist": "Costas Bigalis and the Sea Lovers",
-  "artistPeople": [
-    "Kostas Bigalis"
-  ],
   "song": "To Trehantiri",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/0lpwU9-2Y6Y",
@@ -13,6 +9,9 @@
   ],
   "bpm": 172,
   "tone": "A major",
+  "artistPeople": [
+    "Kostas Bigalis"
+  ],
   "backings": [
     "Akis Tourkogiorgis",
     "Antonis Tourkogiorgis",
@@ -20,16 +19,18 @@
     "Vassilis Roussis",
     "Victoria Halkiti"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Kostas Bigalis"
+  ],
+  "broadcaster": "ERT",
   "commentators": [
     "Dafni Bokota"
   ],
-  "composers": null,
-  "conductor": "Noel Kelehan",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Fotini Giannoulatou",
-  "stageDirector": null,
-  "writers": [
-    "Kostas Bigalis"
-  ]
+  "jury": null,
+  "spokesperson": "Fotini Giannoulatou"
 }

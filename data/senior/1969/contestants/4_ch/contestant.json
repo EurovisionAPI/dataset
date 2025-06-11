@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Paola del Medico",
-  "artistPeople": [
-    "Paola"
-  ],
   "song": "Bonjour, Bonjour",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/7bXAxj0fYhk",
@@ -14,21 +10,26 @@
   ],
   "bpm": 109,
   "tone": "Ab major",
+  "artistPeople": [
+    "Paola"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Henry Mayer"
+  ],
+  "conductor": "Henry Mayer",
+  "lyricists": [
+    "Jack Stark"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Georges Hardy",
     "Giovanni Bertini",
     "Theodor Haller"
   ],
-  "composers": [
-    "Henry Mayer"
-  ],
-  "conductor": "Henry Mayer",
-  "dancers": null,
-  "lyricists": [
-    "Jack Stark"
-  ],
-  "spokesperson": "Alexandre Burger",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Alexandre Burger"
 }

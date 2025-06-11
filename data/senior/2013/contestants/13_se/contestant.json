@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Robin Stjernberg",
-  "artistPeople": [
-    "Robin James Olof Stjernberg"
-  ],
   "song": "You",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/vtjdTPnCcu0",
@@ -13,27 +9,32 @@
   ],
   "bpm": 126,
   "tone": "F# major",
+  "artistPeople": [
+    "Robin James Olof Stjernberg"
+  ],
   "backings": [
     "Dea Norberg",
     "Johan Boding"
   ],
-  "commentators": [
-    "Josefine Sundström"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Anna Holmström",
     "João Assunção",
     "Juan Ramón Fuenzalida"
   ],
-  "lyricists": null,
-  "spokesperson": "Yohio",
   "stageDirector": "Ambra Succi",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Joakim Harestad Haukaas",
     "Joy Deb",
     "Linnea Deb",
     "Robin Stjernberg"
-  ]
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Josefine Sundström"
+  ],
+  "jury": null,
+  "spokesperson": "Yohio"
 }

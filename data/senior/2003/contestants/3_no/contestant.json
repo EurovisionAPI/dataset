@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Jostein Hasselgård",
-  "artistPeople": [
-    "Jostein Hasselgård"
-  ],
   "song": "I'm Not Afraid To Move On",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/KuxMly_F75M",
@@ -14,21 +10,26 @@
   ],
   "bpm": 152,
   "tone": "C major",
+  "artistPeople": [
+    "Jostein Hasselgård"
+  ],
   "backings": [
     "Åse Karin Hjelen",
     "Håvard Gryting"
   ],
-  "commentators": [
-    "Jostein Pedersen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Roald Øyen",
-  "stageDirector": null,
   "writers": [
     "Arve Furset",
     "VJ Strøm"
-  ]
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "jury": null,
+  "spokesperson": "Roald Øyen"
 }

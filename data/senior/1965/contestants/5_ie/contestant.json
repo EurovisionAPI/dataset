@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "IE",
-  "broadcaster": "RÉ",
   "artist": "Butch Moore",
-  "artistPeople": [
-    "Butch Moore"
-  ],
   "song": "I'm Walking the Streets in the Rain",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/S7oLCg2Auv4",
@@ -13,20 +9,25 @@
   ],
   "bpm": 101,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Bunny Carr"
+  "artistPeople": [
+    "Butch Moore"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "George Prendergast",
     "Joe Harrigan"
   ],
   "conductor": "Gianni Ferrio",
-  "dancers": null,
   "lyricists": [
     "Teresa Conlon"
   ],
-  "spokesperson": "Frank Hall",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RÉ",
+  "commentators": [
+    "Bunny Carr"
+  ],
+  "jury": null,
+  "spokesperson": "Frank Hall"
 }

@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "TR",
-  "broadcaster": "TRT",
   "artist": "Kenan Doğulu",
-  "artistPeople": [
-    "Kenan Doğulu"
-  ],
   "song": "Shake It Up Şekerim",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/pSs1XHuFfuQ",
@@ -13,6 +9,9 @@
   ],
   "bpm": 108,
   "tone": "F minor",
+  "artistPeople": [
+    "Kenan Doğulu"
+  ],
   "backings": [
     "Charlie Mayhew",
     "Dominique Tipper",
@@ -20,16 +19,18 @@
     "Murat Çekem",
     "Sarah Merry"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Kenan Doğulu"
+  ],
+  "broadcaster": "TRT",
   "commentators": [
     "Hakan Urgancı"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Meltem Ersan Yazgan",
-  "stageDirector": null,
-  "writers": [
-    "Kenan Doğulu"
-  ]
+  "jury": null,
+  "spokesperson": "Meltem Ersan Yazgan"
 }

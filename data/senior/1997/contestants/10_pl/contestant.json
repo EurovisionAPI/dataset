@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "PL",
-  "broadcaster": "TVP",
   "artist": "Anna Maria Jopek",
-  "artistPeople": [
-    "Anna Maria Jopek"
-  ],
   "song": "Ale jestem",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/m9DYL4B8OXA",
@@ -14,23 +10,28 @@
   ],
   "bpm": 108,
   "tone": "A major",
+  "artistPeople": [
+    "Anna Maria Jopek"
+  ],
   "backings": [
     "Agnieszka Piotrowska",
     "Dorota Miśkiewicz",
     "Robert Amirian"
   ],
-  "commentators": [
-    "Jan Wilkans"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Tomasz Lewandowski"
   ],
   "conductor": "Krzesimir Debski",
-  "dancers": null,
   "lyricists": [
     "Magda Czapińska"
   ],
-  "spokesperson": "Jan Chojnacki",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Jan Wilkans"
+  ],
+  "jury": null,
+  "spokesperson": "Jan Chojnacki"
 }

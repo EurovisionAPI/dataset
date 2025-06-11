@@ -1,14 +1,7 @@
 {
   "id": 30,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Reddi",
-  "artistPeople": [
-    "Agnes Roslund",
-    "Ida Bergkvist",
-    "Ihan Haydar",
-    "Siggy Savery"
-  ],
   "song": "The Show",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/cVg6MpVR2Pw",
@@ -19,13 +12,17 @@
   ],
   "bpm": 185,
   "tone": "C major",
+  "artistPeople": [
+    "Agnes Roslund",
+    "Ida Bergkvist",
+    "Ihan Haydar",
+    "Siggy Savery"
+  ],
   "backings": [
     "Jeanette Bonde"
   ],
-  "commentators": [
-    "Henrik Milling",
-    "Nicolai Molbech"
-  ],
+  "dancers": null,
+  "stageDirector": "Birgitte Næss-Schmidt",
   "composers": [
     "Chief 1",
     "Ihan Haydar",
@@ -33,13 +30,17 @@
     "Siggy Savery"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Ihan Haydar",
     "Julia Fabrin",
     "Siggy Savery"
   ],
-  "spokesperson": "Tina Müller",
-  "stageDirector": "Birgitte Næss-Schmidt",
-  "writers": null
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Henrik Milling",
+    "Nicolai Molbech"
+  ],
+  "jury": null,
+  "spokesperson": "Tina Müller"
 }

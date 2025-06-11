@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "FR",
-  "broadcaster": "RTF",
   "artist": "Dany Dauberson",
-  "artistPeople": [
-    "Suzanne Marguerite Renée Gauche"
-  ],
   "song": "Il est là",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/c4EpfbOZVZA",
@@ -13,17 +9,22 @@
   ],
   "bpm": 151,
   "tone": "G minor",
+  "artistPeople": [
+    "Suzanne Marguerite Renée Gauche"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Franck Pourcel",
+  "lyricists": null,
+  "writers": [
+    "Simone Vallauris"
+  ],
+  "broadcaster": "RTF",
   "commentators": [
     "Michelle Rebel"
   ],
-  "composers": null,
-  "conductor": "Franck Pourcel",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": [
-    "Simone Vallauris"
-  ]
+  "jury": null,
+  "spokesperson": null
 }

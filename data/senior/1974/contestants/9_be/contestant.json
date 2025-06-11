@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "BE",
-  "broadcaster": "RTB",
   "artist": "Jacques Hustin",
-  "artistPeople": [
-    "Jacques Hustin"
-  ],
   "song": "Fleur de liberté",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/G2kzBupIjC8",
@@ -15,6 +11,9 @@
   ],
   "bpm": 178,
   "tone": "B major",
+  "artistPeople": [
+    "Jacques Hustin"
+  ],
   "backings": [
     "Doreen Chanter",
     "Irene Chanter",
@@ -22,19 +21,21 @@
     "Margo Quantrell",
     "Vicki Brown"
   ],
-  "commentators": [
-    "Georges Désir",
-    "Herman Verelst"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jacques Hustin"
   ],
   "conductor": "Pierre Chiffre",
-  "dancers": null,
   "lyricists": [
     "Franck F. Gérald"
   ],
-  "spokesperson": "André Hagon",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTB",
+  "commentators": [
+    "Georges Désir",
+    "Herman Verelst"
+  ],
+  "jury": null,
+  "spokesperson": "André Hagon"
 }

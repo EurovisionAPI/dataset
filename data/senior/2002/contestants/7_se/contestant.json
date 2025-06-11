@@ -1,13 +1,7 @@
 {
   "id": 7,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Afro-dite",
-  "artistPeople": [
-    "Blossom Tainton",
-    "Gladys del Pilar",
-    "Kayo Shekoni"
-  ],
   "song": "Never Let It Go",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/bbWBSpf-7Eo",
@@ -18,22 +12,29 @@
   ],
   "bpm": 138,
   "tone": "Ab major",
+  "artistPeople": [
+    "Blossom Tainton",
+    "Gladys del Pilar",
+    "Kayo Shekoni"
+  ],
   "backings": [
     "Emma Holmberg",
     "Micke Blomqvist",
     "Therese Löf"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Marcos Ubeda"
+  ],
+  "broadcaster": "SVT",
   "commentators": [
     "Christer Björkman",
     "Claes Åkesson"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Kristin Kaspersen",
-  "stageDirector": null,
-  "writers": [
-    "Marcos Ubeda"
-  ]
+  "jury": null,
+  "spokesperson": "Kristin Kaspersen"
 }

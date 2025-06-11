@@ -1,13 +1,7 @@
 {
   "id": 24,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "ESDM",
-  "artistPeople": [
-    "David Feito",
-    "Juan Luis Suárez",
-    "Raquel del Rosario"
-  ],
   "song": "Contigo hasta el final",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5o_DnM_ANF8",
@@ -16,23 +10,30 @@
   ],
   "bpm": 156,
   "tone": "C# major",
+  "artistPeople": [
+    "David Feito",
+    "Juan Luis Suárez",
+    "Raquel del Rosario"
+  ],
   "backings": [
     "Javi Mendéz",
     "Mey Green",
     "Milena Brody"
   ],
-  "commentators": [
-    "José María Íñigo"
-  ],
+  "dancers": null,
+  "stageDirector": "Pedro Castro",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Inés Paz",
-  "stageDirector": "Pedro Castro",
   "writers": [
     "David Feito",
     "Juan Luis Suárez",
     "Raquel del Rosario"
-  ]
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José María Íñigo"
+  ],
+  "jury": null,
+  "spokesperson": "Inés Paz"
 }

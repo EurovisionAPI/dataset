@@ -1,11 +1,7 @@
 {
   "id": 20,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Ketil Stokkan",
-  "artistPeople": [
-    "Ketil Stokkan"
-  ],
   "song": "Brandenburger Tor",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Ip1BpdO9G5Y",
@@ -14,6 +10,9 @@
   ],
   "bpm": 121,
   "tone": "C major",
+  "artistPeople": [
+    "Ketil Stokkan"
+  ],
   "backings": [
     "Eirik Sørdahl",
     "Geir Nordheim",
@@ -21,16 +20,18 @@
     "Ketil Hugo Johansen",
     "Pernilla Emme"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Pete Knutsen",
+  "lyricists": null,
+  "writers": [
+    "Ketil Stokkan"
+  ],
+  "broadcaster": "NRK",
   "commentators": [
     "Leif Erik Forberg"
   ],
-  "composers": null,
-  "conductor": "Pete Knutsen",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Sverre Christophersen",
-  "stageDirector": null,
-  "writers": [
-    "Ketil Stokkan"
-  ]
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
 }

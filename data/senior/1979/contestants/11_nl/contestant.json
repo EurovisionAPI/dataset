@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Xandra",
-  "artistPeople": [
-    "Barbara Alexandra Reemer"
-  ],
   "song": "Colorado",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/18itteeU7ps",
@@ -16,6 +12,9 @@
   ],
   "bpm": 136,
   "tone": "G major",
+  "artistPeople": [
+    "Barbara Alexandra Reemer"
+  ],
   "backings": [
     "Ferdy Lancee",
     "Mac Sell",
@@ -23,19 +22,21 @@
     "Paul Vink",
     "Ton op 't Hof"
   ],
-  "commentators": [
-    "Willem Duys"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Rob Bolland"
   ],
   "conductor": "Harry van Hoof",
-  "dancers": null,
   "lyricists": [
     "Ferdi Bolland",
     "Gerard Cox"
   ],
-  "spokesperson": "Ivo Niehe",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Ivo Niehe"
 }

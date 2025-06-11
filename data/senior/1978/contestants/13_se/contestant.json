@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "SE",
-  "broadcaster": "SR",
   "artist": "Björn Skifs",
-  "artistPeople": [
-    "Björn Skifs"
-  ],
   "song": "Det blir alltid värre framåt natten",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/RmnxOIbkxXI",
@@ -16,20 +12,25 @@
   ],
   "bpm": 162,
   "tone": "F major",
+  "artistPeople": [
+    "Björn Skifs"
+  ],
   "backings": [
     "Mikael 'Micke' Rickfors",
     "Peter Lundblad"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Bengt Palmers",
+  "lyricists": null,
+  "writers": [
+    "Peter Himmelstrand"
+  ],
+  "broadcaster": "SR",
   "commentators": [
     "Ulf Elfving"
   ],
-  "composers": null,
-  "conductor": "Bengt Palmers",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Sven Lindahl",
-  "stageDirector": null,
-  "writers": [
-    "Peter Himmelstrand"
-  ]
+  "jury": null,
+  "spokesperson": "Sven Lindahl"
 }

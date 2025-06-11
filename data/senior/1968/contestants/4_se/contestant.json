@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "SE",
-  "broadcaster": "SR",
   "artist": "Claes-Göran Hederström",
-  "artistPeople": [
-    "Claes-Göran Hederström"
-  ],
   "song": "Det börjar verka kärlek, banne mej",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/c1IzEh6aTXU",
@@ -14,17 +10,22 @@
   ],
   "bpm": 92,
   "tone": "C# major",
+  "artistPeople": [
+    "Claes-Göran Hederström"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Mats Olsson",
+  "lyricists": null,
+  "writers": [
+    "Peter Himmelstrand"
+  ],
+  "broadcaster": "SR",
   "commentators": [
     "Christina Hansegård"
   ],
-  "composers": null,
-  "conductor": "Mats Olsson",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Edvard Matz",
-  "stageDirector": null,
-  "writers": [
-    "Peter Himmelstrand"
-  ]
+  "jury": null,
+  "spokesperson": "Edvard Matz"
 }

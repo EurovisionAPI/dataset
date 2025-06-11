@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "MC",
-  "broadcaster": "TMC",
   "artist": "Romuald",
-  "artistPeople": [
-    "Romuald Figuier"
-  ],
   "song": "Celui qui reste et celui qui s'en va",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/LLaL74ZTkU8",
@@ -13,24 +9,29 @@
   ],
   "bpm": 154,
   "tone": "C major",
+  "artistPeople": [
+    "Romuald Figuier"
+  ],
   "backings": [
     "Catherine Bonnevay",
     "Dominique Poulain",
     "Francine Chantereau",
     "Martine Latorre"
   ],
-  "commentators": [
-    "Pierre Tchernia"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jean-Pierre Bourtayre"
   ],
   "conductor": "Raymond Donnez",
-  "dancers": null,
   "lyricists": [
     "Michel Jourdan"
   ],
-  "spokesperson": "Sophie Hecquet",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "Sophie Hecquet"
 }

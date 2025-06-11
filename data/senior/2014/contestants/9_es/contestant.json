@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Ruth Lorenzo",
-  "artistPeople": [
-    "Ruth Lorenzo Pascual"
-  ],
   "song": "Dancing in the rain",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/LY4n5FUlfDQ",
@@ -14,24 +10,29 @@
   ],
   "bpm": 130,
   "tone": "C major",
+  "artistPeople": [
+    "Ruth Lorenzo Pascual"
+  ],
   "backings": [
     "Alana Sinkëy",
     "Awinnie MyBaby",
     "Mey Green",
     "Sandra Borrego"
   ],
-  "commentators": [
-    "José María Íñigo"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Carolina Casado",
-  "stageDirector": null,
   "writers": [
     "Jim Irvin",
     "Julian Emery",
     "Ruth Lorenzo"
-  ]
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José María Íñigo"
+  ],
+  "jury": null,
+  "spokesperson": "Carolina Casado"
 }

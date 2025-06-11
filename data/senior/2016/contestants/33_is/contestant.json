@@ -1,11 +1,7 @@
 {
   "id": 33,
   "country": "IS",
-  "broadcaster": "RÚV",
   "artist": "Greta Salóme",
-  "artistPeople": [
-    "Greta Salóme Stefánsdóttir"
-  ],
   "song": "Hear Them Calling",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/6osxLLPLUDk",
@@ -16,6 +12,9 @@
   ],
   "bpm": 133,
   "tone": "F major",
+  "artistPeople": [
+    "Greta Salóme Stefánsdóttir"
+  ],
   "backings": [
     "Gisli Magnason",
     "Hafsteinn Þórólfsson",
@@ -23,16 +22,18 @@
     "Lilja Björk Runólfsdóttir",
     "Pétur Örn Guðmundsson"
   ],
+  "dancers": null,
+  "stageDirector": "Ásgeir Helgi Magnússon, Jonathan Duffy",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Greta Salóme Stefánsdóttir"
+  ],
+  "broadcaster": "RÚV",
   "commentators": [
     "Gísli Marteinn Baldursson"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Unnsteinn Manuel Stefánsson",
-  "stageDirector": "Ásgeir Helgi Magnússon, Jonathan Duffy",
-  "writers": [
-    "Greta Salóme Stefánsdóttir"
-  ]
+  "jury": null,
+  "spokesperson": "Unnsteinn Manuel Stefánsson"
 }

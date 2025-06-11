@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Ellen Winther",
-  "artistPeople": [
-    "Ellen Winther"
-  ],
   "song": "Vuggevise",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/fdEXLuIFSrA",
@@ -13,19 +9,24 @@
   ],
   "bpm": 85,
   "tone": "Eb major",
-  "backings": null,
-  "commentators": [
-    "Skat Nørrevig"
+  "artistPeople": [
+    "Ellen Winther"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Kjeld Bonfils"
   ],
   "conductor": "Kai Mortensen",
-  "dancers": null,
   "lyricists": [
     "Sejr Volmer-Sørensen"
   ],
-  "spokesperson": "Ole Mortensen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Skat Nørrevig"
+  ],
+  "jury": null,
+  "spokesperson": "Ole Mortensen"
 }

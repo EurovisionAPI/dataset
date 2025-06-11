@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "UA",
-  "broadcaster": "NTU",
   "artist": "Mika Newton",
-  "artistPeople": [
-    "Oksana Stefanivna Hrytsay (Оксана Стефанівна Грицай)"
-  ],
   "song": "Angel",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/g_xRmEkR6KE",
@@ -18,20 +14,25 @@
   ],
   "bpm": 89,
   "tone": "F minor",
-  "backings": null,
-  "commentators": [
-    "Tetyana Terekhova",
-    "Timur Miroshnychenko"
+  "artistPeople": [
+    "Oksana Stefanivna Hrytsay (Оксана Стефанівна Грицай)"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Anatolii Zalevskyi",
   "composers": [
     "Maryna Skomorohova"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Ruslan Kvinta"
   ],
-  "spokesperson": "Ruslana",
-  "stageDirector": "Anatolii Zalevskyi",
-  "writers": null
+  "writers": null,
+  "broadcaster": "NTU",
+  "commentators": [
+    "Tetyana Terekhova",
+    "Timur Miroshnychenko"
+  ],
+  "jury": null,
+  "spokesperson": "Ruslana"
 }

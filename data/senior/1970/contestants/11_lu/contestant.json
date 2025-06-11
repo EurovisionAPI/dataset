@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "David-Alexandre Winter",
-  "artistPeople": [
-    "Leon Kleerekoper"
-  ],
   "song": "Je suis tombé du ciel",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/9-nTwltlavQ",
@@ -15,19 +11,24 @@
   ],
   "bpm": 124,
   "tone": "Eb major",
-  "backings": null,
-  "commentators": [
-    "Jacques Navadic"
+  "artistPeople": [
+    "Leon Kleerekoper"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Yves de Vriendt"
   ],
   "conductor": "Raymond Lefèvre",
-  "dancers": null,
   "lyricists": [
     "Eddy Marnay"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

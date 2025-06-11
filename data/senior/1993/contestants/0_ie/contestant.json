@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Niamh Kavanagh",
-  "artistPeople": [
-    "Niamh Kavanagh"
-  ],
   "song": "In Your Eyes",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Q60dg5w602o",
@@ -16,21 +12,26 @@
   ],
   "bpm": 139,
   "tone": "E major",
+  "artistPeople": [
+    "Niamh Kavanagh"
+  ],
   "backings": [
     "Garrett Wall",
     "Martina Tobin",
     "Patricia O'Neill"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Jimmy Walsh"
+  ],
+  "broadcaster": "RTÉ",
   "commentators": [
     "Pat Kenny"
   ],
-  "composers": null,
-  "conductor": "Noel Kelehan",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Eileen Dunne",
-  "stageDirector": null,
-  "writers": [
-    "Jimmy Walsh"
-  ]
+  "jury": null,
+  "spokesperson": "Eileen Dunne"
 }

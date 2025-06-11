@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Johnny Logan",
-  "artistPeople": [
-    "Seán Patrick Michael Sherrard"
-  ],
   "song": "What's Another Year",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/R7k1DH71bO8",
@@ -16,22 +12,27 @@
   ],
   "bpm": 97,
   "tone": "G major",
+  "artistPeople": [
+    "Seán Patrick Michael Sherrard"
+  ],
   "backings": [
     "Anne Bushnell",
     "Colin Tully",
     "John Curran",
     "Pat Reilly"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Shay Healy"
+  ],
+  "broadcaster": "RTÉ",
   "commentators": [
     "Larry Gogan"
   ],
-  "composers": null,
-  "conductor": "Noel Kelehan",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "David Heffernan",
-  "stageDirector": null,
-  "writers": [
-    "Shay Healy"
-  ]
+  "jury": null,
+  "spokesperson": "David Heffernan"
 }

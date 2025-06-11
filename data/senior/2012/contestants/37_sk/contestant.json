@@ -1,11 +1,7 @@
 {
   "id": 37,
   "country": "SK",
-  "broadcaster": "STV",
   "artist": "Max Jason Mai",
-  "artistPeople": [
-    "Miroslav Šmajda"
-  ],
   "song": "Don't Close Your Eyes",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/OTXz60794lI",
@@ -13,22 +9,27 @@
   ],
   "bpm": 162,
   "tone": "A major",
+  "artistPeople": [
+    "Miroslav Šmajda"
+  ],
   "backings": [
     "Branislav Jurnečka",
     "Radovan Gardian",
     "Samuel Jurnečka",
     "Tomas Gabris"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Miroslav Šmajda"
+  ],
+  "broadcaster": "STV",
   "commentators": [
     "Roman Bomboš"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Mária Pietrová",
-  "stageDirector": null,
-  "writers": [
-    "Miroslav Šmajda"
-  ]
+  "jury": null,
+  "spokesperson": "Mária Pietrová"
 }

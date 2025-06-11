@@ -1,14 +1,7 @@
 {
   "id": 4,
   "country": "GR",
-  "broadcaster": "ERT",
   "artist": "Pascalis, Marianna, Robert & Bessy",
-  "artistPeople": [
-    "Bessy Argyraki",
-    "Marianna Toli",
-    "Pascalis Arvanitidis",
-    "Robert Williams"
-  ],
   "song": "Mathima solfez",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ov6n4OkF7EE",
@@ -19,19 +12,27 @@
   ],
   "bpm": 147,
   "tone": "C minor",
-  "backings": null,
-  "commentators": [
-    "Mako Georgiadou"
+  "artistPeople": [
+    "Bessy Argyraki",
+    "Marianna Toli",
+    "Pascalis Arvanitidis",
+    "Robert Williams"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Giorgos Hatzinasios"
   ],
   "conductor": "Giorgos Hatzinasios",
-  "dancers": null,
   "lyricists": [
     "Sevy Tillaku"
   ],
-  "spokesperson": "Naki Agathou",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Mako Georgiadou"
+  ],
+  "jury": null,
+  "spokesperson": "Naki Agathou"
 }

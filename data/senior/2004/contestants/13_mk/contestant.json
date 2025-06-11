@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "MK",
-  "broadcaster": "MKRTV",
   "artist": "Toše Proeski",
-  "artistPeople": [
-    "Todor Proeski"
-  ],
   "song": "Life",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5_NX0usepUI",
@@ -15,21 +11,26 @@
   ],
   "bpm": 136,
   "tone": "A minor",
+  "artistPeople": [
+    "Todor Proeski"
+  ],
   "backings": [
     "Tamara Todevska"
   ],
-  "commentators": [
-    "Ivan Mircevski"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jovan Jovanov"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Ilija Nikolovski"
   ],
-  "spokesperson": "Karolina Petkovska",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Ivan Mircevski"
+  ],
+  "jury": null,
+  "spokesperson": "Karolina Petkovska"
 }

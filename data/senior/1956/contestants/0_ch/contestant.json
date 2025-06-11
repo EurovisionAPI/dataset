@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Lys Assia",
-  "artistPeople": [
-    "Rosa Mina Schärer"
-  ],
   "song": "Refrain",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/EXS3v09LKS8",
@@ -18,6 +14,9 @@
   ],
   "bpm": 105,
   "tone": "C major",
+  "artistPeople": [
+    "Rosa Mina Schärer"
+  ],
   "backings": [
     "Anita Traversi",
     "Athos Beretta",
@@ -25,18 +24,20 @@
     "Luciano Rezzonico",
     "Silvano Beretta"
   ],
-  "commentators": [
-    "Georges Hardy"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Géo Voumard"
   ],
   "conductor": "Fernando Paggi",
-  "dancers": null,
   "lyricists": [
     "Émile Gardaz"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

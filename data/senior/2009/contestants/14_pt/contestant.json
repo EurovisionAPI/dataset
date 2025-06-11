@@ -1,16 +1,7 @@
 {
   "id": 14,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Flor-de-lis",
-  "artistPeople": [
-    "Ana Sofia Campeã",
-    "Daniela Varela",
-    "Jorge Marques",
-    "José Camacho",
-    "Paulo Pereira",
-    "Pedro Marques"
-  ],
   "song": "Todas As Ruas Do Amor",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ryE2npWRICk",
@@ -19,20 +10,30 @@
   ],
   "bpm": 95,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Hélder Reis"
+  "artistPeople": [
+    "Ana Sofia Campeã",
+    "Daniela Varela",
+    "Jorge Marques",
+    "José Camacho",
+    "Paulo Pereira",
+    "Pedro Marques"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Pedro Marques"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Paulo Pereira",
     "Pedro Marques"
   ],
-  "spokesperson": "Helena Coelho",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Hélder Reis"
+  ],
+  "jury": null,
+  "spokesperson": "Helena Coelho"
 }

@@ -1,11 +1,7 @@
 {
   "id": 27,
   "country": "MD",
-  "broadcaster": "TRM",
   "artist": "Eduard Romanyuta",
-  "artistPeople": [
-    "Eduard Eduardovich Romanyuta"
-  ],
   "song": "I Want Your Love",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/px1MoZ0k7qY",
@@ -17,6 +13,9 @@
   ],
   "bpm": 103,
   "tone": "C# minor",
+  "artistPeople": [
+    "Eduard Eduardovich Romanyuta"
+  ],
   "backings": [
     "Aleksandr Ushakov",
     "Evgeni Kot",
@@ -24,18 +23,20 @@
     "Natalia Redchuk",
     "Nataliya Slisarenko"
   ],
-  "commentators": [
-    "Daniela Babici"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Olivia Furtună",
-  "stageDirector": null,
   "writers": [
     "Erik Lewander",
     "Hayley Aitken",
     "Tom Andrews"
-  ]
+  ],
+  "broadcaster": "TRM",
+  "commentators": [
+    "Daniela Babici"
+  ],
+  "jury": null,
+  "spokesperson": "Olivia Furtună"
 }

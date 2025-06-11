@@ -1,8 +1,14 @@
 {
   "id": 27,
   "country": "LT",
-  "broadcaster": "LRT",
   "artist": "InCulto",
+  "song": "Eastern European Funk",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XeOn-GG_eHo",
+    "https://www.youtube-nocookie.com/embed/KqU88ZBW0z8"
+  ],
+  "bpm": 134,
+  "tone": "E major",
   "artistPeople": [
     "Aurelijus Morlencas",
     "Jievaras Jasinskis",
@@ -11,28 +17,23 @@
     "Laurynas Lapė",
     "Šarūnas Kirdeikis"
   ],
-  "song": "Eastern European Funk",
-  "videoUrls": [
-    "https://www.youtube-nocookie.com/embed/XeOn-GG_eHo",
-    "https://www.youtube-nocookie.com/embed/KqU88ZBW0z8"
-  ],
-  "bpm": 134,
-  "tone": "E major",
   "backings": null,
-  "commentators": [
-    "Darius Užkuraitis"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Giedrius Masalskis",
-  "stageDirector": null,
   "writers": [
     "Aurelijus Morlencas",
     "Jievaras Jasinskis",
     "Jonas Narbutas",
     "Jurgis Didžiulis",
     "Laurynas Lapė"
-  ]
+  ],
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Giedrius Masalskis"
 }

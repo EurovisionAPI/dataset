@@ -6,11 +6,11 @@
   "intendedCountry": null,
   "slogan": "Come Together",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2016.png",
+  "broadcasters": [
+    "Sveriges Television (SVT)"
+  ],
   "presenters": [
     "Petra Mede",
     "Måns Zelmerlöw"
-  ],
-  "broadcasters": [
-    "Sveriges Television (SVT)"
   ]
 }

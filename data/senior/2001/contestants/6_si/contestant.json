@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "SI",
-  "broadcaster": "RTVSLO",
   "artist": "Nuša Derenda",
-  "artistPeople": [
-    "Anuška Žnideršič"
-  ],
   "song": "Energy",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/q1v5bbhBh9U",
@@ -15,25 +11,30 @@
   ],
   "bpm": 130,
   "tone": "F minor",
+  "artistPeople": [
+    "Anuška Žnideršič"
+  ],
   "backings": [
     "Gregor Luštek",
     "Lucienne Lončina",
     "Sebastjan Starič",
     "Urša Vlašič"
   ],
-  "commentators": [
-    "Andrea F"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Matjaž Vlašič"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Lucienne Lončina",
     "Urša Vlašič"
   ],
-  "spokesperson": "Mojca Mavec",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrea F"
+  ],
+  "jury": null,
+  "spokesperson": "Mojca Mavec"
 }

@@ -1,12 +1,7 @@
 {
   "id": 18,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Windows95man",
-  "artistPeople": [
-    "Henri Piispanen",
-    "Windows95man"
-  ],
   "song": "No Rules!",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/7nidDtyS0Wo",
@@ -19,10 +14,28 @@
   ],
   "bpm": 160,
   "tone": "B minor",
+  "artistPeople": [
+    "Henri Piispanen",
+    "Windows95man"
+  ],
   "backings": [
     "Jepa Lambert",
     "Teri Mantere"
   ],
+  "dancers": [
+    "Jasmir Vesander",
+    "Jesse Wijnans"
+  ],
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Henri Piispanen",
+    "Jussi Roine",
+    "Teemu Keisteri"
+  ],
+  "broadcaster": "YLE",
   "commentators": [
     "Aslak Paltto",
     "Eva Frantz",
@@ -31,18 +44,6 @@
     "Levan Tvaltvadze",
     "Mikko Silvennoinen"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": [
-    "Jasmir Vesander",
-    "Jesse Wijnans"
-  ],
-  "lyricists": null,
-  "spokesperson": "Toni Laaksonen",
-  "stageDirector": null,
-  "writers": [
-    "Henri Piispanen",
-    "Jussi Roine",
-    "Teemu Keisteri"
-  ]
+  "jury": null,
+  "spokesperson": "Toni Laaksonen"
 }

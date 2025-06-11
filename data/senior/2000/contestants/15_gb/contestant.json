@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Nicki French",
-  "artistPeople": [
-    "Nicki French"
-  ],
   "song": "Don't Play That Song Again",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/HgtLmiZJUC4",
@@ -15,20 +11,25 @@
   ],
   "bpm": 132,
   "tone": "Ab major",
+  "artistPeople": [
+    "Nicki French"
+  ],
   "backings": [
     "Julia West"
   ],
-  "commentators": [
-    "Terry Wogan"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Colin Berry",
-  "stageDirector": null,
   "writers": [
     "Gerry Shephard",
     "John Springate"
-  ]
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
 }

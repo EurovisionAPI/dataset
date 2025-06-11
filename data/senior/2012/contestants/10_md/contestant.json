@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "MD",
-  "broadcaster": "TRM",
   "artist": "Pasha Parfeny",
-  "artistPeople": [
-    "Pavel Parfeni"
-  ],
   "song": "Lăutar",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/vIy0EtEeLEw",
@@ -14,6 +10,9 @@
   ],
   "bpm": 107,
   "tone": "C major",
+  "artistPeople": [
+    "Pavel Parfeni"
+  ],
   "backings": [
     "Aliona Moon",
     "Julia Gakhova",
@@ -21,19 +20,21 @@
     "Lera Kirichenko",
     "Tatiana Heghea"
   ],
-  "commentators": [
-    "Marcel Spătari"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Alex Brașoveanu",
     "Pavel Parfeni"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Pavel Parfeni"
   ],
-  "spokesperson": "Olivia Furtună",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Marcel Spătari"
+  ],
+  "jury": null,
+  "spokesperson": "Olivia Furtună"
 }

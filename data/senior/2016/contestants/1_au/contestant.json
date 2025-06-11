@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "AU",
-  "broadcaster": "SBS",
   "artist": "Dami Im",
-  "artistPeople": [
-    "Im Da-mi"
-  ],
   "song": "Sound of Silence",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5ymFX91HwM0",
@@ -17,22 +13,27 @@
   ],
   "bpm": 136,
   "tone": "D major",
+  "artistPeople": [
+    "Im Da-mi"
+  ],
   "backings": [
     "Dea Norberg",
     "Sahlene"
   ],
+  "dancers": null,
+  "stageDirector": "Nicoline Refsing",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Anthony Egizii",
+    "David Musumeci"
+  ],
+  "broadcaster": "SBS",
   "commentators": [
     "Julia Zemiro",
     "Sam Pang"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Lee Lin Chin",
-  "stageDirector": "Nicoline Refsing",
-  "writers": [
-    "Anthony Egizii",
-    "David Musumeci"
-  ]
+  "jury": null,
+  "spokesperson": "Lee Lin Chin"
 }

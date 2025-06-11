@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "BE",
-  "broadcaster": "BRT",
   "artist": "Jacques Raymond",
-  "artistPeople": [
-    "Jozef Remon"
-  ],
   "song": "Waarom?",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/QSliEmnClSg",
@@ -14,21 +10,26 @@
   ],
   "bpm": 96,
   "tone": "F minor",
+  "artistPeople": [
+    "Jozef Remon"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hans Flower"
+  ],
+  "conductor": "Francis Bay",
+  "lyricists": [
+    "Wim Brabants"
+  ],
+  "writers": null,
+  "broadcaster": "BRT",
   "commentators": [
     "Denise Maes",
     "Herman Verelst",
     "Pierre Delhasse"
   ],
-  "composers": [
-    "Hans Flower"
-  ],
-  "conductor": "Francis Bay",
-  "dancers": null,
-  "lyricists": [
-    "Wim Brabants"
-  ],
-  "spokesperson": "Ward Bogaert",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Ward Bogaert"
 }

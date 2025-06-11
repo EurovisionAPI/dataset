@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "GR",
-  "broadcaster": "ERT",
   "artist": "Sakis Rouvas",
-  "artistPeople": [
-    "Anastasios Rouvas"
-  ],
   "song": "This Is Our Night",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/czMloseL7yE",
@@ -14,28 +10,33 @@
   ],
   "bpm": 128,
   "tone": "F# minor",
+  "artistPeople": [
+    "Anastasios Rouvas"
+  ],
   "backings": [
     "Alexandros Panayi",
     "Anna Maria Andersson",
     "Anna Maria Margretha Nilsson"
   ],
-  "commentators": [
-    "Betty Maggira",
-    "Mathildi Maggira"
-  ],
-  "composers": [
-    "Dimitris Kontopoulos"
-  ],
-  "conductor": null,
   "dancers": [
     "Giorgos Papadopoulos",
     "Nick Marianos"
   ],
+  "stageDirector": "Fokas Evangelinos, Nick Marianos",
+  "composers": [
+    "Dimitris Kontopoulos"
+  ],
+  "conductor": null,
   "lyricists": [
     "Cameron Giles-Webb",
     "Craig Porteils"
   ],
-  "spokesperson": "Alexis Kostalas",
-  "stageDirector": "Fokas Evangelinos, Nick Marianos",
-  "writers": null
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Betty Maggira",
+    "Mathildi Maggira"
+  ],
+  "jury": null,
+  "spokesperson": "Alexis Kostalas"
 }

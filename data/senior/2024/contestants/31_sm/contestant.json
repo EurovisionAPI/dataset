@@ -1,14 +1,7 @@
 {
   "id": 31,
   "country": "SM",
-  "broadcaster": "SMRTV",
   "artist": "Megara",
-  "artistPeople": [
-    "Isra Dante Ramos Solomando",
-    "Cristina Almagro Ávila",
-    "Sara Jiménez Moral",
-    "Roberto la Lueta Ruiz"
-  ],
   "song": "11:11",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/IqyJvkGmAjo",
@@ -21,26 +14,34 @@
   ],
   "bpm": 136,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Gigi Restivo",
-    "Lia Fiorio"
+  "artistPeople": [
+    "Isra Dante Ramos Solomando",
+    "Cristina Almagro Ávila",
+    "Sara Jiménez Moral",
+    "Roberto la Lueta Ruiz"
   ],
+  "backings": null,
+  "dancers": [
+    "Aria Bedmar",
+    "Emma Fernández Huerta"
+  ],
+  "stageDirector": "Javier Pageo",
   "composers": [
     "Isra Dante Ramos Solomando",
     "Sara Jiménez Moral",
     "Roberto la Lueta Ruiz"
   ],
   "conductor": null,
-  "dancers": [
-    "Aria Bedmar",
-    "Emma Fernández Huerta"
-  ],
   "lyricists": [
     "Sara Jiménez Moral",
     "Roberto la Lueta Ruiz"
   ],
-  "spokesperson": "Kida",
-  "stageDirector": "Javier Pageo",
-  "writers": null
+  "writers": null,
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Gigi Restivo",
+    "Lia Fiorio"
+  ],
+  "jury": null,
+  "spokesperson": "Kida"
 }

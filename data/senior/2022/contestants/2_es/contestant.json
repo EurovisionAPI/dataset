@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Chanel",
-  "artistPeople": [
-    "Chanel Terrero"
-  ],
   "song": "SloMo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/jSQYTt4xg3I",
@@ -18,13 +14,19 @@
   ],
   "bpm": 105,
   "tone": "C# minor",
+  "artistPeople": [
+    "Chanel Terrero"
+  ],
   "backings": [
     "María Pérez"
   ],
-  "commentators": [
-    "Julia Varela",
-    "Tony Aguilar"
+  "dancers": [
+    "Exon Arcos",
+    "Josh Huerta",
+    "Pol Soto",
+    "Raquel Caurin"
   ],
+  "stageDirector": "Kyle Hanagami",
   "composers": [
     "Arjen Thonen",
     "Ibere Fortes",
@@ -33,17 +35,16 @@
     "Maggie Szabo"
   ],
   "conductor": null,
-  "dancers": [
-    "Exon Arcos",
-    "Josh Huerta",
-    "Pol Soto",
-    "Raquel Caurin"
-  ],
   "lyricists": [
     "Ibere Fortes",
     "Maggie Szabo"
   ],
-  "spokesperson": "Nieves Álvarez",
-  "stageDirector": "Kyle Hanagami",
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Julia Varela",
+    "Tony Aguilar"
+  ],
+  "jury": null,
+  "spokesperson": "Nieves Álvarez"
 }

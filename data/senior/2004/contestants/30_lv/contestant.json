@@ -1,12 +1,7 @@
 {
   "id": 30,
   "country": "LV",
-  "broadcaster": "LTV",
   "artist": "Fomins & Kleins",
-  "artistPeople": [
-    "Ivo Fomins",
-    "Tomass Kleins"
-  ],
   "song": "Dziesma par laimi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/r-wTd_9IThc",
@@ -15,24 +10,30 @@
   ],
   "bpm": 105,
   "tone": "Eb major",
+  "artistPeople": [
+    "Ivo Fomins",
+    "Tomass Kleins"
+  ],
   "backings": [
     "Egils Mežs",
     "Jānis Lūsēns Jr",
     "Nelli Bubujanca",
     "Valerijs Inutins"
   ],
-  "commentators": [
-    "Kārlis Streips"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Tomass Kleins"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Guntars Račs"
   ],
-  "spokesperson": "Lauris Reiniks",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "jury": null,
+  "spokesperson": "Lauris Reiniks"
 }

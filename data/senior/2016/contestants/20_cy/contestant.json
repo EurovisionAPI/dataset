@@ -1,15 +1,7 @@
 {
   "id": 20,
   "country": "CY",
-  "broadcaster": "CyBC",
   "artist": "Minus One",
-  "artistPeople": [
-    "François Micheletto",
-    "Antonis Loizides",
-    "Chris J",
-    "Constantinos Amerikanos",
-    "Harrys Pari"
-  ],
   "song": "Alter Ego",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/idUxTqmCFR0",
@@ -20,18 +12,21 @@
   ],
   "bpm": 130,
   "tone": "Bb minor",
+  "artistPeople": [
+    "François Micheletto",
+    "Antonis Loizides",
+    "Chris J",
+    "Constantinos Amerikanos",
+    "Harrys Pari"
+  ],
   "backings": [
     "Lars Säfsund"
   ],
-  "commentators": [
-    "Melina Karageorgiou"
-  ],
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Loukas Hamatsos",
-  "stageDirector": "Sacha Jean-Baptiste",
   "writers": [
     "Antonis Loizides",
     "Chris J",
@@ -39,5 +34,11 @@
     "François Micheletto",
     "Harrys Pari",
     "Thomas G:son"
-  ]
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "jury": null,
+  "spokesperson": "Loukas Hamatsos"
 }

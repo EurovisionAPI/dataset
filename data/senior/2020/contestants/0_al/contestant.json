@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "AL",
-  "broadcaster": "RTSH",
   "artist": "Arilena Ara",
-  "artistPeople": [
-    "Arilena Ara"
-  ],
   "song": "Fall From The Sky",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/vXpCWFIY6YE",
@@ -18,20 +14,25 @@
   ],
   "bpm": 145,
   "tone": "G minor",
+  "artistPeople": [
+    "Arilena Ara"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Darko Dimitrov",
     "Lazar Cvetkoski"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Michael Blue",
     "Robert Stevenson",
     "Sam Schummer"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

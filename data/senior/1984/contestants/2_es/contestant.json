@@ -1,14 +1,7 @@
 {
   "id": 2,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Bravo",
-  "artistPeople": [
-    "Amaya Saizar",
-    "Esteban Santos",
-    "Luis Villar",
-    "Yolanda Hoyos"
-  ],
   "song": "Lady, Lady",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ziBsXRsqvZs",
@@ -17,19 +10,27 @@
   ],
   "bpm": 131,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "José-Miguel Ullán"
+  "artistPeople": [
+    "Amaya Saizar",
+    "Esteban Santos",
+    "Luis Villar",
+    "Yolanda Hoyos"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Miguel Blasco"
   ],
   "conductor": "Eddy Guerín",
-  "dancers": null,
   "lyricists": [
     "Amaya Saizar"
   ],
-  "spokesperson": "Matilde Jarrín",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "José-Miguel Ullán"
+  ],
+  "jury": null,
+  "spokesperson": "Matilde Jarrín"
 }

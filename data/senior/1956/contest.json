@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1956.png",
-  "presenters": [
-    "Lohengrin Filipello"
-  ],
   "broadcasters": [
     "SSR SRG"
+  ],
+  "presenters": [
+    "Lohengrin Filipello"
   ]
 }

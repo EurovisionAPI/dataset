@@ -1,11 +1,7 @@
 {
   "id": 24,
   "country": "CH",
-  "broadcaster": "SRG SSR idée suisse",
   "artist": "Anna Rossinelli",
-  "artistPeople": [
-    "Anna Rossinelli"
-  ],
   "song": "In Love For A While",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/wxLE5FmNJow",
@@ -15,23 +11,28 @@
   ],
   "bpm": 128,
   "tone": "A major",
+  "artistPeople": [
+    "Anna Rossinelli"
+  ],
   "backings": [
     "Georg Dillier",
     "Manuel Meisel"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "David Klein"
+  ],
+  "broadcaster": "SRG SSR idée suisse",
   "commentators": [
     "Jean-Marc Richard",
     "Jonathan Tedesco",
     "Nicolas Tanner",
     "Sven Epiney"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Cécile Bähler",
-  "stageDirector": null,
-  "writers": [
-    "David Klein"
-  ]
+  "jury": null,
+  "spokesperson": "Cécile Bähler"
 }

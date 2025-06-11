@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "LU",
-  "broadcaster": "RTL",
   "artist": "Tali",
-  "artistPeople": [
-    "Tali Golergant"
-  ],
   "song": "Fighter",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/TCWH3Nq5y9A",
@@ -18,7 +14,31 @@
   ],
   "bpm": 94,
   "tone": "F# minor",
+  "artistPeople": [
+    "Tali Golergant"
+  ],
   "backings": null,
+  "dancers": [
+    "Luana Manuka",
+    "Mathilde Eggen",
+    "Randy Rocha",
+    "Salaam Paragh",
+    "Simi Simoes"
+  ],
+  "stageDirector": "German Nenov",
+  "composers": [
+    "Ana Zimmer",
+    "Dardust",
+    "Manon Romiti"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ana Zimmer",
+    "Manon Romiti",
+    "Silvio Lisbonne"
+  ],
+  "writers": null,
+  "broadcaster": "RTL",
   "commentators": [
     "Emma Sorgato",
     "Jerôme Didelot",
@@ -27,25 +47,6 @@
     "Roger Saurfeld",
     "Sarah Tapp"
   ],
-  "composers": [
-    "Ana Zimmer",
-    "Dardust",
-    "Manon Romiti"
-  ],
-  "conductor": null,
-  "dancers": [
-    "Luana Manuka",
-    "Mathilde Eggen",
-    "Randy Rocha",
-    "Salaam Paragh",
-    "Simi Simoes"
-  ],
-  "lyricists": [
-    "Ana Zimmer",
-    "Manon Romiti",
-    "Silvio Lisbonne"
-  ],
-  "spokesperson": "Désirée Nosbusch",
-  "stageDirector": "German Nenov",
-  "writers": null
+  "jury": null,
+  "spokesperson": "Désirée Nosbusch"
 }

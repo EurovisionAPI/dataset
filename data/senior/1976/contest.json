@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1976.png",
-  "presenters": [
-    "Corry Brokken"
-  ],
   "broadcasters": [
     "NOS"
+  ],
+  "presenters": [
+    "Corry Brokken"
   ]
 }

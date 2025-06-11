@@ -1,12 +1,7 @@
 {
   "id": 2,
   "country": "RO",
-  "broadcaster": "TVR",
   "artist": "Paula Seling & Ovi",
-  "artistPeople": [
-    "Ovidiu Cernăuţeanu",
-    "Paula Seling"
-  ],
   "song": "Playing With Fire",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/6OlG9g4-cyg",
@@ -15,21 +10,27 @@
   ],
   "bpm": 122,
   "tone": "G major",
+  "artistPeople": [
+    "Ovidiu Cernăuţeanu",
+    "Paula Seling"
+  ],
   "backings": [
     "Alexandra Craescu",
     "Oana Puscatu"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ovidiu Cernăuţeanu"
+  ],
+  "broadcaster": "TVR",
   "commentators": [
     "Gianina Corondan",
     "Leonard Miron"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Malvina Cservenschi",
-  "stageDirector": null,
-  "writers": [
-    "Ovidiu Cernăuţeanu"
-  ]
+  "jury": null,
+  "spokesperson": "Malvina Cservenschi"
 }

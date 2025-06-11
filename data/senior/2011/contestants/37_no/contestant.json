@@ -1,11 +1,7 @@
 {
   "id": 37,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Stella Mwangi",
-  "artistPeople": [
-    "Stella Nyambura Mwangi"
-  ],
   "song": "Haba haba",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/4hKqVLmzIFQ",
@@ -15,6 +11,9 @@
   ],
   "bpm": 124,
   "tone": "Ab major",
+  "artistPeople": [
+    "Stella Nyambura Mwangi"
+  ],
   "backings": [
     "May Kristin Kaspersen",
     "Øyvind Boye Løvold",
@@ -22,9 +21,8 @@
     "Suzanne Fatou Sumbundu",
     "Ulrik Engdahl"
   ],
-  "commentators": [
-    "Olav Viksmo-Slettan"
-  ],
+  "dancers": null,
+  "stageDirector": "Mattias Carlsson",
   "composers": [
     "Andreas Sjo Engen",
     "Big City",
@@ -33,11 +31,14 @@
     "Victor Forberg-Skogeng"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Stella Nyambura Mwangi"
   ],
-  "spokesperson": "Nadia Hasnaoui",
-  "stageDirector": "Mattias Carlsson",
-  "writers": null
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "jury": null,
+  "spokesperson": "Nadia Hasnaoui"
 }

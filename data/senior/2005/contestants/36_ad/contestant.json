@@ -1,11 +1,7 @@
 {
   "id": 36,
   "country": "AD",
-  "broadcaster": "RTVA",
   "artist": "Marian van de Wal",
-  "artistPeople": [
-    "Marian van de Wal"
-  ],
   "song": "La mirada interior",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-RJS79sbMLc",
@@ -14,6 +10,9 @@
   ],
   "bpm": 92,
   "tone": "D minor",
+  "artistPeople": [
+    "Marian van de Wal"
+  ],
   "backings": [
     "Anabel Conde",
     "Jose Ortiz",
@@ -21,21 +20,23 @@
     "Rebeka Brown",
     "Yolanda Cikara"
   ],
-  "commentators": [
-    "Josep Lluís Trabal",
-    "Meri Picart"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Rafael Artesero Herrero"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Daniel Aragay",
     "Rafael Artesero Herrero",
     "Rafael Fernández"
   ],
-  "spokesperson": "Ruth Gumbau",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTVA",
+  "commentators": [
+    "Josep Lluís Trabal",
+    "Meri Picart"
+  ],
+  "jury": null,
+  "spokesperson": "Ruth Gumbau"
 }

@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "AZ",
-  "broadcaster": "İctimai",
   "artist": "Samra",
-  "artistPeople": [
-    "Samra Rahimli (Səmra Rəhimli)"
-  ],
   "song": "Miracle",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/cB8eSLyffsI",
@@ -16,6 +12,9 @@
   ],
   "bpm": 96,
   "tone": "F minor",
+  "artistPeople": [
+    "Samra Rahimli (Səmra Rəhimli)"
+  ],
   "backings": [
     "Dea Norberg",
     "Jessica Marberger",
@@ -23,18 +22,20 @@
     "Patrik Riber",
     "Zain Odelstål"
   ],
-  "commentators": [
-    "Azer Suleymanli"
-  ],
+  "dancers": null,
+  "stageDirector": "Roine Söderlundh",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Tural Asadov",
-  "stageDirector": "Roine Söderlundh",
   "writers": [
     "Amir Aly",
     "Henrik Wikström",
     "Jakke Erixson"
-  ]
+  ],
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Azer Suleymanli"
+  ],
+  "jury": null,
+  "spokesperson": "Tural Asadov"
 }

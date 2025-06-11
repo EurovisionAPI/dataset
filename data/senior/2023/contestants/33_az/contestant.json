@@ -1,12 +1,7 @@
 {
   "id": 33,
   "country": "AZ",
-  "broadcaster": "İctimai",
   "artist": "TuralTuranX",
-  "artistPeople": [
-    "Tural Isa Bagmanov",
-    "Turan Bağmanov"
-  ],
   "song": "Tell Me More",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/8BNtaW1IEtA",
@@ -17,10 +12,13 @@
   ],
   "bpm": 96,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Azer Suleymanli"
+  "artistPeople": [
+    "Tural Isa Bagmanov",
+    "Turan Bağmanov"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Mads Enggaard",
   "composers": [
     "Nihad Aliyev",
     "Tunar Tağiyev",
@@ -28,12 +26,15 @@
     "Turan Bağmanov"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Tural Bağmanov",
     "Turan Bağmanov"
   ],
-  "spokesperson": "Narmin Salmanova",
-  "stageDirector": "Mads Enggaard",
-  "writers": null
+  "writers": null,
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Azer Suleymanli"
+  ],
+  "jury": null,
+  "spokesperson": "Narmin Salmanova"
 }

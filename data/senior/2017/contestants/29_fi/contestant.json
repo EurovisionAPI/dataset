@@ -1,12 +1,7 @@
 {
   "id": 29,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Norma John",
-  "artistPeople": [
-    "Leena Tirronen",
-    "Lasse Piirainen"
-  ],
   "song": "Blackbird",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Ufba0nOz0fQ",
@@ -18,20 +13,26 @@
   ],
   "bpm": 164,
   "tone": "D major",
+  "artistPeople": [
+    "Leena Tirronen",
+    "Lasse Piirainen"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": "Reija Wäre",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Lasse Piirainen",
+    "Leena Tirronen"
+  ],
+  "broadcaster": "YLE",
   "commentators": [
     "Eva Frantz",
     "Johan Lindroos",
     "Mikko Silvennoinen"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Jenni Vartiainen",
-  "stageDirector": "Reija Wäre",
-  "writers": [
-    "Lasse Piirainen",
-    "Leena Tirronen"
-  ]
+  "jury": null,
+  "spokesperson": "Jenni Vartiainen"
 }

@@ -1,11 +1,7 @@
 {
   "id": 21,
   "country": "MT",
-  "broadcaster": "PBS",
   "artist": "Chiara",
-  "artistPeople": [
-    "Chiara Siracusa"
-  ],
   "song": "What If We",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/kX5STdIuiEg",
@@ -14,19 +10,24 @@
   ],
   "bpm": 124,
   "tone": "F# major",
-  "backings": null,
-  "commentators": [
-    "Valerie Vella"
+  "artistPeople": [
+    "Chiara Siracusa"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Marc Paelinck"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Gregory Bilsen"
   ],
-  "spokesperson": "Pauline Agius",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": [
+    "Valerie Vella"
+  ],
+  "jury": null,
+  "spokesperson": "Pauline Agius"
 }

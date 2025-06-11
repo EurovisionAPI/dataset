@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "LT",
-  "broadcaster": "LRT",
   "artist": "The Roop",
-  "artistPeople": [
-    "Vaidotas Valiukevičius"
-  ],
   "song": "Discoteque",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/JNweec5olYw",
@@ -18,13 +14,18 @@
   ],
   "bpm": 115,
   "tone": "F minor",
+  "artistPeople": [
+    "Vaidotas Valiukevičius"
+  ],
   "backings": [
     "Mantas Banišauskas",
     "Robertas Baranauskas"
   ],
-  "commentators": [
-    "Ramūnas Zilnys"
+  "dancers": [
+    "Marijanas Staniulėnas",
+    "Miglė Praniauskaitė"
   ],
+  "stageDirector": "Povilas Varvuolis",
   "composers": [
     "Ilkka Wirtanen",
     "Laisvūnas Černovas",
@@ -33,16 +34,16 @@
     "Vaidotas Valiukevičius"
   ],
   "conductor": null,
-  "dancers": [
-    "Marijanas Staniulėnas",
-    "Miglė Praniauskaitė"
-  ],
   "lyricists": [
     "Kalle Lindroth",
     "Mantas Banišauskas",
     "Vaidotas Valiukevičius"
   ],
-  "spokesperson": "Andrius Mamontovas",
-  "stageDirector": "Povilas Varvuolis",
-  "writers": null
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Ramūnas Zilnys"
+  ],
+  "jury": null,
+  "spokesperson": "Andrius Mamontovas"
 }

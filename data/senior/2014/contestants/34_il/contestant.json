@@ -1,11 +1,7 @@
 {
   "id": 34,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Mei Finegold",
-  "artistPeople": [
-    "Meital Slominsky (מיי פיינגולד‎‎)"
-  ],
   "song": "Same Heart",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/acOZVEN5XjE",
@@ -13,18 +9,23 @@
   ],
   "bpm": 124,
   "tone": "G major",
+  "artistPeople": [
+    "Meital Slominsky (מיי פיינגולד‎‎)"
+  ],
   "backings": null,
-  "commentators": null,
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Marin Termetz",
     "Shiran Lagziel"
   ],
-  "lyricists": null,
-  "spokesperson": "Ofer Nachshon",
   "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Rami Talmid"
-  ]
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Ofer Nachshon"
 }

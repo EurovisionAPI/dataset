@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Dario Campeotto",
-  "artistPeople": [
-    "Dario Campeotto"
-  ],
   "song": "Angelique",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/OdhVPUcimAM",
@@ -16,17 +12,22 @@
   ],
   "bpm": 118,
   "tone": "A major",
+  "artistPeople": [
+    "Dario Campeotto"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Kai Mortensen",
+  "lyricists": null,
+  "writers": [
+    "Aksel V. Rasmussen"
+  ],
+  "broadcaster": "DR",
   "commentators": [
     "Sejr Volmer-Sørensen"
   ],
-  "composers": null,
-  "conductor": "Kai Mortensen",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Ole Mortensen",
-  "stageDirector": null,
-  "writers": [
-    "Aksel V. Rasmussen"
-  ]
+  "jury": null,
+  "spokesperson": "Ole Mortensen"
 }

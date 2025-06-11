@@ -1,13 +1,7 @@
 {
   "id": 26,
   "country": "RS",
-  "broadcaster": "RTS",
   "artist": "Moje 3",
-  "artistPeople": [
-    "Mirna Radulović",
-    "Nevena Božović",
-    "Sara Jo"
-  ],
   "song": "Ljubav je svuda",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/DbAAFijZIxE",
@@ -15,25 +9,32 @@
   ],
   "bpm": 134,
   "tone": "F major",
+  "artistPeople": [
+    "Mirna Radulović",
+    "Nevena Božović",
+    "Sara Jo"
+  ],
   "backings": [
     "Dunja Vujadinović",
     "Jelena Mitić",
     "Ksenija Milošević"
   ],
+  "dancers": null,
+  "stageDirector": "Miloš Paunović",
+  "composers": [
+    "Saša Milošević Mare"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Marina Tucaković"
+  ],
+  "writers": null,
+  "broadcaster": "RTS",
   "commentators": [
     "Duška Vučinić-Lučić",
     "Marina Nikolić",
     "Silvana Grujić"
   ],
-  "composers": [
-    "Saša Milošević Mare"
-  ],
-  "conductor": null,
-  "dancers": null,
-  "lyricists": [
-    "Marina Tucaković"
-  ],
-  "spokesperson": "Maja Nikolić",
-  "stageDirector": "Miloš Paunović",
-  "writers": null
+  "jury": null,
+  "spokesperson": "Maja Nikolić"
 }

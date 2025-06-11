@@ -6,11 +6,11 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1996.png",
+  "broadcasters": [
+    "Norsk rikskringkasting (NRK)"
+  ],
   "presenters": [
     "Ingvild Bryn",
     "Morten Harket"
-  ],
-  "broadcasters": [
-    "Norsk rikskringkasting (NRK)"
   ]
 }

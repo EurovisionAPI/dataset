@@ -1,13 +1,7 @@
 {
   "id": 42,
   "country": "NL",
-  "broadcaster": "TROS",
   "artist": "3JS",
-  "artistPeople": [
-    "Jaap Schilder",
-    "Jaap Kwakman",
-    "Jan Keuken"
-  ],
   "song": "Never Alone",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/oJ6T43D82KY",
@@ -17,24 +11,31 @@
   ],
   "bpm": 98,
   "tone": "C major",
+  "artistPeople": [
+    "Jaap Schilder",
+    "Jaap Kwakman",
+    "Jan Keuken"
+  ],
   "backings": [
     "Brian Zalmijn",
     "Lesley van der Aa",
     "Michèle van der Aa"
   ],
-  "commentators": [
-    "Daniël Dekker",
-    "Jan Smit"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Mandy Huydts",
-  "stageDirector": null,
   "writers": [
     "Jaap de Witte",
     "Jaap Kwakman",
     "Jan Dulles"
-  ]
+  ],
+  "broadcaster": "TROS",
+  "commentators": [
+    "Daniël Dekker",
+    "Jan Smit"
+  ],
+  "jury": null,
+  "spokesperson": "Mandy Huydts"
 }

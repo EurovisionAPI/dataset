@@ -1,11 +1,7 @@
 {
   "id": 21,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Thomas Forstner",
-  "artistPeople": [
-    "Thomas Forstner"
-  ],
   "song": "Venedig im Regen",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/jac9y6-9pPo",
@@ -15,24 +11,29 @@
   ],
   "bpm": 95,
   "tone": "Ab major",
+  "artistPeople": [
+    "Thomas Forstner"
+  ],
   "backings": [
     "Ines Reiger",
     "Kathy Sampson",
     "Stephan Gleixner",
     "Willi Dussmann"
   ],
-  "commentators": [
-    "Herbert Dobrovolny"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Richard Österreicher",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Gabriele Haring",
-  "stageDirector": null,
   "writers": [
     "Hubert Moser",
     "Robby Musenbichler",
     "Wolfgang Eltner"
-  ]
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Herbert Dobrovolny"
+  ],
+  "jury": null,
+  "spokesperson": "Gabriele Haring"
 }

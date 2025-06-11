@@ -1,12 +1,7 @@
 {
   "id": 7,
   "country": "AZ",
-  "broadcaster": "İctimai",
   "artist": "Elnur & Samir",
-  "artistPeople": [
-    "Elnur Hüseynov",
-    "Samir Cavadzadə"
-  ],
   "song": "Day After Day",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/6OGVL_9P5fw",
@@ -15,20 +10,26 @@
   ],
   "bpm": 112,
   "tone": "Bb major",
-  "backings": null,
-  "commentators": [
-    "Husniyya Maharramova",
-    "Isa Melikov"
+  "artistPeople": [
+    "Elnur Hüseynov",
+    "Samir Cavadzadə"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Goher Hesenzade"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Zahra Bədəlbəyli"
   ],
-  "spokesperson": "Leyla Aliyeva",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Husniyya Maharramova",
+    "Isa Melikov"
+  ],
+  "jury": null,
+  "spokesperson": "Leyla Aliyeva"
 }

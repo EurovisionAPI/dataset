@@ -1,11 +1,7 @@
 {
   "id": 38,
   "country": "CH",
-  "broadcaster": "SRG SSR idée suisse",
   "artist": "Michael von der Heide",
-  "artistPeople": [
-    "Michael von der Heide"
-  ],
   "song": "Il pleut de l'or",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/qW2UPf1_Lcg",
@@ -16,30 +12,35 @@
   ],
   "bpm": 128,
   "tone": "F minor",
+  "artistPeople": [
+    "Michael von der Heide"
+  ],
   "backings": [
     "Amanda Nikolić",
     "Freda Goodlett",
     "Pele Loriano",
     "Sybille Faessler"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Michael von der Heide",
+    "Pele Loriano"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "André Grüter",
+    "Heike Kospach",
+    "Michael von der Heide"
+  ],
+  "writers": null,
+  "broadcaster": "SRG SSR idée suisse",
   "commentators": [
     "Jean-Marc Richard",
     "Nicolas Tanner",
     "Sandy Altermatt",
     "Sven Epiney"
   ],
-  "composers": [
-    "Michael von der Heide",
-    "Pele Loriano"
-  ],
-  "conductor": null,
-  "dancers": null,
-  "lyricists": [
-    "André Grüter",
-    "Heike Kospach",
-    "Michael von der Heide"
-  ],
-  "spokesperson": "Christa Rigozzi",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Christa Rigozzi"
 }

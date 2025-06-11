@@ -1,15 +1,7 @@
 {
   "id": 2,
   "country": "LV",
-  "broadcaster": "LTV",
   "artist": "BrainStorm",
-  "artistPeople": [
-    "Māris Mihelsons",
-    "Kaspars Roga",
-    "Gundars Mauševics",
-    "Renārs Kaupers",
-    "Jānis Jubalts"
-  ],
   "song": "My Star",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Kbk4AKVi4ns",
@@ -22,17 +14,26 @@
   ],
   "bpm": 135,
   "tone": "F major",
+  "artistPeople": [
+    "Māris Mihelsons",
+    "Kaspars Roga",
+    "Gundars Mauševics",
+    "Renārs Kaupers",
+    "Jānis Jubalts"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Reynard Cowper"
+  ],
+  "broadcaster": "LTV",
   "commentators": [
     "Kārlis Streips"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Lauris Reiniks",
-  "stageDirector": null,
-  "writers": [
-    "Reynard Cowper"
-  ]
+  "jury": null,
+  "spokesperson": "Lauris Reiniks"
 }

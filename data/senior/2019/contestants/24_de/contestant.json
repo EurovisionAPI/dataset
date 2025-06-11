@@ -1,12 +1,7 @@
 {
   "id": 24,
   "country": "DE",
-  "broadcaster": "NDR",
   "artist": "S!sters",
-  "artistPeople": [
-    "Carlotta Truman",
-    "Laura Kästel"
-  ],
   "song": "Sister",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/yFbSj_yPCPM",
@@ -19,25 +14,31 @@
   ],
   "bpm": 142,
   "tone": "E major",
+  "artistPeople": [
+    "Carlotta Truman",
+    "Laura Kästel"
+  ],
   "backings": [
     "Inga Lühning",
     "Ray Lozano",
     "Sonja Wiegand",
     "Verena Heinz"
   ],
-  "commentators": [
-    "Peter Urban"
-  ],
+  "dancers": null,
+  "stageDirector": "Florian Wieder",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Barbara Schöneberger",
-  "stageDirector": "Florian Wieder",
   "writers": [
     "Laurell Barker",
     "Marine Kaltenbacher",
     "Thomas Stengaard",
     "Tom Oehler"
-  ]
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Barbara Schöneberger"
 }

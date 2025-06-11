@@ -1,11 +1,7 @@
 {
   "id": 23,
   "country": "BY",
-  "broadcaster": "BTRC",
   "artist": "Zena",
-  "artistPeople": [
-    "Zinaida Alexandrovna Kupriyanovich (Зінаіда Аляксандраўна Купрыяновіч)"
-  ],
   "song": "Like It",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/C1Y9LBusHzA",
@@ -18,27 +14,32 @@
   ],
   "bpm": 105,
   "tone": "C minor",
+  "artistPeople": [
+    "Zinaida Alexandrovna Kupriyanovich (Зінаіда Аляксандраўна Купрыяновіч)"
+  ],
   "backings": [
     "Olga Dorozhey",
     "Radmira Mantuliny",
     "Sofia Mantuliny"
   ],
-  "commentators": [
-    "Evgeny Perlin"
+  "dancers": [
+    "Ali Gudiev",
+    "Mike Isaev"
   ],
+  "stageDirector": "Andrey Tsar",
   "composers": [
     "Viktor Drobysh",
     "Yulia Kireeva"
   ],
   "conductor": null,
-  "dancers": [
-    "Ali Gudiev",
-    "Mike Isaev"
-  ],
   "lyricists": [
     "Yulia Kireeva"
   ],
-  "spokesperson": "Maria Vasilevich",
-  "stageDirector": "Andrey Tsar",
-  "writers": null
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Evgeny Perlin"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Vasilevich"
 }

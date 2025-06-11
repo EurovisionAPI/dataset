@@ -1,15 +1,7 @@
 {
   "id": 39,
   "country": "SI",
-  "broadcaster": "RTVSLO",
   "artist": "LPS",
-  "artistPeople": [
-    "Filip Vidušin",
-    "Gašper Hlupič",
-    "Mark Semeja",
-    "Zala Velenšek",
-    "Žiga Žvižej"
-  ],
   "song": "Disko",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/S1tFqoflsT8",
@@ -22,16 +14,19 @@
   ],
   "bpm": 120,
   "tone": "E minor",
-  "backings": null,
-  "commentators": [
-    "Andrej Hofer"
+  "artistPeople": [
+    "Filip Vidušin",
+    "Gašper Hlupič",
+    "Mark Semeja",
+    "Zala Velenšek",
+    "Žiga Žvižej"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Nejc Levstik",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Lorella Flego",
-  "stageDirector": "Nejc Levstik",
   "writers": [
     "Filip Vidušin",
     "Gašper Hlupič",
@@ -39,5 +34,11 @@
     "Mark Semeja",
     "Zala Velenšek",
     "Žiga Žvižej"
-  ]
+  ],
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "jury": null,
+  "spokesperson": "Lorella Flego"
 }

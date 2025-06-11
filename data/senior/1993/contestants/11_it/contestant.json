@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Enrico Ruggeri",
-  "artistPeople": [
-    "Enrico Ruggeri"
-  ],
   "song": "Sole d'Europa",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/pcGtMQHRszo",
@@ -13,22 +9,27 @@
   ],
   "bpm": 156,
   "tone": "E minor",
+  "artistPeople": [
+    "Enrico Ruggeri"
+  ],
   "backings": [
     "Alberto Tafuri",
     "Fabrizio Palermo",
     "Luigi Fiore",
     "Luigi Schiavone"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Vittorio Cosma",
+  "lyricists": null,
+  "writers": [
+    "Enrico Ruggeri"
+  ],
+  "broadcaster": "RAI",
   "commentators": [
     "Ettore Andenna"
   ],
-  "composers": null,
-  "conductor": "Vittorio Cosma",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Peppi Franzelin",
-  "stageDirector": null,
-  "writers": [
-    "Enrico Ruggeri"
-  ]
+  "jury": null,
+  "spokesperson": "Peppi Franzelin"
 }

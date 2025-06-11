@@ -1,31 +1,32 @@
 {
   "id": 5,
   "country": "BE",
-  "broadcaster": "NIR",
   "artist": "Fud Leclerc",
-  "artistPeople": [
-    "Fernand Urbain Dominic Leclerc"
-  ],
   "song": "Mon amour pour toi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/byD35ZhNeI8"
   ],
   "bpm": 172,
   "tone": "F major",
-  "backings": null,
-  "commentators": [
-    "Georges Désir",
-    "Nic Bal"
+  "artistPeople": [
+    "Fernand Urbain Dominic Leclerc"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jack Say"
   ],
   "conductor": "Henri Segers",
-  "dancers": null,
   "lyricists": [
     "Robert Montal"
   ],
-  "spokesperson": "Arlette Vincent",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NIR",
+  "commentators": [
+    "Georges Désir",
+    "Nic Bal"
+  ],
+  "jury": null,
+  "spokesperson": "Arlette Vincent"
 }

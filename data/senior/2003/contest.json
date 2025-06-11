@@ -6,11 +6,11 @@
   "intendedCountry": null,
   "slogan": "Magical Rendez-vous",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2003.png",
+  "broadcasters": [
+    "LTV"
+  ],
   "presenters": [
     "Marie N.",
     "Renars Kaupers"
-  ],
-  "broadcasters": [
-    "LTV"
   ]
 }

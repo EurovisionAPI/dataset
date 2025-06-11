@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Birgit Brüel",
-  "artistPeople": [
-    "Birgit Brüel"
-  ],
   "song": "For din skyld",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/8BQQF8u0K0k",
@@ -13,19 +9,24 @@
   ],
   "bpm": 172,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "Skat Nørrevig"
+  "artistPeople": [
+    "Birgit Brüel"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jørgen Jersild"
   ],
   "conductor": "Arne Lamberth",
-  "dancers": null,
   "lyricists": [
     "Poul Henningsen"
   ],
-  "spokesperson": "Claus Toksvig",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Skat Nørrevig"
+  ],
+  "jury": null,
+  "spokesperson": "Claus Toksvig"
 }

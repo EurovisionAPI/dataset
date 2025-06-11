@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Lindsay D.",
-  "artistPeople": [
-    "Lindsay Dracass"
-  ],
   "song": "No Dream Impossible",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5rmVi8sCqmc",
@@ -14,18 +10,23 @@
   ],
   "bpm": 128,
   "tone": "F major",
-  "backings": null,
-  "commentators": [
-    "Terry Wogan"
+  "artistPeople": [
+    "Lindsay Dracass"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Colin Berry",
-  "stageDirector": null,
   "writers": [
     "Chris Winter",
     "Russ Ballard"
-  ]
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
 }

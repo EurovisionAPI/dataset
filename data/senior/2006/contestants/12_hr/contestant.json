@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "HR",
-  "broadcaster": "HRT",
   "artist": "Severina",
-  "artistPeople": [
-    "Severina Vučković"
-  ],
   "song": "Moja štikla",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/hGp3YfEj_GY",
@@ -14,6 +10,9 @@
   ],
   "bpm": 106,
   "tone": "E minor",
+  "artistPeople": [
+    "Severina Vučković"
+  ],
   "backings": [
     "Bojan Kavedžija",
     "Josip Milaković",
@@ -21,19 +20,21 @@
     "Matija Čabrajec",
     "Stjepan Večković"
   ],
-  "commentators": [
-    "Duško Ćurlić"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Boris Novković",
     "Franjo Valentić"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Severina"
   ],
-  "spokesperson": "Mila Horvat",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": null,
+  "spokesperson": "Mila Horvat"
 }

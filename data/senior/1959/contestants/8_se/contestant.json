@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "SE",
-  "broadcaster": "SR",
   "artist": "Brita Borg",
-  "artistPeople": [
-    "Brita Borg"
-  ],
   "song": "Augustin",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/BG_hh_f9ANg",
@@ -13,19 +9,24 @@
   ],
   "bpm": 112,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Jan Gabrielsson"
+  "artistPeople": [
+    "Brita Borg"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Harry Sandin"
   ],
   "conductor": "Franck Pourcel",
-  "dancers": null,
   "lyricists": [
     "Åke Gerhard"
   ],
-  "spokesperson": "Roland Eiworth",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Jan Gabrielsson"
+  ],
+  "jury": null,
+  "spokesperson": "Roland Eiworth"
 }

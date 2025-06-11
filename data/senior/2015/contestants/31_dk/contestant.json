@@ -1,14 +1,7 @@
 {
   "id": 31,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Anti Social Media",
-  "artistPeople": [
-    "David Rønne Vang",
-    "Emil Vissing Christensen",
-    "Nikolaj Tøth Andersen",
-    "Philip Thornhill"
-  ],
   "song": "The Way You Are",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/J--Tgi_iZQ8",
@@ -19,21 +12,29 @@
   ],
   "bpm": 125,
   "tone": "C major",
+  "artistPeople": [
+    "David Rønne Vang",
+    "Emil Vissing Christensen",
+    "Nikolaj Tøth Andersen",
+    "Philip Thornhill"
+  ],
   "backings": [
     "Johanna Beijbom",
     "Nellie Ettison"
   ],
-  "commentators": [
-    "Ole Tøpholm"
-  ],
+  "dancers": null,
+  "stageDirector": "Birgitte Næss-Schmidt",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Basim",
-  "stageDirector": "Birgitte Næss-Schmidt",
   "writers": [
     "Chief 1",
     "Remee"
-  ]
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "jury": null,
+  "spokesperson": "Basim"
 }

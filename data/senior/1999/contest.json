@@ -6,12 +6,12 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1999.png",
+  "broadcasters": [
+    "IBA"
+  ],
   "presenters": [
     "Yigal Ravid",
     "Dafna Dekel",
     "Sigal Shahamon"
-  ],
-  "broadcasters": [
-    "IBA"
   ]
 }

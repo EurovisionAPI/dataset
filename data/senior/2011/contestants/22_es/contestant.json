@@ -1,11 +1,7 @@
 {
   "id": 22,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Lucía Pérez",
-  "artistPeople": [
-    "Lucía Pérez Vizcaíno"
-  ],
   "song": "Que Me Quiten Lo Bailao",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/91bKjEojSDU",
@@ -14,6 +10,9 @@
   ],
   "bpm": 99,
   "tone": "D major",
+  "artistPeople": [
+    "Lucía Pérez Vizcaíno"
+  ],
   "backings": [
     "Amaury Reinoso",
     "Cristina Domínguez",
@@ -21,16 +20,18 @@
     "Nito",
     "Sandra Borrego"
   ],
+  "dancers": null,
+  "stageDirector": "Lola González",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Rafael Artesero Herrero"
+  ],
+  "broadcaster": "TVE",
   "commentators": [
     "José María Íñigo"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Elena S. Sánchez",
-  "stageDirector": "Lola González",
-  "writers": [
-    "Rafael Artesero Herrero"
-  ]
+  "jury": null,
+  "spokesperson": "Elena S. Sánchez"
 }

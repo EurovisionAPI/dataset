@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Sebalter",
-  "artistPeople": [
-    "Sebastiano Paù-Lessi"
-  ],
   "song": "Hunter Of Stars",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/DqjoM8ZlyMc",
@@ -15,6 +11,9 @@
   ],
   "bpm": 88,
   "tone": "A minor",
+  "artistPeople": [
+    "Sebastiano Paù-Lessi"
+  ],
   "backings": [
     "Christoph Pedretti",
     "Marco Cuzzovaglia",
@@ -22,6 +21,15 @@
     "Patric Scott",
     "Rocco Casella"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sebastiano Paù-Lessi"
+  ],
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Alessandro Bertoglio",
     "Gabriel Vetter",
@@ -31,13 +39,6 @@
     "Sandy Altermatt",
     "Sven Epiney"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Kurt Aeschbacher",
-  "stageDirector": null,
-  "writers": [
-    "Sebastiano Paù-Lessi"
-  ]
+  "jury": null,
+  "spokesperson": "Kurt Aeschbacher"
 }

@@ -1,16 +1,7 @@
 {
   "id": 3,
   "country": "DE",
-  "broadcaster": "ARD",
   "artist": "Dschinghis Khan",
-  "artistPeople": [
-    "Marika Késmárky",
-    "Henriette Heichel-Strobel",
-    "Leslie Mándoki",
-    "Louis Hendrik Potgieter",
-    "Karl-Heinz Bender",
-    "Wolfgang Heichel"
-  ],
   "song": "Dschinghis Khan",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/NIxZ-0rGcw8",
@@ -20,20 +11,30 @@
   ],
   "bpm": 144,
   "tone": "A minor",
-  "backings": null,
-  "commentators": [
-    "Ado Schlier",
-    "Gabi Schnelle"
+  "artistPeople": [
+    "Marika Késmárky",
+    "Henriette Heichel-Strobel",
+    "Leslie Mándoki",
+    "Louis Hendrik Potgieter",
+    "Karl-Heinz Bender",
+    "Wolfgang Heichel"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ralph Siegel"
   ],
   "conductor": "Norbert Daum",
-  "dancers": null,
   "lyricists": [
     "Gunter Johansen"
   ],
-  "spokesperson": "Lotti Ohnesorge",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Ado Schlier",
+    "Gabi Schnelle"
+  ],
+  "jury": null,
+  "spokesperson": "Lotti Ohnesorge"
 }

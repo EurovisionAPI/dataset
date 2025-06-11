@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "TR",
-  "broadcaster": "TRT",
   "artist": "Buket Bengisu & Safir",
-  "artistPeople": [
-    "Buket Bengisu"
-  ],
   "song": "Leylaklar soldu kalbinde",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-WXqpAfNyx8",
@@ -15,25 +11,30 @@
   ],
   "bpm": 113,
   "tone": "G minor",
+  "artistPeople": [
+    "Buket Bengisu"
+  ],
   "backings": [
     "Dilek Aba",
     "Eser Alioğlu",
     "Gülnur Gökçe",
     "Sitare Bilge"
   ],
-  "commentators": [
-    "Bülend Özveren"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Fani Hodara"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Figen Çakmak",
     "Sami Hodara"
   ],
-  "spokesperson": "Meltem Ersan Yazgan",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Meltem Ersan Yazgan"
 }

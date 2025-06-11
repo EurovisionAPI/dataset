@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Frans",
-  "artistPeople": [
-    "Frans Jeppsson Wall"
-  ],
   "song": "If I Were Sorry",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/2AIPrVchJN8",
@@ -16,22 +12,27 @@
   ],
   "bpm": 105,
   "tone": "Bb major",
+  "artistPeople": [
+    "Frans Jeppsson Wall"
+  ],
   "backings": [
     "Jonathan Jaarnek Norén"
   ],
-  "commentators": [
-    "Lotta Bromé"
-  ],
+  "dancers": null,
+  "stageDirector": "Lotta Furebäck, Mari Ryberger",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Gina Dirawi",
-  "stageDirector": "Lotta Furebäck, Mari Ryberger",
   "writers": [
     "Frans Jeppsson Wall",
     "Fredrik Andersson",
     "Michael Saxell",
     "Oscar Fogelström"
-  ]
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Lotta Bromé"
+  ],
+  "jury": null,
+  "spokesperson": "Gina Dirawi"
 }

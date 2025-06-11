@@ -1,16 +1,7 @@
 {
   "id": 0,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Teach-In",
-  "artistPeople": [
-    "Ard Weeink",
-    "Chris de Wolde",
-    "Getty Kaspers",
-    "John Gaasbeek",
-    "Koos Versteeg",
-    "Rudi Nijhuis"
-  ],
   "song": "Ding-a-dong",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/BPxuq4uQ0OU",
@@ -23,20 +14,30 @@
   ],
   "bpm": 139,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "Willem Duys"
+  "artistPeople": [
+    "Ard Weeink",
+    "Chris de Wolde",
+    "Getty Kaspers",
+    "John Gaasbeek",
+    "Koos Versteeg",
+    "Rudi Nijhuis"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Dick Bakker"
   ],
   "conductor": "Harry van Hoof",
-  "dancers": null,
   "lyricists": [
     "Eddy Ouwens",
     "Will Luikinga"
   ],
-  "spokesperson": "Dick van Bommel",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Dick van Bommel"
 }

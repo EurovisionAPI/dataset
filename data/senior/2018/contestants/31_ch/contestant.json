@@ -1,11 +1,7 @@
 {
   "id": 31,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Zibbz",
-  "artistPeople": [
-    "Corinne Gfeller"
-  ],
   "song": "Stones",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/wJGTVsluHkw",
@@ -18,12 +14,29 @@
   ],
   "bpm": 166,
   "tone": "F major",
+  "artistPeople": [
+    "Corinne Gfeller"
+  ],
   "backings": [
     "Laurell Barker",
     "Nita Fernandes",
     "Sabrina Kern",
     "Stee Gfeller"
   ],
+  "dancers": null,
+  "stageDirector": "Hans Pannecoucke",
+  "composers": [
+    "Corinne Gfeller",
+    "Laurell Barker",
+    "Stefan Gfeller"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Corinne Gfeller",
+    "Laurell Barker"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Clarissa Tami",
     "Jean-Marc Richard",
@@ -31,18 +44,6 @@
     "Sebalter",
     "Sven Epiney"
   ],
-  "composers": [
-    "Corinne Gfeller",
-    "Laurell Barker",
-    "Stefan Gfeller"
-  ],
-  "conductor": null,
-  "dancers": null,
-  "lyricists": [
-    "Corinne Gfeller",
-    "Laurell Barker"
-  ],
-  "spokesperson": "Letícia Carvalho",
-  "stageDirector": "Hans Pannecoucke",
-  "writers": null
+  "jury": null,
+  "spokesperson": "Letícia Carvalho"
 }

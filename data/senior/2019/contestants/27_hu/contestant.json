@@ -1,11 +1,7 @@
 {
   "id": 27,
   "country": "HU",
-  "broadcaster": "MTV",
   "artist": "Joci Pápai",
-  "artistPeople": [
-    "József Pápai"
-  ],
   "song": "Az én apám",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/IpVr0pBLfI4",
@@ -18,24 +14,29 @@
   ],
   "bpm": 96,
   "tone": "Eb minor",
+  "artistPeople": [
+    "József Pápai"
+  ],
   "backings": [
     "Ferenc Feng Ya Ou",
     "Petra Katona"
   ],
-  "commentators": [
-    "Bogi",
-    "Freddie"
-  ],
+  "dancers": null,
+  "stageDirector": "Szabolcs Gyöngyösi",
   "composers": [
     "Ferenc Molnár",
     "Joci Pápai"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Ferenc Molnár"
   ],
-  "spokesperson": "Bence Forró",
-  "stageDirector": "Szabolcs Gyöngyösi",
-  "writers": null
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "Bogi",
+    "Freddie"
+  ],
+  "jury": null,
+  "spokesperson": "Bence Forró"
 }

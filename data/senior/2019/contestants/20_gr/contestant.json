@@ -1,11 +1,7 @@
 {
   "id": 20,
   "country": "GR",
-  "broadcaster": "ERT",
   "artist": "Katerine Duska",
-  "artistPeople": [
-    "Katerine Duska"
-  ],
   "song": "Better Love",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5pQV_-40m_U",
@@ -18,15 +14,19 @@
   ],
   "bpm": 88,
   "tone": "Ab major",
+  "artistPeople": [
+    "Katerine Duska"
+  ],
   "backings": [
     "Eleni Pozantzidou",
     "Erasmia Markidi",
     "Evgenia Liakou"
   ],
-  "commentators": [
-    "Giorgos Kapoutzidis",
-    "Maria Kozakou"
+  "dancers": [
+    "Dimitra Vlachou",
+    "Fania Grigoriou"
   ],
+  "stageDirector": "Efi Gousi",
   "composers": [
     "David Sneddon",
     "Katerine Duska",
@@ -34,15 +34,16 @@
     "Phil Cook"
   ],
   "conductor": null,
-  "dancers": [
-    "Dimitra Vlachou",
-    "Fania Grigoriou"
-  ],
   "lyricists": [
     "David Sneddon",
     "Katerine Duska"
   ],
-  "spokesperson": "Gus G",
-  "stageDirector": "Efi Gousi",
-  "writers": null
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "jury": null,
+  "spokesperson": "Gus G"
 }

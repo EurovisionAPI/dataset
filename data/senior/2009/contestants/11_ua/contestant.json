@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "UA",
-  "broadcaster": "NTU",
   "artist": "Svetlana Loboda",
-  "artistPeople": [
-    "Svetlana Loboda"
-  ],
   "song": "Be my Valentine! (Anti-crisis Girl)",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/rGJqLCuqssc",
@@ -18,26 +14,31 @@
   ],
   "bpm": 125,
   "tone": "F# minor",
+  "artistPeople": [
+    "Svetlana Loboda"
+  ],
   "backings": [
     "Iryna Krestinina",
     "Olena Kolyadenko"
   ],
-  "commentators": [
-    "Timur Miroshnychenko"
-  ],
-  "composers": [
-    "Svetlana Loboda"
-  ],
-  "conductor": null,
   "dancers": [
     "Andriy Mazurenko",
     "Andriy Onyshchak",
     "Dmytro Boboshko"
   ],
+  "stageDirector": "Alan Badoev",
+  "composers": [
+    "Svetlana Loboda"
+  ],
+  "conductor": null,
   "lyricists": [
     "Yevgeny Matyushenko"
   ],
-  "spokesperson": "Marysya Horobets",
-  "stageDirector": "Alan Badoev",
-  "writers": null
+  "writers": null,
+  "broadcaster": "NTU",
+  "commentators": [
+    "Timur Miroshnychenko"
+  ],
+  "jury": null,
+  "spokesperson": "Marysya Horobets"
 }

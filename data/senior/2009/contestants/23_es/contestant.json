@@ -1,11 +1,7 @@
 {
   "id": 23,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Soraya",
-  "artistPeople": [
-    "Soraya Arnelas"
-  ],
   "song": "La noche es para mí",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/zw8uKCrDt7U",
@@ -14,28 +10,33 @@
   ],
   "bpm": 126,
   "tone": "F# minor",
+  "artistPeople": [
+    "Soraya Arnelas"
+  ],
   "backings": [
     "Noemí Gallego",
     "Nora Jiménez",
     "Verónica Ferreiro"
   ],
-  "commentators": [
-    "Joaquín Guzmán"
+  "dancers": [
+    "Alexey Postolosky",
+    "Dima Oleschenko"
   ],
+  "stageDirector": "Maite Marcos",
   "composers": [
     "Dimitri Stassos",
     "Irini Michas",
     "Jason Gill"
   ],
   "conductor": null,
-  "dancers": [
-    "Alexey Postolosky",
-    "Dima Oleschenko"
-  ],
   "lyricists": [
     "Felipe Pedroso"
   ],
-  "spokesperson": "Iñaki del Moral",
-  "stageDirector": "Maite Marcos",
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Joaquín Guzmán"
+  ],
+  "jury": null,
+  "spokesperson": "Iñaki del Moral"
 }

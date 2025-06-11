@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "BY",
-  "broadcaster": "BTRC",
   "artist": "Alyona Lanskaya",
-  "artistPeople": [
-    "Alena Lanskaya"
-  ],
   "song": "Solayoh",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/XKewBfUE2Mg",
@@ -14,26 +10,31 @@
   ],
   "bpm": 95,
   "tone": "E minor",
+  "artistPeople": [
+    "Alena Lanskaya"
+  ],
   "backings": [
     "Ana Mašulović",
     "Marija Lazić",
     "William Botha"
   ],
-  "commentators": [
-    "Evgeny Perlin"
-  ],
-  "composers": [
-    "Marc Paelinck"
-  ],
-  "conductor": null,
   "dancers": [
     "Mehmet Durmaz",
     "Žiga Sotlar"
   ],
+  "stageDirector": "Zile",
+  "composers": [
+    "Marc Paelinck"
+  ],
+  "conductor": null,
   "lyricists": [
     "Martin King"
   ],
-  "spokesperson": "Darya Domracheva",
-  "stageDirector": "Zile",
-  "writers": null
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Evgeny Perlin"
+  ],
+  "jury": null,
+  "spokesperson": "Darya Domracheva"
 }

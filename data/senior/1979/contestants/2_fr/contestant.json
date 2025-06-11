@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "FR",
-  "broadcaster": "TF1",
   "artist": "Anne-Marie David",
-  "artistPeople": [
-    "Anne-Marie David"
-  ],
   "song": "Je suis l'enfant-soleil",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/4kVfXz2Gv_U",
@@ -14,6 +10,9 @@
   ],
   "bpm": 144,
   "tone": "F minor",
+  "artistPeople": [
+    "Anne-Marie David"
+  ],
   "backings": [
     "Dominique Poulain",
     "Francine Chantereau",
@@ -21,18 +20,20 @@
     "Martine Latorre",
     "Michel Costa"
   ],
-  "commentators": [
-    "Marc Menant"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Eddy Marnay"
   ],
   "conductor": "Guy Mattéoni",
-  "dancers": null,
   "lyricists": [
     "Hubert Giraud"
   ],
-  "spokesperson": "Fabienne Égal",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TF1",
+  "commentators": [
+    "Marc Menant"
+  ],
+  "jury": null,
+  "spokesperson": "Fabienne Égal"
 }

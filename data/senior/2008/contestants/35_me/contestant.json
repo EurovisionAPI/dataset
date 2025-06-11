@@ -1,36 +1,37 @@
 {
   "id": 35,
   "country": "ME",
-  "broadcaster": "RTCG",
   "artist": "Stefan Filipović",
-  "artistPeople": [
-    "Stefan Filipović"
-  ],
   "song": "Zauvijek volim te",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/qmD2vV1ffwU"
   ],
   "bpm": 127,
   "tone": "A major",
+  "artistPeople": [
+    "Stefan Filipović"
+  ],
   "backings": [
     "Amira Hidić",
     "Ana Kabalin",
     "Martina Majerle",
     "Mateja Majerle"
   ],
-  "commentators": [
-    "Dražen Bauković",
-    "Tamara Ivanković"
-  ],
+  "dancers": null,
+  "stageDirector": "Gorčin Stojanović",
   "composers": [
     "Grigor Koprov"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Ognen Nedelkovski"
   ],
-  "spokesperson": "Nina Radulović",
-  "stageDirector": "Gorčin Stojanović",
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Dražen Bauković",
+    "Tamara Ivanković"
+  ],
+  "jury": null,
+  "spokesperson": "Nina Radulović"
 }

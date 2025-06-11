@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Karoline Krüger",
-  "artistPeople": [
-    "Karoline Krüger"
-  ],
   "song": "For vår jord",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/XLHA8jaFX7M",
@@ -15,6 +11,9 @@
   ],
   "bpm": 140,
   "tone": "D major",
+  "artistPeople": [
+    "Karoline Krüger"
+  ],
   "backings": [
     "Elisabeth Moberg",
     "Kari Iveland",
@@ -22,18 +21,20 @@
     "Sigvart Dagsland",
     "Tor Endresen"
   ],
-  "commentators": [
-    "John Andreassen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Erik Hillestad"
   ],
   "conductor": "Arild Stav",
-  "dancers": null,
   "lyricists": [
     "Anita Skorgan"
   ],
-  "spokesperson": "Andreas Diesen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "John Andreassen"
+  ],
+  "jury": null,
+  "spokesperson": "Andreas Diesen"
 }

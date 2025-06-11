@@ -1,14 +1,7 @@
 {
   "id": 23,
   "country": "FR",
-  "broadcaster": "FT2",
   "artist": "Alvan & Ahez",
-  "artistPeople": [
-    "Alexis Morvan-Rosius",
-    "Marine Lavigne",
-    "Sterenn Diridollou",
-    "Sterenn Le Guillou"
-  ],
   "song": "Fulenn",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/H1lcGXwOqJI",
@@ -21,22 +14,30 @@
   ],
   "bpm": 120,
   "tone": "Bb minor",
-  "backings": null,
-  "commentators": [
-    "Laurence Boccolini",
-    "Stéphane Bern"
+  "artistPeople": [
+    "Alexis Morvan-Rosius",
+    "Marine Lavigne",
+    "Sterenn Diridollou",
+    "Sterenn Le Guillou"
   ],
+  "backings": null,
+  "dancers": [
+    "Soleïla Chaou"
+  ],
+  "stageDirector": "Marika Prochet",
   "composers": [
     "Alexis Morvan-Rosius"
   ],
   "conductor": null,
-  "dancers": [
-    "Soleïla Chaou"
-  ],
   "lyricists": [
     "Marine Lavigne"
   ],
-  "spokesperson": "Élodie Gossuin",
-  "stageDirector": "Marika Prochet",
-  "writers": null
+  "writers": null,
+  "broadcaster": "FT2",
+  "commentators": [
+    "Laurence Boccolini",
+    "Stéphane Bern"
+  ],
+  "jury": null,
+  "spokesperson": "Élodie Gossuin"
 }

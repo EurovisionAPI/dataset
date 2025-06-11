@@ -1,12 +1,7 @@
 {
   "id": 5,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Elisabeth Andreasson & Jan Werner Danielsen",
-  "artistPeople": [
-    "Elisabeth Gunilla Andreassen",
-    "Jan Werner Danielsen"
-  ],
   "song": "Duett",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/bMs0KYlHZmc",
@@ -16,19 +11,25 @@
   ],
   "bpm": 148,
   "tone": "C# major",
-  "backings": null,
-  "commentators": [
-    "Jostein Pedersen"
+  "artistPeople": [
+    "Elisabeth Gunilla Andreassen",
+    "Jan Werner Danielsen"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Rolf Løvland"
   ],
   "conductor": "Pete Knutsen",
-  "dancers": null,
   "lyricists": [
     "Hans Olav Mørk"
   ],
-  "spokesperson": "Sverre Christophersen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
 }

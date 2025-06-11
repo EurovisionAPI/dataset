@@ -1,13 +1,7 @@
 {
   "id": 0,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Herrey's",
-  "artistPeople": [
-    "Louis Herrey",
-    "Per Herrey",
-    "Richard Herrey"
-  ],
   "song": "Diggi-loo Diggy-ley",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ySOCalwr6Yo",
@@ -18,23 +12,30 @@
   ],
   "bpm": 131,
   "tone": "F major",
+  "artistPeople": [
+    "Louis Herrey",
+    "Per Herrey",
+    "Richard Herrey"
+  ],
   "backings": [
     "Anders Engberg",
     "Caj Högberg",
     "Lotta Pedersen"
   ],
-  "commentators": [
-    "Fredrik Belfrage"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Torgny Söderberg"
   ],
   "conductor": "Curt-Eric Holmquist",
-  "dancers": null,
   "lyricists": [
     "Britt Lindeborg"
   ],
-  "spokesperson": "Agneta Bolme-Börjefors",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Fredrik Belfrage"
+  ],
+  "jury": null,
+  "spokesperson": "Agneta Bolme-Börjefors"
 }

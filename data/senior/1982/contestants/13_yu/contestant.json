@@ -1,13 +1,7 @@
 {
   "id": 13,
   "country": "YU",
-  "broadcaster": "JRT",
   "artist": "Aska",
-  "artistPeople": [
-    "Izolda Barudžija",
-    "Snežana Misković",
-    "Snežana Stamenković"
-  ],
   "song": "Halo, halo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/uR8jtnWlN_8",
@@ -17,21 +11,28 @@
   ],
   "bpm": 89,
   "tone": "C# major",
+  "artistPeople": [
+    "Izolda Barudžija",
+    "Snežana Misković",
+    "Snežana Stamenković"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aleksandar Ilić"
+  ],
+  "conductor": "Zvonimir Skerl",
+  "lyricists": [
+    "Miro Zec"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
   "commentators": [
     "Mladen Popović",
     "Oliver Mlakar",
     "Tomaž Terček"
   ],
-  "composers": [
-    "Aleksandar Ilić"
-  ],
-  "conductor": "Zvonimir Skerl",
-  "dancers": null,
-  "lyricists": [
-    "Miro Zec"
-  ],
-  "spokesperson": "Miša Molk",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Miša Molk"
 }

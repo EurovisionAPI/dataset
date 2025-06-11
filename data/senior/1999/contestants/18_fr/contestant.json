@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "FR",
-  "broadcaster": "France 3",
   "artist": "Nayah",
-  "artistPeople": [
-    "Sylvie Mestre"
-  ],
   "song": "Je veux donner ma voix",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/NFC_iDXYIdU",
@@ -14,21 +10,26 @@
   ],
   "bpm": 85,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "Julien Lepers"
+  "artistPeople": [
+    "Sylvie Mestre"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Pascal Graczyk",
     "René Colombies"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Gilles Arcens",
     "Luigi Rutigliano"
   ],
-  "spokesperson": "Marie Myriam",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "France 3",
+  "commentators": [
+    "Julien Lepers"
+  ],
+  "jury": null,
+  "spokesperson": "Marie Myriam"
 }

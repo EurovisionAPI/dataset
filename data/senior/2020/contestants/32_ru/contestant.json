@@ -1,14 +1,7 @@
 {
   "id": 32,
   "country": "RU",
-  "broadcaster": "C1R",
   "artist": "Little Big",
-  "artistPeople": [
-    "Boo",
-    "Ilich",
-    "Gokk",
-    "Sofiya Alekseevna Tayurskaya (Со́фья Алексе́евна Таю́рская)"
-  ],
   "song": "Uno",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/L_dWvTCdDQ4",
@@ -16,20 +9,28 @@
   ],
   "bpm": 142,
   "tone": "A major",
+  "artistPeople": [
+    "Boo",
+    "Ilich",
+    "Gokk",
+    "Sofiya Alekseevna Tayurskaya (Со́фья Алексе́евна Таю́рская)"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Denis Tsukerman",
     "Ilya Prusikin",
     "Viktor Sibrinin"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Denis Tsukerman",
     "Ilya Prusikin"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "C1R",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

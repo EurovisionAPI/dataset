@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Harry Winter",
-  "artistPeople": [
-    "Horst Winter"
-  ],
   "song": "Du hast mich so fasziniert",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/wSdNep2GPUE",
@@ -13,17 +9,22 @@
   ],
   "bpm": 152,
   "tone": "Bb major",
+  "artistPeople": [
+    "Horst Winter"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Robert Stolz"
   ],
   "conductor": "Robert Stolz",
-  "dancers": null,
   "lyricists": [
     "Robert Gilbert"
   ],
-  "spokesperson": "Emil Kollpacher",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Emil Kollpacher"
 }

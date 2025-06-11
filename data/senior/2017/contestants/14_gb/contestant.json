@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Lucie Jones",
-  "artistPeople": [
-    "Lucie Bethan Jones"
-  ],
   "song": "Never Give Up on You",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Fl1GYTg4GmA",
@@ -18,21 +14,26 @@
   ],
   "bpm": 129,
   "tone": "F major",
+  "artistPeople": [
+    "Lucie Bethan Jones"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": "Dan Shipton",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Daniel Salcedo",
+    "Emmelie de Forest",
+    "Lawrie Martin"
+  ],
+  "broadcaster": "BBC",
   "commentators": [
     "Graham Norton",
     "Mel Giedroyc",
     "Scott Mills"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Katrina Leskanich",
-  "stageDirector": "Dan Shipton",
-  "writers": [
-    "Daniel Salcedo",
-    "Emmelie de Forest",
-    "Lawrie Martin"
-  ]
+  "jury": null,
+  "spokesperson": "Katrina Leskanich"
 }

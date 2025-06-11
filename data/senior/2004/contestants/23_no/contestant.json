@@ -1,11 +1,7 @@
 {
   "id": 23,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Knut Anders Sørum",
-  "artistPeople": [
-    "Knut Anders Sørum"
-  ],
   "song": "High",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/1_0JT8ne6_0",
@@ -14,23 +10,28 @@
   ],
   "bpm": 94,
   "tone": "Bb major",
+  "artistPeople": [
+    "Knut Anders Sørum"
+  ],
   "backings": [
     "Åse Karin Hjelen",
     "Håvard Gryting"
   ],
-  "commentators": [
-    "Jostein Pedersen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Lars Andersson",
     "Thomas Thörnholm"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Dan Attlerud"
   ],
-  "spokesperson": "Ingvild Helljesen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "jury": null,
+  "spokesperson": "Ingvild Helljesen"
 }

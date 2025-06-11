@@ -1,15 +1,7 @@
 {
   "id": 23,
   "country": "UA",
-  "broadcaster": "UA:PBC",
   "artist": "O.Torvald",
-  "artistPeople": [
-    "Yevhen Halych",
-    "Denys Myzyuk",
-    "Mykola Rayda",
-    "Mykyta Vasyl'yev",
-    "Oleksandr Solokha"
-  ],
   "song": "Time",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/mogNLkIEI0k",
@@ -22,24 +14,33 @@
   ],
   "bpm": 102,
   "tone": "F# major",
+  "artistPeople": [
+    "Yevhen Halych",
+    "Denys Myzyuk",
+    "Mykola Rayda",
+    "Mykyta Vasyl'yev",
+    "Oleksandr Solokha"
+  ],
   "backings": [
     "Dasha Mineyeva"
   ],
-  "commentators": [
-    "Andrii Horodyskyi",
-    "Tetyana Terekhova"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Denys Myzyuk",
     "Yevhen Halych",
     "Zhenia Galych"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Yevhen Kamenchuk"
   ],
-  "spokesperson": "Zlata Ognevich",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "UA:PBC",
+  "commentators": [
+    "Andrii Horodyskyi",
+    "Tetyana Terekhova"
+  ],
+  "jury": null,
+  "spokesperson": "Zlata Ognevich"
 }

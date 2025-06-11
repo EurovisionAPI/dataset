@@ -1,11 +1,7 @@
 {
   "id": 26,
   "country": "DE",
-  "broadcaster": "NDR",
   "artist": "Ann Sophie",
-  "artistPeople": [
-    "Ann-Sophie Dürmeyer"
-  ],
   "song": "Black Smoke",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/DGMJOchTRPc",
@@ -17,24 +13,29 @@
   ],
   "bpm": 86,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Ann-Sophie Dürmeyer"
+  ],
   "backings": [
     "Bibi Vongehr",
     "Giovanna Winterfeldt",
     "Kayna Okwuazu",
     "Lan Syreen"
   ],
-  "commentators": [
-    "Peter Urban"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Barbara Schöneberger",
-  "stageDirector": null,
   "writers": [
     "Ella McMahon",
     "Michael Harwood",
     "Tonino Speciale"
-  ]
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Barbara Schöneberger"
 }

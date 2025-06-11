@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Domenico Modugno",
-  "artistPeople": [
-    "Domenico Modugno"
-  ],
   "song": "Nel blu, dipinto di blu",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/v2HKRAtUKNw",
@@ -14,20 +10,25 @@
   ],
   "bpm": 139,
   "tone": "Bb major",
-  "backings": null,
-  "commentators": [
-    "Bianca Maria Piccinino"
+  "artistPeople": [
+    "Domenico Modugno"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Domenico Modugno"
   ],
   "conductor": "Alberto Semprini",
-  "dancers": null,
   "lyricists": [
     "Domenico Modugno",
     "Franco Migliacci"
   ],
-  "spokesperson": "Fulvia Colombo",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Bianca Maria Piccinino"
+  ],
+  "jury": null,
+  "spokesperson": "Fulvia Colombo"
 }

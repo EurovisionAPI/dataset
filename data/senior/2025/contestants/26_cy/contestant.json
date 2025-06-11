@@ -1,11 +1,7 @@
 {
   "id": 26,
   "country": "CY",
-  "broadcaster": "CyBC",
   "artist": "Theo Evan",
-  "artistPeople": [
-    "Evangelos Theodorou (Ευάγγελος Θεοδώρου)"
-  ],
   "song": "Shh",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/egPAiAuC57k",
@@ -16,29 +12,34 @@
   ],
   "bpm": 142,
   "tone": "G major",
+  "artistPeople": [
+    "Evangelos Theodorou (Ευάγγελος Θεοδώρου)"
+  ],
   "backings": [
     "Andy Nicolas"
   ],
-  "commentators": [
-    "Alexandros Taramountas",
-    "Melina Karageorgiou"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Diego Rey",
     "Guillem Carreño",
     "Rafa Soto",
     "Sam Vázquez"
   ],
-  "lyricists": null,
-  "spokesperson": "Loukas Hamatsos",
   "stageDirector": "Sergio Jaen",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Dimitris Kontopoulos",
     "Elke Tiel",
     "Elsie Bay",
     "Lasse Midtsian Nymann",
     "Linda Dale"
-  ]
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Alexandros Taramountas",
+    "Melina Karageorgiou"
+  ],
+  "jury": null,
+  "spokesperson": "Loukas Hamatsos"
 }

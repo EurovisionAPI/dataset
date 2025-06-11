@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "FR",
-  "broadcaster": "A2F",
   "artist": "Gérard Lenorman",
-  "artistPeople": [
-    "Gérard Aumard"
-  ],
   "song": "Chanteur de charme",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/uy2FT0avgGo",
@@ -14,20 +10,25 @@
   ],
   "bpm": 120,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Lionel Cassan"
+  "artistPeople": [
+    "Gérard Aumard"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Gérard Lenorman"
   ],
   "conductor": "Guy Mattéoni",
-  "dancers": null,
   "lyricists": [
     "Claude Lemesle",
     "Gérard Lenorman"
   ],
-  "spokesperson": "Catherine Ceylac",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "A2F",
+  "commentators": [
+    "Lionel Cassan"
+  ],
+  "jury": null,
+  "spokesperson": "Catherine Ceylac"
 }

@@ -1,11 +1,7 @@
 {
   "id": 30,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Molly Sterling",
-  "artistPeople": [
-    "Molly Sterling"
-  ],
   "song": "Playing With Numbers",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3B5sdNJF0lk",
@@ -16,6 +12,9 @@
   ],
   "bpm": 156,
   "tone": "F major",
+  "artistPeople": [
+    "Molly Sterling"
+  ],
   "backings": [
     "Darren Sweeney",
     "Jessica Supple",
@@ -23,19 +22,21 @@
     "Naomi Clarke",
     "Póilín Lynch"
   ],
-  "commentators": [
-    "Marty Whelan"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Greg French",
     "Molly Sterling"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Greg French"
   ],
-  "spokesperson": "Nicky Byrne",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Nicky Byrne"
 }

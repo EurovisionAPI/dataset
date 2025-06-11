@@ -6,12 +6,12 @@
   "intendedCountry": null,
   "slogan": "Light Your Fire!",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2012.png",
+  "broadcasters": [
+    "İctimai Television (İTV)"
+  ],
   "presenters": [
     "Leyla Aliyeva",
     "Eldar Gasimov",
     "Nargiz Birk-Petersen"
-  ],
-  "broadcasters": [
-    "İctimai Television (İTV)"
   ]
 }

@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "AU",
-  "broadcaster": "SBS",
   "artist": "Guy Sebastian",
-  "artistPeople": [
-    "Guy Theodore Sebastian"
-  ],
   "song": "Tonight Again",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/H0EhhZWXTng",
@@ -15,25 +11,30 @@
   ],
   "bpm": 106,
   "tone": "F minor",
+  "artistPeople": [
+    "Guy Theodore Sebastian"
+  ],
   "backings": [
     "Aaron Marcellus",
     "Brandon Winbush",
     "Carmen Smith",
     "Devin Michaei"
   ],
-  "commentators": [
-    "Julia Zemiro",
-    "Sam Pang"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Lee Lin Chin",
-  "stageDirector": null,
   "writers": [
     "David Ryan Harris",
     "Guy Sebastian",
     "Louis Schoorl"
-  ]
+  ],
+  "broadcaster": "SBS",
+  "commentators": [
+    "Julia Zemiro",
+    "Sam Pang"
+  ],
+  "jury": null,
+  "spokesperson": "Lee Lin Chin"
 }

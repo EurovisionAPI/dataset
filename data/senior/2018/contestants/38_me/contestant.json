@@ -1,11 +1,7 @@
 {
   "id": 38,
   "country": "ME",
-  "broadcaster": "RTCG",
   "artist": "Vanja Radovanović",
-  "artistPeople": [
-    "Vladimir Radovanović"
-  ],
   "song": "Inje",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/XEi080yOuB8",
@@ -18,6 +14,9 @@
   ],
   "bpm": 79,
   "tone": "F# minor",
+  "artistPeople": [
+    "Vladimir Radovanović"
+  ],
   "backings": [
     "Ana Mašulović",
     "Bole Martinović",
@@ -25,18 +24,20 @@
     "Jelena Đurić-Mitić",
     "Lena Kuzmanović"
   ],
+  "dancers": null,
+  "stageDirector": "Gojko Berkuljan",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Vanja Radovanović"
+  ],
+  "broadcaster": "RTCG",
   "commentators": [
     "Ajda Šufta",
     "Dražen Bauković",
     "Tijana Mišković"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Nataša Šotra",
-  "stageDirector": "Gojko Berkuljan",
-  "writers": [
-    "Vanja Radovanović"
-  ]
+  "jury": null,
+  "spokesperson": "Nataša Šotra"
 }

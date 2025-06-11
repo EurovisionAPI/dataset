@@ -1,12 +1,7 @@
 {
   "id": 38,
   "country": "LV",
-  "broadcaster": "LTV",
   "artist": "Musiqq",
-  "artistPeople": [
-    "Emīls Balceris",
-    "Marats Ogļezņevs"
-  ],
   "song": "Angel In Disguise",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/qBTMLCloxBw",
@@ -17,23 +12,29 @@
   ],
   "bpm": 125,
   "tone": "Bb major",
+  "artistPeople": [
+    "Emīls Balceris",
+    "Marats Ogļezņevs"
+  ],
   "backings": [
     "Gatis Supe",
     "Kristaps Šēnbergs",
     "Liba Ece-Kalniņa",
     "Ruta Duduma"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Marats Ogļezņevs"
+  ],
+  "broadcaster": "LTV",
   "commentators": [
     "Kārlis Būmeisters",
     "Valters Frīdenbergs"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Aisha",
-  "stageDirector": null,
-  "writers": [
-    "Marats Ogļezņevs"
-  ]
+  "jury": null,
+  "spokesperson": "Aisha"
 }

@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "BE",
-  "broadcaster": "RTBF",
   "artist": "Roberto Bellarosa",
-  "artistPeople": [
-    "Roberto Bellarosa"
-  ],
   "song": "Love Kills",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/dCl7OUFNSCA",
@@ -13,6 +9,9 @@
   ],
   "bpm": 132,
   "tone": "F major",
+  "artistPeople": [
+    "Roberto Bellarosa"
+  ],
   "backings": [
     "Cassandra Markopoulos",
     "Ivann Vermeer",
@@ -20,20 +19,22 @@
     "Manelle Jebira",
     "Virginie Luypaerts"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Andreas Anastasiou",
+    "Iain Farquharson",
+    "Jukka Immonen"
+  ],
+  "broadcaster": "RTBF",
   "commentators": [
     "André Vermeulen",
     "Jean-Louis Lahaye",
     "Maureen Louys"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Barbara Louys",
-  "stageDirector": null,
-  "writers": [
-    "Andreas Anastasiou",
-    "Iain Farquharson",
-    "Jukka Immonen"
-  ]
+  "jury": null,
+  "spokesperson": "Barbara Louys"
 }

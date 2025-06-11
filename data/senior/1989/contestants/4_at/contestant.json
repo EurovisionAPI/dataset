@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Thomas Forstner",
-  "artistPeople": [
-    "Thomas Forstner"
-  ],
   "song": "Nur ein Lied",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/IsAUqpXiw58",
@@ -15,23 +11,28 @@
   ],
   "bpm": 148,
   "tone": "E major",
+  "artistPeople": [
+    "Thomas Forstner"
+  ],
   "backings": [
     "Detlef Wiedeke",
     "Michael Scholz",
     "Rolf Köhler"
   ],
-  "commentators": [
-    "Ernst Grissemann"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Dieter Bohlen"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Joachim Horn-Bernges"
   ],
-  "spokesperson": "Tilia Herold",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
 }

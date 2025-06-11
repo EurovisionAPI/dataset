@@ -1,13 +1,7 @@
 {
   "id": 6,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Patricia & Hearts of Soul",
-  "artistPeople": [
-    "Bianca Maessen",
-    "Patricia Maessen",
-    "Stella"
-  ],
   "song": "Waterman",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/CXiyNAMk7ok",
@@ -17,17 +11,24 @@
   ],
   "bpm": 155,
   "tone": "D major",
+  "artistPeople": [
+    "Bianca Maessen",
+    "Patricia Maessen",
+    "Stella"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Dolf van der Linden",
+  "lyricists": null,
+  "writers": [
+    "Pieter Goemans"
+  ],
+  "broadcaster": "NOS",
   "commentators": [
     "Pim Jacobs"
   ],
-  "composers": null,
-  "conductor": "Dolf van der Linden",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Flip van der Schalie",
-  "stageDirector": null,
-  "writers": [
-    "Pieter Goemans"
-  ]
+  "jury": null,
+  "spokesperson": "Flip van der Schalie"
 }

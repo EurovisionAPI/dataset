@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Dora",
-  "artistPeople": [
-    "Maria Reis Dias de Jesus"
-  ],
   "song": "Voltarei",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/kZXzQtytpIU",
@@ -15,18 +11,23 @@
   ],
   "bpm": 185,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Margarida Mercês de Mello"
+  "artistPeople": [
+    "Maria Reis Dias de Jesus"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "José Calvário",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Maria Margarida Gaspar",
-  "stageDirector": null,
   "writers": [
     "José Calvário",
     "José Niza"
-  ]
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Margarida Mercês de Mello"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Margarida Gaspar"
 }

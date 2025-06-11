@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "BE",
-  "broadcaster": "BRT",
   "artist": "Linda Lepomme",
-  "artistPeople": [
-    "Linda Lepomme"
-  ],
   "song": "Laat me nu gaan",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/tlqa2EVakU4",
@@ -16,20 +12,25 @@
   ],
   "bpm": 129,
   "tone": "F major",
-  "backings": null,
-  "commentators": [
-    "Jacques Mercier",
-    "Luc Appermont"
+  "artistPeople": [
+    "Linda Lepomme"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Pieter Verlinden"
   ],
   "conductor": "Curt-Eric Holmquist",
-  "dancers": null,
   "lyricists": [
     "Bert Vivier"
   ],
-  "spokesperson": "Anne Ploegaerts",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Jacques Mercier",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Anne Ploegaerts"
 }

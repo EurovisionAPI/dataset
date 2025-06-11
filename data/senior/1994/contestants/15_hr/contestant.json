@@ -1,15 +1,7 @@
 {
   "id": 15,
   "country": "HR",
-  "broadcaster": "HRT",
   "artist": "Tony Cetinski",
-  "artistPeople": [
-    "Ivana Husar",
-    "Maja Vučić",
-    "Marija Husar",
-    "Martina Pongrac",
-    "Tony Cetinski"
-  ],
   "song": "Nek' ti bude ljubav sva",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/TqAi_Bm2Z40",
@@ -19,19 +11,28 @@
   ],
   "bpm": 135,
   "tone": "Eb major",
-  "backings": null,
-  "commentators": [
-    "Aco Kostadinov"
+  "artistPeople": [
+    "Ivana Husar",
+    "Maja Vučić",
+    "Marija Husar",
+    "Martina Pongrac",
+    "Tony Cetinski"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Željen Klašterka"
   ],
   "conductor": "Miljenko Prohaska",
-  "dancers": null,
   "lyricists": [
     "Željko Krznarić"
   ],
-  "spokesperson": "Helga Vlahović",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "jury": null,
+  "spokesperson": "Helga Vlahović"
 }

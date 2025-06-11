@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "NL",
-  "broadcaster": "NTS",
   "artist": "Lenny Kuhr",
-  "artistPeople": [
-    "Lenny Kuhr"
-  ],
   "song": "De troubadour",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/0ctod7qBMeY",
@@ -17,21 +13,26 @@
   ],
   "bpm": 96,
   "tone": "C# minor",
+  "artistPeople": [
+    "Lenny Kuhr"
+  ],
   "backings": [
     "Piet Souer"
   ],
-  "commentators": [
-    "Pim Jacobs"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Lenny Kuhr"
   ],
   "conductor": "Frans de Kok",
-  "dancers": null,
   "lyricists": [
     "David Hartsema"
   ],
-  "spokesperson": "Leo Nelissen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NTS",
+  "commentators": [
+    "Pim Jacobs"
+  ],
+  "jury": null,
+  "spokesperson": "Leo Nelissen"
 }

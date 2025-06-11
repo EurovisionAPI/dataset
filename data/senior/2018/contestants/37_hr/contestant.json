@@ -1,11 +1,7 @@
 {
   "id": 37,
   "country": "HR",
-  "broadcaster": "HRT",
   "artist": "Franka",
-  "artistPeople": [
-    "Franka Batelić Ćorluka"
-  ],
   "song": "Crazy",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/YxBLFbW5BqE",
@@ -16,22 +12,27 @@
   ],
   "bpm": 98,
   "tone": "A minor",
+  "artistPeople": [
+    "Franka Batelić Ćorluka"
+  ],
   "backings": [
     "Djordjija Palić",
     "Martina Ivanković"
   ],
-  "commentators": [
-    "Duško Ćurlić"
-  ],
+  "dancers": null,
+  "stageDirector": "Igor Barberić",
   "composers": [
     "Branimir Mihaljević"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Franka Batelić Ćorluka"
   ],
-  "spokesperson": "Uršula Tolj",
-  "stageDirector": "Igor Barberić",
-  "writers": null
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": null,
+  "spokesperson": "Uršula Tolj"
 }

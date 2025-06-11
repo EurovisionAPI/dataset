@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "FR",
-  "broadcaster": "France 3",
   "artist": "Bilal Hassani",
-  "artistPeople": [
-    "Bilal Hassani"
-  ],
   "song": "Roi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/AjZNbIQtWvw",
@@ -17,27 +13,32 @@
   ],
   "bpm": 142,
   "tone": "F minor",
+  "artistPeople": [
+    "Bilal Hassani"
+  ],
   "backings": [
     "Brice Pihan",
     "Émilie Satt",
     "Ulrich Kwasi"
   ],
+  "dancers": [
+    "Lin Ching-lan",
+    "Lizzy Howell"
+  ],
+  "stageDirector": "Marika Prochet",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Émilie Satt",
+    "Jean-Karl Lucas"
+  ],
+  "broadcaster": "France 3",
   "commentators": [
     "André Manoukian",
     "Sandy Herebert",
     "Stéphane Bern"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": [
-    "Lin Ching-lan",
-    "Lizzy Howell"
-  ],
-  "lyricists": null,
-  "spokesperson": "Julia Molkhou",
-  "stageDirector": "Marika Prochet",
-  "writers": [
-    "Émilie Satt",
-    "Jean-Karl Lucas"
-  ]
+  "jury": null,
+  "spokesperson": "Julia Molkhou"
 }

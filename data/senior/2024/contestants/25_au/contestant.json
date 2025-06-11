@@ -1,12 +1,7 @@
 {
   "id": 25,
   "country": "AU",
-  "broadcaster": "SBS",
   "artist": "Electric Fields",
-  "artistPeople": [
-    "Michael Ross",
-    "Zaachariaha Fielding"
-  ],
   "song": "One Milkali (One Blood)",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Wzpp6996QdI",
@@ -17,25 +12,31 @@
   ],
   "bpm": 110,
   "tone": "C minor",
+  "artistPeople": [
+    "Michael Ross",
+    "Zaachariaha Fielding"
+  ],
   "backings": [
     "Alyson Joyce",
     "Brendan Maclean",
     "Fred Leone"
   ],
+  "dancers": [
+    "Simi Vuata"
+  ],
+  "stageDirector": "Paul Clarke",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Michael Ross",
+    "Zaachariaha Fielding"
+  ],
+  "broadcaster": "SBS",
   "commentators": [
     "Joel Creasey",
     "Myf Warhurst"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": [
-    "Simi Vuata"
-  ],
-  "lyricists": null,
-  "spokesperson": "Daniel Estrin",
-  "stageDirector": "Paul Clarke",
-  "writers": [
-    "Michael Ross",
-    "Zaachariaha Fielding"
-  ]
+  "jury": null,
+  "spokesperson": "Daniel Estrin"
 }

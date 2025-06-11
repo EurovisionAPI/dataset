@@ -1,15 +1,7 @@
 {
   "id": 20,
   "country": "SI",
-  "broadcaster": "RTVSLO",
   "artist": "Joker Out",
-  "artistPeople": [
-    "Bojan Cvjetićanin",
-    "Jan Peteh",
-    "Jure Maček",
-    "Kris Guštin",
-    "Nace Jordan"
-  ],
   "song": "Carpe Diem",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3LXlPviGiWc",
@@ -22,10 +14,16 @@
   ],
   "bpm": 132,
   "tone": "C# minor",
-  "backings": null,
-  "commentators": [
-    "Andrej Hofer"
+  "artistPeople": [
+    "Bojan Cvjetićanin",
+    "Jan Peteh",
+    "Jure Maček",
+    "Kris Guštin",
+    "Nace Jordan"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Bojan Cvjetićanin",
     "Jan Peteh",
@@ -35,11 +33,14 @@
     "Žarko Pak"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Bojan Cvjetićanin"
   ],
-  "spokesperson": "Melani Mekicar",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "jury": null,
+  "spokesperson": "Melani Mekicar"
 }

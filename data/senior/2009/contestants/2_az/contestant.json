@@ -1,12 +1,7 @@
 {
   "id": 2,
   "country": "AZ",
-  "broadcaster": "İctimai",
   "artist": "AySel & Arash",
-  "artistPeople": [
-    "Arash",
-    "Aysel Teymurzadə"
-  ],
   "song": "Always",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/J0qdRqY_3HM",
@@ -14,11 +9,13 @@
   ],
   "bpm": 109,
   "tone": "F# major",
-  "backings": null,
-  "commentators": [
-    "Isa Melikov",
-    "Leyla Aliyeva"
+  "artistPeople": [
+    "Arash",
+    "Aysel Teymurzadə"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Alex Papaconstantinou",
     "Arash Labaf",
@@ -27,14 +24,18 @@
     "Robert Uhlmann"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Anderz Wrethov",
     "Arash Labaf",
     "Elin Wrethov",
     "Robert Uhlmann"
   ],
-  "spokesperson": "Husniyya Maharramova",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Isa Melikov",
+    "Leyla Aliyeva"
+  ],
+  "jury": null,
+  "spokesperson": "Husniyya Maharramova"
 }

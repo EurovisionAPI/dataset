@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "CY",
-  "broadcaster": "CyBC",
   "artist": "Stelios Constantas",
-  "artistPeople": [
-    "Stelios Konstantas"
-  ],
   "song": "Feeling Alive",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/EmJuQIUIe3Q",
@@ -13,19 +9,24 @@
   ],
   "bpm": 120,
   "tone": "E minor",
+  "artistPeople": [
+    "Stelios Konstantas"
+  ],
   "backings": [
     "Evagoras Evagorou"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Stelios Konstantas"
+  ],
+  "broadcaster": "CyBC",
   "commentators": [
     "Evi Papamichail"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Loukas Hamatsos",
-  "stageDirector": null,
-  "writers": [
-    "Stelios Konstantas"
-  ]
+  "jury": null,
+  "spokesperson": "Loukas Hamatsos"
 }

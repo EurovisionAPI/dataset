@@ -1,12 +1,7 @@
 {
   "id": 36,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Dustin the Turkey",
-  "artistPeople": [
-    "Johnny Morrison",
-    "Kathleen Burke"
-  ],
   "song": "Irelande douze pointe",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/1fQX3x0CBjk",
@@ -17,21 +12,27 @@
   ],
   "bpm": 135,
   "tone": "D minor",
+  "artistPeople": [
+    "Johnny Morrison",
+    "Kathleen Burke"
+  ],
   "backings": [
     "Ann Harrington"
   ],
-  "commentators": [
-    "Marty Whelan"
-  ],
+  "dancers": null,
+  "stageDirector": "Sven Stojanović",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Niamh Kavanagh",
-  "stageDirector": "Sven Stojanović",
   "writers": [
     "Darren Smith",
     "Dustin the Turkey",
     "Simon Fine"
-  ]
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Niamh Kavanagh"
 }

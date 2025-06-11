@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Carlos Paião",
-  "artistPeople": [
-    "Carlos Paião"
-  ],
   "song": "Play-back",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/pnxqhRFyrco",
@@ -17,22 +13,27 @@
   ],
   "bpm": 135,
   "tone": "A minor",
+  "artistPeople": [
+    "Carlos Paião"
+  ],
   "backings": [
     "Ana Bola",
     "Cristina Águas",
     "Pedro Calvinho",
     "Peter Peterson"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Shegundo Galarza",
+  "lyricists": null,
+  "writers": [
+    "Carlos Paião"
+  ],
+  "broadcaster": "RTP",
   "commentators": [
     "Eládio Clímaco"
   ],
-  "composers": null,
-  "conductor": "Shegundo Galarza",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Margarida Andrade",
-  "stageDirector": null,
-  "writers": [
-    "Carlos Paião"
-  ]
+  "jury": null,
+  "spokesperson": "Margarida Andrade"
 }

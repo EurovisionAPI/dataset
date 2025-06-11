@@ -1,11 +1,7 @@
 {
   "id": 27,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Jari Sillanpää",
-  "artistPeople": [
-    "Jari Sillanpää"
-  ],
   "song": "Takes 2 To Tango",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/LRQgeLajKN4",
@@ -14,6 +10,9 @@
   ],
   "bpm": 138,
   "tone": "A minor",
+  "artistPeople": [
+    "Jari Sillanpää"
+  ],
   "backings": [
     "Anniina Rubinstein",
     "Antton Laine",
@@ -21,19 +20,21 @@
     "Mika Toivanen",
     "Riikka Timonen"
   ],
-  "commentators": [
-    "Asko Murtomäki",
-    "Markus Kajo"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Mika Toivanen"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Jari Sillanpää"
   ],
-  "spokesperson": "Anna Stenlund",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Asko Murtomäki",
+    "Markus Kajo"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Stenlund"
 }

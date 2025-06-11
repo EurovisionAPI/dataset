@@ -1,12 +1,7 @@
 {
   "id": 31,
   "country": "RS",
-  "broadcaster": "RTS",
   "artist": "Princ",
-  "artistPeople": [
-    "Princ",
-    "Princ od Vranje"
-  ],
   "song": "Mila",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/WlCoZ0UOXoY",
@@ -19,22 +14,28 @@
   ],
   "bpm": 140,
   "tone": "G minor",
-  "backings": null,
-  "commentators": [
-    "Duška Vučinić-Lučić"
+  "artistPeople": [
+    "Princ",
+    "Princ od Vranje"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Danilo Fatić",
     "Dejan Bošković",
     "Diego Siqueira",
     "Just Daniels"
   ],
-  "lyricists": null,
-  "spokesperson": "Dragana Kosjerina",
   "stageDirector": "Milica Soldatović Mikić",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Dušan Bačić"
-  ]
+  ],
+  "broadcaster": "RTS",
+  "commentators": [
+    "Duška Vučinić-Lučić"
+  ],
+  "jury": null,
+  "spokesperson": "Dragana Kosjerina"
 }

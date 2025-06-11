@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "José Cid",
-  "artistPeople": [
-    "José Cid"
-  ],
   "song": "Um grande, grande amor",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/nnu4HNTVnco",
@@ -16,6 +12,9 @@
   ],
   "bpm": 135,
   "tone": "A major",
+  "artistPeople": [
+    "José Cid"
+  ],
   "backings": [
     "Lena Campos",
     "Maria Armanda",
@@ -23,16 +22,18 @@
     "Ramón Galarza",
     "Zé Nabo"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Jorge Machado",
+  "lyricists": null,
+  "writers": [
+    "José Cid"
+  ],
+  "broadcaster": "RTP",
   "commentators": [
     "Isabel Wolmar"
   ],
-  "composers": null,
-  "conductor": "Jorge Machado",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Teresa Cruz",
-  "stageDirector": null,
-  "writers": [
-    "José Cid"
-  ]
+  "jury": null,
+  "spokesperson": "Teresa Cruz"
 }

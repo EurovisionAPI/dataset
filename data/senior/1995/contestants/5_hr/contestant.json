@@ -1,16 +1,7 @@
 {
   "id": 5,
   "country": "HR",
-  "broadcaster": "HRT",
   "artist": "Magazin & Lidija",
-  "artistPeople": [
-    "Ante Miletić",
-    "Danijela Martinović",
-    "Lidija Horvat-Dunjko",
-    "Nenad Vesanović",
-    "Tonči Huljić",
-    "Željko Baričić"
-  ],
   "song": "Nostalgija",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/r2IG1jauOfI",
@@ -20,19 +11,29 @@
   ],
   "bpm": 118,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Aco Kostadinov"
+  "artistPeople": [
+    "Ante Miletić",
+    "Danijela Martinović",
+    "Lidija Horvat-Dunjko",
+    "Nenad Vesanović",
+    "Tonči Huljić",
+    "Željko Baričić"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Tonči Huljić"
   ],
   "conductor": "Stipica Kalogjera",
-  "dancers": null,
   "lyricists": [
     "Vjekoslava Huljić"
   ],
-  "spokesperson": "Danijela Trbović",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "jury": null,
+  "spokesperson": "Danijela Trbović"
 }

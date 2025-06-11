@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Justine Pelmelay",
-  "artistPeople": [
-    "Anneke Pelmelay"
-  ],
   "song": "Blijf zoals je bent",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/uF1Q1elnD0o",
@@ -15,15 +11,16 @@
   ],
   "bpm": 77,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "Willem van Beusekom"
+  "artistPeople": [
+    "Anneke Pelmelay"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jan Kisjes"
   ],
   "conductor": "Harry van Hoof",
-  "dancers": null,
   "lyricists": [
     "Aart Mol",
     "Cees Bergman",
@@ -31,7 +28,11 @@
     "Erwin van Prehn",
     "Geertjan Hessing"
   ],
-  "spokesperson": "Joop van Os",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Joop van Os"
 }

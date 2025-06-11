@@ -1,11 +1,7 @@
 {
   "id": 30,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Filipa Sousa",
-  "artistPeople": [
-    "Filipa Sousa"
-  ],
   "song": "Vida minha",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/fk5i7Hfyy3o",
@@ -14,6 +10,9 @@
   ],
   "bpm": 108,
   "tone": "B major",
+  "artistPeople": [
+    "Filipa Sousa"
+  ],
   "backings": [
     "Ana Rita Inácio",
     "Carla Ribeiro",
@@ -21,18 +20,20 @@
     "Felipe Fontenelle",
     "Pedro Coelho"
   ],
-  "commentators": [
-    "Pedro Granger"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Andrej Babić"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Carlos Coelho"
   ],
-  "spokesperson": "Joana Teles",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Pedro Granger"
+  ],
+  "jury": null,
+  "spokesperson": "Joana Teles"
 }

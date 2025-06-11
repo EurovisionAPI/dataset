@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Cornelia Jakobs",
-  "artistPeople": [
-    "Anna Cornelia Jakobsdotter Samuelsson"
-  ],
   "song": "Hold Me Closer",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/i777psA2gP4",
@@ -18,20 +14,25 @@
   ],
   "bpm": 97,
   "tone": "F# major",
-  "backings": null,
-  "commentators": [
-    "Edward af Sillén",
-    "Linnea Henriksson"
+  "artistPeople": [
+    "Anna Cornelia Jakobsdotter Samuelsson"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Lotta Furebäck, Sacha Jean-Baptiste",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Dotter",
-  "stageDirector": "Lotta Furebäck, Sacha Jean-Baptiste",
   "writers": [
     "Cornelia Jakobs",
     "David Zandén",
     "Isa Molin"
-  ]
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Edward af Sillén",
+    "Linnea Henriksson"
+  ],
+  "jury": null,
+  "spokesperson": "Dotter"
 }

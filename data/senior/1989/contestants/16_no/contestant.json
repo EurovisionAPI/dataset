@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Britt Synnøve Johansen",
-  "artistPeople": [
-    "Britt Synnøve Johansen"
-  ],
   "song": "Venners nærhet",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/DGIUODWyzD4",
@@ -15,24 +11,29 @@
   ],
   "bpm": 76,
   "tone": "G major",
+  "artistPeople": [
+    "Britt Synnøve Johansen"
+  ],
   "backings": [
     "Elisabeth Moberg",
     "Geir Rebbestad",
     "Jon Dagsland",
     "Kari Iveland"
   ],
-  "commentators": [
-    "John Andreassen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Inge Enoksen"
   ],
   "conductor": "Pete Knutsen",
-  "dancers": null,
   "lyricists": [
     "Leiv N. Grøtte"
   ],
-  "spokesperson": "Sverre Christophersen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "John Andreassen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
 }

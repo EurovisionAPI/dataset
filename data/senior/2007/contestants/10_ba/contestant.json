@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "BA",
-  "broadcaster": "BHRT",
   "artist": "Marija Sestic",
-  "artistPeople": [
-    "Marija Šestić"
-  ],
   "song": "Rijeka bez imena",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/b2h52r1oOYA",
@@ -15,6 +11,9 @@
   ],
   "bpm": 156,
   "tone": "D major",
+  "artistPeople": [
+    "Marija Šestić"
+  ],
   "backings": [
     "Aleksandar Sedlar Bogoev",
     "Danijela Večerinović",
@@ -22,18 +21,20 @@
     "Jelena Majić",
     "Marina Đurović"
   ],
-  "commentators": [
-    "Dejan Kukrić"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Goran Kovačić"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Aleksandra Milutinović"
   ],
-  "spokesperson": "Vesna Andrée-Zaimović",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BHRT",
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "jury": null,
+  "spokesperson": "Vesna Andrée-Zaimović"
 }

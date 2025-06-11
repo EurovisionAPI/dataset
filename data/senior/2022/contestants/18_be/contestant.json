@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "BE",
-  "broadcaster": "RTB",
   "artist": "Jérémie Makiese",
-  "artistPeople": [
-    "Jérémie Makiese"
-  ],
   "song": "Miss You",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/sB09advfF6E",
@@ -17,27 +13,32 @@
   ],
   "bpm": 144,
   "tone": "F# minor",
-  "backings": null,
-  "commentators": [
-    "Jean-Louis Lahaye",
-    "Maureen Louys",
-    "Peter Van de Veire"
+  "artistPeople": [
+    "Jérémie Makiese"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Alpha Lopez",
     "Cédric Libambu",
     "Malik Zaryaty",
     "Shean Assal"
   ],
-  "lyricists": null,
-  "spokesperson": "David Jeanmotte",
   "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Jérémie Makiese",
     "Manon Romiti",
     "Mike BGRZ",
     "Silvio Lisbonne"
-  ]
+  ],
+  "broadcaster": "RTB",
+  "commentators": [
+    "Jean-Louis Lahaye",
+    "Maureen Louys",
+    "Peter Van de Veire"
+  ],
+  "jury": null,
+  "spokesperson": "David Jeanmotte"
 }

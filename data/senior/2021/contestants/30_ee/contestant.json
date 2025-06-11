@@ -1,11 +1,7 @@
 {
   "id": 30,
   "country": "EE",
-  "broadcaster": "ERR",
   "artist": "Uku Suviste",
-  "artistPeople": [
-    "Uku Suviste"
-  ],
   "song": "The Lucky One",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/mhMZQyv_Fhw",
@@ -18,25 +14,30 @@
   ],
   "bpm": 88,
   "tone": "E major",
+  "artistPeople": [
+    "Uku Suviste"
+  ],
   "backings": [
     "Kaarel Orumägi",
     "Laura-Liisa Veiler"
   ],
+  "dancers": null,
+  "stageDirector": "Dan Shipton, Marvin Dietmann",
+  "composers": [
+    "Uku Suviste"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Sharon Vaughn",
+    "Uku Suviste"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
   "commentators": [
     "Aleksandr Hobotov",
     "Julia Kalenda",
     "Marko Reikop"
   ],
-  "composers": [
-    "Uku Suviste"
-  ],
-  "conductor": null,
-  "dancers": null,
-  "lyricists": [
-    "Sharon Vaughn",
-    "Uku Suviste"
-  ],
-  "spokesperson": "Sissi",
-  "stageDirector": "Dan Shipton, Marvin Dietmann",
-  "writers": null
+  "jury": null,
+  "spokesperson": "Sissi"
 }

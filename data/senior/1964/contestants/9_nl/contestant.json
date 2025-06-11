@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "NL",
-  "broadcaster": "NTS",
   "artist": "Anneke Grönloh",
-  "artistPeople": [
-    "Anneke Grönloh"
-  ],
   "song": "Jij bent mijn leven",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/gPi1C-AXHmk",
@@ -13,19 +9,24 @@
   ],
   "bpm": 154,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Ageeth Scherphuis"
+  "artistPeople": [
+    "Anneke Grönloh"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ted Powder"
   ],
   "conductor": "Dolf van der Linden",
-  "dancers": null,
   "lyricists": [
     "René de Vos"
   ],
-  "spokesperson": "Pim Jacobs",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NTS",
+  "commentators": [
+    "Ageeth Scherphuis"
+  ],
+  "jury": null,
+  "spokesperson": "Pim Jacobs"
 }

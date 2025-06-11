@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "DE",
-  "broadcaster": "ARD",
   "artist": "Nora Nova",
-  "artistPeople": [
-    "Ahinora Kumanova"
-  ],
   "song": "Man gewöhnt sich so schnell an das Schöne",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/8TJWcJm_tl0",
@@ -13,19 +9,24 @@
   ],
   "bpm": 129,
   "tone": "A minor",
-  "backings": null,
-  "commentators": [
-    "Hermann Rockmann"
+  "artistPeople": [
+    "Ahinora Kumanova"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Rudi von der Dovenmühle"
   ],
   "conductor": "Willy Berking",
-  "dancers": null,
   "lyricists": [
     "Niels Nobach"
   ],
-  "spokesperson": "Lia Wöhr",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Hermann Rockmann"
+  ],
+  "jury": null,
+  "spokesperson": "Lia Wöhr"
 }

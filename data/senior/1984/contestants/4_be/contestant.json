@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "BE",
-  "broadcaster": "RTBF",
   "artist": "Jacques Zegers",
-  "artistPeople": [
-    "Jacques Zegers"
-  ],
   "song": "Avanti la vie",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/apMQRVC8JHg",
@@ -14,23 +10,28 @@
   ],
   "bpm": 91,
   "tone": "A major",
+  "artistPeople": [
+    "Jacques Zegers"
+  ],
   "backings": [
     "Chantal Nicaise",
     "Isabelle Kabatu"
   ],
-  "commentators": [
-    "Jacques Mercier",
-    "Luc Appermont"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Henri Seroka"
   ],
   "conductor": "Jo Carlier",
-  "dancers": null,
   "lyricists": [
     "Jacques Zegers"
   ],
-  "spokesperson": "Jacques Olivier",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Jacques Mercier",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Olivier"
 }

@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Carola",
-  "artistPeople": [
-    "Carola Maria Häggkvist"
-  ],
   "song": "Invincible",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/vFu5y0nP-RQ",
@@ -15,6 +11,9 @@
   ],
   "bpm": 131,
   "tone": "B major",
+  "artistPeople": [
+    "Carola Maria Häggkvist"
+  ],
   "backings": [
     "Caroline Jönsson",
     "Dea Norberg",
@@ -22,21 +21,23 @@
     "Martin Kagemark",
     "Therese Löf"
   ],
-  "commentators": [
-    "Pekka Heino"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Bobby Ljunggren",
     "Henrik Wikström",
     "Thomas G:son"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Carola Häggkvist",
     "Thomas G:son"
   ],
-  "spokesperson": "Jovan Radomir",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Pekka Heino"
+  ],
+  "jury": null,
+  "spokesperson": "Jovan Radomir"
 }

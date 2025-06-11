@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "RO",
-  "broadcaster": "TVR",
   "artist": "Nicola",
-  "artistPeople": [
-    "Nicoleta Alexandru"
-  ],
   "song": "Don't Break My Heart",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/joZvkeX4R3Q",
@@ -13,17 +9,22 @@
   ],
   "bpm": 84,
   "tone": "C major",
+  "artistPeople": [
+    "Nicoleta Alexandru"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Mihai Alexandru"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Nicola"
   ],
-  "spokesperson": "Leonard Miron",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Leonard Miron"
 }

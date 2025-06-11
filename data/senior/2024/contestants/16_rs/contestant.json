@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "RS",
-  "broadcaster": "RTS",
   "artist": "Teya Dora",
-  "artistPeople": [
-    "Teodora Pavlovska"
-  ],
   "song": "Ramonda",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/4hUg64uIY_4",
@@ -18,21 +14,26 @@
   ],
   "bpm": 85,
   "tone": "A minor",
-  "backings": null,
-  "commentators": [
-    "Duška Vučinić-Lučić"
+  "artistPeople": [
+    "Teodora Pavlovska"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Milica Soldatović Mikić",
   "composers": [
     "Luka Jovanović",
     "Teodora Pavlovska"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Ajzi",
     "Teodora Pavlovska"
   ],
-  "spokesperson": "Ana Đurić",
-  "stageDirector": "Milica Soldatović Mikić",
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTS",
+  "commentators": [
+    "Duška Vučinić-Lučić"
+  ],
+  "jury": null,
+  "spokesperson": "Ana Đurić"
 }

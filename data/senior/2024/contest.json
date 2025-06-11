@@ -6,11 +6,11 @@
   "intendedCountry": null,
   "slogan": "United By Music",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2024.png",
+  "broadcasters": [
+    "SVT"
+  ],
   "presenters": [
     "Petra Mede",
     "Malin Åkerman"
-  ],
-  "broadcasters": [
-    "SVT"
   ]
 }

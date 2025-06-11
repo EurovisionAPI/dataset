@@ -1,15 +1,7 @@
 {
   "id": 8,
   "country": "TR",
-  "broadcaster": "TRT",
   "artist": "Klips ve Onlar",
-  "artistPeople": [
-    "Candan Erçetin",
-    "Derya Bozkurt",
-    "Emre Tukur",
-    "Gür Akad",
-    "Sevingül Bahadır"
-  ],
   "song": "Halley",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3Hh7MQFRkKI",
@@ -19,19 +11,28 @@
   ],
   "bpm": 94,
   "tone": "G minor",
-  "backings": null,
-  "commentators": [
-    "Gülgün Feyman"
+  "artistPeople": [
+    "Candan Erçetin",
+    "Derya Bozkurt",
+    "Emre Tukur",
+    "Gür Akad",
+    "Sevingül Bahadır"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Melih Kibar"
   ],
   "conductor": "Melih Kibar",
-  "dancers": null,
   "lyricists": [
     "İlhan İrem"
   ],
-  "spokesperson": "Ümit Tunçağ",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Gülgün Feyman"
+  ],
+  "jury": null,
+  "spokesperson": "Ümit Tunçağ"
 }

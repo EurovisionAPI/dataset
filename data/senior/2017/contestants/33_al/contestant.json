@@ -1,11 +1,7 @@
 {
   "id": 33,
   "country": "AL",
-  "broadcaster": "RTSH",
   "artist": "Lindita",
-  "artistPeople": [
-    "Lindita Halimi"
-  ],
   "song": "World",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/NyKOBMAXFFA",
@@ -18,25 +14,30 @@
   ],
   "bpm": 85,
   "tone": "D minor",
+  "artistPeople": [
+    "Lindita Halimi"
+  ],
   "backings": [
     "Anxhelo Miho",
     "Denisa Xhemnica",
     "Gjergj Kaçinari",
     "Greta Radovani"
   ],
-  "commentators": [
-    "Andri Xhahu"
-  ],
+  "dancers": null,
+  "stageDirector": "Kleidi Eski",
   "composers": [
     "Klodian Qafoku"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Big Basta",
     "Lindita Halimi"
   ],
-  "spokesperson": "Andri Xhahu",
-  "stageDirector": "Kleidi Eski",
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": null,
+  "spokesperson": "Andri Xhahu"
 }

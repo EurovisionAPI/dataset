@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Pastora Soler",
-  "artistPeople": [
-    "María del Pilar Sánchez Luque"
-  ],
   "song": "Quédate conmigo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/U8J1b62wOao",
@@ -13,6 +9,9 @@
   ],
   "bpm": 166,
   "tone": "C# major",
+  "artistPeople": [
+    "María del Pilar Sánchez Luque"
+  ],
   "backings": [
     "Antonio Tomás Sepúlveda",
     "Mey Green",
@@ -20,20 +19,22 @@
     "Rebeca Rods",
     "Sheila Blanco"
   ],
-  "commentators": [
-    "José María Íñigo"
-  ],
+  "dancers": null,
+  "stageDirector": "Francisco Javier Viñolo Linares",
   "composers": [
     "Erik Bernholm",
     "Thomas G:son",
     "Tony Sánchez-Ohlsson"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Tony Sánchez-Ohlsson"
   ],
-  "spokesperson": "Elena S. Sánchez",
-  "stageDirector": "Francisco Javier Viñolo Linares",
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "José María Íñigo"
+  ],
+  "jury": null,
+  "spokesperson": "Elena S. Sánchez"
 }

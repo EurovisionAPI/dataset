@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Michèle Arnaud",
-  "artistPeople": [
-    "Micheline Caré"
-  ],
   "song": "Les Amants de minuit",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/r99NL_NvJps",
@@ -13,17 +9,22 @@
   ],
   "bpm": 99,
   "tone": "B major",
+  "artistPeople": [
+    "Micheline Caré"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Simone Laurencin"
   ],
   "conductor": "Jacques Lassry",
-  "dancers": null,
   "lyricists": [
     "Jacques Lassry"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

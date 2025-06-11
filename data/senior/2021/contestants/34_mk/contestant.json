@@ -1,11 +1,7 @@
 {
   "id": 34,
   "country": "MK",
-  "broadcaster": "MKRTV",
   "artist": "Vasil",
-  "artistPeople": [
-    "Vasil Garvanliev (Васил Гарванлиев)"
-  ],
   "song": "Here I Stand",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/WRcSHPb_Qwc",
@@ -17,21 +13,26 @@
   ],
   "bpm": 138,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Eli Tanaskovska"
+  "artistPeople": [
+    "Vasil Garvanliev (Васил Гарванлиев)"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Mari Ryberger, Tine Matulessy",
   "composers": [
     "Borče Kuzmanovski",
     "Davor Jordanovski",
     "Vasil Garvanliev"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Vasil Garvanliev"
   ],
-  "spokesperson": "Vane Markoski",
-  "stageDirector": "Mari Ryberger, Tine Matulessy",
-  "writers": null
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Eli Tanaskovska"
+  ],
+  "jury": null,
+  "spokesperson": "Vane Markoski"
 }

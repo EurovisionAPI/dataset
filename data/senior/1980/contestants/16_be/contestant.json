@@ -1,13 +1,7 @@
 {
   "id": 16,
   "country": "BE",
-  "broadcaster": "RTBF",
   "artist": "Telex",
-  "artistPeople": [
-    "Dan Lacksman",
-    "Marc Moulin",
-    "Michel Moers"
-  ],
   "song": "Euro-vision",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5zB6f3yIgwk",
@@ -18,20 +12,27 @@
   ],
   "bpm": 137,
   "tone": "D minor",
-  "backings": null,
-  "commentators": [
-    "Jacques Mercier",
-    "Luc Appermont"
+  "artistPeople": [
+    "Dan Lacksman",
+    "Marc Moulin",
+    "Michel Moers"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Jacques Olivier",
-  "stageDirector": null,
   "writers": [
     "Dan Lacksman",
     "Marc Moulin",
     "Michel Moers"
-  ]
+  ],
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Jacques Mercier",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Olivier"
 }

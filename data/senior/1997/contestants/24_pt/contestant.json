@@ -1,11 +1,7 @@
 {
   "id": 24,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Célia Lawson",
-  "artistPeople": [
-    "Célia Maria Fernandes Lawson"
-  ],
   "song": "Antes do adeus",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/baz_0VUO4j8",
@@ -14,24 +10,29 @@
   ],
   "bpm": 162,
   "tone": "Bb major",
+  "artistPeople": [
+    "Célia Maria Fernandes Lawson"
+  ],
   "backings": [
     "José Bacelar",
     "Mico da Câmara Pereira",
     "Pedro Reis",
     "Vicky Pais Martins"
   ],
-  "commentators": [
-    "Carlos Ribeiro"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Thilo Krasmann"
   ],
   "conductor": "Thilo Krasmann",
-  "dancers": null,
   "lyricists": [
     "Rosa Lobato de Faria"
   ],
-  "spokesperson": "Cristina Rocha",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Carlos Ribeiro"
+  ],
+  "jury": null,
+  "spokesperson": "Cristina Rocha"
 }

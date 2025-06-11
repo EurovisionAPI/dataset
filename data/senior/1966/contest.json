@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1966.png",
-  "presenters": [
-    "Josiane Shen"
-  ],
   "broadcasters": [
     "CLT"
+  ],
+  "presenters": [
+    "Josiane Shen"
   ]
 }

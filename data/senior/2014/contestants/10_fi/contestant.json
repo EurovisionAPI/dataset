@@ -1,15 +1,7 @@
 {
   "id": 10,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Softengine",
-  "artistPeople": [
-    "Topi Latukka",
-    "Eero Keskinen",
-    "Henri Oskár",
-    "Ossi Mäkelä",
-    "Tuomo Alarinta"
-  ],
   "song": "Something Better",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3FDWaFfo1CU",
@@ -20,23 +12,32 @@
   ],
   "bpm": 146,
   "tone": "C major",
+  "artistPeople": [
+    "Topi Latukka",
+    "Eero Keskinen",
+    "Henri Oskár",
+    "Ossi Mäkelä",
+    "Tuomo Alarinta"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Topi Latukka"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Henri Oskár",
+    "Topi Latukka"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
   "commentators": [
     "Eva Frantz",
     "Johan Lindroos",
     "Jorma Hietamäki",
     "Sanna Pirkkalainen"
   ],
-  "composers": [
-    "Topi Latukka"
-  ],
-  "conductor": null,
-  "dancers": null,
-  "lyricists": [
-    "Henri Oskár",
-    "Topi Latukka"
-  ],
-  "spokesperson": "Redrama",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Redrama"
 }

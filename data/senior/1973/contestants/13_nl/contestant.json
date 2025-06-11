@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Ben Cramer",
-  "artistPeople": [
-    "Ben Cramer"
-  ],
   "song": "De oude muzikant",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/X6JqeLK3DQU",
@@ -15,19 +11,24 @@
   ],
   "bpm": 185,
   "tone": "E major",
+  "artistPeople": [
+    "Ben Cramer"
+  ],
   "backings": [
     "Hennie Langeveld"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Harry van Hoof",
+  "lyricists": null,
+  "writers": [
+    "Pierre Kartner"
+  ],
+  "broadcaster": "NOS",
   "commentators": [
     "Pim Jacobs"
   ],
-  "composers": null,
-  "conductor": "Harry van Hoof",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": [
-    "Pierre Kartner"
-  ]
+  "jury": null,
+  "spokesperson": null
 }

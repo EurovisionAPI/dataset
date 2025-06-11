@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "IL",
-  "broadcaster": "KAN",
   "artist": "Eden Alene",
-  "artistPeople": [
-    "Eden Alene"
-  ],
   "song": "Set Me Free",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5Y-blG5ptwo",
@@ -18,13 +14,10 @@
   ],
   "bpm": 107,
   "tone": "C# minor",
-  "backings": null,
-  "commentators": [
-    "Akiva Novik",
-    "Asaf Liberman"
+  "artistPeople": [
+    "Eden Alene"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Iago Ferreira Asulin",
     "Maor Levy",
@@ -32,13 +25,21 @@
     "Vadim Koupstas",
     "Victor Novojilovsky"
   ],
-  "lyricists": null,
-  "spokesperson": "Lucy Ayoub",
   "stageDirector": "Moshe Kepten",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Amit Mordechai",
     "Ido Netzer",
     "Noam Zlatin",
     "Ron Carmi"
-  ]
+  ],
+  "broadcaster": "KAN",
+  "commentators": [
+    "Akiva Novik",
+    "Asaf Liberman"
+  ],
+  "jury": null,
+  "spokesperson": "Lucy Ayoub"
 }

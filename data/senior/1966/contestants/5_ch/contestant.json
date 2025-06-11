@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Madeleine Pascal",
-  "artistPeople": [
-    "Madeleine Pascal"
-  ],
   "song": "Ne vois-tu pas ?",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/hs4xAH_yAiI",
@@ -13,21 +9,26 @@
   ],
   "bpm": 110,
   "tone": "F major",
+  "artistPeople": [
+    "Madeleine Pascal"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Pierre Brenner"
+  ],
+  "conductor": "Jean Roderes",
+  "lyricists": [
+    "Roland Schweizer"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Georges Hardy",
     "Giovanni Bertini",
     "Theodor Haller"
   ],
-  "composers": [
-    "Pierre Brenner"
-  ],
-  "conductor": "Jean Roderes",
-  "dancers": null,
-  "lyricists": [
-    "Roland Schweizer"
-  ],
-  "spokesperson": "Alexandre Burger",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Alexandre Burger"
 }

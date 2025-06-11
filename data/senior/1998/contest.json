@@ -6,11 +6,11 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1998.png",
+  "broadcasters": [
+    "British Broadcasting Corporation (BBC)"
+  ],
   "presenters": [
     "Terry Wogan",
     "Ulrika Jonsson"
-  ],
-  "broadcasters": [
-    "British Broadcasting Corporation (BBC)"
   ]
 }

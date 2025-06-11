@@ -1,11 +1,7 @@
 {
   "id": 22,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Niamh Kavanagh",
-  "artistPeople": [
-    "Niamh Kavanagh"
-  ],
   "song": "It's For You",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/6SHg8gS-02Q",
@@ -13,25 +9,30 @@
   ],
   "bpm": 129,
   "tone": "C major",
+  "artistPeople": [
+    "Niamh Kavanagh"
+  ],
   "backings": [
     "Ed O'Leary",
     "Karl Power",
     "Niamh Kavanagh",
     "Nikki Kavanagh"
   ],
-  "commentators": [
-    "Marty Whelan"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Derek Mooney",
-  "stageDirector": null,
   "writers": [
     "Jonas Gladnikoff",
     "Lina Eriksson",
     "Marten Eriksson",
     "Niall Mooney"
-  ]
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Derek Mooney"
 }

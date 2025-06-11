@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "FR",
-  "broadcaster": "FT2",
   "artist": "Nathalie Santamaria",
-  "artistPeople": [
-    "Nathalie Santamaria"
-  ],
   "song": "Il me donne rendez-vous",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/o2Xj_Y-UJ-0",
@@ -14,19 +10,24 @@
   ],
   "bpm": 128,
   "tone": "B minor",
-  "backings": null,
-  "commentators": [
-    "Olivier Minne"
+  "artistPeople": [
+    "Nathalie Santamaria"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "François Bernheim"
   ],
   "conductor": "Michel Bernholc",
-  "dancers": null,
   "lyricists": [
     "Didier Barbelivien"
   ],
-  "spokesperson": "Thierry Beccaro",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "FT2",
+  "commentators": [
+    "Olivier Minne"
+  ],
+  "jury": null,
+  "spokesperson": "Thierry Beccaro"
 }

@@ -1,11 +1,7 @@
 {
   "id": 28,
   "country": "MT",
-  "broadcaster": "PBS",
   "artist": "Christabelle",
-  "artistPeople": [
-    "Christabelle Borg"
-  ],
   "song": "Taboo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/d52ViPImdls",
@@ -18,26 +14,31 @@
   ],
   "bpm": 122,
   "tone": "G major",
+  "artistPeople": [
+    "Christabelle Borg"
+  ],
   "backings": [
     "Anna Azzopardi",
     "Josef Tabone",
     "Pamela Bezzina",
     "Petra Zammit"
   ],
-  "commentators": null,
+  "dancers": [
+    "Anthea Zammit"
+  ],
+  "stageDirector": "Steven Levi Vella",
   "composers": [
     "Johnny Sanchez",
     "Thomas G:son"
   ],
   "conductor": null,
-  "dancers": [
-    "Anthea Zammit"
-  ],
   "lyricists": [
     "Christabelle",
     "Muxu"
   ],
-  "spokesperson": "Lara Azzopardi",
-  "stageDirector": "Steven Levi Vella",
-  "writers": null
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Lara Azzopardi"
 }

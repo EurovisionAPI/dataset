@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Jean-Claude Pascal",
-  "artistPeople": [
-    "Jean-Claude Villeminot"
-  ],
   "song": "C'est peut-être pas l'Amérique",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ovqQFisIEao",
@@ -14,24 +10,29 @@
   ],
   "bpm": 89,
   "tone": "C major",
+  "artistPeople": [
+    "Jean-Claude Villeminot"
+  ],
   "backings": [
     "Carole Fredericks",
     "Georges Costa",
     "Michel Costa"
   ],
-  "commentators": [
-    "Jacques Navadic",
-    "Marylène Bergmann"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Joël Rocher",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Jacques Harvey",
-  "stageDirector": null,
   "writers": [
     "Jean-Claude Pascal",
     "Jean-Claude Petit",
     "Sophie Makhno"
-  ]
+  ],
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic",
+    "Marylène Bergmann"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Harvey"
 }

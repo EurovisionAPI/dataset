@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Massimo Ranieri",
-  "artistPeople": [
-    "Giovanni Calone"
-  ],
   "song": "Chi sarà con te",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/kLzvr3JuOEY",
@@ -14,20 +10,25 @@
   ],
   "bpm": 126,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Renato Tagliani"
+  "artistPeople": [
+    "Giovanni Calone"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Enrico Polito",
     "Gaetano Savio"
   ],
   "conductor": "Enrico Polito",
-  "dancers": null,
   "lyricists": [
     "Giancarlo Bigazzi"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Danièle Dupré",
-  "artistPeople": [
-    "Danièle Dupré"
-  ],
   "song": "Tant de peine",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-0nMxZ8L1cI",
@@ -13,17 +9,22 @@
   ],
   "bpm": 117,
   "tone": "Bb major",
+  "artistPeople": [
+    "Danièle Dupré"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jean-Pierre Kemmer"
   ],
   "conductor": "Willy Berking",
-  "dancers": null,
   "lyricists": [
     "Jacques Taber"
   ],
-  "spokesperson": "Pierre Bellemare",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Pierre Bellemare"
 }

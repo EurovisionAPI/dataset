@@ -1,11 +1,7 @@
 {
   "id": 29,
   "country": "PL",
-  "broadcaster": "TVP",
   "artist": "Alicja",
-  "artistPeople": [
-    "Alicja Szemplińska"
-  ],
   "song": "Empires",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/s_Y7mMka4SQ",
@@ -14,18 +10,23 @@
   ],
   "bpm": 93,
   "tone": "C minor",
+  "artistPeople": [
+    "Alicja Szemplińska"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Dominic Buczkowski-Wojtaszek",
     "Frazer Mac",
     "Laurell Barker",
     "Patryk Kumór"
-  ]
+  ],
+  "broadcaster": "TVP",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

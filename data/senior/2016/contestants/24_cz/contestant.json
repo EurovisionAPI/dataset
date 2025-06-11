@@ -1,11 +1,7 @@
 {
   "id": 24,
   "country": "CZ",
-  "broadcaster": "ČT",
   "artist": "Gabriela Gunčíková",
-  "artistPeople": [
-    "Gabriela Gun"
-  ],
   "song": "I Stand",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/wVy3rTNSN4Y",
@@ -16,26 +12,31 @@
   ],
   "bpm": 205,
   "tone": "G minor",
+  "artistPeople": [
+    "Gabriela Gun"
+  ],
   "backings": [
     "Clara Hagman",
     "Elin Åkesson",
     "Madeleine Jangklev",
     "Peter Ericson"
   ],
-  "commentators": [
-    "Libor Bouček"
-  ],
+  "dancers": null,
+  "stageDirector": "Jan Potměšil",
   "composers": [
     "Christian Schneider",
     "Sara Biglert"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Aidan O'Connor",
     "Sara Biglert"
   ],
-  "spokesperson": "Daniela Písařovicová",
-  "stageDirector": "Jan Potměšil",
-  "writers": null
+  "writers": null,
+  "broadcaster": "ČT",
+  "commentators": [
+    "Libor Bouček"
+  ],
+  "jury": null,
+  "spokesperson": "Daniela Písařovicová"
 }

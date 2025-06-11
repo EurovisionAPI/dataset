@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Gary Lux",
-  "artistPeople": [
-    "Gerhard Lux"
-  ],
   "song": "Nur noch Gefühl",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/UZkC8cq2BOE",
@@ -14,19 +10,24 @@
   ],
   "bpm": 116,
   "tone": "C# major",
-  "backings": null,
-  "commentators": [
-    "Ernst Grissemann"
+  "artistPeople": [
+    "Gerhard Lux"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Kenneth Westmore"
   ],
   "conductor": "Richard Österreicher",
-  "dancers": null,
   "lyricists": [
     "Stefanie Werger"
   ],
-  "spokesperson": "Tilia Herold",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
 }

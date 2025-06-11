@@ -1,11 +1,7 @@
 {
   "id": 25,
   "country": "DE",
-  "broadcaster": "NDR",
   "artist": "Jamie-Lee",
-  "artistPeople": [
-    "Jamie-Lee Kriewitz"
-  ],
   "song": "Ghost",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/bHDHi37bboE",
@@ -17,26 +13,31 @@
   ],
   "bpm": 85,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Jamie-Lee Kriewitz"
+  ],
   "backings": [
     "Anne Leyne",
     "Helen Kaiser",
     "Ray Lozano",
     "Tina Frank"
   ],
-  "commentators": [
-    "Peter Urban"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Anna Leyne",
     "Conrad Hensel",
     "Thomas Burchia"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Anna Leyne"
   ],
-  "spokesperson": "Barbara Schöneberger",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Barbara Schöneberger"
 }

@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1972.png",
-  "presenters": [
-    "Moira Shearer"
-  ],
   "broadcasters": [
     "BBC"
+  ],
+  "presenters": [
+    "Moira Shearer"
   ]
 }

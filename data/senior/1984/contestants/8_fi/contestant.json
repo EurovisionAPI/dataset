@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Kirka",
-  "artistPeople": [
-    "Kirill Babitzin"
-  ],
   "song": "Hengaillaan",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5G_vnjEL9R4",
@@ -14,23 +10,28 @@
   ],
   "bpm": 129,
   "tone": "Bb major",
+  "artistPeople": [
+    "Kirill Babitzin"
+  ],
   "backings": [
     "Anita Pajunen",
     "Jokke Seppälä",
     "Kaija Koo"
   ],
-  "commentators": [
-    "Heikki Seppälä"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jukka Siikavire"
   ],
   "conductor": "Ossi Runne",
-  "dancers": null,
   "lyricists": [
     "Jussi Tuominen"
   ],
-  "spokesperson": "Solveig Herlin",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Heikki Seppälä"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
 }

@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Micky",
-  "artistPeople": [
-    "Miguel Ángel Carreño Schmelter"
-  ],
   "song": "Enséñame a cantar",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/hielLw-JmYE",
@@ -14,6 +10,9 @@
   ],
   "bpm": 94,
   "tone": "B major",
+  "artistPeople": [
+    "Miguel Ángel Carreño Schmelter"
+  ],
   "backings": [
     "Amadeo Alvarez Fernandez",
     "Jasmin Wilson",
@@ -21,16 +20,18 @@
     "Mary Jamison",
     "Paloma Villasevil"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rafael de Ibarbia Serra",
+  "lyricists": null,
+  "writers": [
+    "Fernando Arbex"
+  ],
+  "broadcaster": "TVE",
   "commentators": [
     "Miguel de los Santos"
   ],
-  "composers": null,
-  "conductor": "Rafael de Ibarbia Serra",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Isabel Tenaille",
-  "stageDirector": null,
-  "writers": [
-    "Fernando Arbex"
-  ]
+  "jury": null,
+  "spokesperson": "Isabel Tenaille"
 }

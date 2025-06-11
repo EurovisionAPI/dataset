@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "GR",
-  "broadcaster": "ERT",
   "artist": "Klavdia",
-  "artistPeople": [
-    "Klavdia Papadopoulou"
-  ],
   "song": "Asteromáta",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/1qbWRl6h6to",
@@ -18,11 +14,14 @@
   ],
   "bpm": 122,
   "tone": "C# minor",
-  "backings": null,
-  "commentators": [
-    "Giorgos Kapoutzidis",
-    "Maria Kozakou"
+  "artistPeople": [
+    "Klavdia Papadopoulou"
   ],
+  "backings": null,
+  "dancers": [
+    "Christina Kaliakatsou"
+  ],
+  "stageDirector": "Fokas Evangelinos",
   "composers": [
     "Diverno",
     "Gabriel Russell",
@@ -32,9 +31,6 @@
     "Pavlos Manolis"
   ],
   "conductor": null,
-  "dancers": [
-    "Christina Kaliakatsou"
-  ],
   "lyricists": [
     "Diverno",
     "Gabriel Russell",
@@ -42,7 +38,12 @@
     "Loukas Damianakos",
     "Pavlos Manolis"
   ],
-  "spokesperson": "Jenny Theona",
-  "stageDirector": "Fokas Evangelinos",
-  "writers": null
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "jury": null,
+  "spokesperson": "Jenny Theona"
 }

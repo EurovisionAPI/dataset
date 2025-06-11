@@ -1,14 +1,7 @@
 {
   "id": 6,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Bendik Singers",
-  "artistPeople": [
-    "Anne Karine",
-    "Benny Kruse",
-    "Bjørn Kruse",
-    "Ellen Nikolaysen"
-  ],
   "song": "It's Just a Game",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/nelCncvdSBA",
@@ -17,19 +10,27 @@
   ],
   "bpm": 178,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "John Andreassen"
+  "artistPeople": [
+    "Anne Karine",
+    "Benny Kruse",
+    "Bjørn Kruse",
+    "Ellen Nikolaysen"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Arne Bendiksen"
   ],
   "conductor": "Carsten Klouman",
-  "dancers": null,
   "lyricists": [
     "Bob Williams"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "John Andreassen"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 36,
   "country": "AD",
-  "broadcaster": "RTVA",
   "artist": "Susanne Georgi",
-  "artistPeople": [
-    "Susanne Jonah-Lynn Georgi"
-  ],
   "song": "La teva decisió (Get A Life)",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3JnT7T877es",
@@ -14,15 +10,17 @@
   ],
   "bpm": 133,
   "tone": "G major",
+  "artistPeople": [
+    "Susanne Jonah-Lynn Georgi"
+  ],
   "backings": [
     "Belinda Sánchez Leal",
     "María Ángeles Barahona Paisan",
     "Olga Romero Paz",
     "Susana Ribalta Ponce"
   ],
-  "commentators": [
-    "Meri Picart"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Lene Dissing",
     "Marcus Winther-John",
@@ -31,11 +29,14 @@
     "Susanne Georgi"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Josep Roca Vila"
   ],
-  "spokesperson": "Brigits García",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTVA",
+  "commentators": [
+    "Meri Picart"
+  ],
+  "jury": null,
+  "spokesperson": "Brigits García"
 }

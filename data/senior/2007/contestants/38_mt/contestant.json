@@ -1,11 +1,7 @@
 {
   "id": 38,
   "country": "MT",
-  "broadcaster": "PBS",
   "artist": "Olivia Lewis",
-  "artistPeople": [
-    "Olivia Lewis"
-  ],
   "song": "Vertigo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/vhy-c5XMFks",
@@ -13,6 +9,9 @@
   ],
   "bpm": 137,
   "tone": "E minor",
+  "artistPeople": [
+    "Olivia Lewis"
+  ],
   "backings": [
     "Jaana Vähämäki",
     "Jes Sciberras",
@@ -20,18 +19,20 @@
     "Joseph Chetcuti",
     "Lisette Vares Uhlmann"
   ],
-  "commentators": [
-    "Antonia Micallef"
-  ],
+  "dancers": null,
+  "stageDirector": "Anna Christodoulidou",
   "composers": [
     "Philip Vella"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Gerard James Borg"
   ],
-  "spokesperson": "Mireille Bonello",
-  "stageDirector": "Anna Christodoulidou",
-  "writers": null
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": [
+    "Antonia Micallef"
+  ],
+  "jury": null,
+  "spokesperson": "Mireille Bonello"
 }

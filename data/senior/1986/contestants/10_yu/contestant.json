@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "YU",
-  "broadcaster": "JRT",
   "artist": "Doris Dragović",
-  "artistPeople": [
-    "Dorotea Dragović Budimir"
-  ],
   "song": "Željo moja",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/EZyOqsLnFw4",
@@ -16,22 +12,27 @@
   ],
   "bpm": 112,
   "tone": "Eb major",
+  "artistPeople": [
+    "Dorotea Dragović Budimir"
+  ],
   "backings": [
     "Mato Došen"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Nikica Kalogjera",
+  "lyricists": null,
+  "writers": [
+    "Zrinko Tutić"
+  ],
+  "broadcaster": "JRT",
   "commentators": [
     "Ksenija Urličić",
     "Miša Molk",
     "Mladen Popović",
     "Oliver Mlakar"
   ],
-  "composers": null,
-  "conductor": "Nikica Kalogjera",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Enver Petrovci",
-  "stageDirector": null,
-  "writers": [
-    "Zrinko Tutić"
-  ]
+  "jury": null,
+  "spokesperson": "Enver Petrovci"
 }

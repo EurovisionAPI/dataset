@@ -1,15 +1,7 @@
 {
   "id": 16,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Brixx",
-  "artistPeople": [
-    "Bjørn Holmgaard Sørensen",
-    "Jens Brixtofte",
-    "John Hatting",
-    "Steen Ejler Olsen",
-    "Torben Jacobsen"
-  ],
   "song": "Video video",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5SWSEKDBCGI",
@@ -21,17 +13,26 @@
   ],
   "bpm": 88,
   "tone": "C major",
+  "artistPeople": [
+    "Bjørn Holmgaard Sørensen",
+    "Jens Brixtofte",
+    "John Hatting",
+    "Steen Ejler Olsen",
+    "Torben Jacobsen"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Allan Botschinsky",
+  "lyricists": null,
+  "writers": [
+    "Jens Brixtofte"
+  ],
+  "broadcaster": "DR",
   "commentators": [
     "Jørgen de Mylius"
   ],
-  "composers": null,
-  "conductor": "Allan Botschinsky",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Hans Otto Bisgaard",
-  "stageDirector": null,
-  "writers": [
-    "Jens Brixtofte"
-  ]
+  "jury": null,
+  "spokesperson": "Hans Otto Bisgaard"
 }

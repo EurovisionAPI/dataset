@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "TR",
-  "broadcaster": "TRT",
   "artist": "Can Bonomo",
-  "artistPeople": [
-    "Can Bonomo"
-  ],
   "song": "Love Me Back",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3Qa7_y21oOY",
@@ -14,6 +10,9 @@
   ],
   "bpm": 102,
   "tone": "E minor",
+  "artistPeople": [
+    "Can Bonomo"
+  ],
   "backings": [
     "Arif Durgeç",
     "Burak Yalçıntaş",
@@ -21,17 +20,19 @@
     "Ozan Karabağ",
     "Serdar Karaman"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Can Bonomo"
+  ],
+  "broadcaster": "TRT",
   "commentators": [
     "Bülend Özveren",
     "Erhan Konuk"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Ömer Önder",
-  "stageDirector": null,
-  "writers": [
-    "Can Bonomo"
-  ]
+  "jury": null,
+  "spokesperson": "Ömer Önder"
 }

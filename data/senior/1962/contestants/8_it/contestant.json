@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Claudio Villa",
-  "artistPeople": [
-    "Claudio Pica"
-  ],
   "song": "Addio, addio",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/npD6wev8Dtw",
@@ -13,19 +9,24 @@
   ],
   "bpm": 152,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "Renato Tagliani"
+  "artistPeople": [
+    "Claudio Pica"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Domenico Modugno"
   ],
   "conductor": "Cinico Angelini",
-  "dancers": null,
   "lyricists": [
     "Franco Migliacci"
   ],
-  "spokesperson": "Enzo Tortora",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": "Enzo Tortora"
 }

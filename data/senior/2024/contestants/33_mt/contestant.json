@@ -1,11 +1,7 @@
 {
   "id": 33,
   "country": "MT",
-  "broadcaster": "PBS",
   "artist": "Sarah Bonnici",
-  "artistPeople": [
-    "Sarah Bonnici"
-  ],
   "song": "Loop",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/uG-JHeia13c",
@@ -18,10 +14,19 @@
   ],
   "bpm": 110,
   "tone": "Ab minor",
+  "artistPeople": [
+    "Sarah Bonnici"
+  ],
   "backings": [
     "Pamela Bezzina"
   ],
-  "commentators": null,
+  "dancers": [
+    "Jamie Bell",
+    "Matt Jordan",
+    "Victor Allen",
+    "William Almeida"
+  ],
+  "stageDirector": "Steven Levi Vella",
   "composers": [
     "John Emil Johansson",
     "Joy Deb",
@@ -34,12 +39,6 @@
     "Sebastian Pritchard-James"
   ],
   "conductor": null,
-  "dancers": [
-    "Jamie Bell",
-    "Matt Jordan",
-    "Victor Allen",
-    "William Almeida"
-  ],
   "lyricists": [
     "Joy Deb",
     "Kevin Lee",
@@ -49,7 +48,9 @@
     "Sarah Bonnici",
     "Sebastian Pritchard-James"
   ],
-  "spokesperson": "Matt Blxck",
-  "stageDirector": "Steven Levi Vella",
-  "writers": null
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Matt Blxck"
 }

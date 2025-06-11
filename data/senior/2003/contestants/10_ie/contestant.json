@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Mickey Harte",
-  "artistPeople": [
-    "Mickey Joe Harte"
-  ],
   "song": "We've Got The World",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/NZ9jfwOcmro",
@@ -13,23 +9,28 @@
   ],
   "bpm": 104,
   "tone": "D major",
+  "artistPeople": [
+    "Mickey Joe Harte"
+  ],
   "backings": [
     "Catriona McGuinty",
     "Sara Brophy",
     "Susan McGowan"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Keith Molloy",
+    "Martin Brannigan"
+  ],
+  "broadcaster": "RTÉ",
   "commentators": [
     "Marty Whelan",
     "Phil Coulter"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Pamela Flood",
-  "stageDirector": null,
-  "writers": [
-    "Keith Molloy",
-    "Martin Brannigan"
-  ]
+  "jury": null,
+  "spokesperson": "Pamela Flood"
 }

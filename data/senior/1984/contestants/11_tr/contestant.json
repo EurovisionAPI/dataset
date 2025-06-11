@@ -1,14 +1,7 @@
 {
   "id": 11,
   "country": "TR",
-  "broadcaster": "TRT",
   "artist": "Beş Yıl Önce, On Yıl Sonra",
-  "artistPeople": [
-    "Atakan Ünüvar",
-    "Esma Erdem",
-    "Mehmet Horoz",
-    "Nilgün Onatkut"
-  ],
   "song": "Halay",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/QFkUcbTBtwM",
@@ -18,19 +11,27 @@
   ],
   "bpm": 123,
   "tone": "G minor",
-  "backings": null,
-  "commentators": [
-    "Başak Doğru"
+  "artistPeople": [
+    "Atakan Ünüvar",
+    "Esma Erdem",
+    "Mehmet Horoz",
+    "Nilgün Onatkut"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Selçuk Başar"
   ],
   "conductor": "Selçuk Başar",
-  "dancers": null,
   "lyricists": [
     "Ülkü Aker"
   ],
-  "spokesperson": "Fatih Orbay",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Başak Doğru"
+  ],
+  "jury": null,
+  "spokesperson": "Fatih Orbay"
 }

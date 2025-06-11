@@ -1,12 +1,7 @@
 {
   "id": 6,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Saskia & Serge",
-  "artistPeople": [
-    "Trudy van den Berg",
-    "Ruud Schaap"
-  ],
   "song": "Tijd",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/I2jYbjgZypA",
@@ -17,23 +12,29 @@
   ],
   "bpm": 110,
   "tone": "F major",
+  "artistPeople": [
+    "Trudy van den Berg",
+    "Ruud Schaap"
+  ],
   "backings": [
     "Joop Stokkermans",
     "José van den Heuvel",
     "Lenian Benjamins"
   ],
-  "commentators": [
-    "Pim Jacobs"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Joop Stokkermans"
   ],
   "conductor": "Dolf van der Linden",
-  "dancers": null,
   "lyricists": [
     "Gerrit den Braber"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Pim Jacobs"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

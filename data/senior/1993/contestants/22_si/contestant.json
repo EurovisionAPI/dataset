@@ -1,16 +1,7 @@
 {
   "id": 22,
   "country": "SI",
-  "broadcaster": "RTVSLO",
   "artist": "1X Band",
-  "artistPeople": [
-    "Andrej Bedjanič",
-    "Barbara Šinigoj",
-    "Brane Vidan",
-    "Cole Moretti",
-    "Sandra Zupanc",
-    "Tomaž Kosec"
-  ],
   "song": "Tih deževen dan",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/K7OuxggEx6I",
@@ -21,19 +12,29 @@
   ],
   "bpm": 132,
   "tone": "G minor",
-  "backings": null,
-  "commentators": [
-    "Tajda Lekše"
+  "artistPeople": [
+    "Andrej Bedjanič",
+    "Barbara Šinigoj",
+    "Brane Vidan",
+    "Cole Moretti",
+    "Sandra Zupanc",
+    "Tomaž Kosec"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Cole Moretti"
   ],
   "conductor": "Jože Privšek",
-  "dancers": null,
   "lyricists": [
     "Tomaž Kosec"
   ],
-  "spokesperson": "Miša Molk",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Tajda Lekše"
+  ],
+  "jury": null,
+  "spokesperson": "Miša Molk"
 }

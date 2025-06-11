@@ -1,11 +1,7 @@
 {
   "id": 31,
   "country": "LV",
-  "broadcaster": "LTV",
   "artist": "Citi Zēni",
-  "artistPeople": [
-    "Toms Kagainis"
-  ],
   "song": "Eat Your Salad",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/TM0_0WfuxSk",
@@ -18,22 +14,27 @@
   ],
   "bpm": 115,
   "tone": "B minor",
-  "backings": null,
-  "commentators": [
-    "Lauris Reiniks",
-    "Toms Grēviņš"
+  "artistPeople": [
+    "Toms Kagainis"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Beāte Svarinska",
   "composers": [
     "Jānis Jačmenkins",
     "Roberts Memmēns"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Dagnis Roziņš",
     "Jānis Pētersons"
   ],
-  "spokesperson": "Samanta Tīna",
-  "stageDirector": "Beāte Svarinska",
-  "writers": null
+  "writers": null,
+  "broadcaster": "LTV",
+  "commentators": [
+    "Lauris Reiniks",
+    "Toms Grēviņš"
+  ],
+  "jury": null,
+  "spokesperson": "Samanta Tīna"
 }

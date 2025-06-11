@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Vikki",
-  "artistPeople": [
-    "Victoria Watson"
-  ],
   "song": "Love Is...",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/i2fGW93FZxI",
@@ -14,21 +10,26 @@
   ],
   "bpm": 182,
   "tone": "D minor",
+  "artistPeople": [
+    "Victoria Watson"
+  ],
   "backings": [
     "Sue Glover",
     "Sunny Leslie"
   ],
-  "commentators": [
-    "Terry Wogan"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "John Coleman",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Colin Berry",
-  "stageDirector": null,
   "writers": [
     "James Kaleth",
     "Vikki Watson"
-  ]
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
 }

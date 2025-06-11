@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Eric Saade",
-  "artistPeople": [
-    "Eric Khaled Saade"
-  ],
   "song": "Popular",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-04pUETT7oI",
@@ -17,6 +13,9 @@
   ],
   "bpm": 125,
   "tone": "D minor",
+  "artistPeople": [
+    "Eric Khaled Saade"
+  ],
   "backings": [
     "Alvaro Estrella",
     "Daniel Gill",
@@ -24,17 +23,19 @@
     "Joel Börjesson",
     "Robin Haghi"
   ],
+  "dancers": null,
+  "stageDirector": "Fredrik Rydman",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Fredrik Kempe"
+  ],
+  "broadcaster": "SVT",
   "commentators": [
     "Edward af Sillén",
     "Hélène Benno"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Danny Saucedo",
-  "stageDirector": "Fredrik Rydman",
-  "writers": [
-    "Fredrik Kempe"
-  ]
+  "jury": null,
+  "spokesperson": "Danny Saucedo"
 }

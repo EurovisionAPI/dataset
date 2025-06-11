@@ -1,11 +1,7 @@
 {
   "id": 17,
   "country": "BE",
-  "broadcaster": "BRT",
   "artist": "Micha Marah",
-  "artistPeople": [
-    "Aldegonda Leppens"
-  ],
   "song": "Hey Nana",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/kHKjdkduPNI",
@@ -15,23 +11,28 @@
   ],
   "bpm": 100,
   "tone": "Ab minor",
+  "artistPeople": [
+    "Aldegonda Leppens"
+  ],
   "backings": [
     "Michèle Pauquay",
     "Nancy Dee"
   ],
-  "commentators": [
-    "Luc Appermont",
-    "Paule Herreman"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Charles Dumolin"
   ],
   "conductor": "Francis Bay",
-  "dancers": null,
   "lyricists": [
     "Guy Beyers"
   ],
-  "spokesperson": "Anne Ploegaerts",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Luc Appermont",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": "Anne Ploegaerts"
 }

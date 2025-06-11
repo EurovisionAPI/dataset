@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "BG",
-  "broadcaster": "BNT",
   "artist": "Poli Genova",
-  "artistPeople": [
-    "Poli Plamenova Genova (Поли Пламенова Генова)"
-  ],
   "song": "If Love Was a Crime",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/PQqUTigWKHY",
@@ -18,6 +14,9 @@
   ],
   "bpm": 110,
   "tone": "C major",
+  "artistPeople": [
+    "Poli Plamenova Genova (Поли Пламенова Генова)"
+  ],
   "backings": [
     "Bobo",
     "Cesár Sampson",
@@ -25,24 +24,26 @@
     "Elisabeth Nesheva",
     "Yana Baleva"
   ],
-  "commentators": [
-    "Elena Rosberg",
-    "Georgi Kushvaliev"
-  ],
+  "dancers": null,
+  "stageDirector": "Ambra Succi",
   "composers": [
     "Borislav Milanov",
     "Joacim Persson",
     "Sebastian Arman"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Borislav Milanov",
     "Joacim Persson",
     "Poli Genova",
     "Sebastian Arman"
   ],
-  "spokesperson": "Anna Angelova",
-  "stageDirector": "Ambra Succi",
-  "writers": null
+  "writers": null,
+  "broadcaster": "BNT",
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Angelova"
 }

@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "BE",
-  "broadcaster": "VRT",
   "artist": "Venessa Chinitor",
-  "artistPeople": [
-    "Vanessa Chinitor"
-  ],
   "song": "Like The Wind",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/yV-jZP4IpI0",
@@ -14,25 +10,30 @@
   ],
   "bpm": 161,
   "tone": "F# minor",
+  "artistPeople": [
+    "Vanessa Chinitor"
+  ],
   "backings": [
     "Eva Smeenk",
     "Linda Williams",
     "Mieke Aerts"
   ],
-  "commentators": [
-    "André Vermeulen",
-    "Jean-Pierre Hautier"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Sabine De Vos",
-  "stageDirector": null,
   "writers": [
     "Emma Philippa Hjälmås",
     "Ilia Beyers",
     "John Terra",
     "Wim Claes"
-  ]
+  ],
+  "broadcaster": "VRT",
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Pierre Hautier"
+  ],
+  "jury": null,
+  "spokesperson": "Sabine De Vos"
 }

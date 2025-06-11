@@ -1,12 +1,7 @@
 {
   "id": 2,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Umberto Tozzi and Raf",
-  "artistPeople": [
-    "Raffaele Riefoli",
-    "Umberto Tozzi"
-  ],
   "song": "Gente di mare",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/JvGD685rXbk",
@@ -16,20 +11,26 @@
   ],
   "bpm": 185,
   "tone": "Eb major",
-  "backings": null,
-  "commentators": [
-    "Rosanna Vaudetti"
+  "artistPeople": [
+    "Raffaele Riefoli",
+    "Umberto Tozzi"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Raf",
     "Umberto Tozzi"
   ],
   "conductor": "Gianfranco Lombardi",
-  "dancers": null,
   "lyricists": [
     "Giancarlo Bigazzi"
   ],
-  "spokesperson": "Mariolina Cannuli",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Rosanna Vaudetti"
+  ],
+  "jury": null,
+  "spokesperson": "Mariolina Cannuli"
 }

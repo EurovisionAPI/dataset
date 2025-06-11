@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "EE",
-  "broadcaster": "ERR",
   "artist": "Koit Toome",
-  "artistPeople": [
-    "Koit Toome"
-  ],
   "song": "Mere lapsed",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Wh6rLWQAJo0",
@@ -17,24 +13,29 @@
   ],
   "bpm": 102,
   "tone": "G major",
+  "artistPeople": [
+    "Koit Toome"
+  ],
   "backings": [
     "Ain Varts",
     "Jüri Mazurtšak",
     "Mikko Maltis"
   ],
-  "commentators": [
-    "Reet Linna"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Maria Rahula",
     "Tomi Rahula"
   ],
   "conductor": "Heiki Vahar",
-  "dancers": null,
   "lyricists": [
     "Peeter Pruuli"
   ],
-  "spokesperson": "Urve Tiidus",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Reet Linna"
+  ],
+  "jury": null,
+  "spokesperson": "Urve Tiidus"
 }

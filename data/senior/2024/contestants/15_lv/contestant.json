@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "LV",
-  "broadcaster": "LTV",
   "artist": "Dons",
-  "artistPeople": [
-    "Artūrs Šingirejs"
-  ],
   "song": "Hollow",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/kgIwQkMwURY",
@@ -18,23 +14,28 @@
   ],
   "bpm": 148,
   "tone": "C# minor",
+  "artistPeople": [
+    "Artūrs Šingirejs"
+  ],
   "backings": [
     "Krists Indrišonoks",
     "Liam Geddes"
   ],
-  "commentators": [
-    "Lauris Reiniks",
-    "Toms Grēviņš"
-  ],
+  "dancers": null,
+  "stageDirector": "Nicoline Refsing",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Andrejs Reinis Zitmanis",
-  "stageDirector": "Nicoline Refsing",
   "writers": [
     "Artūrs Šingirejs",
     "Kate Northrop",
     "Liam Geddes"
-  ]
+  ],
+  "broadcaster": "LTV",
+  "commentators": [
+    "Lauris Reiniks",
+    "Toms Grēviņš"
+  ],
+  "jury": null,
+  "spokesperson": "Andrejs Reinis Zitmanis"
 }

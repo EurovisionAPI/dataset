@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Romuald",
-  "artistPeople": [
-    "Romuald Figuier"
-  ],
   "song": "Catherine",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/EpFe2X4Vc2Y",
@@ -15,20 +11,25 @@
   ],
   "bpm": 113,
   "tone": "F# major",
-  "backings": null,
-  "commentators": [
-    "Jacques Navadic"
+  "artistPeople": [
+    "Romuald Figuier"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "André Borgioli",
     "Paul Mauriat"
   ],
   "conductor": "Augusto Algueró",
-  "dancers": null,
   "lyricists": [
     "André di Fusco"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "BY",
-  "broadcaster": "BTRC",
   "artist": "VAL",
-  "artistPeople": [
-    "Valeria Gribusova (Валерыя Грыбусава)"
-  ],
   "song": "Da vidna",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/F0wfxz5zq04",
@@ -15,18 +11,23 @@
   ],
   "bpm": 96,
   "tone": "Ab major",
+  "artistPeople": [
+    "Valeria Gribusova (Валерыя Грыбусава)"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Lera Gribusova",
     "Vlad Pashkevich"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Mikita Najdzionaŭ"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

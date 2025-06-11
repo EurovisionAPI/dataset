@@ -1,12 +1,7 @@
 {
   "id": 1,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Pearl Carr & Teddy Johnson",
-  "artistPeople": [
-    "Pearl Lavinia Carr",
-    "Edward Victor Johnson"
-  ],
   "song": "Sing Little Birdie",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/MNt9g_03dmc",
@@ -14,19 +9,25 @@
   ],
   "bpm": 115,
   "tone": "A major",
-  "backings": null,
-  "commentators": [
-    "Tom Sloan"
+  "artistPeople": [
+    "Pearl Lavinia Carr",
+    "Edward Victor Johnson"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Stan Butcher"
   ],
   "conductor": "Eric Robinson",
-  "dancers": null,
   "lyricists": [
     "Syd Cordell"
   ],
-  "spokesperson": "Pete Murray",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BBC",
+  "commentators": [
+    "Tom Sloan"
+  ],
+  "jury": null,
+  "spokesperson": "Pete Murray"
 }

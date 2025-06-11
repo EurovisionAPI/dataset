@@ -1,12 +1,7 @@
 {
   "id": 17,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Nevada",
-  "artistPeople": [
-    "Alfredo Azinheira",
-    "Jorge Mendes"
-  ],
   "song": "Neste barco à vela",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/H9OWxZ_Cuso",
@@ -16,25 +11,31 @@
   ],
   "bpm": 146,
   "tone": "C# minor",
+  "artistPeople": [
+    "Alfredo Azinheira",
+    "Jorge Mendes"
+  ],
   "backings": [
     "Carla Burity",
     "Fernanda Lopes",
     "Mário Pacheco",
     "Zé Braga"
   ],
-  "commentators": [
-    "Maria Margarida Gaspar"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Alfredo Azinheira",
     "Jorge Mendes"
   ],
   "conductor": "Jaime Oliveira",
-  "dancers": null,
   "lyricists": [
     "Alfredo Azinheira"
   ],
-  "spokesperson": "Ana Zanatti",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Maria Margarida Gaspar"
+  ],
+  "jury": null,
+  "spokesperson": "Ana Zanatti"
 }

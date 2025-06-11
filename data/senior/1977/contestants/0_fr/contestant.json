@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "FR",
-  "broadcaster": "TF1",
   "artist": "Marie Myriam",
-  "artistPeople": [
-    "Myriam Lopes"
-  ],
   "song": "L'Oiseau et l'Enfant",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/XQG8dtWClc8",
@@ -17,6 +13,9 @@
   ],
   "bpm": 125,
   "tone": "C minor",
+  "artistPeople": [
+    "Myriam Lopes"
+  ],
   "backings": [
     "Dominique Poulain",
     "Francine Chantereau",
@@ -24,18 +23,20 @@
     "Jean-Claude Briodin",
     "Michel Costa"
   ],
-  "commentators": [
-    "Georges de Caunes"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jean-Paul Cara"
   ],
   "conductor": "Raymond Donnez",
-  "dancers": null,
   "lyricists": [
     "Joe Gracy"
   ],
-  "spokesperson": "Michel Drucker",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TF1",
+  "commentators": [
+    "Georges de Caunes"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Drucker"
 }

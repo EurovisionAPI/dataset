@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Cliff Richard",
-  "artistPeople": [
-    "Harry Rodger Webb"
-  ],
   "song": "Power to All Our Friends",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/9Eq9dmAq95k",
@@ -15,23 +11,28 @@
   ],
   "bpm": 91,
   "tone": "E major",
+  "artistPeople": [
+    "Harry Rodger Webb"
+  ],
   "backings": [
     "Alan Tarney",
     "John Farrar",
     "Terry Britten",
     "Trevor Spencer"
   ],
-  "commentators": [
-    "Terry Wogan"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "David McKay",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Doug Flett",
     "Guy Fletcher"
-  ]
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,16 +1,7 @@
 {
   "id": 1,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Live Report",
-  "artistPeople": [
-    "Brian Hodgson",
-    "John Beeby",
-    "Margaret Jay",
-    "Michael Bell",
-    "Raymond Caruana",
-    "Richard Marcangelo"
-  ],
   "song": "Why Do I Always Get it Wrong?",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/_hnmh92X82A",
@@ -19,19 +10,29 @@
   ],
   "bpm": 141,
   "tone": "Bb major",
-  "backings": null,
-  "commentators": [
-    "Terry Wogan"
+  "artistPeople": [
+    "Brian Hodgson",
+    "John Beeby",
+    "Margaret Jay",
+    "Michael Bell",
+    "Raymond Caruana",
+    "Richard Marcangelo"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "John Beeby"
   ],
   "conductor": "Ronnie Hazlehurst",
-  "dancers": null,
   "lyricists": [
     "Brian Hodgson"
   ],
-  "spokesperson": "Colin Berry",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
 }

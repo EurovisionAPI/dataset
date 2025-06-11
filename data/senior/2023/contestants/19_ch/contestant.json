@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Remo Forrer",
-  "artistPeople": [
-    "Remo Forrer"
-  ],
   "song": "Watergun",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/l4NDErv49mk",
@@ -18,7 +14,26 @@
   ],
   "bpm": 138,
   "tone": "Ab minor",
+  "artistPeople": [
+    "Remo Forrer"
+  ],
   "backings": null,
+  "dancers": [
+    "Ellinea Siambalis",
+    "Kenny Lantz",
+    "Lovisa Bengtsson",
+    "Marco Wihlborg"
+  ],
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Argyle Singh",
+    "Ashley Hicklin",
+    "Mikołaj Trybulec"
+  ],
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Ellis Cavallini",
     "Gian-Andrea Costa",
@@ -27,20 +42,6 @@
     "Priscilla Formaz",
     "Sven Epiney"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": [
-    "Ellinea Siambalis",
-    "Kenny Lantz",
-    "Lovisa Bengtsson",
-    "Marco Wihlborg"
-  ],
-  "lyricists": null,
-  "spokesperson": "Chiara Dubey",
-  "stageDirector": "Sacha Jean-Baptiste",
-  "writers": [
-    "Argyle Singh",
-    "Ashley Hicklin",
-    "Mikołaj Trybulec"
-  ]
+  "jury": null,
+  "spokesperson": "Chiara Dubey"
 }

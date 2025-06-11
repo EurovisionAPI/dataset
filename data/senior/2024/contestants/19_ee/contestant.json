@@ -1,16 +1,7 @@
 {
   "id": 19,
   "country": "EE",
-  "broadcaster": "ERR",
   "artist": "5miinust & Puuluup",
-  "artistPeople": [
-    "Kristjan Jakobson",
-    "Priit Tomson",
-    "Marko Veisson",
-    "Mihkel Tamm",
-    "Karl Kivastik",
-    "Ramo Teder"
-  ],
   "song": "(nendest) narkootikumidest ei tea me (küll) midagi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/RSMMU2wX0Bk",
@@ -23,18 +14,20 @@
   ],
   "bpm": 145,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Aleksandr Hobotov",
-    "Julia Kalenda",
-    "Marko Reikop"
+  "artistPeople": [
+    "Kristjan Jakobson",
+    "Priit Tomson",
+    "Marko Veisson",
+    "Mihkel Tamm",
+    "Karl Kivastik",
+    "Ramo Teder"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Birgit Sarrap",
-  "stageDirector": null,
   "writers": [
     "Estoni Kohver",
     "Kim Wennerström",
@@ -43,5 +36,13 @@
     "Päevakoer",
     "Põhja Korea",
     "Ramo Teder"
-  ]
+  ],
+  "broadcaster": "ERR",
+  "commentators": [
+    "Aleksandr Hobotov",
+    "Julia Kalenda",
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Birgit Sarrap"
 }

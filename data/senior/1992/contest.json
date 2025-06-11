@@ -6,11 +6,11 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1992.png",
+  "broadcasters": [
+    "SVT"
+  ],
   "presenters": [
     "Lydia Cappolicchio",
     "Harald Treutiger"
-  ],
-  "broadcasters": [
-    "SVT"
   ]
 }

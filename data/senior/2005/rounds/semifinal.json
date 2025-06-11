@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "2005-05-19",
   "time": "19:00:00",
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 235,
           "votes": {
             "AL": 0,
             "AD": 4,
@@ -61,6 +61,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 207,
           "votes": {
             "AL": 3,
             "AD": 0,
@@ -111,6 +112,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 185,
           "votes": {
             "AL": 0,
             "AD": 8,
@@ -161,6 +163,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 169,
           "votes": {
             "AL": 10,
             "AD": 0,
@@ -211,6 +214,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 167,
           "votes": {
             "AL": 0,
             "AD": 1,
@@ -261,6 +265,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 164,
           "votes": {
             "AL": 2,
             "AD": 0,
@@ -311,6 +316,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 158,
           "votes": {
             "AL": 7,
             "AD": 12,
@@ -361,6 +367,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 114,
           "votes": {
             "AL": 0,
             "AD": 0,
@@ -411,6 +418,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 97,
           "votes": {
             "AL": 12,
             "AD": 0,
@@ -461,6 +469,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 85,
           "votes": {
             "AL": 0,
             "AD": 0,
@@ -511,6 +520,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 81,
           "votes": {
             "AL": 0,
             "AD": 0,
@@ -561,6 +571,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 69,
           "votes": {
             "AL": 8,
             "AD": 0,
@@ -611,6 +622,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 67,
           "votes": {
             "AL": 0,
             "AD": 0,
@@ -661,6 +673,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 53,
           "votes": {
             "AL": 0,
             "AD": 5,
@@ -711,6 +724,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 53,
           "votes": {
             "AL": 0,
             "AD": 2,
@@ -761,6 +775,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 52,
           "votes": {
             "AL": 0,
             "AD": 6,
@@ -811,6 +826,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 51,
           "votes": {
             "AL": 0,
             "AD": 0,
@@ -861,6 +877,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 50,
           "votes": {
             "AL": 0,
             "AD": 3,
@@ -911,6 +928,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 49,
           "votes": {
             "AL": 4,
             "AD": 0,
@@ -961,6 +979,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 31,
           "votes": {
             "AL": 0,
             "AD": 0,
@@ -1011,6 +1030,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 30,
           "votes": {
             "AL": 5,
             "AD": 7,
@@ -1061,6 +1081,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 29,
           "votes": {
             "AL": 1,
             "AD": 0,
@@ -1111,6 +1132,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 27,
           "votes": {
             "AL": 6,
             "AT": 0,
@@ -1161,6 +1183,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 22,
           "votes": {
             "AL": 0,
             "AD": 10,
@@ -1211,6 +1234,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 17,
           "votes": {
             "AL": 0,
             "AD": 0,

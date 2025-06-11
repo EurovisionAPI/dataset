@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "2013-05-18",
   "time": "19:00:00",
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 281,
           "votes": {
             "AL": 1,
             "AM": 4,
@@ -61,6 +61,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 234,
           "votes": {
             "AL": 7,
             "AM": 0,
@@ -111,6 +112,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 214,
           "votes": {
             "AL": 0,
             "AM": 12,
@@ -161,6 +163,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 191,
           "votes": {
             "AL": 2,
             "AM": 3,
@@ -211,6 +214,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 174,
           "votes": {
             "AL": 0,
             "AM": 7,
@@ -261,6 +265,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 152,
           "votes": {
             "AL": 10,
             "AM": 8,
@@ -311,6 +316,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 126,
           "votes": {
             "AL": 12,
             "AM": 1,
@@ -361,6 +367,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 120,
           "votes": {
             "AL": 0,
             "AM": 6,
@@ -411,6 +418,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 114,
           "votes": {
             "AL": 4,
             "AM": 0,
@@ -461,6 +469,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 84,
           "votes": {
             "AL": 8,
             "AM": 0,
@@ -511,6 +520,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 71,
           "votes": {
             "AL": 0,
             "AM": 0,
@@ -561,6 +571,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 71,
           "votes": {
             "AL": 0,
             "AM": 0,
@@ -611,6 +622,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 65,
           "votes": {
             "AL": 5,
             "AM": 0,
@@ -661,6 +673,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 62,
           "votes": {
             "AL": 0,
             "AM": 0,
@@ -711,6 +724,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 50,
           "votes": {
             "AL": 0,
             "AM": 10,
@@ -761,6 +775,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 48,
           "votes": {
             "AL": 0,
             "AM": 5,
@@ -811,6 +826,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 47,
           "votes": {
             "AL": 0,
             "AM": 0,
@@ -861,6 +877,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 41,
           "votes": {
             "AL": 0,
             "AT": 0,
@@ -911,6 +928,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 23,
           "votes": {
             "AL": 0,
             "AM": 0,
@@ -961,6 +979,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 19,
           "votes": {
             "AL": 0,
             "AM": 0,
@@ -1011,6 +1030,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 18,
           "votes": {
             "AL": 3,
             "AM": 0,
@@ -1061,6 +1081,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 17,
           "votes": {
             "AL": 0,
             "AM": 0,
@@ -1111,6 +1132,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 14,
           "votes": {
             "AL": 0,
             "AM": 2,
@@ -1161,6 +1183,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 13,
           "votes": {
             "AL": 0,
             "AM": 0,
@@ -1211,6 +1234,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 8,
           "votes": {
             "AL": 6,
             "AM": 0,
@@ -1261,6 +1285,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 5,
           "votes": {
             "AL": 0,
             "AM": 0,

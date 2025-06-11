@@ -1,11 +1,7 @@
 {
   "id": 29,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Vincent Bueno",
-  "artistPeople": [
-    "Vincent Bueno"
-  ],
   "song": "Amen",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/xV9_pKj8Df8",
@@ -16,21 +12,26 @@
   ],
   "bpm": 80,
   "tone": "F# minor",
+  "artistPeople": [
+    "Vincent Bueno"
+  ],
   "backings": [
     "Tobias Carshey"
   ],
-  "commentators": [
-    "Andi Knoll"
-  ],
+  "dancers": null,
+  "stageDirector": "Dan Shipton, Marvin Dietmann",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Philipp Hansa",
-  "stageDirector": "Dan Shipton, Marvin Dietmann",
   "writers": [
     "Ashley Hicklin",
     "Jonas Thander",
     "Tobias Carshey"
-  ]
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Philipp Hansa"
 }

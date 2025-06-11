@@ -1,14 +1,7 @@
 {
   "id": 34,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Izabo",
-  "artistPeople": [
-    "Jonathan Levi",
-    "Nir Mantzur",
-    "Ran Shem Tov",
-    "Shiri Hadar"
-  ],
   "song": "Time",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-uy4ggnLzKI",
@@ -16,16 +9,24 @@
   ],
   "bpm": 130,
   "tone": "B major",
+  "artistPeople": [
+    "Jonathan Levi",
+    "Nir Mantzur",
+    "Ran Shem Tov",
+    "Shiri Hadar"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Ofer Nachshon",
-  "stageDirector": null,
   "writers": [
     "Ran Shem Tov",
     "Shiri Hadar"
-  ]
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Ofer Nachshon"
 }

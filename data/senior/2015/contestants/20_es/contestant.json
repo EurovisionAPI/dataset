@@ -1,11 +1,7 @@
 {
   "id": 20,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Edurne",
-  "artistPeople": [
-    "Edurne García Almagro"
-  ],
   "song": "Amanecer",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/NsMiJJlElAY",
@@ -15,22 +11,27 @@
   ],
   "bpm": 126,
   "tone": "Eb minor",
-  "backings": null,
-  "commentators": [
-    "José María Íñigo",
-    "Julia Varela"
+  "artistPeople": [
+    "Edurne García Almagro"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Giuseppe di Bella"
   ],
-  "lyricists": null,
-  "spokesperson": "Lara Siscar",
   "stageDirector": "Tinet Rubira",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Peter Boström",
     "Thomas G:son",
     "Tony Sánchez-Ohlsson"
-  ]
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José María Íñigo",
+    "Julia Varela"
+  ],
+  "jury": null,
+  "spokesperson": "Lara Siscar"
 }

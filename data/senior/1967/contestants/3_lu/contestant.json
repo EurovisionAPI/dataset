@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Vicky",
-  "artistPeople": [
-    "Vassiliki Papathanassiou"
-  ],
   "song": "L'amour est bleu",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/8uncLrAqIU8",
@@ -14,19 +10,24 @@
   ],
   "bpm": 112,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Jacques Navadic"
+  "artistPeople": [
+    "Vassiliki Papathanassiou"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "André Popp"
   ],
   "conductor": "Claude Denjean",
-  "dancers": null,
   "lyricists": [
     "Pierre Cour"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

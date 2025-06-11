@@ -1,14 +1,7 @@
 {
   "id": 4,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "The Milestones",
-  "artistPeople": [
-    "Beatrix Neundlinger",
-    "Christian Kolonovits",
-    "Günther Grosslercher",
-    "Norbert Niedermayer"
-  ],
   "song": "Falter im Wind",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5caNpcR3bGs",
@@ -18,20 +11,28 @@
   ],
   "bpm": 94,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Ernst Grissemann"
+  "artistPeople": [
+    "Beatrix Neundlinger",
+    "Christian Kolonovits",
+    "Günther Grosslercher",
+    "Norbert Niedermayer"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Manuel Rigoni",
     "Richard Schönherz"
   ],
   "conductor": "Erich Kleinschuster",
-  "dancers": null,
   "lyricists": [
     "Heinz Unger"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "EE",
-  "broadcaster": "ERR",
   "artist": "Maarja-Liis Ilus",
-  "artistPeople": [
-    "Maarja-Liis Ilus"
-  ],
   "song": "Keelatud maa",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/fpbHoOxpfzU",
@@ -17,22 +13,27 @@
   ],
   "bpm": 178,
   "tone": "C# major",
+  "artistPeople": [
+    "Maarja-Liis Ilus"
+  ],
   "backings": [
     "Airi Allvee",
     "Evelin Samuel"
   ],
-  "commentators": [
-    "Jüri Pihel"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Harmo Kallaste"
   ],
   "conductor": "Tarmo Leinatamm",
-  "dancers": null,
   "lyricists": [
     "Kaari Sillamaa"
   ],
-  "spokesperson": "Helene Tedre",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Jüri Pihel"
+  ],
+  "jury": null,
+  "spokesperson": "Helene Tedre"
 }

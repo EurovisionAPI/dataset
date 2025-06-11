@@ -1,11 +1,7 @@
 {
   "id": 17,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Rita",
-  "artistPeople": [
-    "Rita Yahan-Farouz"
-  ],
   "song": "Shara Barechovot",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/6LCtEaSFLSQ",
@@ -14,17 +10,22 @@
   ],
   "bpm": 91,
   "tone": "Ab major",
+  "artistPeople": [
+    "Rita Yahan-Farouz"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Rami Kleinstein"
   ],
   "conductor": "Rami Levine",
-  "dancers": null,
   "lyricists": [
     "Tzruya Lahav"
   ],
-  "spokesperson": "Yitzhak Shim'oni",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yitzhak Shim'oni"
 }

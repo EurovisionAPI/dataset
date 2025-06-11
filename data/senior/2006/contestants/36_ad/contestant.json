@@ -1,11 +1,7 @@
 {
   "id": 36,
   "country": "AD",
-  "broadcaster": "RTVA",
   "artist": "Jennifer",
-  "artistPeople": [
-    "Jennifer Serrano"
-  ],
   "song": "Sense Tu",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/UffvRSmRYEk",
@@ -13,21 +9,26 @@
   ],
   "bpm": 100,
   "tone": "Eb minor",
+  "artistPeople": [
+    "Jennifer Serrano"
+  ],
   "backings": [
     "Miriam Guerrero"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Joan Antoni Rechi",
+    "Rafael Artesero Herrero"
+  ],
+  "broadcaster": "RTVA",
   "commentators": [
     "Josep Lluís Trabal",
     "Meri Picart"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Xavi Palma",
-  "stageDirector": null,
-  "writers": [
-    "Joan Antoni Rechi",
-    "Rafael Artesero Herrero"
-  ]
+  "jury": null,
+  "spokesperson": "Xavi Palma"
 }

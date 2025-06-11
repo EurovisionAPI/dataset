@@ -1,19 +1,19 @@
 {
   "id": 3,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Vincent Bueno",
-  "artistPeople": [
-    "Vincent Bueno"
-  ],
   "song": "Alive",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/cOuiTJlBC50"
   ],
   "bpm": 116,
   "tone": "C# minor",
+  "artistPeople": [
+    "Vincent Bueno"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Artur Aigner",
     "David Yang",
@@ -21,11 +21,12 @@
     "Vincent Bueno"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Vincent Bueno"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

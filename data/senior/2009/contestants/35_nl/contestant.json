@@ -1,13 +1,7 @@
 {
   "id": 35,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "The Toppers",
-  "artistPeople": [
-    "Cornelis Willem Gordon Heuckeroth",
-    "Jeroen van der Boom",
-    "René Froger"
-  ],
   "song": "Shine",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/A3ThD1wPrhA",
@@ -16,22 +10,29 @@
   ],
   "bpm": 132,
   "tone": "Ab major",
+  "artistPeople": [
+    "Cornelis Willem Gordon Heuckeroth",
+    "Jeroen van der Boom",
+    "René Froger"
+  ],
   "backings": [
     "Dedre Twiss",
     "Ingrid Simons",
     "Sarina Voorn"
   ],
-  "commentators": [
-    "Cornald Maas"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Yolanthe Sneijder-Cabau",
-  "stageDirector": null,
   "writers": [
     "Bas van den Heuvel",
     "Gordon"
-  ]
+  ],
+  "broadcaster": "NOS",
+  "commentators": [
+    "Cornald Maas"
+  ],
+  "jury": null,
+  "spokesperson": "Yolanthe Sneijder-Cabau"
 }

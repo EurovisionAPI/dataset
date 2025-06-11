@@ -1,16 +1,7 @@
 {
   "id": 41,
   "country": "CZ",
-  "broadcaster": "ČT",
   "artist": "Gipsy.cz",
-  "artistPeople": [
-    "Matěj Černý",
-    "Noemi Fialová",
-    "Oliver Lipenský",
-    "Radoslav 'Gipsy' Banga",
-    "Tibor Žida",
-    "Vojta Lavička"
-  ],
   "song": "Aven Romale",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/JsjBPt-GeFc",
@@ -21,17 +12,27 @@
   ],
   "bpm": 154,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Matěj Černý",
+    "Noemi Fialová",
+    "Oliver Lipenský",
+    "Radoslav 'Gipsy' Banga",
+    "Tibor Žida",
+    "Vojta Lavička"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Radoslav 'Gipsy' Banga"
+  ],
+  "broadcaster": "ČT",
   "commentators": [
     "Jan Rejžek"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Petra Šubrtová",
-  "stageDirector": null,
-  "writers": [
-    "Radoslav 'Gipsy' Banga"
-  ]
+  "jury": null,
+  "spokesperson": "Petra Šubrtová"
 }

@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "FR",
-  "broadcaster": "France 2",
   "artist": "Amir",
-  "artistPeople": [
-    "Laurent Amir Khlifa Khedider Haddad"
-  ],
   "song": "J'ai cherché",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-aLPsiyavcU",
@@ -16,29 +12,34 @@
   ],
   "bpm": 122,
   "tone": "C# major",
+  "artistPeople": [
+    "Laurent Amir Khlifa Khedider Haddad"
+  ],
   "backings": [
     "Delphine Elbé",
     "Fred D'Angelo",
     "Ivan Pavlak",
     "Lars Hägglund"
   ],
-  "commentators": [
-    "Jarry",
-    "Marianne James",
-    "Stéphane Bern"
-  ],
+  "dancers": null,
+  "stageDirector": "Hortense Boyer",
   "composers": [
     "Amir Haddad",
     "Johan Errami",
     "Nazim Khaled"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Amir Haddad",
     "Nazim Khaled"
   ],
-  "spokesperson": "Élodie Gossuin",
-  "stageDirector": "Hortense Boyer",
-  "writers": null
+  "writers": null,
+  "broadcaster": "France 2",
+  "commentators": [
+    "Jarry",
+    "Marianne James",
+    "Stéphane Bern"
+  ],
+  "jury": null,
+  "spokesperson": "Élodie Gossuin"
 }

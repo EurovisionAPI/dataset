@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Arlette Zola",
-  "artistPeople": [
-    "Arlette Quazzola"
-  ],
   "song": "Amour on t'aime",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/1NZzdHi_K7o",
@@ -15,21 +11,26 @@
   ],
   "bpm": 96,
   "tone": "A major",
+  "artistPeople": [
+    "Arlette Quazzola"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alain Morisod"
+  ],
+  "conductor": "Joan Amils",
+  "lyricists": [
+    "Pierre Alain"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Georges Hardy",
     "Giovanni Bertini",
     "Theodor Haller"
   ],
-  "composers": [
-    "Alain Morisod"
-  ],
-  "conductor": "Joan Amils",
-  "dancers": null,
-  "lyricists": [
-    "Pierre Alain"
-  ],
-  "spokesperson": "Michel Stocker",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Michel Stocker"
 }

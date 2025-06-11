@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Loreen",
-  "artistPeople": [
-    "Lorine Zineb Nora Talhaoui"
-  ],
   "song": "Euphoria",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Pfo-8z86x80",
@@ -18,25 +14,30 @@
   ],
   "bpm": 132,
   "tone": "F# major",
+  "artistPeople": [
+    "Lorine Zineb Nora Talhaoui"
+  ],
   "backings": [
     "Britta Bergström",
     "Johanna Beijbom",
     "Monica Starck"
   ],
+  "dancers": [
+    "Ausben Jordan"
+  ],
+  "stageDirector": "Ambra Succi",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Peter Boström",
+    "Thomas G:son"
+  ],
+  "broadcaster": "SVT",
   "commentators": [
     "Edward af Sillén",
     "Gina Dirawi"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": [
-    "Ausben Jordan"
-  ],
-  "lyricists": null,
-  "spokesperson": "Lynda Woodruff",
-  "stageDirector": "Ambra Succi",
-  "writers": [
-    "Peter Boström",
-    "Thomas G:son"
-  ]
+  "jury": null,
+  "spokesperson": "Lynda Woodruff"
 }

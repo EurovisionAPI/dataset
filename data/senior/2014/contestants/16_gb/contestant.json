@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Molly",
-  "artistPeople": [
-    "Molly Alice Smitten-Downes"
-  ],
   "song": "Children of the Universe",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/C6w7tmWvm6M",
@@ -15,25 +11,30 @@
   ],
   "bpm": 140,
   "tone": "F# major",
+  "artistPeople": [
+    "Molly Alice Smitten-Downes"
+  ],
   "backings": [
     "Katie Holmes",
     "Lincoln Jean-Marie",
     "Sharleen Linton",
     "Victoria Beaumont"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Anders Hansson",
+    "Molly Smitten-Downes"
+  ],
+  "broadcaster": "BBC",
   "commentators": [
     "Graham Norton",
     "Laura Whitmore",
     "Scott Mills"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Scott Mills",
-  "stageDirector": null,
-  "writers": [
-    "Anders Hansson",
-    "Molly Smitten-Downes"
-  ]
+  "jury": null,
+  "spokesperson": "Scott Mills"
 }

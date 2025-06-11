@@ -1,13 +1,7 @@
 {
   "id": 32,
   "country": "HR",
-  "broadcaster": "HRT",
   "artist": "Feminnem",
-  "artistPeople": [
-    "Neda Parmać",
-    "Nika Antolos",
-    "Pamela Ramljak"
-  ],
   "song": "Lako je sve",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/x2M9zNayOF0",
@@ -17,23 +11,30 @@
   ],
   "bpm": 152,
   "tone": "Eb minor",
+  "artistPeople": [
+    "Neda Parmać",
+    "Nika Antolos",
+    "Pamela Ramljak"
+  ],
   "backings": [
     "Irma",
     "Lydia Ivekovic"
   ],
-  "commentators": [
-    "Duško Ćurlić"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Branimir Mihaljević"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Neda Parmać",
     "Pamela Ramljak"
   ],
-  "spokesperson": "Mila Horvat",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": null,
+  "spokesperson": "Mila Horvat"
 }

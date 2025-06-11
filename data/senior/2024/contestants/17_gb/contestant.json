@@ -1,11 +1,7 @@
 {
   "id": 17,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Olly Alexander",
-  "artistPeople": [
-    "Oliver Alexander Thornton"
-  ],
   "song": "Dizzy",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/q0_FdJqyQW0",
@@ -18,27 +14,32 @@
   ],
   "bpm": 126,
   "tone": "C minor",
+  "artistPeople": [
+    "Oliver Alexander Thornton"
+  ],
   "backings": [
     "Mike Hough"
   ],
-  "commentators": [
-    "Graham Norton",
-    "Rylan Clark",
-    "Scott Mills"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Alex Brown",
     "Edd Arnold",
     "Harrison Claxton",
     "Raymond Wade"
   ],
-  "lyricists": null,
-  "spokesperson": "Joanna Lumley",
   "stageDirector": "Theo Adams",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Daniel Jack Eisner Harle",
     "Oliver Alexander Thornton"
-  ]
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Graham Norton",
+    "Rylan Clark",
+    "Scott Mills"
+  ],
+  "jury": null,
+  "spokesperson": "Joanna Lumley"
 }

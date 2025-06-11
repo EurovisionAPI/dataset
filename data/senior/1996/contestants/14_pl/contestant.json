@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "PL",
-  "broadcaster": "TVP",
   "artist": "Kasia Kowalska",
-  "artistPeople": [
-    "Kasia Kowalska"
-  ],
   "song": "Chcę znać swój grzech",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/UqC45z6r3xU",
@@ -13,21 +9,26 @@
   ],
   "bpm": 155,
   "tone": "F# minor",
+  "artistPeople": [
+    "Kasia Kowalska"
+  ],
   "backings": [
     "Dorota Miśkiewicz"
   ],
-  "commentators": [
-    "Dorota Osman"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Robert Amirian"
   ],
   "conductor": "Wieslaw Pieregorólka",
-  "dancers": null,
   "lyricists": [
     "Kasia Kowalska"
   ],
-  "spokesperson": "Jan Chojnacki",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Dorota Osman"
+  ],
+  "jury": null,
+  "spokesperson": "Jan Chojnacki"
 }

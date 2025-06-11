@@ -6,11 +6,11 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1978.png",
+  "broadcasters": [
+    "TF1"
+  ],
   "presenters": [
     "Denise Fabre",
     "Léon Zitrone"
-  ],
-  "broadcasters": [
-    "TF1"
   ]
 }

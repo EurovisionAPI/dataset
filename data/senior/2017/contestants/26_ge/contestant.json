@@ -1,11 +1,7 @@
 {
   "id": 26,
   "country": "GE",
-  "broadcaster": "GPB",
   "artist": "Tamara Gachechiladze",
-  "artistPeople": [
-    "Tako Gachechiladze"
-  ],
   "song": "Keep The Faith",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/agSS_a3ccgA",
@@ -17,6 +13,9 @@
   ],
   "bpm": 132,
   "tone": "G minor",
+  "artistPeople": [
+    "Tako Gachechiladze"
+  ],
   "backings": [
     "Giorgi Tskhvariashvili",
     "Guri Pasikashvili",
@@ -24,18 +23,20 @@
     "Mariam Jomardidze",
     "Natia Oqruashvili"
   ],
-  "commentators": [
-    "Demetre Ergemlidze"
-  ],
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
   "composers": [
     "Anri Jokhadze"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Tamara Gachechiladze"
   ],
-  "spokesperson": "Nika Kocharov",
-  "stageDirector": "Sacha Jean-Baptiste",
-  "writers": null
+  "writers": null,
+  "broadcaster": "GPB",
+  "commentators": [
+    "Demetre Ergemlidze"
+  ],
+  "jury": null,
+  "spokesperson": "Nika Kocharov"
 }

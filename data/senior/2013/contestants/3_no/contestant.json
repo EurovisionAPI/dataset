@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Margaret Berger",
-  "artistPeople": [
-    "Margaret Berger"
-  ],
   "song": "I Feed You My Love",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/tc6a4EV63uM",
@@ -17,23 +13,28 @@
   ],
   "bpm": 96,
   "tone": "E minor",
+  "artistPeople": [
+    "Margaret Berger"
+  ],
   "backings": [
     "Jorunn Hauge",
     "Karianne Kjærnes",
     "May Kristin Kaspersen"
   ],
-  "commentators": [
-    "Olav Viksmo-Slettan"
-  ],
+  "dancers": null,
+  "stageDirector": "Tore Sergei Myklebust",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Tooji",
-  "stageDirector": "Tore Sergei Myklebust",
   "writers": [
     "Karin Park",
     "Niklas Olovson",
     "Robin Lynch"
-  ]
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "jury": null,
+  "spokesperson": "Tooji"
 }

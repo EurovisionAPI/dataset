@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Anita Skorgan",
-  "artistPeople": [
-    "Anita Skorgan"
-  ],
   "song": "Casanova",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/x8QNTw668l8",
@@ -17,24 +13,29 @@
   ],
   "bpm": 119,
   "tone": "A minor",
+  "artistPeople": [
+    "Anita Skorgan"
+  ],
   "backings": [
     "Anne Lise Gjøstøl",
     "Anne Sofie Qvale",
     "George Keller",
     "Gro Bergsland"
   ],
-  "commentators": [
-    "John Andreassen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Svein Strugstad"
   ],
   "conductor": "Carsten Klouman",
-  "dancers": null,
   "lyricists": [
     "Dag Nordtømme"
   ],
-  "spokesperson": "Sverre Christophersen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "John Andreassen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
 }

@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Jade Ewen",
-  "artistPeople": [
-    "Jade Ewen"
-  ],
   "song": "It's My Time",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-GwOojK3VRU",
@@ -14,22 +10,27 @@
   ],
   "bpm": 98,
   "tone": "A minor",
+  "artistPeople": [
+    "Jade Ewen"
+  ],
   "backings": [
     "Andrew Lloyd Webber"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Andrew Lloyd Webber",
+    "Diane Eve Warren"
+  ],
+  "broadcaster": "BBC",
   "commentators": [
     "Graham Norton",
     "Paddy O'Connell",
     "Sarah Cawood"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Duncan James",
-  "stageDirector": null,
-  "writers": [
-    "Andrew Lloyd Webber",
-    "Diane Eve Warren"
-  ]
+  "jury": null,
+  "spokesperson": "Duncan James"
 }

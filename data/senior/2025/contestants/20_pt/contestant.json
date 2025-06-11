@@ -1,15 +1,7 @@
 {
   "id": 20,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Napa",
-  "artistPeople": [
-    "Diogo Góis",
-    "Francisco Sousa",
-    "João Guilherme Gomes",
-    "João Lourenço Gomes",
-    "João Rodrigues"
-  ],
   "song": "Deslocado",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/waInyqBwSo0",
@@ -22,11 +14,16 @@
   ],
   "bpm": 76,
   "tone": "F# major",
-  "backings": null,
-  "commentators": [
-    "José Carlos Malato",
-    "Nuno Galopim"
+  "artistPeople": [
+    "Diogo Góis",
+    "Francisco Sousa",
+    "João Guilherme Gomes",
+    "João Lourenço Gomes",
+    "João Rodrigues"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "André Santos",
     "Diogo Góis",
@@ -36,11 +33,15 @@
     "João Rodrigues"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "João Guilherme Gomes"
   ],
-  "spokesperson": "Iolanda Costa",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "José Carlos Malato",
+    "Nuno Galopim"
+  ],
+  "jury": null,
+  "spokesperson": "Iolanda Costa"
 }

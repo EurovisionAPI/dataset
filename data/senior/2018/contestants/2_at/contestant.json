@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Cesár Sampson",
-  "artistPeople": [
-    "Cesár Sampson"
-  ],
   "song": "Nobody But You",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/a8Yvzo1puoE",
@@ -18,6 +14,9 @@
   ],
   "bpm": 85,
   "tone": "G major",
+  "artistPeople": [
+    "Cesár Sampson"
+  ],
   "backings": [
     "Kiko Pereira",
     "Rachelle Jeanty",
@@ -25,20 +24,22 @@
     "Sandra Kurzweil",
     "Sunay Balkan"
   ],
-  "commentators": [
-    "Andi Knoll"
-  ],
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Katharina Bellowitsch",
-  "stageDirector": "Marvin Dietmann",
   "writers": [
     "Borislav Milanov",
     "Cesár Sampson",
     "Joacim Persson",
     "Johan Alkenäs",
     "Sebastian Arman"
-  ]
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Katharina Bellowitsch"
 }

@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "AZ",
-  "broadcaster": "İctimai",
   "artist": "Efendi",
-  "artistPeople": [
-    "Samira Azer gizi Efendiyeva (Samirə Azər qızı Əfəndiyeva)"
-  ],
   "song": "Mata Hari",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/FTQ22S5YC7Q",
@@ -18,26 +14,31 @@
   ],
   "bpm": 100,
   "tone": "E minor",
-  "backings": null,
-  "commentators": [
-    "Husniyya Maharramova",
-    "Murad Arif"
+  "artistPeople": [
+    "Samira Azer gizi Efendiyeva (Samirə Azər qızı Əfəndiyeva)"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Adelina Deli",
     "Alina Lee",
     "Sasha Golosnichenco",
     "Veronika Volosova"
   ],
-  "lyricists": null,
-  "spokesperson": "Ell, Nikki",
   "stageDirector": "Mads Enggaard",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Amy van der Wel",
     "Josh Earl",
     "Luuk van Beers",
     "Tony Cornelissen"
-  ]
+  ],
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Husniyya Maharramova",
+    "Murad Arif"
+  ],
+  "jury": null,
+  "spokesperson": "Ell, Nikki"
 }

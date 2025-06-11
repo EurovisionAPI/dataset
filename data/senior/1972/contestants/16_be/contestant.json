@@ -1,12 +1,7 @@
 {
   "id": 16,
   "country": "BE",
-  "broadcaster": "RTBF",
   "artist": "Serge and Christine Ghisoland",
-  "artistPeople": [
-    "Christine Ghisoland",
-    "Serge Ghisoland"
-  ],
   "song": "À la folie ou pas du tout",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/IKWfbesTZow",
@@ -15,23 +10,29 @@
   ],
   "bpm": 74,
   "tone": "G major",
+  "artistPeople": [
+    "Christine Ghisoland",
+    "Serge Ghisoland"
+  ],
   "backings": [
     "Claude Lombard"
   ],
-  "commentators": [
-    "Herman Verelst",
-    "Paule Herreman"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Bob Milan",
     "Daniël Nelis"
   ],
   "conductor": "Henri Segers",
-  "dancers": null,
   "lyricists": [
     "Daniël Nelis"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Herman Verelst",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

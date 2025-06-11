@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Colm T. Wilkinson",
-  "artistPeople": [
-    "Colm C. T. Wilkinson"
-  ],
   "song": "Born to Sing",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/1030WPAfAiM",
@@ -13,20 +9,25 @@
   ],
   "bpm": 104,
   "tone": "C major",
+  "artistPeople": [
+    "Colm C. T. Wilkinson"
+  ],
   "backings": [
     "Helen Jordan",
     "Karen Black"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Colm C. T. Wilkinson"
+  ],
+  "broadcaster": "RTÉ",
   "commentators": [
     "Larry Gogan"
   ],
-  "composers": null,
-  "conductor": "Noel Kelehan",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "John Skehan",
-  "stageDirector": null,
-  "writers": [
-    "Colm C. T. Wilkinson"
-  ]
+  "jury": null,
+  "spokesperson": "John Skehan"
 }

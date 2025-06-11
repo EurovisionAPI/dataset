@@ -1,11 +1,7 @@
 {
   "id": 28,
   "country": "MT",
-  "broadcaster": "MBA",
   "artist": "Morena",
-  "artistPeople": [
-    "Margaret Camilleri Fenech"
-  ],
   "song": "Vodka",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3rMRjridFH0",
@@ -15,6 +11,9 @@
   ],
   "bpm": 155,
   "tone": "F major",
+  "artistPeople": [
+    "Margaret Camilleri Fenech"
+  ],
   "backings": [
     "Anabelle Debono",
     "Dan Gill",
@@ -22,18 +21,20 @@
     "Nicklas Berglund",
     "Thomas Benstem"
   ],
-  "commentators": [
-    "Eileen Montesin"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Philip Vella"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Gerard James Borg"
   ],
-  "spokesperson": "Moira Delia",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "MBA",
+  "commentators": [
+    "Eileen Montesin"
+  ],
+  "jury": null,
+  "spokesperson": "Moira Delia"
 }

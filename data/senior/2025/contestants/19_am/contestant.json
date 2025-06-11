@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "AM",
-  "broadcaster": "AMPTV",
   "artist": "Parg",
-  "artistPeople": [
-    "Pargev Vardanian"
-  ],
   "song": "Survivor",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/qHkZWLld-pw",
@@ -18,17 +14,15 @@
   ],
   "bpm": 132,
   "tone": "D minor",
-  "backings": null,
-  "commentators": [
-    "Hamlet Arakelyan",
-    "Hrachuhi Utmazyan"
+  "artistPeople": [
+    "Pargev Vardanian"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Kaleen",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Lusine Tovmasyan",
-  "stageDirector": "Kaleen",
   "writers": [
     "Alex Wilke",
     "Armen Paul",
@@ -40,5 +34,12 @@
     "Peter Boström",
     "Thomas G:son",
     "Jon Ajdini"
-  ]
+  ],
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Hamlet Arakelyan",
+    "Hrachuhi Utmazyan"
+  ],
+  "jury": null,
+  "spokesperson": "Lusine Tovmasyan"
 }

@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "2024-05-07",
   "time": "19:00:00",
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 177,
           "votes": {
             "AU": 12,
             "AZ": 7,
@@ -41,6 +41,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 173,
           "votes": {
             "AU": 8,
             "AZ": 10,
@@ -71,6 +72,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 124,
           "votes": {
             "AU": 10,
             "AZ": 6,
@@ -101,6 +103,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 119,
           "votes": {
             "AU": 6,
             "AZ": 3,
@@ -131,6 +134,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 117,
           "votes": {
             "AU": 4,
             "AZ": 8,
@@ -161,6 +165,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 67,
           "votes": {
             "AU": 7,
             "AZ": 12,
@@ -191,6 +196,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 59,
           "votes": {
             "AU": 5,
             "AZ": 0,
@@ -221,6 +227,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 58,
           "votes": {
             "AU": 2,
             "AZ": 4,
@@ -251,6 +258,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 51,
           "votes": {
             "AU": 3,
             "AZ": 1,
@@ -281,6 +289,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 47,
           "votes": {
             "AU": 0,
             "AZ": 5,
@@ -311,6 +320,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 41,
           "votes": {
             "AZ": 0,
             "HR": 0,
@@ -341,6 +351,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 35,
           "votes": {
             "AU": 1,
             "AZ": 0,
@@ -371,6 +382,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 20,
           "votes": {
             "AU": 0,
             "AZ": 2,
@@ -401,6 +413,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 11,
           "votes": {
             "AU": 0,
             "HR": 0,
@@ -431,6 +444,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 3,
           "votes": {
             "AU": 0,
             "AZ": 0,

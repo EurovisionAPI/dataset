@@ -1,14 +1,7 @@
 {
   "id": 0,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Måneskin",
-  "artistPeople": [
-    "Damiano David",
-    "Ethan Torchio",
-    "Thomas Raggi",
-    "Victoria De Angelis"
-  ],
   "song": "Zitti e buoni",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/RVH5dn1cxAQ",
@@ -21,23 +14,31 @@
   ],
   "bpm": 103,
   "tone": "A minor",
+  "artistPeople": [
+    "Damiano David",
+    "Ethan Torchio",
+    "Thomas Raggi",
+    "Victoria De Angelis"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": "Claudio Santucci",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Damiano David",
+    "Ethan Torchio",
+    "Thomas Raggi",
+    "Victoria De Angelis"
+  ],
+  "broadcaster": "RAI",
   "commentators": [
     "Cristiano Malgioglio",
     "Ema Stokholma",
     "Gabriele Corsi",
     "Saverio Raimondo"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Carolina Di Domenico",
-  "stageDirector": "Claudio Santucci",
-  "writers": [
-    "Damiano David",
-    "Ethan Torchio",
-    "Thomas Raggi",
-    "Victoria De Angelis"
-  ]
+  "jury": null,
+  "spokesperson": "Carolina Di Domenico"
 }

@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Maria Guinot",
-  "artistPeople": [
-    "Maria Guinot"
-  ],
   "song": "Silêncio e tanta gente",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/H9QwSkpDtoY",
@@ -17,19 +13,24 @@
   ],
   "bpm": 135,
   "tone": "C major",
+  "artistPeople": [
+    "Maria Guinot"
+  ],
   "backings": [
     "Inês Martins"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Pedro Osório",
+  "lyricists": null,
+  "writers": [
+    "Maria Guinot"
+  ],
+  "broadcaster": "RTP",
   "commentators": [
     "Fialho Gouveia"
   ],
-  "composers": null,
-  "conductor": "Pedro Osório",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Eládio Clímaco",
-  "stageDirector": null,
-  "writers": [
-    "Maria Guinot"
-  ]
+  "jury": null,
+  "spokesperson": "Eládio Clímaco"
 }

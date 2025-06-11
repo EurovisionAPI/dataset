@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Ramón",
-  "artistPeople": [
-    "Ramón del Castillo"
-  ],
   "song": "Para llenarme de ti",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/V2nGwnq9XAE",
@@ -14,6 +10,9 @@
   ],
   "bpm": 102,
   "tone": "A minor",
+  "artistPeople": [
+    "Ramón del Castillo"
+  ],
   "backings": [
     "Chus",
     "Gabriel",
@@ -21,16 +20,18 @@
     "Mavi",
     "Tomás"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Kike Santander"
+  ],
+  "broadcaster": "TVE",
   "commentators": [
     "Beatriz Pécker"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Anne Igartiburu",
-  "stageDirector": null,
-  "writers": [
-    "Kike Santander"
-  ]
+  "jury": null,
+  "spokesperson": "Anne Igartiburu"
 }

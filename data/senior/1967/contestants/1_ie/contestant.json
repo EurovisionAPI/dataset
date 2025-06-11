@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Sean Dunphy",
-  "artistPeople": [
-    "Sean Dunphy"
-  ],
   "song": "If I Could Choose",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/KtQ-EYcUnWQ",
@@ -13,19 +9,24 @@
   ],
   "bpm": 94,
   "tone": "F major",
-  "backings": null,
-  "commentators": [
-    "Brendan O'Reilly"
+  "artistPeople": [
+    "Sean Dunphy"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Michael Coffey"
   ],
   "conductor": "Noel Kelehan",
-  "dancers": null,
   "lyricists": [
     "Wesley Burrowes"
   ],
-  "spokesperson": "Gay Byrne",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Brendan O'Reilly"
+  ],
+  "jury": null,
+  "spokesperson": "Gay Byrne"
 }

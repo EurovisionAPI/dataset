@@ -1,12 +1,7 @@
 {
   "id": 6,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Al Bano and Romina Power",
-  "artistPeople": [
-    "Albano Carrisi",
-    "Romina Power"
-  ],
   "song": "Magic, oh magic",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/y0X_tqgeOsg",
@@ -15,24 +10,30 @@
   ],
   "bpm": 87,
   "tone": "C major",
+  "artistPeople": [
+    "Albano Carrisi",
+    "Romina Power"
+  ],
   "backings": [
     "Lalla Francia",
     "Paola Orlandi",
     "Ylenia Carrisi"
   ],
-  "commentators": [
-    "Rosanna Vaudetti"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Dario Farina",
     "Michael Hoffmann"
   ],
   "conductor": "Fiorenzo Zanotti",
-  "dancers": null,
   "lyricists": [
     "Cristiano Minellono"
   ],
-  "spokesperson": "Beatrice Cori",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Rosanna Vaudetti"
+  ],
+  "jury": null,
+  "spokesperson": "Beatrice Cori"
 }

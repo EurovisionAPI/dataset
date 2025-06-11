@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "HU",
-  "broadcaster": "MTV",
   "artist": "Joci Pápai",
-  "artistPeople": [
-    "József Pápai"
-  ],
   "song": "Origo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/hqM0AkP7zcI",
@@ -18,20 +14,25 @@
   ],
   "bpm": 108,
   "tone": "F major",
+  "artistPeople": [
+    "József Pápai"
+  ],
   "backings": null,
+  "dancers": [
+    "Alexandra Virág"
+  ],
+  "stageDirector": "Szabolcs Gyöngyösi",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "József Pápai"
+  ],
+  "broadcaster": "MTV",
   "commentators": [
     "Freddie",
     "Krisztina Rátonyi"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": [
-    "Alexandra Virág"
-  ],
-  "lyricists": null,
-  "spokesperson": "Csilla Tatár",
-  "stageDirector": "Szabolcs Gyöngyösi",
-  "writers": [
-    "József Pápai"
-  ]
+  "jury": null,
+  "spokesperson": "Csilla Tatár"
 }

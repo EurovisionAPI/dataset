@@ -1,19 +1,19 @@
 {
   "id": 36,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Blas Cantó",
-  "artistPeople": [
-    "Blas Cantó Moreno"
-  ],
   "song": "Universo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/zuDdex1st-Y"
   ],
   "bpm": 92,
   "tone": "F major",
+  "artistPeople": [
+    "Blas Cantó Moreno"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ashley Hicklin",
     "Blas Cantó",
@@ -22,9 +22,10 @@
     "Mikołaj Trybulec"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

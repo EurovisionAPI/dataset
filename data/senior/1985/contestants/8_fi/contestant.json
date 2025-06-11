@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Sonja Lumme",
-  "artistPeople": [
-    "Sonja Lumme"
-  ],
   "song": "Eläköön elämä",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/9amsd3WESyY",
@@ -15,25 +11,30 @@
   ],
   "bpm": 138,
   "tone": "D minor",
+  "artistPeople": [
+    "Sonja Lumme"
+  ],
   "backings": [
     "Anita Pajunen",
     "Jokke Seppälä",
     "Kaija Koo",
     "Rele Kosunen"
   ],
-  "commentators": [
-    "Heikki Harma",
-    "Kari Lumikero"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Petri Laaksonen"
   ],
   "conductor": "Ossi Runne",
-  "dancers": null,
   "lyricists": [
     "Veli-Pekka Lehto"
   ],
-  "spokesperson": "Annemi Genetz",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Heikki Harma",
+    "Kari Lumikero"
+  ],
+  "jury": null,
+  "spokesperson": "Annemi Genetz"
 }

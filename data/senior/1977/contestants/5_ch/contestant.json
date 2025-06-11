@@ -1,16 +1,7 @@
 {
   "id": 5,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Pepe Lienhard Band",
-  "artistPeople": [
-    "Bill von Arx",
-    "Christian von Hoffmann",
-    "Georges Walther",
-    "Mostafa Kafa'i Azimi",
-    "Peter Rudolf Lienhard",
-    "Filippo Gasparini"
-  ],
   "song": "Swiss Lady",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3JIa2xNJhm0",
@@ -20,19 +11,29 @@
   ],
   "bpm": 146,
   "tone": "Ab major",
+  "artistPeople": [
+    "Bill von Arx",
+    "Christian von Hoffmann",
+    "Georges Walther",
+    "Mostafa Kafa'i Azimi",
+    "Peter Rudolf Lienhard",
+    "Filippo Gasparini"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Peter Jacques",
+  "lyricists": null,
+  "writers": [
+    "Peter Reber"
+  ],
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Georges Hardy",
     "Giovanni Bertini",
     "Theodor Haller"
   ],
-  "composers": null,
-  "conductor": "Peter Jacques",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Michel Stocker",
-  "stageDirector": null,
-  "writers": [
-    "Peter Reber"
-  ]
+  "jury": null,
+  "spokesperson": "Michel Stocker"
 }

@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Rodolfo Chikilicuatre",
-  "artistPeople": [
-    "David Fernández"
-  ],
   "song": "Baila el Chiki Chiki",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/wfeCIvOxXBo",
@@ -14,12 +10,10 @@
   ],
   "bpm": 97,
   "tone": "F minor",
-  "backings": null,
-  "commentators": [
-    "José Luis Uribarri"
+  "artistPeople": [
+    "David Fernández"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Cecilia López",
     "Disco",
@@ -27,9 +21,10 @@
     "Leticia Martín",
     "María Ángeles Mas"
   ],
-  "lyricists": null,
-  "spokesperson": "Ainhoa Arbizu",
   "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Alberto Romero Tomás",
     "Angel Cotobal Albaina",
@@ -42,5 +37,11 @@
     "Rafel Barceló Figueira",
     "David Fernández",
     "Roger Rubio Mora"
-  ]
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Ainhoa Arbizu"
 }

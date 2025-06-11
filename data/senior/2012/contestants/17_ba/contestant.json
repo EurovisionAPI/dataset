@@ -1,11 +1,7 @@
 {
   "id": 17,
   "country": "BA",
-  "broadcaster": "BHRT",
   "artist": "Maya Sar",
-  "artistPeople": [
-    "Maja Sarihodžić"
-  ],
   "song": "Korake ti znam",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/81hIbZNoFU8",
@@ -15,17 +11,22 @@
   ],
   "bpm": 123,
   "tone": "A major",
+  "artistPeople": [
+    "Maja Sarihodžić"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": "Ahmed Imamović",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Maja Sarihodžić"
+  ],
+  "broadcaster": "BHRT",
   "commentators": [
     "Dejan Kukrić"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Laka",
-  "stageDirector": "Ahmed Imamović",
-  "writers": [
-    "Maja Sarihodžić"
-  ]
+  "jury": null,
+  "spokesperson": "Laka"
 }

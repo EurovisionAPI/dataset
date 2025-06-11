@@ -1,14 +1,7 @@
 {
   "id": 12,
   "country": "YU",
-  "broadcaster": "JRT",
   "artist": "Ivan & M's",
-  "artistPeople": [
-    "Branko Marušić",
-    "Ivica Krajač",
-    "Saša Sablić",
-    "Željko Ružić"
-  ],
   "song": "Pozdrav svijetu",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/eFwChBOOgBY",
@@ -16,19 +9,27 @@
   ],
   "bpm": 121,
   "tone": "C# major",
+  "artistPeople": [
+    "Branko Marušić",
+    "Ivica Krajač",
+    "Saša Sablić",
+    "Željko Ružić"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Miljenko Prohaska",
+  "lyricists": null,
+  "writers": [
+    "Milan Lentić"
+  ],
+  "broadcaster": "JRT",
   "commentators": [
     "Miloje Orlović",
     "Mladen Delić",
     "Tomaž Terček"
   ],
-  "composers": null,
-  "conductor": "Miljenko Prohaska",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Gordana Bonetti",
-  "stageDirector": null,
-  "writers": [
-    "Milan Lentić"
-  ]
+  "jury": null,
+  "spokesperson": "Gordana Bonetti"
 }

@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Jahn Teigen",
-  "artistPeople": [
-    "Jahn Teigen"
-  ],
   "song": "Do re mi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/A4v7za1iLLc",
@@ -15,26 +11,31 @@
   ],
   "bpm": 135,
   "tone": "G major",
+  "artistPeople": [
+    "Jahn Teigen"
+  ],
   "backings": [
     "Anita Skorgan",
     "Kari Mette Aamodt",
     "Nina Both",
     "Siri Lenning Frømyhr"
   ],
-  "commentators": [
-    "Ivar Dyrhaug"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Anita Skorgan",
     "Jahn Teigen"
   ],
   "conductor": "Sigurd Jansen",
-  "dancers": null,
   "lyricists": [
     "Herodes Falsk",
     "Jahn Teigen"
   ],
-  "spokesperson": "Erik Diesen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Ivar Dyrhaug"
+  ],
+  "jury": null,
+  "spokesperson": "Erik Diesen"
 }

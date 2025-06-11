@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Vesa-Matti Loiri",
-  "artistPeople": [
-    "Vesa-Matti Loiri"
-  ],
   "song": "Huilumies",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/LhVSm6LdgqQ",
@@ -14,24 +10,29 @@
   ],
   "bpm": 161,
   "tone": "C# major",
+  "artistPeople": [
+    "Vesa-Matti Loiri"
+  ],
   "backings": [
     "Irina Milan",
     "Maarit Hurmerinta",
     "Martti Metsäketo"
   ],
-  "commentators": [
-    "Aarre Elo",
-    "Heikki Harma"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Aarno Raninen"
   ],
   "conductor": "Ossi Runne",
-  "dancers": null,
   "lyricists": [
     "Veikko 'Vexi' Salmi"
   ],
-  "spokesperson": "Kaarina Pönniö",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aarre Elo",
+    "Heikki Harma"
+  ],
+  "jury": null,
+  "spokesperson": "Kaarina Pönniö"
 }

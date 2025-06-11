@@ -1,13 +1,7 @@
 {
   "id": 31,
   "country": "EE",
-  "broadcaster": "ERR",
   "artist": "Koit Toome & Laura",
-  "artistPeople": [
-    "Koit Toome",
-    "Laura Põldvere",
-    "Laura Remmel"
-  ],
   "song": "Verona",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/NxqPpzWYN1c",
@@ -20,21 +14,28 @@
   ],
   "bpm": 111,
   "tone": "D minor",
+  "artistPeople": [
+    "Koit Toome",
+    "Laura Põldvere",
+    "Laura Remmel"
+  ],
   "backings": [
     "Dagmar Oja",
     "Kaire Vilgats",
     "Rolf Roosalu"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sven Lõhmus"
+  ],
+  "broadcaster": "ERR",
   "commentators": [
     "Marko Reikop"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Jüri Pootsmann",
-  "stageDirector": null,
-  "writers": [
-    "Sven Lõhmus"
-  ]
+  "jury": null,
+  "spokesperson": "Jüri Pootsmann"
 }

@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Arne Bendiksen",
-  "artistPeople": [
-    "Arne Joachim Bendiksen"
-  ],
   "song": "Spiral",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/OQNNzOH2o0g",
@@ -13,19 +9,24 @@
   ],
   "bpm": 144,
   "tone": "Bb major",
-  "backings": null,
-  "commentators": [
-    "Odd Grythe"
+  "artistPeople": [
+    "Arne Joachim Bendiksen"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Sigurd Jansen"
   ],
   "conductor": "Karsten Andersen",
-  "dancers": null,
   "lyricists": [
     "Egil Hagen"
   ],
-  "spokesperson": "Sverre Christophersen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Odd Grythe"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
 }

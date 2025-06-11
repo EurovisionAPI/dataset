@@ -1,14 +1,7 @@
 {
   "id": 14,
   "country": "MK",
-  "broadcaster": "MKRTV",
   "artist": "XXL",
-  "artistPeople": [
-    "Ivona Džamtovska",
-    "Marija Nikolova",
-    "Rosica Nikolovska",
-    "Verica Karanfilovska"
-  ],
   "song": "100% Te Ljubam",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/8QPFSn83Jdk",
@@ -18,23 +11,31 @@
   ],
   "bpm": 110,
   "tone": "G major",
+  "artistPeople": [
+    "Ivona Džamtovska",
+    "Marija Nikolova",
+    "Rosica Nikolovska",
+    "Verica Karanfilovska"
+  ],
   "backings": [
     "Ana Kostova",
     "Emilija Angelova"
   ],
-  "commentators": [
-    "Milanka Rašik"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Dragan Karanfilovski"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Orče Zafirovski",
     "Vlado Janevski"
   ],
-  "spokesperson": "Sandra Todorovska",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Milanka Rašik"
+  ],
+  "jury": null,
+  "spokesperson": "Sandra Todorovska"
 }

@@ -1,11 +1,7 @@
 {
   "id": 20,
   "country": "YU",
-  "broadcaster": "JRT",
   "artist": "Baby Doll",
-  "artistPeople": [
-    "Dragana Šarić"
-  ],
   "song": "Brazil",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/o1bnHiHcHQs",
@@ -16,28 +12,33 @@
   ],
   "bpm": 120,
   "tone": "A major",
+  "artistPeople": [
+    "Dragana Šarić"
+  ],
   "backings": [
     "Aleksandra Kovač",
     "Kristina Kovač"
   ],
-  "commentators": [
-    "Ksenija Urličić",
-    "Miša Molk",
-    "Mladen Popović"
-  ],
-  "composers": [
-    "Zoran Vracević"
-  ],
-  "conductor": "Slobodan Marković",
   "dancers": [
     "Marija Mačić-Tarlać",
     "Ranka",
     "W-Ice"
   ],
+  "stageDirector": null,
+  "composers": [
+    "Zoran Vracević"
+  ],
+  "conductor": "Slobodan Marković",
   "lyricists": [
     "Bebi Dol"
   ],
-  "spokesperson": "Mebrura Topolovac",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Ksenija Urličić",
+    "Miša Molk",
+    "Mladen Popović"
+  ],
+  "jury": null,
+  "spokesperson": "Mebrura Topolovac"
 }

@@ -1,15 +1,7 @@
 {
   "id": 14,
   "country": "DE",
-  "broadcaster": "ARD",
   "artist": "Texas Lightning",
-  "artistPeople": [
-    "Jane Comerford",
-    "Jon Flemming Olsen",
-    "Markus Schmidt",
-    "Olli Dittrich",
-    "Uwe Frenzel"
-  ],
   "song": "No, No, Never",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/IKvPzL1NSSI",
@@ -19,17 +11,26 @@
   ],
   "bpm": 121,
   "tone": "D major",
+  "artistPeople": [
+    "Jane Comerford",
+    "Jon Flemming Olsen",
+    "Markus Schmidt",
+    "Olli Dittrich",
+    "Uwe Frenzel"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jane Comerford"
+  ],
+  "broadcaster": "ARD",
   "commentators": [
     "Peter Urban"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Thomas Hermanns",
-  "stageDirector": null,
-  "writers": [
-    "Jane Comerford"
-  ]
+  "jury": null,
+  "spokesperson": "Thomas Hermanns"
 }

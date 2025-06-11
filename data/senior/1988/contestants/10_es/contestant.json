@@ -1,16 +1,7 @@
 {
   "id": 10,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "La Década",
-  "artistPeople": [
-    "Ana Nery Fragoso López",
-    "Carmelo Martínez López",
-    "Cecilia Fernández Blanco",
-    "José Miguel Gómez Subiza",
-    "Manuel Aguilar",
-    "Manuel Santisteban"
-  ],
   "song": "La chica que yo quiero (Made in Spain)",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/vl4OK6LLkY8",
@@ -20,19 +11,29 @@
   ],
   "bpm": 103,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Beatriz Pécker"
+  "artistPeople": [
+    "Ana Nery Fragoso López",
+    "Carmelo Martínez López",
+    "Cecilia Fernández Blanco",
+    "José Miguel Gómez Subiza",
+    "Manuel Aguilar",
+    "Manuel Santisteban"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Enrique Peiró"
   ],
   "conductor": "Javier de Juan",
-  "dancers": null,
   "lyricists": [
     "Francisco Dondiego"
   ],
-  "spokesperson": "Matilde Jarrín",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Beatriz Pécker"
+  ],
+  "jury": null,
+  "spokesperson": "Matilde Jarrín"
 }

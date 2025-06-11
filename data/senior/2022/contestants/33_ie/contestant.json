@@ -1,11 +1,7 @@
 {
   "id": 33,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Brooke",
-  "artistPeople": [
-    "Brooke Scullion"
-  ],
   "song": "That's Rich",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Kq2AJrWm04s",
@@ -18,24 +14,29 @@
   ],
   "bpm": 123,
   "tone": "A minor",
-  "backings": null,
-  "commentators": [
-    "Marty Whelan"
+  "artistPeople": [
+    "Brooke Scullion"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Amy Ford",
     "Amy Whearity",
     "Lizzy Benham",
     "Sophie Kavanagh"
   ],
-  "lyricists": null,
-  "spokesperson": "Linda Martin",
   "stageDirector": "Emer Walsh",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Brooke Scullion",
     "Izzy Warner",
     "Karl Zine"
-  ]
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Linda Martin"
 }

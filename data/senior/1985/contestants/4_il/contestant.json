@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Izhar Cohen",
-  "artistPeople": [
-    "Izhar Cohen"
-  ],
   "song": "Olé, Olé",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/aQ7dpXL1LJ4",
@@ -16,22 +12,27 @@
   ],
   "bpm": 138,
   "tone": "E minor",
+  "artistPeople": [
+    "Izhar Cohen"
+  ],
   "backings": [
     "Adam (Cris Life)",
     "Rakefet Ben David",
     "Shlomo Maman",
     "Tali Sinai"
   ],
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Kobi Oshrat"
   ],
   "conductor": "Kobi Oshrat",
-  "dancers": null,
   "lyricists": [
     "Hamutal Ben Zeev"
   ],
-  "spokesperson": "Yitzhak Shim'oni",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yitzhak Shim'oni"
 }

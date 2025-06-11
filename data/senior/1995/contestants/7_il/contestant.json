@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Liora",
-  "artistPeople": [
-    "Liora Simone Fadlon"
-  ],
   "song": "Amen",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Gui9JWHsv-M",
@@ -14,6 +10,9 @@
   ],
   "bpm": 163,
   "tone": "B major",
+  "artistPeople": [
+    "Liora Simone Fadlon"
+  ],
   "backings": [
     "Avivit Cohen Dahan",
     "Ayelet Shefi",
@@ -21,16 +20,18 @@
     "Guy Fridman",
     "Nurit Fadlon"
   ],
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Moshe Datz"
   ],
   "conductor": "Gadi Goldman",
-  "dancers": null,
   "lyricists": [
     "Hamutal Ben Zeev"
   ],
-  "spokesperson": "Daniel Pe'er",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Daniel Pe'er"
 }

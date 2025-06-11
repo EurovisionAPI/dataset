@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Sonia",
-  "artistPeople": [
-    "Sonia Evans"
-  ],
   "song": "Better The Devil You Know",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/1P6yTW_70B0",
@@ -15,6 +11,9 @@
   ],
   "bpm": 156,
   "tone": "Bb major",
+  "artistPeople": [
+    "Sonia Evans"
+  ],
   "backings": [
     "Carol Connor-Evans",
     "Mick Wilson",
@@ -22,17 +21,19 @@
     "Pam Sheyne",
     "Pete Adams"
   ],
-  "commentators": [
-    "Terry Wogan"
-  ],
+  "dancers": null,
+  "stageDirector": "Shaun Fernandes",
   "composers": null,
   "conductor": "Nigel Wright",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Colin Berry",
-  "stageDirector": "Shaun Fernandes",
   "writers": [
     "Dean Collinson",
     "Red"
-  ]
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
 }

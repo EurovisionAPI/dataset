@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "NL",
-  "broadcaster": "NTS",
   "artist": "Corry Brokken",
-  "artistPeople": [
-    "Corry Brokken"
-  ],
   "song": "Voorgoed voorbij",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/jI4_Z-OCev4",
@@ -13,17 +9,22 @@
   ],
   "bpm": 128,
   "tone": "Bb major",
+  "artistPeople": [
+    "Corry Brokken"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Fernando Paggi",
+  "lyricists": null,
+  "writers": [
+    "Jelle de Vries"
+  ],
+  "broadcaster": "NTS",
   "commentators": [
     "Piet te Nuyl Jr."
   ],
-  "composers": null,
-  "conductor": "Fernando Paggi",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": [
-    "Jelle de Vries"
-  ]
+  "jury": null,
+  "spokesperson": null
 }

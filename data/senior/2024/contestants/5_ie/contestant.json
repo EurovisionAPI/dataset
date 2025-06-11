@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Bambie Thug",
-  "artistPeople": [
-    "Bambie Ray Robinson"
-  ],
   "song": "Doomsday Blue",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/UMq8ofCstMQ",
@@ -18,22 +14,27 @@
   ],
   "bpm": 130,
   "tone": "Bb minor",
-  "backings": null,
-  "commentators": [
-    "Marty Whelan"
+  "artistPeople": [
+    "Bambie Ray Robinson"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Matt Williams"
   ],
-  "lyricists": null,
-  "spokesperson": "Paul Harrington",
   "stageDirector": "Sergio Jaen",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Bambie Ray Robinson",
     "Olivia Cassy Brooking",
     "Sam Matlock",
     "Tyler Ryder"
-  ]
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Paul Harrington"
 }

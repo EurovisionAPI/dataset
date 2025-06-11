@@ -1,11 +1,7 @@
 {
   "id": 42,
   "country": "IS",
-  "broadcaster": "RÚV",
   "artist": "Ari Ólafsson",
-  "artistPeople": [
-    "Ari Ólafsson"
-  ],
   "song": "Our Choice",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/RQytWeg9CzE",
@@ -18,6 +14,9 @@
   ],
   "bpm": 130,
   "tone": "B major",
+  "artistPeople": [
+    "Ari Ólafsson"
+  ],
   "backings": [
     "Arna Rún Ómarsdóttir",
     "Erla Stefánsdóttir",
@@ -25,16 +24,18 @@
     "Vignir Snær Vigfússon",
     "Þórunn Erna Clausen"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Þórunn Erna Clausen"
+  ],
+  "broadcaster": "RÚV",
   "commentators": [
     "Gísli Marteinn Baldursson"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Edda Sif Pálsdóttir",
-  "stageDirector": null,
-  "writers": [
-    "Þórunn Erna Clausen"
-  ]
+  "jury": null,
+  "spokesperson": "Edda Sif Pálsdóttir"
 }

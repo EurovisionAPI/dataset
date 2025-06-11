@@ -1,11 +1,7 @@
 {
   "id": 30,
   "country": "BE",
-  "broadcaster": "VRT",
   "artist": "Sennek",
-  "artistPeople": [
-    "Laura Groeseneken"
-  ],
   "song": "A Matter of Time",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Z2cZE2gCfWg",
@@ -18,25 +14,30 @@
   ],
   "bpm": 88,
   "tone": "C minor",
+  "artistPeople": [
+    "Laura Groeseneken"
+  ],
   "backings": [
     "Stef Caers",
     "Monique Harcum",
     "Nina Babet"
   ],
+  "dancers": null,
+  "stageDirector": "Hans Pannecoucke",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alex Callier",
+    "Maxime Tribeche",
+    "Laura Groeseneken"
+  ],
+  "broadcaster": "VRT",
   "commentators": [
     "Jean-Louis Lahaye",
     "Maureen Louys",
     "Peter Van de Veire"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Danira Boukhriss Terkessidis",
-  "stageDirector": "Hans Pannecoucke",
-  "writers": [
-    "Alex Callier",
-    "Maxime Tribeche",
-    "Laura Groeseneken"
-  ]
+  "jury": null,
+  "spokesperson": "Danira Boukhriss Terkessidis"
 }

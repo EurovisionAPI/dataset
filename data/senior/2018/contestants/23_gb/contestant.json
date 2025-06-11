@@ -1,11 +1,7 @@
 {
   "id": 23,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "SuRie",
-  "artistPeople": [
-    "Susanna Marie Cork"
-  ],
   "song": "Storm",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/8dmlXBBC6J8",
@@ -18,25 +14,30 @@
   ],
   "bpm": 116,
   "tone": "Bb major",
+  "artistPeople": [
+    "Susanna Marie Cork"
+  ],
   "backings": [
     "Charlotte Churchman",
     "Debby Bracknell",
     "Mark De-Lisser"
   ],
+  "dancers": null,
+  "stageDirector": "Dan Shipton",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Gil Lewis",
+    "Nicole Blair",
+    "Sean Hargreaves"
+  ],
+  "broadcaster": "BBC",
   "commentators": [
     "Graham Norton",
     "Rylan Clark",
     "Scott Mills"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Mel Giedroyc",
-  "stageDirector": "Dan Shipton",
-  "writers": [
-    "Gil Lewis",
-    "Nicole Blair",
-    "Sean Hargreaves"
-  ]
+  "jury": null,
+  "spokesperson": "Mel Giedroyc"
 }

@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "EE",
-  "broadcaster": "ERR",
   "artist": "Birgit",
-  "artistPeople": [
-    "Birgit Õigemeel"
-  ],
   "song": "Et uus saaks alguse",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Ooo6GvZNLhI",
@@ -18,24 +14,29 @@
   ],
   "bpm": 155,
   "tone": "F major",
+  "artistPeople": [
+    "Birgit Õigemeel"
+  ],
   "backings": [
     "Kaido Põldma",
     "Lauri Pihlap",
     "Raimondo Laikre"
   ],
-  "commentators": [
-    "Marko Reikop"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Mihkel Mattisen"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Mihkel Mattisen",
     "Silvia Soro"
   ],
-  "spokesperson": "Rolf Roosalu",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Rolf Roosalu"
 }

@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "DE",
-  "broadcaster": "ARD",
   "artist": "Conny Froboess",
-  "artistPeople": [
-    "Cornelia Froboess"
-  ],
   "song": "Zwei kleine Italiener",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/0WbQwg7SyMU",
@@ -16,19 +12,24 @@
   ],
   "bpm": 105,
   "tone": "Eb major",
-  "backings": null,
-  "commentators": [
-    "Ruth Kappelsberger"
+  "artistPeople": [
+    "Cornelia Froboess"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Christian Bruhn"
   ],
   "conductor": "Rolf-Hans Müller",
-  "dancers": null,
   "lyricists": [
     "Georg Buschor"
   ],
-  "spokesperson": "Klaus Havenstein",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Ruth Kappelsberger"
+  ],
+  "jury": null,
+  "spokesperson": "Klaus Havenstein"
 }

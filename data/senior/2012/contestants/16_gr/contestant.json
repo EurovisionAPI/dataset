@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "GR",
-  "broadcaster": "ERT",
   "artist": "Eleftheria Eleftheriou",
-  "artistPeople": [
-    "Eleftheria Eleftheriou"
-  ],
   "song": "Aphrodisiac",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/NreIi8ma_PY",
@@ -16,26 +12,31 @@
   ],
   "bpm": 110,
   "tone": "E minor",
+  "artistPeople": [
+    "Eleftheria Eleftheriou"
+  ],
   "backings": [
     "Victoria Halkiti"
   ],
-  "commentators": [
-    "Maria Kozakou"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Giorgos Papadopoulos",
     "Jenia Evgenios Buli",
     "Sissy Baxevanaki",
     "Sofia Micy"
   ],
-  "lyricists": null,
-  "spokesperson": "Andrianna Maggania",
   "stageDirector": "Konstantinos Rigos, Nick Marianos",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Dajana Lööf",
     "Dimitri Stassos",
     "Mikaela Stenström"
-  ]
+  ],
+  "broadcaster": "ERT",
+  "commentators": [
+    "Maria Kozakou"
+  ],
+  "jury": null,
+  "spokesperson": "Andrianna Maggania"
 }

@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "GE",
-  "broadcaster": "GPB",
   "artist": "Sopho",
-  "artistPeople": [
-    "Sophiko Khalvashi"
-  ],
   "song": "Visionary Dream",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/EHImNpPta7M",
@@ -16,20 +12,25 @@
   ],
   "bpm": 122,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Sandro Gabisonia",
-    "Sopho Altunishvili"
+  "artistPeople": [
+    "Sophiko Khalvashi"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Beqa Jafaridze"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Bibi Kvachadze"
   ],
-  "spokesperson": "Neli Agirba",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "GPB",
+  "commentators": [
+    "Sandro Gabisonia",
+    "Sopho Altunishvili"
+  ],
+  "jury": null,
+  "spokesperson": "Neli Agirba"
 }

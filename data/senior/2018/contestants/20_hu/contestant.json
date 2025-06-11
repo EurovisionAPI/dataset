@@ -1,15 +1,7 @@
 {
   "id": 20,
   "country": "HU",
-  "broadcaster": "MTV",
   "artist": "AWS",
-  "artistPeople": [
-    "Áron Veress",
-    "Bence Brucker",
-    "Dániel Kökényes",
-    "Örs Siklósi",
-    "Soma Schiszler"
-  ],
   "song": "Viszlát nyár",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/p6e1TmYb33w",
@@ -22,13 +14,18 @@
   ],
   "bpm": 164,
   "tone": "Eb minor",
+  "artistPeople": [
+    "Áron Veress",
+    "Bence Brucker",
+    "Dániel Kökényes",
+    "Örs Siklósi",
+    "Soma Schiszler"
+  ],
   "backings": [
     "David Schwartz"
   ],
-  "commentators": [
-    "Freddie",
-    "Krisztina Rátonyi"
-  ],
+  "dancers": null,
+  "stageDirector": "Szabolcs Gyöngyösi",
   "composers": [
     "Áron Veress",
     "Bence Brucker",
@@ -36,11 +33,15 @@
     "Soma Schiszler"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Örs Siklósi"
   ],
-  "spokesperson": "Bence Forró",
-  "stageDirector": "Szabolcs Gyöngyösi",
-  "writers": null
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "Freddie",
+    "Krisztina Rátonyi"
+  ],
+  "jury": null,
+  "spokesperson": "Bence Forró"
 }

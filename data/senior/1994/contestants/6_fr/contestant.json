@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "FR",
-  "broadcaster": "FT2",
   "artist": "Nina Morato",
-  "artistPeople": [
-    "Stéphanie Morato"
-  ],
   "song": "Je suis un vrai garçon",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/1bi0_NItoao",
@@ -13,21 +9,26 @@
   ],
   "bpm": 115,
   "tone": "A major",
+  "artistPeople": [
+    "Stéphanie Morato"
+  ],
   "backings": [
     "Mathieu Chedid"
   ],
-  "commentators": [
-    "Patrice Laffont"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Bruno Maman"
   ],
   "conductor": "Alain Goraguer",
-  "dancers": null,
   "lyricists": [
     "Nina Morato"
   ],
-  "spokesperson": "Laurent Romejko",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "FT2",
+  "commentators": [
+    "Patrice Laffont"
+  ],
+  "jury": null,
+  "spokesperson": "Laurent Romejko"
 }

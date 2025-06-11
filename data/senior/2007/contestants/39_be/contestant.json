@@ -1,15 +1,7 @@
 {
   "id": 39,
   "country": "BE",
-  "broadcaster": "RTBF",
   "artist": "The KMG's",
-  "artistPeople": [
-    "Tuan N'Guyen",
-    "François Cremer",
-    "Raphaël Hallez",
-    "Piotr Paluch",
-    "Wakas Ashiq"
-  ],
   "song": "Love Power",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/qUK7lx0TSAI",
@@ -17,24 +9,33 @@
   ],
   "bpm": 130,
   "tone": "C major",
+  "artistPeople": [
+    "Tuan N'Guyen",
+    "François Cremer",
+    "Raphaël Hallez",
+    "Piotr Paluch",
+    "Wakas Ashiq"
+  ],
   "backings": [
     "Lady Soulflower"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Paul Curtiz"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Paul Curtiz",
+    "Sexyfire"
+  ],
+  "writers": null,
+  "broadcaster": "RTBF",
   "commentators": [
     "André Vermeulen",
     "Jean-Louis Lahaye",
     "Jean-Pierre Hautier"
   ],
-  "composers": [
-    "Paul Curtiz"
-  ],
-  "conductor": null,
-  "dancers": null,
-  "lyricists": [
-    "Paul Curtiz",
-    "Sexyfire"
-  ],
-  "spokesperson": "Maureen Louys",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Maureen Louys"
 }

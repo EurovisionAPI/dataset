@@ -1,13 +1,7 @@
 {
   "id": 15,
   "country": "BE",
-  "broadcaster": "BRT",
   "artist": "Clouseau",
-  "artistPeople": [
-    "Robert Savenberg",
-    "Koen Wauters",
-    "Kris Wauters"
-  ],
   "song": "Geef Het Op",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/lPq4lGJAemI",
@@ -17,25 +11,32 @@
   ],
   "bpm": 135,
   "tone": "E major",
+  "artistPeople": [
+    "Robert Savenberg",
+    "Koen Wauters",
+    "Kris Wauters"
+  ],
   "backings": [
     "Jan Leyers",
     "Karel Theys",
     "Paul Poelmans"
   ],
-  "commentators": [
-    "André Vermeulen",
-    "Claude Delacroix"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Roland Verloven",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Anne Ploegaerts",
-  "stageDirector": null,
   "writers": [
     "Bob Savenberg",
     "Jan Leyers",
     "Koen Wauters",
     "Kris Wauters"
-  ]
+  ],
+  "broadcaster": "BRT",
+  "commentators": [
+    "André Vermeulen",
+    "Claude Delacroix"
+  ],
+  "jury": null,
+  "spokesperson": "Anne Ploegaerts"
 }

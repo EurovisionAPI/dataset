@@ -1,12 +1,7 @@
 {
   "id": 16,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Dollie de Luxe",
-  "artistPeople": [
-    "Benedicte Adrian",
-    "Ingrid Bjørnov"
-  ],
   "song": "Lenge leve livet",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/e7fLpKM13w4",
@@ -16,22 +11,28 @@
   ],
   "bpm": 143,
   "tone": "F major",
+  "artistPeople": [
+    "Benedicte Adrian",
+    "Ingrid Bjørnov"
+  ],
   "backings": [
     "Håkon Iversen",
     "Kari Gjærum",
     "Per Øystein Sørensen"
   ],
-  "commentators": [
-    "Roald Øyen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Sigurd Jansen",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Egil Teige",
-  "stageDirector": null,
   "writers": [
     "Benedicte Adrian",
     "Ingrid Bjørnov"
-  ]
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Roald Øyen"
+  ],
+  "jury": null,
+  "spokesperson": "Egil Teige"
 }

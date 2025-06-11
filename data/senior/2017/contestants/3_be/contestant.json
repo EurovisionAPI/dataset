@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "BE",
-  "broadcaster": "RTBF",
   "artist": "Blanche",
-  "artistPeople": [
-    "Ellie Delvaux"
-  ],
   "song": "City Lights",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/oxsCmChDYwA",
@@ -18,26 +14,31 @@
   ],
   "bpm": 130,
   "tone": "C minor",
+  "artistPeople": [
+    "Ellie Delvaux"
+  ],
   "backings": [
     "Jess Peet",
     "Susanna Marie Cork"
   ],
-  "commentators": [
-    "Jean-Louis Lahaye",
-    "Maureen Louys",
-    "Peter Van de Veire"
-  ],
+  "dancers": null,
+  "stageDirector": "Jean-Jacques Marotte",
   "composers": [
     "Emmanuel Delcourt",
     "Pierre Dumoulin"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Blanche",
     "Pierre Dumoulin"
   ],
-  "spokesperson": "Fanny Gillard",
-  "stageDirector": "Jean-Jacques Marotte",
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Jean-Louis Lahaye",
+    "Maureen Louys",
+    "Peter Van de Veire"
+  ],
+  "jury": null,
+  "spokesperson": "Fanny Gillard"
 }

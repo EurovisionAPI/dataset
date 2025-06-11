@@ -1,11 +1,7 @@
 {
   "id": 35,
   "country": "RO",
-  "broadcaster": "TVR",
   "artist": "Theodor Andrei",
-  "artistPeople": [
-    "Theodor Octavian Andrei"
-  ],
   "song": "D.G.T. (Off and On)",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Bf3iPXU1RYU",
@@ -18,27 +14,32 @@
   ],
   "bpm": 110,
   "tone": "A minor",
-  "backings": null,
-  "commentators": [
-    "Bogdan Stănescu",
-    "Kyrie Mendel"
+  "artistPeople": [
+    "Theodor Octavian Andrei"
   ],
+  "backings": null,
+  "dancers": [
+    "Diana Colea"
+  ],
+  "stageDirector": null,
   "composers": [
     "Luca Udățeanu",
     "Theodor Andrei",
     "Xjahed"
   ],
   "conductor": null,
-  "dancers": [
-    "Diana Colea"
-  ],
   "lyricists": [
     "Luca De Mezzo",
     "Luca Udățeanu",
     "Theodor Andrei",
     "Xjahed"
   ],
-  "spokesperson": "Eda Marcus",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": [
+    "Bogdan Stănescu",
+    "Kyrie Mendel"
+  ],
+  "jury": null,
+  "spokesperson": "Eda Marcus"
 }

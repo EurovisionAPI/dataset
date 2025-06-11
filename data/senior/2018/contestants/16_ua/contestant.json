@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "UA",
-  "broadcaster": "UA:PBC",
   "artist": "Mélovin",
-  "artistPeople": [
-    "Kostyantyn Mykolayovych Bocharov (Костянти́н Микола́йович Бочаро́в)"
-  ],
   "song": "Under The Ladder",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/lhOuMYtQ94M",
@@ -18,12 +14,26 @@
   ],
   "bpm": 140,
   "tone": "Eb minor",
+  "artistPeople": [
+    "Kostyantyn Mykolayovych Bocharov (Костянти́н Микола́йович Бочаро́в)"
+  ],
   "backings": [
     "Dasha Ptashnik",
     "Denis Nadyozhin",
     "Konstantin Sologub",
     "Luiza Kazaryan"
   ],
+  "dancers": null,
+  "stageDirector": "Kostiantyn Tomilchenko, Oleksandr Bratkovskyi",
+  "composers": [
+    "Kostyantyn Mykolayovych Bocharov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Mike Ryals"
+  ],
+  "writers": null,
+  "broadcaster": "UA:PBC",
   "commentators": [
     "Alyosha",
     "Jamala",
@@ -31,15 +41,6 @@
     "Serhiy Prytula",
     "Timur Miroshnychenko"
   ],
-  "composers": [
-    "Kostyantyn Mykolayovych Bocharov"
-  ],
-  "conductor": null,
-  "dancers": null,
-  "lyricists": [
-    "Mike Ryals"
-  ],
-  "spokesperson": "Nata Zhyzhchenko",
-  "stageDirector": "Kostiantyn Tomilchenko, Oleksandr Bratkovskyi",
-  "writers": null
+  "jury": null,
+  "spokesperson": "Nata Zhyzhchenko"
 }

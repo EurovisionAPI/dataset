@@ -1,13 +1,7 @@
 {
   "id": 2,
   "country": "MD",
-  "broadcaster": "TRM",
   "artist": "Sunstroke Project",
-  "artistPeople": [
-    "Sergei Yalovitsky",
-    "Anton Ragoza",
-    "Sergey Stepanov"
-  ],
   "song": "Hey Mamma",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/SWaQdHoCvYk",
@@ -20,14 +14,18 @@
   ],
   "bpm": 110,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Sergei Yalovitsky",
+    "Anton Ragoza",
+    "Sergey Stepanov"
+  ],
   "backings": [
     "Catarina Sandu",
     "Dana Markitan",
     "Helena Abegaz"
   ],
-  "commentators": [
-    "Gloria Gorceag"
-  ],
+  "dancers": null,
+  "stageDirector": "Maru Petrova",
   "composers": [
     "Anton Ragoza",
     "Mihail Cebotarenco",
@@ -35,11 +33,14 @@
     "Sergey Stepanov"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Alina Galetskaya"
   ],
-  "spokesperson": "Gloria Gorceag",
-  "stageDirector": "Maru Petrova",
-  "writers": null
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Gloria Gorceag"
+  ],
+  "jury": null,
+  "spokesperson": "Gloria Gorceag"
 }

@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Shiri Maymon",
-  "artistPeople": [
-    "Shiri Maimon"
-  ],
   "song": "Hasheket shenish'ar",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/MyChlzTADQY",
@@ -14,6 +10,9 @@
   ],
   "bpm": 150,
   "tone": "F minor",
+  "artistPeople": [
+    "Shiri Maimon"
+  ],
   "backings": [
     "Anastasia Kozakov",
     "Eyal Mezig",
@@ -21,18 +20,20 @@
     "Renana Cohen",
     "Yael Shachar"
   ],
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Pini Aaronbayev"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Ben Green",
     "Eyal Shahar",
     "Pini Aaronbayev"
   ],
-  "spokesperson": "Dana Herman",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Dana Herman"
 }

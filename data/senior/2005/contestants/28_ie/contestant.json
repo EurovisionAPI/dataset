@@ -1,12 +1,7 @@
 {
   "id": 28,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Donna & Joseph McCaul",
-  "artistPeople": [
-    "Donna McCaul",
-    "Joseph McCaul"
-  ],
   "song": "Love?",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/J9CHcqe7xro",
@@ -14,22 +9,28 @@
   ],
   "bpm": 140,
   "tone": "F# minor",
+  "artistPeople": [
+    "Donna McCaul",
+    "Joseph McCaul"
+  ],
   "backings": [
     "Alana Murrin",
     "Clare Ivory",
     "Donna Bissett",
     "Linzi Cowap"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Karl Broderick"
+  ],
+  "broadcaster": "RTÉ",
   "commentators": [
     "Marty Whelan"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Dana",
-  "stageDirector": null,
-  "writers": [
-    "Karl Broderick"
-  ]
+  "jury": null,
+  "spokesperson": "Dana"
 }

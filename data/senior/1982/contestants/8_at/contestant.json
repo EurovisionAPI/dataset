@@ -1,12 +1,7 @@
 {
   "id": 8,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Mess",
-  "artistPeople": [
-    "Elisabeth 'Lizzy' Engstler",
-    "Michael Scheikl"
-  ],
   "song": "Sonntag",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/VcdgXIyWZMc",
@@ -17,19 +12,25 @@
   ],
   "bpm": 156,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "Ernst Grissemann"
+  "artistPeople": [
+    "Elisabeth 'Lizzy' Engstler",
+    "Michael Scheikl"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Michael Mell"
   ],
   "conductor": "Richard Österreicher",
-  "dancers": null,
   "lyricists": [
     "Rudolf Leve"
   ],
-  "spokesperson": "Tilia Herold",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
 }

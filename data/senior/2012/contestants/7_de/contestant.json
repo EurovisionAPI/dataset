@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "DE",
-  "broadcaster": "NDR",
   "artist": "Roman Lob",
-  "artistPeople": [
-    "Roman Lob"
-  ],
   "song": "Standing Still",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/cScJPH20P3A",
@@ -15,24 +11,29 @@
   ],
   "bpm": 108,
   "tone": "Eb major",
+  "artistPeople": [
+    "Roman Lob"
+  ],
   "backings": [
     "Alexander Linster",
     "Marc Awounou",
     "Thomas Fietz",
     "Tobias Schmitz"
   ],
-  "commentators": [
-    "Peter Urban"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Anke Engelke",
-  "stageDirector": null,
   "writers": [
     "Jamie Cullum",
     "Steve Robson",
     "Wayne Hector"
-  ]
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Anke Engelke"
 }

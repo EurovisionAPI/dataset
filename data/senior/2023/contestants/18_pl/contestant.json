@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "PL",
-  "broadcaster": "TVP",
   "artist": "Blanka",
-  "artistPeople": [
-    "Blanka Stajkow"
-  ],
   "song": "Solo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/SEgF1aP-U1o",
@@ -18,13 +14,19 @@
   ],
   "bpm": 99,
   "tone": "B minor",
+  "artistPeople": [
+    "Blanka Stajkow"
+  ],
   "backings": [
     "Maria Broberg"
   ],
-  "commentators": [
-    "Aleksander Sikora",
-    "Marek Sierocki"
+  "dancers": [
+    "Bruno Duarte",
+    "Maja Rolewska",
+    "Oliwier Kondrat",
+    "Paulina Maciejewska"
   ],
+  "stageDirector": "Mikołaj Dobrowolski",
   "composers": [
     "Bartłomiej Rzeczycki",
     "Blanka Stajkow",
@@ -33,18 +35,17 @@
     "Mikołaj Trybulec"
   ],
   "conductor": null,
-  "dancers": [
-    "Bruno Duarte",
-    "Maja Rolewska",
-    "Oliwier Kondrat",
-    "Paulina Maciejewska"
-  ],
   "lyricists": [
     "Blanka Stajkow",
     "Julia Sundberg",
     "Maria Broberg"
   ],
-  "spokesperson": "Ida Nowakowska",
-  "stageDirector": "Mikołaj Dobrowolski",
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Aleksander Sikora",
+    "Marek Sierocki"
+  ],
+  "jury": null,
+  "spokesperson": "Ida Nowakowska"
 }

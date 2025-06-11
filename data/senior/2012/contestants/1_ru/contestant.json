@@ -1,16 +1,7 @@
 {
   "id": 1,
   "country": "RU",
-  "broadcaster": "RTR",
   "artist": "Buranovskiye Babushki",
-  "artistPeople": [
-    "Ekaterina Shklyaeva",
-    "Galina Koneva",
-    "Granya Baysarova",
-    "Natalia Pugachova",
-    "Olga Tuktaryova",
-    "Valentina Pyatchenko"
-  ],
   "song": "Party For Everybody",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/BgUstrmJzyc",
@@ -20,22 +11,32 @@
   ],
   "bpm": 126,
   "tone": "C minor",
-  "backings": null,
-  "commentators": [
-    "Dmitry Guberniev",
-    "Olga Shelest"
+  "artistPeople": [
+    "Ekaterina Shklyaeva",
+    "Galina Koneva",
+    "Granya Baysarova",
+    "Natalia Pugachova",
+    "Olga Tuktaryova",
+    "Valentina Pyatchenko"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Sergey Shirokov",
   "composers": [
     "Timofei Leontiev",
     "Viktor Drobysh"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Mary Susan Applegate",
     "Olga Tuktaryova"
   ],
-  "spokesperson": "Oxana Fedorova",
-  "stageDirector": "Sergey Shirokov",
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTR",
+  "commentators": [
+    "Dmitry Guberniev",
+    "Olga Shelest"
+  ],
+  "jury": null,
+  "spokesperson": "Oxana Fedorova"
 }

@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "MC",
-  "broadcaster": "TMC",
   "artist": "François Deguelt",
-  "artistPeople": [
-    "Louis Deghelt"
-  ],
   "song": "Ce soir-là",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/AMi5qpBbSVw",
@@ -13,19 +9,24 @@
   ],
   "bpm": 97,
   "tone": "E minor",
-  "backings": null,
-  "commentators": [
-    "Pierre Tchernia"
+  "artistPeople": [
+    "Louis Deghelt"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Hubert Giraud"
   ],
   "conductor": "Raymond Lefèvre",
-  "dancers": null,
   "lyricists": [
     "Pierre Dorsey"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

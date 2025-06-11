@@ -1,14 +1,7 @@
 {
   "id": 2,
   "country": "BA",
-  "broadcaster": "BHRT",
   "artist": "Hari Mata Hari",
-  "artistPeople": [
-    "Hajrudin Varešanović",
-    "Izudin 'Izo' Kolečić",
-    "Karlo Martinović",
-    "Nihad Voloder"
-  ],
   "song": "Lejla",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/SXlIN3mcsH4",
@@ -16,23 +9,31 @@
   ],
   "bpm": 91,
   "tone": "F# minor",
+  "artistPeople": [
+    "Hajrudin Varešanović",
+    "Izudin 'Izo' Kolečić",
+    "Karlo Martinović",
+    "Nihad Voloder"
+  ],
   "backings": [
     "Ivana Čabraja",
     "Ksenija Milošević"
   ],
-  "commentators": [
-    "Dejan Kukrić"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Željko Joksimović"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Dejan Ivanović",
     "Fahrudin Pecikoza-Peca"
   ],
-  "spokesperson": "Vesna Andrée-Zaimović",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BHRT",
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "jury": null,
+  "spokesperson": "Vesna Andrée-Zaimović"
 }

@@ -6,11 +6,11 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1988.png",
+  "broadcasters": [
+    "RTÉ"
+  ],
   "presenters": [
     "Pat Kenny",
     "Michelle Rocca"
-  ],
-  "broadcasters": [
-    "RTÉ"
   ]
 }

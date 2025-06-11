@@ -1,14 +1,7 @@
 {
   "id": 0,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Milk and Honey",
-  "artistPeople": [
-    "Gali Atari",
-    "Reuven Gvirtz",
-    "Shmulik Bilu",
-    "Yehuda Tamir"
-  ],
   "song": "Hallelujah",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/w4D_taYMVP8",
@@ -19,19 +12,27 @@
   ],
   "bpm": 141,
   "tone": "B major",
-  "backings": null,
-  "commentators": [
-    "Yoram Arbel"
+  "artistPeople": [
+    "Gali Atari",
+    "Reuven Gvirtz",
+    "Shmulik Bilu",
+    "Yehuda Tamir"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Kobi Oshrat"
   ],
   "conductor": "Kobi Oshrat",
-  "dancers": null,
   "lyricists": [
     "Shimrit Orr"
   ],
-  "spokesperson": "Dan Kaner",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": [
+    "Yoram Arbel"
+  ],
+  "jury": null,
+  "spokesperson": "Dan Kaner"
 }

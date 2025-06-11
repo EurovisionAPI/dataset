@@ -1,13 +1,7 @@
 {
   "id": 5,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Chocolate, Menta, Mastik",
-  "artistPeople": [
-    "Leah Lupatin",
-    "Ruti Holzman",
-    "Yardena Feinbaum-Arazi"
-  ],
   "song": "Emor Shalom",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/TG4TRrNA_5I",
@@ -18,17 +12,24 @@
   ],
   "bpm": 99,
   "tone": "C minor",
+  "artistPeople": [
+    "Leah Lupatin",
+    "Ruti Holzman",
+    "Yardena Feinbaum-Arazi"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Matti Caspi"
   ],
   "conductor": "Matti Caspi",
-  "dancers": null,
   "lyricists": [
     "Ehud Manor"
   ],
-  "spokesperson": "Yitzhak Shim'oni",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yitzhak Shim'oni"
 }

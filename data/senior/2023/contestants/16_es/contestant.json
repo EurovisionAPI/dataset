@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Blanca Paloma",
-  "artistPeople": [
-    "Blanca Paloma Ramos Baeza"
-  ],
   "song": "Eaea",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Vw6qPWhjevk",
@@ -18,13 +14,10 @@
   ],
   "bpm": 116,
   "tone": "F minor",
-  "backings": null,
-  "commentators": [
-    "Julia Varela",
-    "Tony Aguilar"
+  "artistPeople": [
+    "Blanca Paloma Ramos Baeza"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Angelica Moyano",
     "Desire Paredes",
@@ -32,12 +25,20 @@
     "Paula Valbuena Rivera",
     "Saray Frutos"
   ],
-  "lyricists": null,
-  "spokesperson": "Ruth Lorenzo",
   "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Álvaro Tato",
     "Blanca Paloma",
     "José Pablo Polo"
-  ]
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Julia Varela",
+    "Tony Aguilar"
+  ],
+  "jury": null,
+  "spokesperson": "Ruth Lorenzo"
 }

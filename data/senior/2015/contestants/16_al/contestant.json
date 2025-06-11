@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "AL",
-  "broadcaster": "RTSH",
   "artist": "Elhaida Dani",
-  "artistPeople": [
-    "Elhaida Dani"
-  ],
   "song": "I'm Alive",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/fsH9iVaZSaA",
@@ -18,24 +14,29 @@
   ],
   "bpm": 155,
   "tone": "E major",
+  "artistPeople": [
+    "Elhaida Dani"
+  ],
   "backings": [
     "Erga Halilaj",
     "Gerona Hyska",
     "Olsa Papandili"
   ],
-  "commentators": [
-    "Andri Xhahu"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Chris",
     "Zzap"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Sokol Marsi"
   ],
-  "spokesperson": "Andri Xhahu",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": null,
+  "spokesperson": "Andri Xhahu"
 }

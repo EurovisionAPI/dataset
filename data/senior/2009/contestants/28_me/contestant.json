@@ -1,11 +1,7 @@
 {
   "id": 28,
   "country": "ME",
-  "broadcaster": "RTCG",
   "artist": "Andrea Demirović",
-  "artistPeople": [
-    "Andrea Demirović"
-  ],
   "song": "Just Get Out of My Life",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/kaDW_BWgQQE",
@@ -13,25 +9,30 @@
   ],
   "bpm": 137,
   "tone": "G minor",
+  "artistPeople": [
+    "Andrea Demirović"
+  ],
   "backings": [
     "Ariana Roth",
     "Katrin Schild von Spannenberg",
     "Nikola Tomašević",
     "Peter Bischof"
   ],
-  "commentators": [
-    "Dražen Bauković",
-    "Tamara Ivanković"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Jovana Vukčević",
-  "stageDirector": null,
   "writers": [
     "Bernd Meinunger",
     "José Juan Santana Rodriguez",
     "Peter Match"
-  ]
+  ],
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Dražen Bauković",
+    "Tamara Ivanković"
+  ],
+  "jury": null,
+  "spokesperson": "Jovana Vukčević"
 }

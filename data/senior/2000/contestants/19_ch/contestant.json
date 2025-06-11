@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Jane Bogaert",
-  "artistPeople": [
-    "Jane Bogaert"
-  ],
   "song": "La vita cos'è?",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/1_zIxfrknKU",
@@ -14,25 +10,30 @@
   ],
   "bpm": 147,
   "tone": "F# major",
+  "artistPeople": [
+    "Jane Bogaert"
+  ],
   "backings": [
     "Al Bano",
     "Lesley Bogaert"
   ],
-  "commentators": [
-    "Jean-Marc Richard",
-    "Jonathan Tedesco",
-    "Sandra Studer"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Bernie Staub",
     "Brigitte Schöb"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Thomas Marin"
   ],
-  "spokesperson": "Astrid Von Stockar",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Jean-Marc Richard",
+    "Jonathan Tedesco",
+    "Sandra Studer"
+  ],
+  "jury": null,
+  "spokesperson": "Astrid Von Stockar"
 }

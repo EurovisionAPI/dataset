@@ -1,12 +1,7 @@
 {
   "id": 24,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Waldo's People",
-  "artistPeople": [
-    "Karoliina Kallio",
-    "Marko Reijonen"
-  ],
   "song": "Lose Control",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/D-Wr0z1_quw",
@@ -16,31 +11,37 @@
   ],
   "bpm": 138,
   "tone": "A major",
+  "artistPeople": [
+    "Karoliina Kallio",
+    "Marko Reijonen"
+  ],
   "backings": [
     "Kasmir Jolma",
     "Manna Borg",
     "Niko Virtanen",
     "Päivi Virkkunen"
   ],
-  "commentators": [
-    "Asko Murtomäki",
-    "Jaana Pelkonen",
-    "Mikko Peltola",
-    "Tobias Larsson"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ari Erik Veikko Lehtonen",
     "Karima"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Annie Kratz-Gutå",
     "Ari Erik Veikko Lehtonen",
     "Karima",
     "Waldo"
   ],
-  "spokesperson": "Jari Sillanpää",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Asko Murtomäki",
+    "Jaana Pelkonen",
+    "Mikko Peltola",
+    "Tobias Larsson"
+  ],
+  "jury": null,
+  "spokesperson": "Jari Sillanpää"
 }

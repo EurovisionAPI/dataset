@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "FR",
-  "broadcaster": "TF1",
   "artist": "Nicole Rieu",
-  "artistPeople": [
-    "Nicole Rieu"
-  ],
   "song": "Et bonjour à toi l'artiste",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/exd-6ev_Ja4",
@@ -17,18 +13,23 @@
   ],
   "bpm": 140,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Georges de Caunes"
+  "artistPeople": [
+    "Nicole Rieu"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Jean Musy",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Michel Drucker",
-  "stageDirector": null,
   "writers": [
     "Jaff Barnel",
     "Pierre Delanoë"
-  ]
+  ],
+  "broadcaster": "TF1",
+  "commentators": [
+    "Georges de Caunes"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Drucker"
 }

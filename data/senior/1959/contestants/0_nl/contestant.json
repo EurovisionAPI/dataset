@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "NL",
-  "broadcaster": "NTS",
   "artist": "Teddy Scholten",
-  "artistPeople": [
-    "Dorothea Margaretha 'Teddy' Scholten (née van Zwieteren)"
-  ],
   "song": "Een beetje",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/JYU-XdnDQ-U",
@@ -15,19 +11,24 @@
   ],
   "bpm": 139,
   "tone": "C minor",
-  "backings": null,
-  "commentators": [
-    "Piet te Nuyl Jr."
+  "artistPeople": [
+    "Dorothea Margaretha 'Teddy' Scholten (née van Zwieteren)"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Dick Schallies"
   ],
   "conductor": "Dolf van der Linden",
-  "dancers": null,
   "lyricists": [
     "Willy van Hemert"
   ],
-  "spokesperson": "Siebe van der Zee",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NTS",
+  "commentators": [
+    "Piet te Nuyl Jr."
+  ],
+  "jury": null,
+  "spokesperson": "Siebe van der Zee"
 }

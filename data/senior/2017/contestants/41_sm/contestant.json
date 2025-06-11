@@ -1,12 +1,7 @@
 {
   "id": 41,
   "country": "SM",
-  "broadcaster": "SMRTV",
   "artist": "Valentina Monetta & Jimmie Wilson",
-  "artistPeople": [
-    "Jimmie Wilson",
-    "Valentina Monetta"
-  ],
   "song": "Spirit Of The Night",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/UC7QzXPnt6k",
@@ -17,25 +12,31 @@
   ],
   "bpm": 140,
   "tone": "D major",
+  "artistPeople": [
+    "Jimmie Wilson",
+    "Valentina Monetta"
+  ],
   "backings": [
     "Erin Perry Spiller",
     "Giuseppe Tyrolean",
     "Meredith Murray Mezzullo"
   ],
-  "commentators": [
-    "Gigi Restivo",
-    "Lia Fiorio"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ralph Siegel"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Jutta Staudenmayer",
     "Steven Barnacle"
   ],
-  "spokesperson": "Gigi Restivo, Lia Fiorio",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Gigi Restivo",
+    "Lia Fiorio"
+  ],
+  "jury": null,
+  "spokesperson": "Gigi Restivo, Lia Fiorio"
 }

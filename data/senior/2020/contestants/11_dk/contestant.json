@@ -1,12 +1,7 @@
 {
   "id": 11,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Ben & Tan",
-  "artistPeople": [
-    "Benjamin Rosenbohm",
-    "Tanne Amanda Balcells"
-  ],
   "song": "Yes",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/XQ5tMhQIp1E",
@@ -14,17 +9,23 @@
   ],
   "bpm": 118,
   "tone": "F minor",
+  "artistPeople": [
+    "Benjamin Rosenbohm",
+    "Tanne Amanda Balcells"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Emil Lei",
     "Jimmy Jansson",
     "Linnea Deb"
-  ]
+  ],
+  "broadcaster": "DR",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

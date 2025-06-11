@@ -1,11 +1,7 @@
 {
   "id": 25,
   "country": "SI",
-  "broadcaster": "RTVSLO",
   "artist": "Omar Naber",
-  "artistPeople": [
-    "Omar Kareem Naber"
-  ],
   "song": "Stop",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/qUTIYik9cRA",
@@ -13,22 +9,27 @@
   ],
   "bpm": 150,
   "tone": "E minor",
+  "artistPeople": [
+    "Omar Kareem Naber"
+  ],
   "backings": [
     "Teja Saksida"
   ],
-  "commentators": [
-    "Mojca Mavec"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Omar Naber",
     "Urša Vlašič"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Omar Naber"
   ],
-  "spokesperson": "Katarina Čas",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Mojca Mavec"
+  ],
+  "jury": null,
+  "spokesperson": "Katarina Čas"
 }

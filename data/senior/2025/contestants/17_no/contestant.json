@@ -1,11 +1,7 @@
 {
   "id": 17,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Kyle Alessandro",
-  "artistPeople": [
-    "Kyle Alessandro Helgesen Villalobos"
-  ],
   "song": "Lighter",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/gQOGxx6Fk9k",
@@ -18,25 +14,30 @@
   ],
   "bpm": 105,
   "tone": "D minor",
+  "artistPeople": [
+    "Kyle Alessandro Helgesen Villalobos"
+  ],
   "backings": [
     "Frode Vassel",
     "Sondrey"
   ],
-  "commentators": [
-    "Marte Stokstad"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Daniel Grindeland",
     "Oliver Paulsson",
     "Reno Andersen"
   ],
-  "lyricists": null,
-  "spokesperson": "Tom Hugo",
   "stageDirector": "Mona Berntsen",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Adam Woods",
     "Kyle Alessandro"
-  ]
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Marte Stokstad"
+  ],
+  "jury": null,
+  "spokesperson": "Tom Hugo"
 }

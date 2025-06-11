@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "FR",
-  "broadcaster": "A2F",
   "artist": "Joelle Ursull",
-  "artistPeople": [
-    "Joëlle Ursull"
-  ],
   "song": "White and Black Blues",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/IPqSSLcefCs",
@@ -14,21 +10,26 @@
   ],
   "bpm": 98,
   "tone": "B major",
+  "artistPeople": [
+    "Joëlle Ursull"
+  ],
   "backings": [
     "Jean-Yves Bikialo"
   ],
-  "commentators": [
-    "Richard Adaridi"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Georges Ougier de Moussac"
   ],
   "conductor": "Régis Dupré",
-  "dancers": null,
   "lyricists": [
     "Serge Gainsbourg"
   ],
-  "spokesperson": "Valérie Maurice",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "A2F",
+  "commentators": [
+    "Richard Adaridi"
+  ],
+  "jury": null,
+  "spokesperson": "Valérie Maurice"
 }

@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "DE",
-  "broadcaster": "NDR",
   "artist": "Alex Swings Oscar Sings!",
-  "artistPeople": [
-    "Oscar Loya"
-  ],
   "song": "Miss Kiss Kiss Bang",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/veeOUiB6ojk",
@@ -14,22 +10,27 @@
   ],
   "bpm": 136,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Oscar Loya"
+  ],
   "backings": [
     "Alex Christensen"
   ],
-  "commentators": [
-    "Tim Frühling"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Dita Von Teese"
   ],
-  "lyricists": null,
-  "spokesperson": "Thomas Anders",
   "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Alex Christensen",
     "Steffen Hafelinger"
-  ]
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Tim Frühling"
+  ],
+  "jury": null,
+  "spokesperson": "Thomas Anders"
 }

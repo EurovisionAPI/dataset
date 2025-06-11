@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Katri Helena",
-  "artistPeople": [
-    "Katri Helena Kalaoja"
-  ],
   "song": "Katson sineen taivaan",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/nlABB3fv46U",
@@ -16,24 +12,29 @@
   ],
   "bpm": 123,
   "tone": "A major",
+  "artistPeople": [
+    "Katri Helena Kalaoja"
+  ],
   "backings": [
     "Aimo Jaara",
     "Kalle Fält",
     "Paula Nurminen",
     "Vesa Enne"
   ],
-  "commentators": [
-    "Anja-Maija Leppänen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Matti Kalevi Siitonen"
   ],
   "conductor": "Ossi Runne",
-  "dancers": null,
   "lyricists": [
     "Veikko 'Vexi' Salmi"
   ],
-  "spokesperson": "Kaarina Pönniö",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Anja-Maija Leppänen"
+  ],
+  "jury": null,
+  "spokesperson": "Kaarina Pönniö"
 }

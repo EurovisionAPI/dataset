@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "CY",
-  "broadcaster": "CyBC",
   "artist": "Andrew Lambrou",
-  "artistPeople": [
-    "Andrew Lambrou"
-  ],
   "song": "Break a Broken Heart",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/49YiimKeyDI",
@@ -18,21 +14,26 @@
   ],
   "bpm": 130,
   "tone": "Eb minor",
-  "backings": null,
-  "commentators": [
-    "Alexandros Taramountas",
-    "Melina Karageorgiou"
+  "artistPeople": [
+    "Andrew Lambrou"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann, Ross Nicholson",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Loukas Hamatsos",
-  "stageDirector": "Marvin Dietmann, Ross Nicholson",
   "writers": [
     "Jimmy Jansson",
     "Jimmy Joker",
     "Marcus Winther-John",
     "Thomas Stengaard"
-  ]
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Alexandros Taramountas",
+    "Melina Karageorgiou"
+  ],
+  "jury": null,
+  "spokesperson": "Loukas Hamatsos"
 }

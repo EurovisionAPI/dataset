@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "2016-05-12",
   "time": "20:00:00",
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 330,
           "votes": {
             "AL": 16,
             "BY": 15,
@@ -36,6 +36,7 @@
         },
         {
           "name": "public",
+          "points": 142,
           "votes": {
             "AL": 6,
             "BY": 7,
@@ -61,6 +62,7 @@
         },
         {
           "name": "jury",
+          "points": 188,
           "votes": {
             "AL": 10,
             "BY": 8,
@@ -93,6 +95,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 287,
           "votes": {
             "AL": 10,
             "AU": 3,
@@ -118,6 +121,7 @@
         },
         {
           "name": "public",
+          "points": 152,
           "votes": {
             "AL": 5,
             "AU": 3,
@@ -143,6 +147,7 @@
         },
         {
           "name": "jury",
+          "points": 135,
           "votes": {
             "AL": 5,
             "AU": 0,
@@ -175,6 +180,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 274,
           "votes": {
             "AL": 8,
             "AU": 24,
@@ -200,6 +206,7 @@
         },
         {
           "name": "public",
+          "points": 135,
           "votes": {
             "AL": 8,
             "AU": 12,
@@ -225,6 +232,7 @@
         },
         {
           "name": "jury",
+          "points": 139,
           "votes": {
             "AL": 0,
             "AU": 12,
@@ -257,6 +265,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 222,
           "votes": {
             "AL": 4,
             "AU": 15,
@@ -282,6 +291,7 @@
         },
         {
           "name": "public",
+          "points": 118,
           "votes": {
             "AL": 4,
             "AU": 8,
@@ -307,6 +317,7 @@
         },
         {
           "name": "jury",
+          "points": 104,
           "votes": {
             "AL": 0,
             "AU": 7,
@@ -339,6 +350,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 220,
           "votes": {
             "AL": 14,
             "AU": 18,
@@ -364,6 +376,7 @@
         },
         {
           "name": "public",
+          "points": 122,
           "votes": {
             "AL": 7,
             "AU": 10,
@@ -389,6 +402,7 @@
         },
         {
           "name": "jury",
+          "points": 98,
           "votes": {
             "AL": 7,
             "AU": 8,
@@ -421,6 +435,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 151,
           "votes": {
             "AL": 2,
             "AU": 0,
@@ -446,6 +461,7 @@
         },
         {
           "name": "public",
+          "points": 131,
           "votes": {
             "AL": 0,
             "AU": 0,
@@ -471,6 +487,7 @@
         },
         {
           "name": "jury",
+          "points": 20,
           "votes": {
             "AL": 2,
             "AU": 0,
@@ -503,6 +520,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 147,
           "votes": {
             "AL": 4,
             "AU": 16,
@@ -528,6 +546,7 @@
         },
         {
           "name": "public",
+          "points": 20,
           "votes": {
             "AL": 0,
             "AU": 6,
@@ -553,6 +572,7 @@
         },
         {
           "name": "jury",
+          "points": 127,
           "votes": {
             "AL": 4,
             "AU": 10,
@@ -585,6 +605,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 132,
           "votes": {
             "AL": 1,
             "AU": 5,
@@ -610,6 +631,7 @@
         },
         {
           "name": "public",
+          "points": 68,
           "votes": {
             "AL": 0,
             "AU": 5,
@@ -635,6 +657,7 @@
         },
         {
           "name": "jury",
+          "points": 64,
           "votes": {
             "AL": 1,
             "AU": 0,
@@ -667,6 +690,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 123,
           "votes": {
             "AL": 0,
             "AU": 0,
@@ -692,6 +716,7 @@
         },
         {
           "name": "public",
+          "points": 39,
           "votes": {
             "AL": 0,
             "AU": 0,
@@ -717,6 +742,7 @@
         },
         {
           "name": "jury",
+          "points": 84,
           "votes": {
             "AL": 0,
             "AU": 0,
@@ -749,6 +775,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 105,
           "votes": {
             "AL": 8,
             "AU": 5,
@@ -774,6 +801,7 @@
         },
         {
           "name": "public",
+          "points": 50,
           "votes": {
             "AL": 0,
             "AU": 2,
@@ -799,6 +827,7 @@
         },
         {
           "name": "jury",
+          "points": 55,
           "votes": {
             "AL": 8,
             "AU": 3,
@@ -831,6 +860,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 88,
           "votes": {
             "AL": 24,
             "AU": 6,
@@ -856,6 +886,7 @@
         },
         {
           "name": "public",
+          "points": 54,
           "votes": {
             "AL": 12,
             "AU": 4,
@@ -881,6 +912,7 @@
         },
         {
           "name": "jury",
+          "points": 34,
           "votes": {
             "AL": 12,
             "AU": 2,
@@ -913,6 +945,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 84,
           "votes": {
             "AL": 0,
             "AU": 6,
@@ -938,6 +971,7 @@
         },
         {
           "name": "public",
+          "points": 52,
           "votes": {
             "AL": 0,
             "AU": 0,
@@ -963,6 +997,7 @@
         },
         {
           "name": "jury",
+          "points": 32,
           "votes": {
             "AL": 0,
             "AU": 6,
@@ -995,6 +1030,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 63,
           "votes": {
             "AL": 10,
             "AU": 5,
@@ -1020,6 +1056,7 @@
         },
         {
           "name": "public",
+          "points": 34,
           "votes": {
             "AL": 10,
             "AU": 0,
@@ -1045,6 +1082,7 @@
         },
         {
           "name": "jury",
+          "points": 29,
           "votes": {
             "AL": 0,
             "AU": 5,
@@ -1077,6 +1115,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 57,
           "votes": {
             "AL": 7,
             "AU": 4,
@@ -1102,6 +1141,7 @@
         },
         {
           "name": "public",
+          "points": 8,
           "votes": {
             "AL": 1,
             "AU": 0,
@@ -1127,6 +1167,7 @@
         },
         {
           "name": "jury",
+          "points": 49,
           "votes": {
             "AL": 6,
             "AU": 4,
@@ -1159,6 +1200,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 46,
           "votes": {
             "AL": 0,
             "AU": 7,
@@ -1184,6 +1226,7 @@
         },
         {
           "name": "public",
+          "points": 31,
           "votes": {
             "AL": 0,
             "AU": 7,
@@ -1209,6 +1252,7 @@
         },
         {
           "name": "jury",
+          "points": 15,
           "votes": {
             "AL": 0,
             "AU": 0,
@@ -1241,6 +1285,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 45,
           "votes": {
             "AU": 0,
             "BY": 0,
@@ -1266,6 +1311,7 @@
         },
         {
           "name": "public",
+          "points": 35,
           "votes": {
             "AU": 0,
             "BY": 0,
@@ -1291,6 +1337,7 @@
         },
         {
           "name": "jury",
+          "points": 10,
           "votes": {
             "AU": 0,
             "BY": 0,
@@ -1323,6 +1370,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 34,
           "votes": {
             "AL": 5,
             "AU": 1,
@@ -1348,6 +1396,7 @@
         },
         {
           "name": "public",
+          "points": 24,
           "votes": {
             "AL": 2,
             "AU": 1,
@@ -1373,6 +1422,7 @@
         },
         {
           "name": "jury",
+          "points": 10,
           "votes": {
             "AL": 3,
             "AU": 0,
@@ -1405,6 +1455,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 28,
           "votes": {
             "AL": 3,
             "AU": 1,
@@ -1430,6 +1481,7 @@
         },
         {
           "name": "public",
+          "points": 3,
           "votes": {
             "AL": 3,
             "AU": 0,
@@ -1455,6 +1507,7 @@
         },
         {
           "name": "jury",
+          "points": 25,
           "votes": {
             "AL": 0,
             "AU": 1,

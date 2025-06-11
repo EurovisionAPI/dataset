@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Nathan Trent",
-  "artistPeople": [
-    "Nathanaele Koll-Valsassina"
-  ],
   "song": "Running On Air",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/gJIjZF5sgzg",
@@ -18,23 +14,28 @@
   ],
   "bpm": 90,
   "tone": "A major",
+  "artistPeople": [
+    "Nathanaele Koll-Valsassina"
+  ],
   "backings": [
     "Artem Murach",
     "Florian Fitz",
     "Helena de Maertelaere",
     "Vincent Bueno"
   ],
-  "commentators": [
-    "Andi Knoll"
-  ],
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Kristina Inhof",
-  "stageDirector": "Marvin Dietmann",
   "writers": [
     "Bernhard Penzias",
     "Nathan Trent"
-  ]
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Kristina Inhof"
 }

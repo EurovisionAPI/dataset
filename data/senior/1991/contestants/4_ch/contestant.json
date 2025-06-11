@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Sandra Simó",
-  "artistPeople": [
-    "Sandra Studer"
-  ],
   "song": "Canzone per te",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/vC881n7Rk2c",
@@ -14,24 +10,29 @@
   ],
   "bpm": 127,
   "tone": "Eb major",
+  "artistPeople": [
+    "Sandra Studer"
+  ],
   "backings": [
     "Antonella Melone",
     "Paola Repele",
     "Renzo Meneghinello",
     "Ricky Belloni"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Flaviano Cuffari",
+  "lyricists": null,
+  "writers": [
+    "Renato Mascetti"
+  ],
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Bernard Thurnheer",
     "Emanuela Gaggini",
     "Lolita Morena"
   ],
-  "composers": null,
-  "conductor": "Flaviano Cuffari",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Michel Stocker",
-  "stageDirector": null,
-  "writers": [
-    "Renato Mascetti"
-  ]
+  "jury": null,
+  "spokesperson": "Michel Stocker"
 }

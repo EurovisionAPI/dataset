@@ -1,11 +1,7 @@
 {
   "id": 28,
   "country": "LT",
-  "broadcaster": "LRT",
   "artist": "Jurij Veklenko",
-  "artistPeople": [
-    "Jurijus Veklenko"
-  ],
   "song": "Run with the Lions",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5Nb3HMzsfZY",
@@ -18,6 +14,9 @@
   ],
   "bpm": 156,
   "tone": "F major",
+  "artistPeople": [
+    "Jurijus Veklenko"
+  ],
   "backings": [
     "Algė Matekūnaitė",
     "Berta Timinskaitė",
@@ -25,19 +24,21 @@
     "Justina Budaitė",
     "Silvija Pankūnaitė"
   ],
-  "commentators": [
-    "Darius Užkuraitis",
-    "Gerūta Griniūtė"
-  ],
+  "dancers": null,
+  "stageDirector": "Povilas Varvuolis",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Giedrius Masalskis",
-  "stageDirector": "Povilas Varvuolis",
   "writers": [
     "Ashley Hicklin",
     "Eric Lumiere",
     "Pele Loriano"
-  ]
+  ],
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis",
+    "Gerūta Griniūtė"
+  ],
+  "jury": null,
+  "spokesperson": "Giedrius Masalskis"
 }

@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "IS",
-  "broadcaster": "RÚV",
   "artist": "Hera Björk",
-  "artistPeople": [
-    "Hera Björk Þórhallsdóttir"
-  ],
   "song": "Je ne sais quoi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/qXLqw4UpJ1w",
@@ -16,6 +12,9 @@
   ],
   "bpm": 132,
   "tone": "Eb major",
+  "artistPeople": [
+    "Hera Björk Þórhallsdóttir"
+  ],
   "backings": [
     "Erna Hrönn Ólafsdóttir",
     "Heiða Ólafsdóttir",
@@ -23,17 +22,19 @@
     "Kristjana Stefánsdóttir",
     "Pétur Örn Guðmundsson"
   ],
-  "commentators": [
-    "Sigmar Guðmundsson"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Jóhanna Guðrún Jónsdóttir",
-  "stageDirector": null,
   "writers": [
     "Hera Björk Þórhallsdóttir",
     "Örlygur Smári"
-  ]
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Sigmar Guðmundsson"
+  ],
+  "jury": null,
+  "spokesperson": "Jóhanna Guðrún Jónsdóttir"
 }

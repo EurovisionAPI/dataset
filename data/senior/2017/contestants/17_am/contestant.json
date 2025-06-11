@@ -1,11 +1,7 @@
 {
   "id": 17,
   "country": "AM",
-  "broadcaster": "AMPTV",
   "artist": "Artsvik",
-  "artistPeople": [
-    "Artsvik Arutyunyan"
-  ],
   "song": "Fly With Me",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/g373Libigw8",
@@ -19,29 +15,34 @@
   ],
   "bpm": 90,
   "tone": "A minor",
+  "artistPeople": [
+    "Artsvik Arutyunyan"
+  ],
   "backings": [
     "Amaliya Margaryan",
     "Anushik Ter-Ghukasyan",
     "Viktoria Pogosyan"
   ],
-  "commentators": [
-    "Avet Barseghyan",
-    "Gohar Gasparyan"
+  "dancers": [
+    "Fanny Svensson",
+    "Marlene Lindahl"
   ],
+  "stageDirector": "Sacha Jean-Baptiste",
   "composers": [
     "Levon Navasardyan",
     "Lilith Navasardyan"
   ],
   "conductor": null,
-  "dancers": [
-    "Fanny Svensson",
-    "Marlene Lindahl"
-  ],
   "lyricists": [
     "Avet Barseghyan",
     "David Tserunyan"
   ],
-  "spokesperson": "Iveta Mukuchyan",
-  "stageDirector": "Sacha Jean-Baptiste",
-  "writers": null
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Avet Barseghyan",
+    "Gohar Gasparyan"
+  ],
+  "jury": null,
+  "spokesperson": "Iveta Mukuchyan"
 }

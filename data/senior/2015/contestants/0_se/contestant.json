@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Måns Zelmerlöw",
-  "artistPeople": [
-    "Måns Zelmerlöw"
-  ],
   "song": "Heroes",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5sGOwFVUU0I",
@@ -18,6 +14,9 @@
   ],
   "bpm": 124,
   "tone": "C# major",
+  "artistPeople": [
+    "Måns Zelmerlöw"
+  ],
   "backings": [
     "Alexander Holmgren",
     "Britta Bergström",
@@ -25,19 +24,21 @@
     "Linnea Deb",
     "Micke Blomqvist"
   ],
-  "commentators": [
-    "Edward af Sillén",
-    "Sanna Nielsen"
-  ],
+  "dancers": null,
+  "stageDirector": "David Nordström, Fredrik Rydman",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Mariette",
-  "stageDirector": "David Nordström, Fredrik Rydman",
   "writers": [
     "Anton Hård af Segerstad",
     "Joy Deb",
     "Linnea Deb"
-  ]
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Edward af Sillén",
+    "Sanna Nielsen"
+  ],
+  "jury": null,
+  "spokesperson": "Mariette"
 }

@@ -1,13 +1,7 @@
 {
   "id": 21,
   "country": "CZ",
-  "broadcaster": "ČT",
   "artist": "We Are Domi",
-  "artistPeople": [
-    "Benjamin Rekstad",
-    "Casper Hatlestad",
-    "Dominika Hašková"
-  ],
   "song": "Lights Off",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/EGRzSefqOm0",
@@ -18,12 +12,16 @@
   ],
   "bpm": 126,
   "tone": "A minor",
+  "artistPeople": [
+    "Benjamin Rekstad",
+    "Casper Hatlestad",
+    "Dominika Hašková"
+  ],
   "backings": [
     "Nikol Držmíšková"
   ],
-  "commentators": [
-    "Jan Maxián"
-  ],
+  "dancers": null,
+  "stageDirector": "Vítek Bělohradský",
   "composers": [
     "Abi F Jones",
     "Benjamin Rekstad",
@@ -32,13 +30,16 @@
     "Einar Eriksen Kvaløy"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Abi F Jones",
     "Benjamin Rekstad",
     "Dominika Hasek"
   ],
-  "spokesperson": "Taťána Kuchařová",
-  "stageDirector": "Vítek Bělohradský",
-  "writers": null
+  "writers": null,
+  "broadcaster": "ČT",
+  "commentators": [
+    "Jan Maxián"
+  ],
+  "jury": null,
+  "spokesperson": "Taťána Kuchařová"
 }

@@ -1,11 +1,7 @@
 {
   "id": 21,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Diodato",
-  "artistPeople": [
-    "Antonio Diodato"
-  ],
   "song": "Fai rumore",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/TA57rugucwk",
@@ -15,16 +11,21 @@
   ],
   "bpm": 143,
   "tone": "F# major",
+  "artistPeople": [
+    "Antonio Diodato"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Antonio Diodato",
     "Edwyn Roberts"
-  ]
+  ],
+  "broadcaster": "RAI",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

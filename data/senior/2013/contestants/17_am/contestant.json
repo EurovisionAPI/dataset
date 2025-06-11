@@ -1,15 +1,7 @@
 {
   "id": 17,
   "country": "AM",
-  "broadcaster": "AMPTV",
   "artist": "Dorians",
-  "artistPeople": [
-    "Arman Jalalyan",
-    "Arman Pahlevanyan",
-    "Edgar Sahakyan",
-    "Gagik Khodavirdi",
-    "Gor Sujyan"
-  ],
   "song": "Lonely Planet",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/UGOSZ7Uufno",
@@ -17,22 +9,31 @@
   ],
   "bpm": 162,
   "tone": "F# major",
+  "artistPeople": [
+    "Arman Jalalyan",
+    "Arman Pahlevanyan",
+    "Edgar Sahakyan",
+    "Gagik Khodavirdi",
+    "Gor Sujyan"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tony Iommi"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Vardan Zadoyan"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
   "commentators": [
     "André",
     "Anna Avanesyan",
     "Arevik Udumyan",
     "Erik Antaranyan"
   ],
-  "composers": [
-    "Tony Iommi"
-  ],
-  "conductor": null,
-  "dancers": null,
-  "lyricists": [
-    "Vardan Zadoyan"
-  ],
-  "spokesperson": "André",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "André"
 }

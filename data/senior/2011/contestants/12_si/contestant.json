@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "SI",
-  "broadcaster": "RTVSLO",
   "artist": "Maja Keuc",
-  "artistPeople": [
-    "Amaya"
-  ],
   "song": "No One",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/NNP3nfvoqps",
@@ -17,24 +13,29 @@
   ],
   "bpm": 178,
   "tone": "F minor",
+  "artistPeople": [
+    "Amaya"
+  ],
   "backings": [
     "Ana Bezjak",
     "Katja Koren",
     "Martina Majerle",
     "Sandra Feketija"
   ],
-  "commentators": [
-    "Andrej Hofer"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Matjaž Vlašič"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Urša Vlašič"
   ],
-  "spokesperson": "Klemen Slakonja",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "jury": null,
+  "spokesperson": "Klemen Slakonja"
 }

@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "TR",
-  "broadcaster": "TRT",
   "artist": "Tuba Önal & Mystik",
-  "artistPeople": [
-    "Tuğba Önal"
-  ],
   "song": "Dön artık",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/11niYpARszM",
@@ -15,6 +11,9 @@
   ],
   "bpm": 120,
   "tone": "C minor",
+  "artistPeople": [
+    "Tuğba Önal"
+  ],
   "backings": [
     "Aysun Sökmen",
     "Bike Baran",
@@ -22,18 +21,20 @@
     "Tuncay Arığ",
     "Uğur Erdoğan"
   ],
-  "commentators": [
-    "Gülşah Banda"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Erdinç Tunç"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Canan Tunç"
   ],
-  "spokesperson": "Osman Erkan",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Gülşah Banda"
+  ],
+  "jury": null,
+  "spokesperson": "Osman Erkan"
 }

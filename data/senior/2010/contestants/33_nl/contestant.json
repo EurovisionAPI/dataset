@@ -1,11 +1,7 @@
 {
   "id": 33,
   "country": "NL",
-  "broadcaster": "TROS",
   "artist": "Sieneke",
-  "artistPeople": [
-    "Sieneke Peeters"
-  ],
   "song": "Ik Ben Verliefd (Sha-la-lie)",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/HdA2SsM3BLI",
@@ -13,6 +9,9 @@
   ],
   "bpm": 162,
   "tone": "A minor",
+  "artistPeople": [
+    "Sieneke Peeters"
+  ],
   "backings": [
     "Floor van der Poort",
     "Kelly ter Horst",
@@ -20,17 +19,19 @@
     "Wiesje Westerlaken",
     "Yvette Keijzers"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Pierre Kartner"
+  ],
+  "broadcaster": "TROS",
   "commentators": [
     "Cornald Maas",
     "Daniël Dekker"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Yolanthe Sneijder-Cabau",
-  "stageDirector": null,
-  "writers": [
-    "Pierre Kartner"
-  ]
+  "jury": null,
+  "spokesperson": "Yolanthe Sneijder-Cabau"
 }

@@ -1,11 +1,7 @@
 {
   "id": 32,
   "country": "BG",
-  "broadcaster": "BNT",
   "artist": "Kaffe",
-  "artistPeople": [
-    "Orlin Orlinov Pavlov"
-  ],
   "song": "Lorraine",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/l6rnAKD1QuU",
@@ -15,6 +11,9 @@
   ],
   "bpm": 148,
   "tone": "G major",
+  "artistPeople": [
+    "Orlin Orlinov Pavlov"
+  ],
   "backings": [
     "Georgi Yanev",
     "Martin Tashev",
@@ -22,20 +21,22 @@
     "Valeri Tsenkov",
     "Vesselin Vesselinov-Eko"
   ],
-  "commentators": [
-    "Elena Rosberg",
-    "Georgi Kushvaliev"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Vesselin Vesselinov-Eko"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Orlin Pavlov",
     "Vesselin Vesselinov-Eko"
   ],
-  "spokesperson": "Evgenia Atanasova",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BNT",
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "jury": null,
+  "spokesperson": "Evgenia Atanasova"
 }

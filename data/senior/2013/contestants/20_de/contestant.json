@@ -1,11 +1,7 @@
 {
   "id": 20,
   "country": "DE",
-  "broadcaster": "NDR",
   "artist": "Cascada",
-  "artistPeople": [
-    "Natalie Horler"
-  ],
   "song": "Glorious",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3HYTd7WDCPg",
@@ -15,23 +11,28 @@
   ],
   "bpm": 128,
   "tone": "Eb major",
+  "artistPeople": [
+    "Natalie Horler"
+  ],
   "backings": [
     "Elli Azuro",
     "Rayla Sunshine"
   ],
-  "commentators": [
-    "Peter Urban"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Lena Meyer-Landrut",
-  "stageDirector": null,
   "writers": [
     "Andres Ballinas",
     "Manuel Reuter",
     "Tony Cornelissen",
     "Yann Peifer"
-  ]
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Lena Meyer-Landrut"
 }

@@ -1,11 +1,7 @@
 {
   "id": 32,
   "country": "CZ",
-  "broadcaster": "ČT",
   "artist": "Martina Bárta",
-  "artistPeople": [
-    "Martina Bárta"
-  ],
   "song": "My Turn",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-KT8_ZOHAXE",
@@ -17,25 +13,30 @@
   ],
   "bpm": 86,
   "tone": "G major",
+  "artistPeople": [
+    "Martina Bárta"
+  ],
   "backings": [
     "Marta Kloučková",
     "Michal Strnad",
     "Štěpán Janoušek",
     "Veronika Vitová"
   ],
-  "commentators": [
-    "Libor Bouček"
-  ],
+  "dancers": null,
+  "stageDirector": "Jan Potměšil",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Radka Rosická",
-  "stageDirector": "Jan Potměšil",
   "writers": [
     "Greig Watts",
     "Kyler Niko",
     "Paul Drew",
     "Pete Barringer"
-  ]
+  ],
+  "broadcaster": "ČT",
+  "commentators": [
+    "Libor Bouček"
+  ],
+  "jury": null,
+  "spokesperson": "Radka Rosická"
 }

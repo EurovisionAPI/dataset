@@ -1,11 +1,7 @@
 {
   "id": 30,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Emmy",
-  "artistPeople": [
-    "Emmy Kristine Guttulsrud Kristiansen"
-  ],
   "song": "Laika Party",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3MB628Kanzo",
@@ -18,28 +14,33 @@
   ],
   "bpm": 132,
   "tone": "D minor",
+  "artistPeople": [
+    "Emmy Kristine Guttulsrud Kristiansen"
+  ],
   "backings": [
     "Erlend Guttulsrud Kristiansen"
   ],
-  "commentators": [
-    "Marty Whelan"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Christiane Bergersen",
     "Karin Aaeng Stuge",
     "Kristiane Lindvik",
     "Vilde Skorstad"
   ],
-  "lyricists": null,
-  "spokesperson": "Nicky Byrne",
   "stageDirector": "Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Emmy Kristine Guttulsrud Kristiansen",
     "Erlend Guttulsrud Kristiansen",
     "Henrik Østlund",
     "Larissa Tormey",
     "Truls Marius Aarra"
-  ]
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Nicky Byrne"
 }

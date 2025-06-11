@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Katrina and The Waves",
-  "artistPeople": [
-    "Katrina Leskanich"
-  ],
   "song": "Love Shine A Light",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/KwLBCKA5-ls",
@@ -15,20 +11,25 @@
   ],
   "bpm": 166,
   "tone": "C major",
+  "artistPeople": [
+    "Katrina Leskanich"
+  ],
   "backings": [
     "Beverley Skeete",
     "Miriam Stockley"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Don Airey",
+  "lyricists": null,
+  "writers": [
+    "Kimberley Rew"
+  ],
+  "broadcaster": "BBC",
   "commentators": [
     "Terry Wogan"
   ],
-  "composers": null,
-  "conductor": "Don Airey",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Colin Berry",
-  "stageDirector": null,
-  "writers": [
-    "Kimberley Rew"
-  ]
+  "jury": null,
+  "spokesperson": "Colin Berry"
 }

@@ -1,13 +1,7 @@
 {
   "id": 40,
   "country": "EE",
-  "broadcaster": "ERR",
   "artist": "Kreisiraadio",
-  "artistPeople": [
-    "Hannes Võrno",
-    "Peeter Oja",
-    "Tarmo Leinatamm"
-  ],
   "song": "Leto svet",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/zyzOGzXWLgU",
@@ -19,25 +13,32 @@
   ],
   "bpm": 132,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Hannes Võrno",
+    "Peeter Oja",
+    "Tarmo Leinatamm"
+  ],
   "backings": [
     "Kauna Kõrge-Hårajuvet",
     "Laura Lambut",
     "Merit Reigam"
   ],
-  "commentators": [
-    "Marko Reikop"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Sahlene",
-  "stageDirector": null,
   "writers": [
     "Glen Pilvre",
     "Hannes Võrno",
     "Peeter Oja",
     "Priit Pajusaar",
     "Tarmo Leinatamm"
-  ]
+  ],
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Sahlene"
 }

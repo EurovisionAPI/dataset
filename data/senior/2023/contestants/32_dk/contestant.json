@@ -1,11 +1,7 @@
 {
   "id": 32,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Reiley",
-  "artistPeople": [
-    "Rani Petersen"
-  ],
   "song": "Breaking My Heart",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/XVZvzZF1JOk",
@@ -18,20 +14,25 @@
   ],
   "bpm": 98,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Nicolai Molbech"
+  "artistPeople": [
+    "Rani Petersen"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Tina Müller",
-  "stageDirector": null,
   "writers": [
     "Bård Mathias Bonsaksen",
     "Hilda Stenmalm",
     "Reiley",
     "Sivert Hjeltnes Hagtvet"
-  ]
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Nicolai Molbech"
+  ],
+  "jury": null,
+  "spokesperson": "Tina Müller"
 }

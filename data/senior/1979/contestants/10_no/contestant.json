@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Anita Skorgan",
-  "artistPeople": [
-    "Anita Skorgan"
-  ],
   "song": "Oliver",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/dz-BbMIm8JY",
@@ -15,6 +11,9 @@
   ],
   "bpm": 127,
   "tone": "C major",
+  "artistPeople": [
+    "Anita Skorgan"
+  ],
   "backings": [
     "George Keller",
     "Helge Lindemann",
@@ -22,18 +21,20 @@
     "Kristian Lindemann",
     "Wenche Hallan"
   ],
-  "commentators": [
-    "Egil Teige"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Anita Skorgan"
   ],
   "conductor": "Sigurd Jansen",
-  "dancers": null,
   "lyricists": [
     "Philip A. Kruse"
   ],
-  "spokesperson": "Sverre Christophersen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Egil Teige"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
 }

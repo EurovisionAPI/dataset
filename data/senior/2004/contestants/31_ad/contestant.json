@@ -1,11 +1,7 @@
 {
   "id": 31,
   "country": "AD",
-  "broadcaster": "RTVA",
   "artist": "Marta Roure",
-  "artistPeople": [
-    "Marta Roure Besolí"
-  ],
   "song": "Jugarem A Estimar-nos",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/918qUY0ORE4",
@@ -15,18 +11,23 @@
   ],
   "bpm": 132,
   "tone": "F# major",
+  "artistPeople": [
+    "Marta Roure Besolí"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jofre Bardagí"
+  ],
+  "broadcaster": "RTVA",
   "commentators": [
     "Josep Lluís Trabal",
     "Meri Picart"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Pati Molné",
-  "stageDirector": null,
-  "writers": [
-    "Jofre Bardagí"
-  ]
+  "jury": null,
+  "spokesperson": "Pati Molné"
 }

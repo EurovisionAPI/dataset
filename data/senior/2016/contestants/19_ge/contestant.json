@@ -1,14 +1,7 @@
 {
   "id": 19,
   "country": "GE",
-  "broadcaster": "GPB",
   "artist": "Nika Kocharov & Young Georgian Lolitaz",
-  "artistPeople": [
-    "Nika Kocharov",
-    "Dimitri Oganesian",
-    "Giorgi Marr",
-    "Levan Shanshiashvili"
-  ],
   "song": "Midnight Gold",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/rviE2-9eiTI",
@@ -20,23 +13,31 @@
   ],
   "bpm": 127,
   "tone": "A minor",
+  "artistPeople": [
+    "Nika Kocharov",
+    "Dimitri Oganesian",
+    "Giorgi Marr",
+    "Levan Shanshiashvili"
+  ],
   "backings": [
     "Lars Säfsund"
   ],
-  "commentators": [
-    "Nika Katsia",
-    "Tuta Chkheidze"
-  ],
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
   "composers": [
     "Kote Kalandadze",
     "Thomas G:son"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Kote Kalandadze"
   ],
-  "spokesperson": "Nina Sublatti",
-  "stageDirector": "Sacha Jean-Baptiste",
-  "writers": null
+  "writers": null,
+  "broadcaster": "GPB",
+  "commentators": [
+    "Nika Katsia",
+    "Tuta Chkheidze"
+  ],
+  "jury": null,
+  "spokesperson": "Nina Sublatti"
 }

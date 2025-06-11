@@ -1,11 +1,7 @@
 {
   "id": 20,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Gary O'Shaughnessy",
-  "artistPeople": [
-    "Gary O'Shaughnessy"
-  ],
   "song": "Without Your Love",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/1SLEkOX9ZLY",
@@ -13,17 +9,22 @@
   ],
   "bpm": 154,
   "tone": "Bb major",
+  "artistPeople": [
+    "Gary O'Shaughnessy"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Pat Sheridan"
+  ],
+  "broadcaster": "RTÉ",
   "commentators": [
     "Marty Whelan"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Bláthnaid Ní Chofaigh",
-  "stageDirector": null,
-  "writers": [
-    "Pat Sheridan"
-  ]
+  "jury": null,
+  "spokesperson": "Bláthnaid Ní Chofaigh"
 }

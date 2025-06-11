@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Anita Traversi",
-  "artistPeople": [
-    "Anita Traversi"
-  ],
   "song": "Cielo e terra",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/wQFa5bcRXUE",
@@ -13,17 +9,22 @@
   ],
   "bpm": 124,
   "tone": "D major",
+  "artistPeople": [
+    "Anita Traversi"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Cédric Dumont",
+  "lyricists": null,
+  "writers": [
+    "Mario Robbiani"
+  ],
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Theodor Haller"
   ],
-  "composers": null,
-  "conductor": "Cédric Dumont",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Boris Acquadro",
-  "stageDirector": null,
-  "writers": [
-    "Mario Robbiani"
-  ]
+  "jury": null,
+  "spokesperson": "Boris Acquadro"
 }

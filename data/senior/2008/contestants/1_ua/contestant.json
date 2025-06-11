@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "UA",
-  "broadcaster": "NTU",
   "artist": "Ani Lorak",
-  "artistPeople": [
-    "Carolina Myroslavivna Kuiek"
-  ],
   "song": "Shady Lady",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/L6M300uBc7U",
@@ -18,25 +14,30 @@
   ],
   "bpm": 128,
   "tone": "B major",
+  "artistPeople": [
+    "Carolina Myroslavivna Kuiek"
+  ],
   "backings": [
     "Fredrik Olofsson",
     "Marina Ahverdova"
   ],
-  "commentators": [
-    "Timur Miroshnychenko"
+  "dancers": [
+    "Pykh"
   ],
+  "stageDirector": "Fokas Evangelinos",
   "composers": [
     "Dimitris Kontopoulos",
     "Philipp Kirkorov"
   ],
   "conductor": null,
-  "dancers": [
-    "Pykh"
-  ],
   "lyricists": [
     "Karen Kavaleryan"
   ],
-  "spokesperson": "Marysya Horobets",
-  "stageDirector": "Fokas Evangelinos",
-  "writers": null
+  "writers": null,
+  "broadcaster": "NTU",
+  "commentators": [
+    "Timur Miroshnychenko"
+  ],
+  "jury": null,
+  "spokesperson": "Marysya Horobets"
 }

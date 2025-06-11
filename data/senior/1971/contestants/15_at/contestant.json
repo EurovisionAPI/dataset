@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Marianne Mendt",
-  "artistPeople": [
-    "Marianne Mendt"
-  ],
   "song": "Musik",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/WeO5piPgTes",
@@ -15,18 +11,23 @@
   ],
   "bpm": 126,
   "tone": "E minor",
-  "backings": null,
-  "commentators": [
-    "Ernst Grissemann"
+  "artistPeople": [
+    "Marianne Mendt"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Robert Opratko",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Manuel Rigoni",
     "Richard Schönherz"
-  ]
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Mia Martini",
-  "artistPeople": [
-    "Domenica Bertè"
-  ],
   "song": "Rapsodia",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/WpnC5fUjwE0",
@@ -13,19 +9,24 @@
   ],
   "bpm": 129,
   "tone": "E major",
-  "backings": null,
-  "commentators": [
-    "Peppi Franzelin"
+  "artistPeople": [
+    "Domenica Bertè"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Giuseppe Dati"
   ],
   "conductor": "Marco Falagiani",
-  "dancers": null,
   "lyricists": [
     "Giancarlo Bigazzi"
   ],
-  "spokesperson": "Nicoletta Orsomando",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Peppi Franzelin"
+  ],
+  "jury": null,
+  "spokesperson": "Nicoletta Orsomando"
 }

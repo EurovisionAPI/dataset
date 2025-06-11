@@ -1,11 +1,7 @@
 {
   "id": 31,
   "country": "MK",
-  "broadcaster": "MKRTV",
   "artist": "Gjoko Taneski",
-  "artistPeople": [
-    "Gjoko Taneski"
-  ],
   "song": "Jas Ja Imam Silata",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3sYNmPkivyU",
@@ -13,20 +9,25 @@
   ],
   "bpm": 188,
   "tone": "F minor",
+  "artistPeople": [
+    "Gjoko Taneski"
+  ],
   "backings": [
     "Billy Zver",
     "Damjan Pejcinoski"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Kristian Gabroski"
+  ],
+  "broadcaster": "MKRTV",
   "commentators": [
     "Karolina Petkovska"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Milica Roštikjl",
-  "stageDirector": null,
-  "writers": [
-    "Kristian Gabroski"
-  ]
+  "jury": null,
+  "spokesperson": "Milica Roštikjl"
 }

@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Jean Philippe",
-  "artistPeople": [
-    "Jean Philippe"
-  ],
   "song": "Le Retour",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/UMCltpzNK64",
@@ -13,20 +9,25 @@
   ],
   "bpm": 78,
   "tone": "D minor",
-  "backings": null,
-  "commentators": [
-    "Georges Hardy",
-    "Theodor Haller"
+  "artistPeople": [
+    "Jean Philippe"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Géo Voumard"
   ],
   "conductor": "Cédric Dumont",
-  "dancers": null,
   "lyricists": [
     "Émile Gardaz"
   ],
-  "spokesperson": "Alexandre Burger",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Alexandre Burger"
 }

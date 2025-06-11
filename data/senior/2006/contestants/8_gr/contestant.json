@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "GR",
-  "broadcaster": "ERT",
   "artist": "Anna Vissi",
-  "artistPeople": [
-    "Anna Vissi"
-  ],
   "song": "Everything",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/EJDqzQ_GlW0",
@@ -14,20 +10,25 @@
   ],
   "bpm": 89,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "Giorgos Kapoutzidis",
-    "Zeta Makrypoulia"
+  "artistPeople": [
+    "Anna Vissi"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Mia Michaels",
   "composers": [
     "Nikos Karvelas"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Anna Vissi"
   ],
-  "spokesperson": "Alexis Kostalas",
-  "stageDirector": "Mia Michaels",
-  "writers": null
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Zeta Makrypoulia"
+  ],
+  "jury": null,
+  "spokesperson": "Alexis Kostalas"
 }

@@ -1,12 +1,7 @@
 {
   "id": 4,
   "country": "MT",
-  "broadcaster": "PBM",
   "artist": "Moira Stafrace & Christopher Scicluna",
-  "artistPeople": [
-    "Christopher Scicluna",
-    "Moira Stafrace"
-  ],
   "song": "More Than Love",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/sM-w1kGT19k",
@@ -15,24 +10,30 @@
   ],
   "bpm": 104,
   "tone": "G major",
+  "artistPeople": [
+    "Christopher Scicluna",
+    "Moira Stafrace"
+  ],
   "backings": [
     "Han van Eijk",
     "Patricia Roe",
     "Rob Burke",
     "Valerie Roe"
   ],
-  "commentators": [
-    "Charles Arrigo"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Christopher Scicluna"
   ],
   "conductor": "Anthony Chircop",
-  "dancers": null,
   "lyricists": [
     "Moira Stafrace"
   ],
-  "spokesperson": "John Demanuele",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "PBM",
+  "commentators": [
+    "Charles Arrigo"
+  ],
+  "jury": null,
+  "spokesperson": "John Demanuele"
 }

@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "HR",
-  "broadcaster": "HRT",
   "artist": "Maja Blagdan",
-  "artistPeople": [
-    "Maja Blagdan"
-  ],
   "song": "Sveta ljubav",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Wzgful7Gl8U",
@@ -15,20 +11,25 @@
   ],
   "bpm": 154,
   "tone": "F major",
+  "artistPeople": [
+    "Maja Blagdan"
+  ],
   "backings": [
     "Nikša Bratoš",
     "Slavko Pintarić Pišta"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Alan Bejlinski",
+  "lyricists": null,
+  "writers": [
+    "Zrinko Tutić"
+  ],
+  "broadcaster": "HRT",
   "commentators": [
     "Aco Kostadinov"
   ],
-  "composers": null,
-  "conductor": "Alan Bejlinski",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Danijela Trbović",
-  "stageDirector": null,
-  "writers": [
-    "Zrinko Tutić"
-  ]
+  "jury": null,
+  "spokesperson": "Danijela Trbović"
 }

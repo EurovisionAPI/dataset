@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "BA",
-  "broadcaster": "RTVBIH",
   "artist": "Davor Popović",
-  "artistPeople": [
-    "Davorin Popović"
-  ],
   "song": "Dvadeset i prvi vijek",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/OzwbESyePLY",
@@ -16,20 +12,25 @@
   ],
   "bpm": 99,
   "tone": "F minor",
-  "backings": null,
-  "commentators": [
-    "Ismeta Dervoz-Krvavac"
+  "artistPeople": [
+    "Davorin Popović"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Sinan Alimanović",
     "Zlatan Fazlić"
   ],
   "conductor": "Sinan Alimanović",
-  "dancers": null,
   "lyricists": [
     "Zlatan Fazlić"
   ],
-  "spokesperson": "Diana Grković-Foretić",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTVBIH",
+  "commentators": [
+    "Ismeta Dervoz-Krvavac"
+  ],
+  "jury": null,
+  "spokesperson": "Diana Grković-Foretić"
 }

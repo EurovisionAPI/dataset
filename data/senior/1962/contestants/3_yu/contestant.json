@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "YU",
-  "broadcaster": "JRT",
   "artist": "Lola Novaković",
-  "artistPeople": [
-    "Lola Novaković"
-  ],
   "song": "Ne pali svetla u sumrak",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/EPUMlv8TbKI",
@@ -13,21 +9,26 @@
   ],
   "bpm": 100,
   "tone": "C# major",
+  "artistPeople": [
+    "Lola Novaković"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jože Privšek"
+  ],
+  "conductor": "Jože Privšek",
+  "lyricists": [
+    "Dragutin Britvić"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
   "commentators": [
     "Gordana Bonetti",
     "Ljubomir Vukadinović",
     "Tomaž Terček"
   ],
-  "composers": [
-    "Jože Privšek"
-  ],
-  "conductor": "Jože Privšek",
-  "dancers": null,
-  "lyricists": [
-    "Dragutin Britvić"
-  ],
-  "spokesperson": "Mladen Delić",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Mladen Delić"
 }

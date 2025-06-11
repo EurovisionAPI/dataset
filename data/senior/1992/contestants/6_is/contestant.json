@@ -1,14 +1,7 @@
 {
   "id": 6,
   "country": "IS",
-  "broadcaster": "RÚV",
   "artist": "Heart 2 Heart",
-  "artistPeople": [
-    "Friðrik Karlsson",
-    "Grétar Örvarsson",
-    "Sigga",
-    "Sigrún Eva Ármannsdóttir"
-  ],
   "song": "Nei eða já",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ELSuY9riUUY",
@@ -18,23 +11,31 @@
   ],
   "bpm": 88,
   "tone": "C major",
+  "artistPeople": [
+    "Friðrik Karlsson",
+    "Grétar Örvarsson",
+    "Sigga",
+    "Sigrún Eva Ármannsdóttir"
+  ],
   "backings": [
     "Halldór Gunnlaugur Hauksson",
     "Jóhann Ásmundsson"
   ],
-  "commentators": [
-    "Árni Snævarr"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Friðrik Karlsson",
     "Grétar Örvarsson"
   ],
   "conductor": "Nigel Wright",
-  "dancers": null,
   "lyricists": [
     "Stefán Hilmarsson"
   ],
-  "spokesperson": "Guðrún Skúladóttir",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Árni Snævarr"
+  ],
+  "jury": null,
+  "spokesperson": "Guðrún Skúladóttir"
 }

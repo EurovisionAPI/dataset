@@ -1,11 +1,7 @@
 {
   "id": 17,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Timna Brauer",
-  "artistPeople": [
-    "Timna Brauer"
-  ],
   "song": "Die Zeit ist einsam",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/arzmTIXxArk",
@@ -14,23 +10,28 @@
   ],
   "bpm": 150,
   "tone": "B major",
+  "artistPeople": [
+    "Timna Brauer"
+  ],
   "backings": [
     "Ines Reiger",
     "Martina Siber",
     "Peter Janda"
   ],
-  "commentators": [
-    "Ernst Grissemann"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Peter Janda"
   ],
   "conductor": "Richard Österreicher",
-  "dancers": null,
   "lyricists": [
     "Peter Cornelius"
   ],
-  "spokesperson": "Tilia Herold",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
 }

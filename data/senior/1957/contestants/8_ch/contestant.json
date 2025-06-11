@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Lys Assia",
-  "artistPeople": [
-    "Rosa Mina Schärer"
-  ],
   "song": "L'Enfant que j'étais",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/16ltDhw2lxs",
@@ -13,17 +9,22 @@
   ],
   "bpm": 120,
   "tone": "Bb major",
+  "artistPeople": [
+    "Rosa Mina Schärer"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Géo Voumard"
   ],
   "conductor": "Willy Berking",
-  "dancers": null,
   "lyricists": [
     "Émile Gardaz"
   ],
-  "spokesperson": "Mäni Weber",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Mäni Weber"
 }

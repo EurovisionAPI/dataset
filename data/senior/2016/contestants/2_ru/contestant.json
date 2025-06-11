@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "RU",
-  "broadcaster": "RTR",
   "artist": "Sergey Lazarev",
-  "artistPeople": [
-    "Sergey Vyacheslavovich Lazarev (Серге́й Вячесла́вович Ла́зарев)"
-  ],
   "song": "You Are the Only One",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/e94dst20C9Y",
@@ -17,6 +13,9 @@
   ],
   "bpm": 128,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Sergey Vyacheslavovich Lazarev (Серге́й Вячесла́вович Ла́зарев)"
+  ],
   "backings": [
     "Adam Svensson",
     "Alvaro Estrella",
@@ -24,21 +23,23 @@
     "Jennie Jahns",
     "Johan D"
   ],
-  "commentators": [
-    "Dmitry Guberniev",
-    "Ernest Matskyavichys"
-  ],
+  "dancers": null,
+  "stageDirector": "Fokas Evangelinos",
   "composers": [
     "Dimitris Kontopoulos",
     "Philipp Kirkorov"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "John Ballard",
     "Ralph Charlie"
   ],
-  "spokesperson": "Nyusha",
-  "stageDirector": "Fokas Evangelinos",
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTR",
+  "commentators": [
+    "Dmitry Guberniev",
+    "Ernest Matskyavichys"
+  ],
+  "jury": null,
+  "spokesperson": "Nyusha"
 }

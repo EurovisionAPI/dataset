@@ -1,13 +1,7 @@
 {
   "id": 34,
   "country": "MT",
-  "broadcaster": "PBS",
   "artist": "The Busker",
-  "artistPeople": [
-    "David Meilak",
-    "Jean Paul Borg",
-    "Sean Meachen"
-  ],
   "song": "Dance (Our Own Party)",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/zVmVt9qmg9g",
@@ -20,8 +14,14 @@
   ],
   "bpm": 103,
   "tone": "F minor",
+  "artistPeople": [
+    "David Meilak",
+    "Jean Paul Borg",
+    "Sean Meachen"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "David Meilak",
     "Jean Paul Borg",
@@ -30,11 +30,12 @@
     "Sean Meachen"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "David Meilak"
   ],
-  "spokesperson": "Ryan Hili",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Ryan Hili"
 }

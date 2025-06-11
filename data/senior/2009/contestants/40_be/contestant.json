@@ -1,15 +1,7 @@
 {
   "id": 40,
   "country": "BE",
-  "broadcaster": "RTBF",
   "artist": "Copycat",
-  "artistPeople": [
-    "Lenn Dauphin",
-    "Benjamin Schoos",
-    "Desta Hailé",
-    "Marie-Ange Tchai",
-    "Patrick Ouchène"
-  ],
   "song": "Copycat",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/8qVdSbiYT8w",
@@ -17,21 +9,30 @@
   ],
   "bpm": 88,
   "tone": "D major",
+  "artistPeople": [
+    "Lenn Dauphin",
+    "Benjamin Schoos",
+    "Desta Hailé",
+    "Marie-Ange Tchai",
+    "Patrick Ouchène"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Miam Monster Miam"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jacques Duvall"
+  ],
+  "writers": null,
+  "broadcaster": "RTBF",
   "commentators": [
     "André Vermeulen",
     "Jean-Louis Lahaye",
     "Jean-Pierre Hautier"
   ],
-  "composers": [
-    "Miam Monster Miam"
-  ],
-  "conductor": null,
-  "dancers": null,
-  "lyricists": [
-    "Jacques Duvall"
-  ],
-  "spokesperson": "Maureen Louys",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Maureen Louys"
 }

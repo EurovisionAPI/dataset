@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "FR",
-  "broadcaster": "FR",
   "artist": "La Zarra",
-  "artistPeople": [
-    "Fatima Zahra Hafdi"
-  ],
   "song": "Évidemment",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/fOtQJ4o-HoA",
@@ -18,13 +14,12 @@
   ],
   "bpm": 120,
   "tone": "B major",
-  "backings": null,
-  "commentators": [
-    "André Manoukian",
-    "Anggun",
-    "Laurence Boccolini",
-    "Stéphane Bern"
+  "artistPeople": [
+    "Fatima Zahra Hafdi"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Benny Adams",
     "La Zarra",
@@ -32,12 +27,18 @@
     "Zacharie Raymond"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Benny Adams",
     "La Zarra"
   ],
-  "spokesperson": "Anggun",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "FR",
+  "commentators": [
+    "André Manoukian",
+    "Anggun",
+    "Laurence Boccolini",
+    "Stéphane Bern"
+  ],
+  "jury": null,
+  "spokesperson": "Anggun"
 }

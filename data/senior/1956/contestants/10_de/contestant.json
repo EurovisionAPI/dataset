@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "DE",
-  "broadcaster": "ARD",
   "artist": "Freddy Quinn",
-  "artistPeople": [
-    "Franz Eugen Helmut Manfred Niedl-Petz"
-  ],
   "song": "So geht das jede Nacht",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/DJFGwPVKfyk",
@@ -13,19 +9,24 @@
   ],
   "bpm": 185,
   "tone": "F major",
-  "backings": null,
-  "commentators": [
-    "Irene Koss"
+  "artistPeople": [
+    "Franz Eugen Helmut Manfred Niedl-Petz"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Lotar Olias"
   ],
   "conductor": "Fernando Paggi",
-  "dancers": null,
   "lyricists": [
     "Peter Moesser"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Irene Koss"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

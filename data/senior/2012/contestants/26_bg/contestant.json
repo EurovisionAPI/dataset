@@ -1,11 +1,7 @@
 {
   "id": 26,
   "country": "BG",
-  "broadcaster": "BNT",
   "artist": "Sofi Marinova",
-  "artistPeople": [
-    "Sofiya Marinova Kamenova"
-  ],
   "song": "Love Unlimited",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/WAUAETPcFBI",
@@ -18,21 +14,26 @@
   ],
   "bpm": 129,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Elena Rosberg",
-    "Georgi Kushvaliev"
+  "artistPeople": [
+    "Sofiya Marinova Kamenova"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Krum Geopriev",
     "Yasen Kozev"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Donka Vasileva"
   ],
-  "spokesperson": "Anna Angelova",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BNT",
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Angelova"
 }

@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "1960-03-29",
   "time": null,
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 32,
           "votes": {
             "AT": 1,
             "BE": 3,
@@ -35,6 +35,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 25,
           "votes": {
             "AT": 3,
             "BE": 1,
@@ -59,6 +60,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 15,
           "votes": {
             "AT": 0,
             "BE": 0,
@@ -83,6 +85,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 11,
           "votes": {
             "AT": 1,
             "BE": 1,
@@ -107,6 +110,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 11,
           "votes": {
             "AT": 2,
             "BE": 2,
@@ -131,6 +135,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 9,
           "votes": {
             "AT": 1,
             "DK": 0,
@@ -155,6 +160,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 6,
           "votes": {
             "BE": 1,
             "DK": 2,
@@ -179,6 +185,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 5,
           "votes": {
             "AT": 2,
             "BE": 0,
@@ -203,6 +210,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 5,
           "votes": {
             "AT": 0,
             "BE": 1,
@@ -227,6 +235,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 4,
           "votes": {
             "AT": 0,
             "BE": 0,
@@ -251,6 +260,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 4,
           "votes": {
             "AT": 0,
             "BE": 0,
@@ -275,6 +285,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 2,
           "votes": {
             "AT": 0,
             "BE": 1,
@@ -299,6 +310,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 1,
           "votes": {
             "AT": 0,
             "BE": 0,

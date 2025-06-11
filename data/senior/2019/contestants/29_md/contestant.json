@@ -1,11 +1,7 @@
 {
   "id": 29,
   "country": "MD",
-  "broadcaster": "TRM",
   "artist": "Anna Odobescu",
-  "artistPeople": [
-    "Anna Odobescu"
-  ],
   "song": "Stay",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-mo207V5Z2o",
@@ -18,25 +14,30 @@
   ],
   "bpm": 155,
   "tone": "Ab major",
+  "artistPeople": [
+    "Anna Odobescu"
+  ],
   "backings": [
     "Andreea Portarescu",
     "Andrei Ștefăneț",
     "Mihaela Andrei"
   ],
-  "commentators": [
-    "Daniela Crudu",
-    "Doina Stimpovschi"
-  ],
+  "dancers": null,
+  "stageDirector": "Kseniya Simonova",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Doina Stimpovschi",
-  "stageDirector": "Kseniya Simonova",
   "writers": [
     "Georgios Kalpakidis",
     "Jeppe Reil",
     "Maria Broberg",
     "Thomas Reil"
-  ]
+  ],
+  "broadcaster": "TRM",
+  "commentators": [
+    "Daniela Crudu",
+    "Doina Stimpovschi"
+  ],
+  "jury": null,
+  "spokesperson": "Doina Stimpovschi"
 }

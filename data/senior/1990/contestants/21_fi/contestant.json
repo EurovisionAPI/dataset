@@ -1,14 +1,7 @@
 {
   "id": 21,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Beat",
-  "artistPeople": [
-    "Janne Engblom",
-    "Kim Engblom",
-    "Tina Krause",
-    "Tina Petersson"
-  ],
   "song": "Fri?",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/7EEw7xAvjjE",
@@ -19,25 +12,33 @@
   ],
   "bpm": 106,
   "tone": "C major",
+  "artistPeople": [
+    "Janne Engblom",
+    "Kim Engblom",
+    "Tina Krause",
+    "Tina Petersson"
+  ],
   "backings": [
     "Kari Ilmari Kuivalainen",
     "Robinson"
   ],
-  "commentators": [
-    "Erkki Pohjanheimo",
-    "Ossi Runne"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Janne Engblom",
     "Kim Engblom",
     "Tina Krause"
   ],
   "conductor": "Olli Ahvenlahti",
-  "dancers": null,
   "lyricists": [
     "Stina Engblom"
   ],
-  "spokesperson": "Solveig Herlin",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Pohjanheimo",
+    "Ossi Runne"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
 }

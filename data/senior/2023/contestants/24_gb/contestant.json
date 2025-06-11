@@ -1,11 +1,7 @@
 {
   "id": 24,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Mae Muller",
-  "artistPeople": [
-    "Holly Mae Muller"
-  ],
   "song": "I Wrote A Song",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/tvJEE2ryCRQ",
@@ -18,29 +14,34 @@
   ],
   "bpm": 125,
   "tone": "A minor",
+  "artistPeople": [
+    "Holly Mae Muller"
+  ],
   "backings": [
     "Annabel Williams"
   ],
-  "commentators": [
-    "Graham Norton",
-    "Mel Giedroyc",
-    "Rylan Clark",
-    "Scott Mills"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Charlie Goddard",
     "Curtisha Kruythoff",
     "Sophia Turner",
     "Theo Simpson"
   ],
-  "lyricists": null,
-  "spokesperson": "Catherine Tate",
   "stageDirector": "Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Karen Poole",
     "Lewis Thompson",
     "Mae Muller"
-  ]
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Graham Norton",
+    "Mel Giedroyc",
+    "Rylan Clark",
+    "Scott Mills"
+  ],
+  "jury": null,
+  "spokesperson": "Catherine Tate"
 }

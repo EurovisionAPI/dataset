@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "NL",
-  "broadcaster": "NTS",
   "artist": "Rudi Carrell",
-  "artistPeople": [
-    "Rudolf Wijbrand Kesselaar"
-  ],
   "song": "Wat een geluk",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/CaEAbvzP6Cc",
@@ -16,19 +12,24 @@
   ],
   "bpm": 143,
   "tone": "Ab major",
-  "backings": null,
-  "commentators": [
-    "Piet te Nuyl Jr."
+  "artistPeople": [
+    "Rudolf Wijbrand Kesselaar"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Dick Schallies"
   ],
   "conductor": "Dolf van der Linden",
-  "dancers": null,
   "lyricists": [
     "Willy van Hemert"
   ],
-  "spokesperson": "Siebe van der Zee",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NTS",
+  "commentators": [
+    "Piet te Nuyl Jr."
+  ],
+  "jury": null,
+  "spokesperson": "Siebe van der Zee"
 }

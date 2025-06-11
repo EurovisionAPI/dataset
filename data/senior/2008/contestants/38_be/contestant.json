@@ -1,16 +1,7 @@
 {
   "id": 38,
   "country": "BE",
-  "broadcaster": "VRT",
   "artist": "Ishtar",
-  "artistPeople": [
-    "Ann Vandaele",
-    "Els Vandaele",
-    "Hans Vandaele",
-    "Marleen Vandaele",
-    "Michel Vangheluwe",
-    "Soetkin Baptist"
-  ],
   "song": "O Julissi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/r2IXuAO3jHY",
@@ -22,19 +13,29 @@
   ],
   "bpm": 136,
   "tone": "G major",
+  "artistPeople": [
+    "Ann Vandaele",
+    "Els Vandaele",
+    "Hans Vandaele",
+    "Marleen Vandaele",
+    "Michel Vangheluwe",
+    "Soetkin Baptist"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Michel Vangheluwe"
+  ],
+  "broadcaster": "VRT",
   "commentators": [
     "André Vermeulen",
     "Jean-Louis Lahaye",
     "Jean-Pierre Hautier"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Sandrine Van Handenhoven",
-  "stageDirector": null,
-  "writers": [
-    "Michel Vangheluwe"
-  ]
+  "jury": null,
+  "spokesperson": "Sandrine Van Handenhoven"
 }

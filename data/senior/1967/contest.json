@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1967.png",
-  "presenters": [
-    "Erika Vaal"
-  ],
   "broadcasters": [
     "ORF"
+  ],
+  "presenters": [
+    "Erika Vaal"
   ]
 }

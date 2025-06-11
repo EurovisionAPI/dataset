@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "MT",
-  "broadcaster": "PBS",
   "artist": "Michela",
-  "artistPeople": [
-    "Michela Pace"
-  ],
   "song": "Chameleon",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/H-byNyainRA",
@@ -17,25 +13,30 @@
   ],
   "bpm": 98,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Michela Pace"
+  ],
   "backings": [
     "Albin Lindén",
     "Amanda Arin",
     "Destiny Chukunyere"
   ],
-  "commentators": null,
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Amir Ashoor",
     "Nyat Kireab Fredriksson"
   ],
-  "lyricists": null,
-  "spokesperson": "Ben Camille",
   "stageDirector": "Ambra Succi",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Borislav Milanov",
     "Joacim Persson",
     "Johan Alkenäs",
     "Paula Winger"
-  ]
+  ],
+  "broadcaster": "PBS",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Ben Camille"
 }

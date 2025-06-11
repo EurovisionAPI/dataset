@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Marius Bear",
-  "artistPeople": [
-    "Marius Hügli"
-  ],
   "song": "Boys Do Cry",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/hq2HCmHv5p4",
@@ -17,7 +13,20 @@
   ],
   "bpm": 120,
   "tone": "F major",
+  "artistPeople": [
+    "Marius Hügli"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Marius Bear",
+    "Martin Gallop"
+  ],
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Boris Piffaretti",
     "Clarissa Tami",
@@ -27,14 +36,6 @@
     "Nicolas Tanner",
     "Sven Epiney"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Julie Berthollet",
-  "stageDirector": "Sacha Jean-Baptiste",
-  "writers": [
-    "Marius Bear",
-    "Martin Gallop"
-  ]
+  "jury": null,
+  "spokesperson": "Julie Berthollet"
 }

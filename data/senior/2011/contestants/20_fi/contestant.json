@@ -1,11 +1,7 @@
 {
   "id": 20,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Paradise Oskar",
-  "artistPeople": [
-    "Axel Ehnström"
-  ],
   "song": "Da da dam",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/1Fj9of4IzFU",
@@ -15,20 +11,25 @@
   ],
   "bpm": 146,
   "tone": "D major",
+  "artistPeople": [
+    "Axel Ehnström"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Axel Ehnström"
+  ],
+  "broadcaster": "YLE",
   "commentators": [
     "Asko Murtomäki",
     "Eva Frantz",
     "Johan Lindroos",
     "Tarja Närhi"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Susan Aho",
-  "stageDirector": null,
-  "writers": [
-    "Axel Ehnström"
-  ]
+  "jury": null,
+  "spokesperson": "Susan Aho"
 }

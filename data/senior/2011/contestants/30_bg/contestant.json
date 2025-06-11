@@ -1,11 +1,7 @@
 {
   "id": 30,
   "country": "BG",
-  "broadcaster": "BNT",
   "artist": "Poli Genova",
-  "artistPeople": [
-    "Poli Plamenova Genova (Поли Пламенова Генова)"
-  ],
   "song": "Na Inat",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/oC7ZdGbgCIg",
@@ -16,6 +12,9 @@
   ],
   "bpm": 85,
   "tone": "G major",
+  "artistPeople": [
+    "Poli Plamenova Genova (Поли Пламенова Генова)"
+  ],
   "backings": [
     "Desislava Hristova",
     "Dimitar Balev",
@@ -23,20 +22,22 @@
     "Martin Hafizi",
     "Yana Baleva"
   ],
-  "commentators": [
-    "Elena Rosberg",
-    "Georgi Kushvaliev"
-  ],
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Maria Ilieva",
-  "stageDirector": "Marvin Dietmann",
   "writers": [
     "Borislav Milanov",
     "David Bronner",
     "Poli Genova",
     "Sebastian Arman"
-  ]
+  ],
+  "broadcaster": "BNT",
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Ilieva"
 }

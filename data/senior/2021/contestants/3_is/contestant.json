@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "IS",
-  "broadcaster": "RÚV",
   "artist": "Daði & Gagnamagnið",
-  "artistPeople": [
-    "Daði Freyr Pétursson"
-  ],
   "song": "10 Years",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/YSMhu-PrLME",
@@ -18,25 +14,30 @@
   ],
   "bpm": 123,
   "tone": "A major",
+  "artistPeople": [
+    "Daði Freyr Pétursson"
+  ],
   "backings": [
     "Hulda Kristín Kolbrúnardóttir",
     "Sigrún Birna Pétursdóttir"
   ],
-  "commentators": [
-    "Alex Elliott",
-    "Gísli Marteinn Baldursson"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Árný Fjóla Ásmundsdóttir",
     "Jóhann Sigurður Jóhannsson",
     "Stefán Hannesson"
   ],
-  "lyricists": null,
-  "spokesperson": "Hannes Óli Ágústsson",
   "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Daði Freyr Pétursson"
-  ]
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Alex Elliott",
+    "Gísli Marteinn Baldursson"
+  ],
+  "jury": null,
+  "spokesperson": "Hannes Óli Ágústsson"
 }

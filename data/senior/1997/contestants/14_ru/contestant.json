@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "RU",
-  "broadcaster": "ORT",
   "artist": "Alla Pugachova",
-  "artistPeople": [
-    "Alla Borisovna Pugachova"
-  ],
   "song": "Primadonna",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/QVJnjdROPOA",
@@ -16,18 +12,23 @@
   ],
   "bpm": 121,
   "tone": "C major",
+  "artistPeople": [
+    "Alla Borisovna Pugachova"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rutger Gunnarsson",
+  "lyricists": null,
+  "writers": [
+    "Alla Pugacheva"
+  ],
+  "broadcaster": "ORT",
   "commentators": [
     "Philipp Kirkorov",
     "Sergei Antipov"
   ],
-  "composers": null,
-  "conductor": "Rutger Gunnarsson",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Arina Sharapova",
-  "stageDirector": null,
-  "writers": [
-    "Alla Pugacheva"
-  ]
+  "jury": null,
+  "spokesperson": "Arina Sharapova"
 }

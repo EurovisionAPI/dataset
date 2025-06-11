@@ -1,12 +1,7 @@
 {
   "id": 25,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Jemini",
-  "artistPeople": [
-    "Chris Crombey",
-    "Gemma Abbey"
-  ],
   "song": "Cry Baby",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/mTV8GUwzRjw",
@@ -15,17 +10,23 @@
   ],
   "bpm": 127,
   "tone": "Bb major",
+  "artistPeople": [
+    "Chris Crombey",
+    "Gemma Abbey"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Martin Isherwood"
+  ],
+  "broadcaster": "BBC",
   "commentators": [
     "Terry Wogan"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Lorraine Kelly",
-  "stageDirector": null,
-  "writers": [
-    "Martin Isherwood"
-  ]
+  "jury": null,
+  "spokesperson": "Lorraine Kelly"
 }

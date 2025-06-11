@@ -1,16 +1,7 @@
 {
   "id": 21,
   "country": "AL",
-  "broadcaster": "RTSH",
   "artist": "Albina & Familja Kelmendi",
-  "artistPeople": [
-    "Albana Kelmendi",
-    "Albin Kelmendi",
-    "Albina Kelmendi",
-    "Bujar Kelmendi",
-    "Sidorela Kelmendi",
-    "Vesa Kelmendi"
-  ],
   "song": "Duje",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/TI9rSDhXwyc",
@@ -23,19 +14,29 @@
   ],
   "bpm": 110,
   "tone": "D minor",
-  "backings": null,
-  "commentators": [
-    "Andri Xhahu"
+  "artistPeople": [
+    "Albana Kelmendi",
+    "Albin Kelmendi",
+    "Albina Kelmendi",
+    "Bujar Kelmendi",
+    "Sidorela Kelmendi",
+    "Vesa Kelmendi"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
   "composers": [
     "Enis Mulla"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Eriona Rushiti"
   ],
-  "spokesperson": "Andri Xhahu",
-  "stageDirector": "Sacha Jean-Baptiste",
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": null,
+  "spokesperson": "Andri Xhahu"
 }

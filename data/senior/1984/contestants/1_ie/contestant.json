@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Linda Martin",
-  "artistPeople": [
-    "Linda Martin"
-  ],
   "song": "Terminal 3",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/O6rnjCsHN0Q",
@@ -15,20 +11,25 @@
   ],
   "bpm": 143,
   "tone": "E major",
+  "artistPeople": [
+    "Linda Martin"
+  ],
   "backings": [
     "Alain Pentony",
     "Pat Reilly"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Johnny Logan"
+  ],
+  "broadcaster": "RTÉ",
   "commentators": [
     "Gay Byrne"
   ],
-  "composers": null,
-  "conductor": "Noel Kelehan",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "John Skehan",
-  "stageDirector": null,
-  "writers": [
-    "Johnny Logan"
-  ]
+  "jury": null,
+  "spokesperson": "John Skehan"
 }

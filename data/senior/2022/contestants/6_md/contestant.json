@@ -1,13 +1,7 @@
 {
   "id": 6,
   "country": "MD",
-  "broadcaster": "TRM",
   "artist": "Zdob și Zdub & Advahov Brothers",
-  "artistPeople": [
-    "Roman Iagupov",
-    "Vasile Advahov",
-    "Vitalie Advahov"
-  ],
   "song": "Trenulețul",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/DUqf_zO2QaI",
@@ -20,25 +14,32 @@
   ],
   "bpm": 142,
   "tone": "A major",
+  "artistPeople": [
+    "Roman Iagupov",
+    "Vasile Advahov",
+    "Vitalie Advahov"
+  ],
   "backings": [
     "Andrei Cebotari",
     "Mihai Gîncu",
     "Sveatoslav Starus"
   ],
-  "commentators": [
-    "Daniela Crudu",
-    "Ion Jalbă"
-  ],
+  "dancers": null,
+  "stageDirector": "Dumitru Neagu",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Elena Băncilă",
-  "stageDirector": "Dumitru Neagu",
   "writers": [
     "Mihai Gîncu",
     "Roman Iagupov",
     "Vasile Advahov",
     "Vitalie Advahov"
-  ]
+  ],
+  "broadcaster": "TRM",
+  "commentators": [
+    "Daniela Crudu",
+    "Ion Jalbă"
+  ],
+  "jury": null,
+  "spokesperson": "Elena Băncilă"
 }

@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "RU",
-  "broadcaster": "RTR",
   "artist": "Youddiph",
-  "artistPeople": [
-    "Maria Katz (Ма́ша Кац)"
-  ],
   "song": "Vechni stranik",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/CQ6wLOrAc3o",
@@ -16,19 +12,24 @@
   ],
   "bpm": 141,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Vadim Dolgachyov"
+  "artistPeople": [
+    "Maria Katz (Ма́ша Кац)"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Lev Zemlinski"
   ],
   "conductor": "Lev Zemlinski",
-  "dancers": null,
   "lyricists": [
     "Youddiph"
   ],
-  "spokesperson": "Irina Klenskaya",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTR",
+  "commentators": [
+    "Vadim Dolgachyov"
+  ],
+  "jury": null,
+  "spokesperson": "Irina Klenskaya"
 }

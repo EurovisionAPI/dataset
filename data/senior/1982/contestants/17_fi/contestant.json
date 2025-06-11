@@ -1,11 +1,7 @@
 {
   "id": 17,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Kojo",
-  "artistPeople": [
-    "Timo Kojo"
-  ],
   "song": "Nuku pommiin",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/MmpyXSXZcAA",
@@ -14,24 +10,29 @@
   ],
   "bpm": 153,
   "tone": "D major",
+  "artistPeople": [
+    "Timo Kojo"
+  ],
   "backings": [
     "Jim Pembroke",
     "Juha Björninen",
     "Keimo Hirvonen",
     "Pave Maijanen"
   ],
-  "commentators": [
-    "Erkki Toivanen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jim Pembroke"
   ],
   "conductor": "Ossi Runne",
-  "dancers": null,
   "lyricists": [
     "Juice Leskinen"
   ],
-  "spokesperson": "Solveig Herlin",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Toivanen"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
 }

@@ -1,12 +1,7 @@
 {
   "id": 10,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Hot Eyes",
-  "artistPeople": [
-    "Kirsten Siggaard",
-    "Søren Bundgaard"
-  ],
   "song": "Sku' du spørg' fra no'en",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-0ddE9BGLXA",
@@ -16,24 +11,30 @@
   ],
   "bpm": 145,
   "tone": "C major",
+  "artistPeople": [
+    "Kirsten Siggaard",
+    "Søren Bundgaard"
+  ],
   "backings": [
     "Hanne Boel",
     "Lea Bundgaard",
     "Lise Dandanell",
     "Michael Elo"
   ],
-  "commentators": [
-    "Jørgen de Mylius"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Søren Bundgaard"
   ],
   "conductor": "Wolfgang Käfer",
-  "dancers": null,
   "lyricists": [
     "Keld Heick"
   ],
-  "spokesperson": "Bent Henius",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
 }

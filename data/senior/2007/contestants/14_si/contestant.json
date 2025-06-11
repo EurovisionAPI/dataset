@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "SI",
-  "broadcaster": "RTVSLO",
   "artist": "Alenka Gotar",
-  "artistPeople": [
-    "Alenka Gotar"
-  ],
   "song": "Cvet Z Juga",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/KKrOMagZnMI",
@@ -15,6 +11,9 @@
   ],
   "bpm": 125,
   "tone": "C minor",
+  "artistPeople": [
+    "Alenka Gotar"
+  ],
   "backings": [
     "Amira Hidić",
     "Andrej Babić",
@@ -22,16 +21,18 @@
     "Polona Furlan",
     "Rudi Bučar"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Andrej Babić"
+  ],
+  "broadcaster": "RTVSLO",
   "commentators": [
     "Mojca Mavec"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Peter Poles",
-  "stageDirector": null,
-  "writers": [
-    "Andrej Babić"
-  ]
+  "jury": null,
+  "spokesperson": "Peter Poles"
 }

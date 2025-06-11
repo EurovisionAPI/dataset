@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Marco Mengoni",
-  "artistPeople": [
-    "Marco Mengoni"
-  ],
   "song": "Due vite",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/d6IiOSut_4M",
@@ -18,25 +14,30 @@
   ],
   "bpm": 117,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Gabriele Corsi",
-    "Mara Maionchi"
+  "artistPeople": [
+    "Marco Mengoni"
   ],
+  "backings": null,
+  "dancers": [
+    "Vivien Youlou",
+    "Yoann Bourgeois"
+  ],
+  "stageDirector": null,
   "composers": [
     "Davide Petrella",
     "Davide Simonetta"
   ],
   "conductor": null,
-  "dancers": [
-    "Vivien Youlou",
-    "Yoann Bourgeois"
-  ],
   "lyricists": [
     "Davide Petrella",
     "Marco Mengoni"
   ],
-  "spokesperson": "Kaze",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Gabriele Corsi",
+    "Mara Maionchi"
+  ],
+  "jury": null,
+  "spokesperson": "Kaze"
 }

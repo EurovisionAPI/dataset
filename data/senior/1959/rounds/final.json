@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "1959-03-11",
   "time": null,
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 21,
           "votes": {
             "AT": 3,
             "BE": 3,
@@ -33,6 +33,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 16,
           "votes": {
             "AT": 2,
             "BE": 2,
@@ -55,6 +56,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 15,
           "votes": {
             "AT": 1,
             "BE": 2,
@@ -77,6 +79,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 14,
           "votes": {
             "AT": 1,
             "BE": 1,
@@ -99,6 +102,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 12,
           "votes": {
             "AT": 2,
             "BE": 0,
@@ -121,6 +125,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 9,
           "votes": {
             "AT": 0,
             "BE": 1,
@@ -143,6 +148,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 9,
           "votes": {
             "AT": 0,
             "DK": 2,
@@ -165,6 +171,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 5,
           "votes": {
             "AT": 0,
             "BE": 1,
@@ -187,6 +194,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 4,
           "votes": {
             "AT": 0,
             "BE": 0,
@@ -209,6 +217,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 4,
           "votes": {
             "BE": 0,
             "DK": 0,
@@ -231,6 +240,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 1,
           "votes": {
             "AT": 1,
             "BE": 0,

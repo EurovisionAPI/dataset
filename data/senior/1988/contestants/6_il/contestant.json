@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Yardena Arazi",
-  "artistPeople": [
-    "Yardena Feinbaum-Arazi"
-  ],
   "song": "Ben Adam",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/aCF07NS6P5I",
@@ -15,21 +11,26 @@
   ],
   "bpm": 143,
   "tone": "C minor",
+  "artistPeople": [
+    "Yardena Feinbaum-Arazi"
+  ],
   "backings": [
     "Iris Shemi",
     "Reuven Gvirtz",
     "Yehuda Tamir"
   ],
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Boris Dimitstein"
   ],
   "conductor": "Eldad Shrem",
-  "dancers": null,
   "lyricists": [
     "Ehud Manor"
   ],
-  "spokesperson": "Yitzhak Shim'oni",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yitzhak Shim'oni"
 }

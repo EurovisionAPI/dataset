@@ -1,12 +1,7 @@
 {
   "id": 12,
   "country": "HR",
-  "broadcaster": "HRT",
   "artist": "Let 3",
-  "artistPeople": [
-    "Mrle",
-    "Prlja"
-  ],
   "song": "Mama ŠČ!",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/hGuGfdEJ5Pw",
@@ -19,25 +14,31 @@
   ],
   "bpm": 135,
   "tone": "C major",
+  "artistPeople": [
+    "Mrle",
+    "Prlja"
+  ],
   "backings": [
     "Dražen Baljak",
     "Ivan Bojčić",
     "Matej Zec",
     "Žanil Tataj - Žak"
   ],
-  "commentators": [
-    "Duško Ćurlić"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Damir Martinović Mrle",
     "Zoran Prodanović"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Damir Martinović Mrle"
   ],
-  "spokesperson": "Maja Ciglenečki",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": null,
+  "spokesperson": "Maja Ciglenečki"
 }

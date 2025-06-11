@@ -1,8 +1,14 @@
 {
   "id": 31,
   "country": "HR",
-  "broadcaster": "HRT",
   "artist": "Klapa s mora",
+  "song": "Mižerja",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FYm4sGd-qP0",
+    "https://www.youtube-nocookie.com/embed/R3XawJf5JLk"
+  ],
+  "bpm": 102,
+  "tone": "F# major",
   "artistPeople": [
     "Ante Galić",
     "Bojan Kavedžija",
@@ -11,24 +17,19 @@
     "Marko Škugor",
     "Nikša Antica"
   ],
-  "song": "Mižerja",
-  "videoUrls": [
-    "https://www.youtube-nocookie.com/embed/FYm4sGd-qP0",
-    "https://www.youtube-nocookie.com/embed/R3XawJf5JLk"
-  ],
-  "bpm": 102,
-  "tone": "F# major",
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Goran Topolovac"
+  ],
+  "broadcaster": "HRT",
   "commentators": [
     "Duško Ćurlić"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Uršula Tolj",
-  "stageDirector": null,
-  "writers": [
-    "Goran Topolovac"
-  ]
+  "jury": null,
+  "spokesperson": "Uršula Tolj"
 }

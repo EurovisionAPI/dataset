@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Patricia Kraus",
-  "artistPeople": [
-    "Patricia Kraus"
-  ],
   "song": "No estás solo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/VramQsFEFn0",
@@ -13,24 +9,29 @@
   ],
   "bpm": 133,
   "tone": "F major",
+  "artistPeople": [
+    "Patricia Kraus"
+  ],
   "backings": [
     "Antonio Gómez",
     "Carlos Vázquez",
     "Eduardo Pinilla"
   ],
-  "commentators": [
-    "Beatriz Pécker"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Rafael Martínez",
     "Rafael Trabucchelli"
   ],
   "conductor": "Eduardo Leiva",
-  "dancers": null,
   "lyricists": [
     "Patricia Kraus"
   ],
-  "spokesperson": "Matilde Jarrín",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Beatriz Pécker"
+  ],
+  "jury": null,
+  "spokesperson": "Matilde Jarrín"
 }

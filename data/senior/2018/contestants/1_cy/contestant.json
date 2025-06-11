@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "CY",
-  "broadcaster": "CyBC",
   "artist": "Eleni Foureira",
-  "artistPeople": [
-    "Eleni Foureira"
-  ],
   "song": "Fuego",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/vyDTbJ4wenY",
@@ -18,15 +14,19 @@
   ],
   "bpm": 101,
   "tone": "A major",
+  "artistPeople": [
+    "Eleni Foureira"
+  ],
   "backings": [
     "Celia Caap",
     "Teddy Sky",
     "Marlene Lindahl"
   ],
-  "commentators": [
-    "Kostas Konstantinou",
-    "Vaso Komninou"
+  "dancers": [
+    "Keisha von Arnold",
+    "Lovisa Bengtsson"
   ],
+  "stageDirector": "Sacha Jean-Baptiste",
   "composers": [
     "Alex Papaconstantinou",
     "Anderz Wrethov",
@@ -35,17 +35,18 @@
     "Viktor Svensson"
   ],
   "conductor": null,
-  "dancers": [
-    "Keisha von Arnold",
-    "Lovisa Bengtsson"
-  ],
   "lyricists": [
     "Anderz Wrethov",
     "Didrick",
     "Geraldo Sandell",
     "Viktor Svensson"
   ],
-  "spokesperson": "Hovig",
-  "stageDirector": "Sacha Jean-Baptiste",
-  "writers": null
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Kostas Konstantinou",
+    "Vaso Komninou"
+  ],
+  "jury": null,
+  "spokesperson": "Hovig"
 }

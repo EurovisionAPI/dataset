@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Simone Drexel",
-  "artistPeople": [
-    "Simone Drexel"
-  ],
   "song": "Mikado",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/fBGONZ6boSc",
@@ -16,23 +12,28 @@
   ],
   "bpm": 103,
   "tone": "F# minor",
+  "artistPeople": [
+    "Simone Drexel"
+  ],
   "backings": [
     "Annica Risberg",
     "Kerstin Bagge",
     "Kerstin Dahl"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Peter Jacques",
+  "lyricists": null,
+  "writers": [
+    "Simone Drexel"
+  ],
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Georges Hardy",
     "Giovanni Bertini",
     "Theodor Haller"
   ],
-  "composers": null,
-  "conductor": "Peter Jacques",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Michel Stocker",
-  "stageDirector": null,
-  "writers": [
-    "Simone Drexel"
-  ]
+  "jury": null,
+  "spokesperson": "Michel Stocker"
 }

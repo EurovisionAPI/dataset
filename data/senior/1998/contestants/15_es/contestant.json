@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Mikel Herzog",
-  "artistPeople": [
-    "Miguel Herzog Herzog"
-  ],
   "song": "¿Qué voy a hacer sin ti?",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/BghC0ueSTqs",
@@ -13,6 +9,9 @@
   ],
   "bpm": 147,
   "tone": "C major",
+  "artistPeople": [
+    "Miguel Herzog Herzog"
+  ],
   "backings": [
     "Adolfo Rodríguez",
     "Andrea Bronston",
@@ -20,18 +19,20 @@
     "José María Guzmán",
     "Soledad 'Sol' Pilas"
   ],
-  "commentators": [
-    "José Luis Uribarri"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Alberto Estébanez"
   ],
   "conductor": "Alberto Estébanez",
-  "dancers": null,
   "lyricists": [
     "Mikel Herzog"
   ],
-  "spokesperson": "Belén Fernández de Henestrosa",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Belén Fernández de Henestrosa"
 }

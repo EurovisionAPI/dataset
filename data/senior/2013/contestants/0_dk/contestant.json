@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Emmelie de Forest",
-  "artistPeople": [
-    "Emmelie Charlotte-Victoria de Forest"
-  ],
   "song": "Only Teardrops",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/QxVWcDevKLg",
@@ -18,23 +14,28 @@
   ],
   "bpm": 111,
   "tone": "A minor",
+  "artistPeople": [
+    "Emmelie Charlotte-Victoria de Forest"
+  ],
   "backings": [
     "Anders Øhrstrøm",
     "Anne Murillo",
     "Heidi Degn"
   ],
-  "commentators": [
-    "Ole Tøpholm"
-  ],
+  "dancers": null,
+  "stageDirector": "Niclas Bendixen",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Sofie Lassen-Kahlke",
-  "stageDirector": "Niclas Bendixen",
   "writers": [
     "Julia Fabrin",
     "Lise Cabble",
     "Thomas Stengaard"
-  ]
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "jury": null,
+  "spokesperson": "Sofie Lassen-Kahlke"
 }

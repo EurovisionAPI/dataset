@@ -1,13 +1,7 @@
 {
   "id": 38,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Lighthouse X",
-  "artistPeople": [
-    "Johannes Nymark",
-    "Martin Palme Skriver",
-    "Søren Bjørrild Bregendal"
-  ],
   "song": "Soldiers of Love",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/jGz12i-wGd0",
@@ -18,20 +12,21 @@
   ],
   "bpm": 127,
   "tone": "Ab major",
+  "artistPeople": [
+    "Johannes Nymark",
+    "Martin Palme Skriver",
+    "Søren Bjørrild Bregendal"
+  ],
   "backings": [
     "Anders Ørsager",
     "Christoffer Brodersen",
     "Søren Okholm"
   ],
-  "commentators": [
-    "Ole Tøpholm"
-  ],
+  "dancers": null,
+  "stageDirector": "Birgitte Næss-Schmidt",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Ulla Essendrop",
-  "stageDirector": "Birgitte Næss-Schmidt",
   "writers": [
     "Daniel Lund Jørgensen",
     "Johannes Nymark",
@@ -39,5 +34,11 @@
     "Martin Skriver",
     "Sebastian F. Ovens",
     "Søren Bregendal"
-  ]
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "jury": null,
+  "spokesperson": "Ulla Essendrop"
 }

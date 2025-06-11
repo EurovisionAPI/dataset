@@ -1,11 +1,7 @@
 {
   "id": 40,
   "country": "BE",
-  "broadcaster": "VRT",
   "artist": "Iris",
-  "artistPeople": [
-    "Laura van den Bruel"
-  ],
   "song": "Would You?",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/7Z_5s5gnrCM",
@@ -14,25 +10,30 @@
   ],
   "bpm": 109,
   "tone": "E major",
+  "artistPeople": [
+    "Laura van den Bruel"
+  ],
   "backings": [
     "Billie Bentein",
     "Jana De Valck",
     "Joke Vincke"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jean Bosco Safari",
+    "Nina Sampermans",
+    "Walter Mannaerts"
+  ],
+  "broadcaster": "VRT",
   "commentators": [
     "André Vermeulen",
     "Jean-Louis Lahaye",
     "Jean-Pierre Hautier"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Peter Van de Veire",
-  "stageDirector": null,
-  "writers": [
-    "Jean Bosco Safari",
-    "Nina Sampermans",
-    "Walter Mannaerts"
-  ]
+  "jury": null,
+  "spokesperson": "Peter Van de Veire"
 }

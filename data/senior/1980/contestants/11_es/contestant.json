@@ -1,13 +1,7 @@
 {
   "id": 11,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Trigo Limpio",
-  "artistPeople": [
-    "Iñaki de Pablo",
-    "Luis Carlos Gil",
-    "Patricia Fernández"
-  ],
   "song": "Quédate esta noche",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/SjfcjhM-DRg",
@@ -16,21 +10,28 @@
   ],
   "bpm": 128,
   "tone": "E minor",
+  "artistPeople": [
+    "Iñaki de Pablo",
+    "Luis Carlos Gil",
+    "Patricia Fernández"
+  ],
   "backings": [
     "José María Guzmán",
     "María Caneda",
     "María Ovelar"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Javier Iturralde",
+  "lyricists": null,
+  "writers": [
+    "José Antonio Martin"
+  ],
+  "broadcaster": "TVE",
   "commentators": [
     "Miguel de los Santos"
   ],
-  "composers": null,
-  "conductor": "Javier Iturralde",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Alfonso Lapeña",
-  "stageDirector": null,
-  "writers": [
-    "José Antonio Martin"
-  ]
+  "jury": null,
+  "spokesperson": "Alfonso Lapeña"
 }

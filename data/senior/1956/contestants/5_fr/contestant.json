@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "FR",
-  "broadcaster": "RTF",
   "artist": "Mathé Altéry",
-  "artistPeople": [
-    "Marie-Thérèse Renée Micheline Altare"
-  ],
   "song": "Le Temps perdu",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/x1e8gPquGVY",
@@ -13,19 +9,24 @@
   ],
   "bpm": 133,
   "tone": "Eb major",
-  "backings": null,
-  "commentators": [
-    "Michelle Rebel"
+  "artistPeople": [
+    "Marie-Thérèse Renée Micheline Altare"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "André Lodge"
   ],
   "conductor": "Franck Pourcel",
-  "dancers": null,
   "lyricists": [
     "Rachel Thoreau"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTF",
+  "commentators": [
+    "Michelle Rebel"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,17 +1,16 @@
 {
   "id": 35,
   "country": "ME",
-  "broadcaster": "RTCG",
   "artist": "Stevan Faddy",
-  "artistPeople": [
-    "Stevan Faddy"
-  ],
   "song": "'Ajde kroči",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/mNXURugfanw"
   ],
   "bpm": 130,
   "tone": "F minor",
+  "artistPeople": [
+    "Stevan Faddy"
+  ],
   "backings": [
     "Jovan Coso",
     "Marko Perić",
@@ -19,19 +18,21 @@
     "Slaven Knezović",
     "Svetlana Raicković"
   ],
-  "commentators": [
-    "Dražen Bauković",
-    "Tamara Ivanković"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Slaven Knezović"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Milan Perić"
   ],
-  "spokesperson": "Vidak Latković",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Dražen Bauković",
+    "Tamara Ivanković"
+  ],
+  "jury": null,
+  "spokesperson": "Vidak Latković"
 }

@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "2015-05-21",
   "time": "19:00:00",
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 217,
           "votes": {
             "AU": 12,
             "AZ": 4,
@@ -43,6 +43,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 155,
           "votes": {
             "AU": 10,
             "AZ": 6,
@@ -75,6 +76,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 151,
           "votes": {
             "AU": 7,
             "AZ": 8,
@@ -107,6 +109,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 123,
           "votes": {
             "AU": 8,
             "AZ": 0,
@@ -139,6 +142,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 92,
           "votes": {
             "AU": 5,
             "AZ": 12,
@@ -171,6 +175,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 87,
           "votes": {
             "AU": 6,
             "AZ": 0,
@@ -203,6 +208,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 67,
           "votes": {
             "AU": 4,
             "AZ": 7,
@@ -235,6 +241,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 57,
           "votes": {
             "AU": 1,
             "AZ": 0,
@@ -267,6 +274,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 57,
           "votes": {
             "AU": 0,
             "AZ": 10,
@@ -299,6 +307,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 53,
           "votes": {
             "AU": 2,
             "CY": 5,
@@ -331,6 +340,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 43,
           "votes": {
             "AU": 3,
             "AZ": 0,
@@ -363,6 +373,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 35,
           "votes": {
             "AU": 0,
             "AZ": 2,
@@ -395,6 +406,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 33,
           "votes": {
             "AU": 0,
             "AZ": 0,
@@ -427,6 +439,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 19,
           "votes": {
             "AU": 0,
             "AZ": 3,
@@ -459,6 +472,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 14,
           "votes": {
             "AU": 0,
             "AZ": 5,
@@ -491,6 +505,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 11,
           "votes": {
             "AU": 0,
             "AZ": 0,
@@ -523,6 +538,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 4,
           "votes": {
             "AU": 0,
             "AZ": 1,

@@ -1,11 +1,7 @@
 {
   "id": 41,
   "country": "HU",
-  "broadcaster": "MTV",
   "artist": "Csézy",
-  "artistPeople": [
-    "Erzsébet Csézi"
-  ],
   "song": "Candlelight",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Gbn_6AYVwmw",
@@ -16,6 +12,9 @@
   ],
   "bpm": 134,
   "tone": "F# major",
+  "artistPeople": [
+    "Erzsébet Csézi"
+  ],
   "backings": [
     "Gábor Molnár",
     "Gergő Rácz",
@@ -23,18 +22,20 @@
     "Miklós Németh",
     "Viktor Rakonczai"
   ],
-  "commentators": [
-    "Gábor Gundel Takács"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Viktor Rakonczai"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Imre Mózsik"
   ],
-  "spokesperson": "Éva Novodomszky",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "Gábor Gundel Takács"
+  ],
+  "jury": null,
+  "spokesperson": "Éva Novodomszky"
 }

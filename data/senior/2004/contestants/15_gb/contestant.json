@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "James Fox",
-  "artistPeople": [
-    "James Mullet"
-  ],
   "song": "Hold On To Our Love",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/i6S9vDdTWAA",
@@ -13,20 +9,25 @@
   ],
   "bpm": 125,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Paddy O'Connell",
-    "Terry Wogan"
+  "artistPeople": [
+    "James Mullet"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Gary Miller"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Tim Woodcock"
   ],
-  "spokesperson": "Lorraine Kelly",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BBC",
+  "commentators": [
+    "Paddy O'Connell",
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Lorraine Kelly"
 }

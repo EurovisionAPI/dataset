@@ -1,13 +1,7 @@
 {
   "id": 18,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Remember Monday",
-  "artistPeople": [
-    "Charlotte Steele",
-    "Holly-Anne Hull",
-    "Lauren Byrne"
-  ],
   "song": "What The Hell Just Happened?",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Ur5qRh0BaHk",
@@ -20,18 +14,17 @@
   ],
   "bpm": 136,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Graham Norton",
-    "Rylan Clark",
-    "Scott Mills"
+  "artistPeople": [
+    "Charlotte Steele",
+    "Holly-Anne Hull",
+    "Lauren Byrne"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Ace Bowerman",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Sophie Ellis-Bextor",
-  "stageDirector": "Ace Bowerman",
   "writers": [
     "Charlotte Steele",
     "Holly-Anne Hull",
@@ -40,5 +33,13 @@
     "Samuel Brennan",
     "Thomas Stengaard",
     "Tom Hollings"
-  ]
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Graham Norton",
+    "Rylan Clark",
+    "Scott Mills"
+  ],
+  "jury": null,
+  "spokesperson": "Sophie Ellis-Bextor"
 }

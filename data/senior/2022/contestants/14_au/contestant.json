@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "AU",
-  "broadcaster": "SBS",
   "artist": "Sheldon Riley",
-  "artistPeople": [
-    "Sheldon Riley Hernandez"
-  ],
   "song": "Not The Same",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/wosfFz2FJPU",
@@ -17,21 +13,26 @@
   ],
   "bpm": 127,
   "tone": "Bb minor",
-  "backings": null,
-  "commentators": [
-    "Joel Creasey",
-    "Myf Warhurst"
+  "artistPeople": [
+    "Sheldon Riley Hernandez"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
   "composers": [
     "Cam Nacson",
     "Sheldon Riley"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Sheldon Riley"
   ],
-  "spokesperson": "Courtney Act",
-  "stageDirector": "Sacha Jean-Baptiste",
-  "writers": null
+  "writers": null,
+  "broadcaster": "SBS",
+  "commentators": [
+    "Joel Creasey",
+    "Myf Warhurst"
+  ],
+  "jury": null,
+  "spokesperson": "Courtney Act"
 }

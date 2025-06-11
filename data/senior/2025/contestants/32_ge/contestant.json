@@ -1,11 +1,7 @@
 {
   "id": 32,
   "country": "GE",
-  "broadcaster": "GPB",
   "artist": "Mariam Shengelia",
-  "artistPeople": [
-    "Mariam Shengelia"
-  ],
   "song": "Freedom",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/jphJoo-CNtU",
@@ -17,22 +13,27 @@
   ],
   "bpm": 153,
   "tone": "G major",
-  "backings": null,
-  "commentators": null,
-  "composers": [
-    "Keti Gabisiani"
+  "artistPeople": [
+    "Mariam Shengelia"
   ],
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Dato Sanaia",
     "Davit Gograchiani",
     "Guga Magradze",
     "Luka Kirkitadze"
   ],
+  "stageDirector": null,
+  "composers": [
+    "Keti Gabisiani"
+  ],
+  "conductor": null,
   "lyricists": [
     "Buka Kartozia"
   ],
-  "spokesperson": "Nutsa Buzaladze",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "GPB",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Nutsa Buzaladze"
 }

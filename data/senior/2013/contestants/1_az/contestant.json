@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "AZ",
-  "broadcaster": "İctimai",
   "artist": "Farid Mammadov",
-  "artistPeople": [
-    "Farid Mammadov"
-  ],
   "song": "Hold Me",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/S7C3S2zuVp8",
@@ -16,27 +12,32 @@
   ],
   "bpm": 90,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Farid Mammadov"
+  ],
   "backings": [
     "Alvaro Estrella",
     "Fernando Fuentes",
     "Jennie Jahns"
   ],
-  "commentators": [
-    "Konul Arifgizi"
-  ],
-  "composers": [
-    "Dimitris Kontopoulos"
-  ],
-  "conductor": null,
   "dancers": [
     "Iyrine Nevmyvanaya",
     "Pykh"
   ],
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Dimitris Kontopoulos"
+  ],
+  "conductor": null,
   "lyricists": [
     "John Ballard",
     "Ralph Charlie Al Fahel"
   ],
-  "spokesperson": "Tamilla Shirinova",
-  "stageDirector": "Fokas Evangelinos",
-  "writers": null
+  "writers": null,
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Konul Arifgizi"
+  ],
+  "jury": null,
+  "spokesperson": "Tamilla Shirinova"
 }

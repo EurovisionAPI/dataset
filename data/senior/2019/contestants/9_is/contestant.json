@@ -1,13 +1,7 @@
 {
   "id": 9,
   "country": "IS",
-  "broadcaster": "RÚV",
   "artist": "Hatari",
-  "artistPeople": [
-    "Einar Hrafn Stefánsson",
-    "Klemens Nikulásson Hannigan",
-    "Matthías Tryggvi Haraldsson"
-  ],
   "song": "Hatrið mun sigra",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/kTb69WkBbvs",
@@ -20,24 +14,31 @@
   ],
   "bpm": 110,
   "tone": "E minor",
+  "artistPeople": [
+    "Einar Hrafn Stefánsson",
+    "Klemens Nikulásson Hannigan",
+    "Matthías Tryggvi Haraldsson"
+  ],
   "backings": [
     "Ástrós Guðjónsdóttir",
     "Sólbjört Sigurðardóttir"
   ],
-  "commentators": [
-    "Gísli Marteinn Baldursson"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Sigurður Andrean Sigurgeirsson"
   ],
-  "lyricists": null,
-  "spokesperson": "Jóhannes Haukur Jóhannesson",
   "stageDirector": "Lee Proud",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Einar Hrafn Stefánsson",
     "Klemens Nikulásson Hannigan",
     "Matthías Tryggvi Haraldsson"
-  ]
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "jury": null,
+  "spokesperson": "Jóhannes Haukur Jóhannesson"
 }

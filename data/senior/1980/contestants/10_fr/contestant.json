@@ -1,15 +1,7 @@
 {
   "id": 10,
   "country": "FR",
-  "broadcaster": "TF1",
   "artist": "Profil",
-  "artistPeople": [
-    "Francis Rignault",
-    "Jean-Claude Corbel",
-    "Jean-Pierre Izbinski",
-    "Martine Bauer",
-    "Martine Havet"
-  ],
   "song": "Hé, hé m'sieurs dames",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/r7Fb-rmoGoo",
@@ -19,20 +11,29 @@
   ],
   "bpm": 165,
   "tone": "Eb minor",
-  "backings": null,
-  "commentators": [
-    "Patrick Sabatier"
+  "artistPeople": [
+    "Francis Rignault",
+    "Jean-Claude Corbel",
+    "Jean-Pierre Izbinski",
+    "Martine Bauer",
+    "Martine Havet"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Sylvano Santorio"
   ],
   "conductor": "Sylvano Santorio",
-  "dancers": null,
   "lyricists": [
     "Richard de Bordeaux",
     "Richard Joffo"
   ],
-  "spokesperson": "Fabienne Égal",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TF1",
+  "commentators": [
+    "Patrick Sabatier"
+  ],
+  "jury": null,
+  "spokesperson": "Fabienne Égal"
 }

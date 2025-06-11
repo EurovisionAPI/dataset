@@ -1,12 +1,7 @@
 {
   "id": 17,
   "country": "YU",
-  "broadcaster": "JRT",
   "artist": "Vlado & Isolda",
-  "artistPeople": [
-    "Izolda Barudžija",
-    "Vlado Kalember"
-  ],
   "song": "Ciao amore",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/TLsere7mr6g",
@@ -15,24 +10,30 @@
   ],
   "bpm": 143,
   "tone": "C major",
+  "artistPeople": [
+    "Izolda Barudžija",
+    "Vlado Kalember"
+  ],
   "backings": [
     "Bozidar Wolfand",
     "Elizabeth Rhea"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Slobodan Bučevac"
+  ],
+  "conductor": "Mato Došen",
+  "lyricists": [
+    "Milan Perić"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
   "commentators": [
     "Mladen Popović",
     "Oliver Mlakar",
     "Tomaž Terček"
   ],
-  "composers": [
-    "Slobodan Bučevac"
-  ],
-  "conductor": "Mato Došen",
-  "dancers": null,
-  "lyricists": [
-    "Milan Perić"
-  ],
-  "spokesperson": "Snežana Lipkovska-Hadžinaumova",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Snežana Lipkovska-Hadžinaumova"
 }

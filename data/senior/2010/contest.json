@@ -6,12 +6,12 @@
   "intendedCountry": null,
   "slogan": "Share the Moment",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2010.png",
+  "broadcasters": [
+    "NRK"
+  ],
   "presenters": [
     "Nadia Hasnaoui",
     "Haddy N'jie",
     "Erik Solbakken"
-  ],
-  "broadcasters": [
-    "NRK"
   ]
 }

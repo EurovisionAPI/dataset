@@ -1,16 +1,7 @@
 {
   "id": 0,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Izhar Cohen and the Alphabeta",
-  "artistPeople": [
-    "Ester Tzuberi",
-    "Itzhak Okev",
-    "Izhar Cohen",
-    "Lisa Gold-Rubin",
-    "Nehama Shutan",
-    "Reuven Erez"
-  ],
   "song": "A-Ba-Ni-Bi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/HdmfwKUpDlg",
@@ -21,17 +12,27 @@
   ],
   "bpm": 145,
   "tone": "F minor",
+  "artistPeople": [
+    "Ester Tzuberi",
+    "Itzhak Okev",
+    "Izhar Cohen",
+    "Lisa Gold-Rubin",
+    "Nehama Shutan",
+    "Reuven Erez"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Nurit Hirsh"
   ],
   "conductor": "Nurit Hirsh",
-  "dancers": null,
   "lyricists": [
     "Ehud Manor"
   ],
-  "spokesperson": "Yitzhak Shim'oni",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yitzhak Shim'oni"
 }

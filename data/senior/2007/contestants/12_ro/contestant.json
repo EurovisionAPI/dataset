@@ -1,16 +1,7 @@
 {
   "id": 12,
   "country": "RO",
-  "broadcaster": "TVR",
   "artist": "Todomondo",
-  "artistPeople": [
-    "Andrei Ştefănescu",
-    "Ciro de Luca",
-    "Kamara Ghedi",
-    "Bogdan Marian Taşcău",
-    "Valeriu Răileanu",
-    "Vladimir Creţu"
-  ],
   "song": "Liubi, Liubi, I Love You",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Y96QWdyx5TQ",
@@ -20,19 +11,29 @@
   ],
   "bpm": 127,
   "tone": "C# minor",
+  "artistPeople": [
+    "Andrei Ştefănescu",
+    "Ciro de Luca",
+    "Kamara Ghedi",
+    "Bogdan Marian Taşcău",
+    "Valeriu Răileanu",
+    "Vladimir Creţu"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Mister M"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Kamara Ghedi",
     "Mister M",
     "Vlad Creţu"
   ],
-  "spokesperson": "Andreea Marin Bănică",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Andreea Marin Bănică"
 }

@@ -1,14 +1,7 @@
 {
   "id": 18,
   "country": "TR",
-  "broadcaster": "TRT",
   "artist": "Nazar",
-  "artistPeople": [
-    "Dağhan Baydur",
-    "Nilüfer Yumlu",
-    "Olcayto Ahmet Tuğsuz",
-    "Zeynep Tuğsuz"
-  ],
   "song": "Sevince",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/rpYYS8MV6jI",
@@ -17,20 +10,28 @@
   ],
   "bpm": 147,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "Bülend Özveren"
+  "artistPeople": [
+    "Dağhan Baydur",
+    "Nilüfer Yumlu",
+    "Olcayto Ahmet Tuğsuz",
+    "Zeynep Tuğsuz"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Dağhan Baydur",
     "Onno Tunç"
   ],
   "conductor": "Onno Tunç",
-  "dancers": null,
   "lyricists": [
     "Hulki Aktunç"
   ],
-  "spokesperson": "Meral Savcı",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Meral Savcı"
 }

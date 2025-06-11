@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Zoë",
-  "artistPeople": [
-    "Zoë Straub"
-  ],
   "song": "Loin d'ici",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3xuPYt5i5cE",
@@ -18,22 +14,27 @@
   ],
   "bpm": 143,
   "tone": "B major",
+  "artistPeople": [
+    "Zoë Straub"
+  ],
   "backings": [
     "Alexandra Moqvist",
     "Christian Knollmüller",
     "Sandra Þórðardóttir"
   ],
-  "commentators": [
-    "Andi Knoll"
-  ],
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Katharina Bellowitsch",
-  "stageDirector": "Marvin Dietmann",
   "writers": [
     "Christof Straub",
     "Zoë Straub"
-  ]
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Katharina Bellowitsch"
 }

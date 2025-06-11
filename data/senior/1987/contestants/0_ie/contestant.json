@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Johnny Logan",
-  "artistPeople": [
-    "Seán Patrick Michael Sherrard"
-  ],
   "song": "Hold Me Now",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/gl2yKH5zbyo",
@@ -16,21 +12,26 @@
   ],
   "bpm": 151,
   "tone": "F major",
+  "artistPeople": [
+    "Seán Patrick Michael Sherrard"
+  ],
   "backings": [
     "Alain Pentony",
     "Joan Lea",
     "Karen Black"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Johnny Logan"
+  ],
+  "broadcaster": "RTÉ",
   "commentators": [
     "Marty Whelan"
   ],
-  "composers": null,
-  "conductor": "Noel Kelehan",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "John Skehan",
-  "stageDirector": null,
-  "writers": [
-    "Johnny Logan"
-  ]
+  "jury": null,
+  "spokesperson": "John Skehan"
 }

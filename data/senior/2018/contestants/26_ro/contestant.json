@@ -1,11 +1,7 @@
 {
   "id": 26,
   "country": "RO",
-  "broadcaster": "TVR",
   "artist": "The Humans",
-  "artistPeople": [
-    "Cristina Caramarcu"
-  ],
   "song": "Goodbye",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/DGR4S3y7qcw",
@@ -17,21 +13,26 @@
   ],
   "bpm": 101,
   "tone": "E major",
-  "backings": null,
-  "commentators": [
-    "Liliana Ștefan",
-    "Radu Andrei Tudor"
+  "artistPeople": [
+    "Cristina Caramarcu"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Petre Năstase",
   "composers": [
     "Alexandru Mihai Matei",
     "Alin Neagoe"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Cristina Caramarcu"
   ],
-  "spokesperson": "Sonia Argint-Ionescu",
-  "stageDirector": "Petre Năstase",
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": [
+    "Liliana Ștefan",
+    "Radu Andrei Tudor"
+  ],
+  "jury": null,
+  "spokesperson": "Sonia Argint-Ionescu"
 }

@@ -1,14 +1,7 @@
 {
   "id": 5,
   "country": "SE",
-  "broadcaster": "SR",
   "artist": "Family Four",
-  "artistPeople": [
-    "Agneta Munther",
-    "Berndt Öst",
-    "Marie Bergman",
-    "Pierre Isacsson"
-  ],
   "song": "Vita vidder",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Mq10KQ77dnY",
@@ -18,17 +11,25 @@
   ],
   "bpm": 120,
   "tone": "G major",
+  "artistPeople": [
+    "Agneta Munther",
+    "Berndt Öst",
+    "Marie Bergman",
+    "Pierre Isacsson"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Claes Rosendahl",
+  "lyricists": null,
+  "writers": [
+    "Håkan Elmquist"
+  ],
+  "broadcaster": "SR",
   "commentators": [
     "Åke Strömmer"
   ],
-  "composers": null,
-  "conductor": "Claes Rosendahl",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": [
-    "Håkan Elmquist"
-  ]
+  "jury": null,
+  "spokesperson": null
 }

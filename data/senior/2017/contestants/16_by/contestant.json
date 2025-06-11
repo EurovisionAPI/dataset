@@ -1,12 +1,7 @@
 {
   "id": 16,
   "country": "BY",
-  "broadcaster": "BTRC",
   "artist": "Naviband",
-  "artistPeople": [
-    "Arciom Lukjanienka",
-    "Ksienija Žuk (Ксенія Жук)"
-  ],
   "song": "Historyja majho žyccia",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/coFfFZvPmRY",
@@ -19,22 +14,28 @@
   ],
   "bpm": 155,
   "tone": "E major",
+  "artistPeople": [
+    "Arciom Lukjanienka",
+    "Ksienija Žuk (Ксенія Жук)"
+  ],
   "backings": [
     "Alena Verbitskaya",
     "Anna Chet",
     "Michael Soul",
     "Olga Rozaleon-Sashalskaya"
   ],
+  "dancers": null,
+  "stageDirector": "Tatyana Ostroverkh",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Arciom Lukjanienka"
+  ],
+  "broadcaster": "BTRC",
   "commentators": [
     "Evgeny Perlin"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Alyona Lanskaya",
-  "stageDirector": "Tatyana Ostroverkh",
-  "writers": [
-    "Arciom Lukjanienka"
-  ]
+  "jury": null,
+  "spokesperson": "Alyona Lanskaya"
 }

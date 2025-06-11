@@ -1,12 +1,7 @@
 {
   "id": 11,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Chris Baldo & Sophie Garel",
-  "artistPeople": [
-    "Chris Baldo",
-    "Sophie Garel"
-  ],
   "song": "Nous vivrons d'amour",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/K1opU8M6T6c",
@@ -16,19 +11,25 @@
   ],
   "bpm": 84,
   "tone": "F major",
-  "backings": null,
-  "commentators": [
-    "Jacques Navadic"
+  "artistPeople": [
+    "Chris Baldo",
+    "Sophie Garel"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Carlos Leresche"
   ],
   "conductor": "André Borly",
-  "dancers": null,
   "lyricists": [
     "Jacques Demarny"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

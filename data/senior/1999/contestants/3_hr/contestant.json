@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "HR",
-  "broadcaster": "HRT",
   "artist": "Doris Dragović",
-  "artistPeople": [
-    "Dorotea Dragović Budimir"
-  ],
   "song": "Marija Magdalena",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/zMuQEwwBf5w",
@@ -18,21 +14,26 @@
   ],
   "bpm": 120,
   "tone": "C# minor",
+  "artistPeople": [
+    "Dorotea Dragović Budimir"
+  ],
   "backings": [
     "Alenka Milano"
   ],
-  "commentators": [
-    "Aco Kostadinov"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Tonči Huljić"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Vjekoslava Huljić"
   ],
-  "spokesperson": "Marko Rašica",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "jury": null,
+  "spokesperson": "Marko Rašica"
 }

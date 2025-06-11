@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Nina Åström",
-  "artistPeople": [
-    "Nina Åström"
-  ],
   "song": "A Little Bit",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Bmf0NRo5-AE",
@@ -14,6 +10,9 @@
   ],
   "bpm": 95,
   "tone": "Bb major",
+  "artistPeople": [
+    "Nina Åström"
+  ],
   "backings": [
     "Danielle Ewert van Es",
     "Kaarle Mannila",
@@ -21,18 +20,20 @@
     "Raakel Lignell",
     "Ralph van Manen"
   ],
-  "commentators": [
-    "Jani Juntunen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Luca Genta"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Gerrit aan 't Goor"
   ],
-  "spokesperson": "Pia Mäkinen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Jani Juntunen"
+  ],
+  "jury": null,
+  "spokesperson": "Pia Mäkinen"
 }

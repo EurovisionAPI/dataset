@@ -1,11 +1,7 @@
 {
   "id": 34,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Natália Kelly",
-  "artistPeople": [
-    "Natália Kelly"
-  ],
   "song": "Shine",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/gOJHi6JiKpY",
@@ -13,6 +9,9 @@
   ],
   "bpm": 164,
   "tone": "D major",
+  "artistPeople": [
+    "Natália Kelly"
+  ],
   "backings": [
     "Birgit Kubica",
     "Harri Baumgartner",
@@ -20,22 +19,24 @@
     "Karin Bauer",
     "Monika Ballwein"
   ],
-  "commentators": [
-    "Andi Knoll"
-  ],
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann",
   "composers": [
     "Alexander Kahr",
     "Andreas Grass",
     "Nikola Paryla"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Andreas Grass",
     "Natália Kelly",
     "Nikola Paryla"
   ],
-  "spokesperson": "Katharina Bellowitsch",
-  "stageDirector": "Marvin Dietmann",
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Katharina Bellowitsch"
 }

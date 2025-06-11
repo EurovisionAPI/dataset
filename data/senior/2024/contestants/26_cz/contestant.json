@@ -1,11 +1,7 @@
 {
   "id": 26,
   "country": "CZ",
-  "broadcaster": "ČT",
   "artist": "Aiko",
-  "artistPeople": [
-    "Alena Shirmanova-Kostebelova"
-  ],
   "song": "Pedestal",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/RiItbHRF1BY",
@@ -18,27 +14,32 @@
   ],
   "bpm": 150,
   "tone": "F# minor",
+  "artistPeople": [
+    "Alena Shirmanova-Kostebelova"
+  ],
   "backings": [
     "Nikol Držmíšková"
   ],
-  "commentators": [
-    "Dominika Hasek",
-    "Patricie Kaňok Fuxová",
-    "Vašek Matějovský"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Daša Nemcová",
     "Eva Kučíková",
     "Lucia Gomolová",
     "Lus Juklova"
   ],
-  "lyricists": null,
-  "spokesperson": "Radka Rosická",
   "stageDirector": "Matyáš Vorda, Vítek Bělohradský",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Alena Shirmanova-Kostebelova",
     "Steven Ansell"
-  ]
+  ],
+  "broadcaster": "ČT",
+  "commentators": [
+    "Dominika Hasek",
+    "Patricie Kaňok Fuxová",
+    "Vašek Matějovský"
+  ],
+  "jury": null,
+  "spokesperson": "Radka Rosická"
 }

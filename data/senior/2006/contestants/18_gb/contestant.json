@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Daz Sampson",
-  "artistPeople": [
-    "Darren Sampson"
-  ],
   "song": "Teenage Life",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/OYgE7O0OLyw",
@@ -14,6 +10,9 @@
   ],
   "bpm": 90,
   "tone": "G major",
+  "artistPeople": [
+    "Darren Sampson"
+  ],
   "backings": [
     "Ashlee",
     "Emily Reed",
@@ -21,18 +20,20 @@
     "Holly",
     "Leeanne"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Daz Sampson",
+    "John Matthews"
+  ],
+  "broadcaster": "BBC",
   "commentators": [
     "Paddy O'Connell",
     "Terry Wogan"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Fearne Cotton",
-  "stageDirector": null,
-  "writers": [
-    "Daz Sampson",
-    "John Matthews"
-  ]
+  "jury": null,
+  "spokesperson": "Fearne Cotton"
 }

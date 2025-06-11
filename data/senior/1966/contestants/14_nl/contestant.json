@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Milly Scott",
-  "artistPeople": [
-    "Milly Scott"
-  ],
   "song": "Fernando en Philippo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/2TvG-AWdk-g",
@@ -13,22 +9,27 @@
   ],
   "bpm": 146,
   "tone": "Bb major",
+  "artistPeople": [
+    "Milly Scott"
+  ],
   "backings": [
     "Cornelis Visser",
     "Jan-Christiaan Meyer"
   ],
-  "commentators": [
-    "Teddy Scholten"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Kees de Bruyn"
   ],
   "conductor": "Dolf van der Linden",
-  "dancers": null,
   "lyricists": [
     "Gerrit den Braber"
   ],
-  "spokesperson": "Pim Jacobs",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Teddy Scholten"
+  ],
+  "jury": null,
+  "spokesperson": "Pim Jacobs"
 }

@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "GR",
-  "broadcaster": "ERT",
   "artist": "Stefania",
-  "artistPeople": [
-    "Stefania Liberakakis (Στεφανία Λυμπερακάκη)"
-  ],
   "song": "Last Dance",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/QhZhJFp0vVw",
@@ -17,13 +13,19 @@
   ],
   "bpm": 98,
   "tone": "G major",
+  "artistPeople": [
+    "Stefania Liberakakis (Στεφανία Λυμπερακάκη)"
+  ],
   "backings": [
     "Kirsten Michel"
   ],
-  "commentators": [
-    "Giorgos Kapoutzidis",
-    "Maria Kozakou"
+  "dancers": [
+    "Giorgos Papadopoulos",
+    "Kostas Pavlopoulos",
+    "Marcos Giakoumoglou",
+    "Nikos Koukakis"
   ],
+  "stageDirector": "Fokas Evangelinos",
   "composers": [
     "Anastasios Rammos",
     "Dimitris Kontopoulos",
@@ -34,12 +36,6 @@
     "Pavlos Manolis"
   ],
   "conductor": null,
-  "dancers": [
-    "Giorgos Papadopoulos",
-    "Kostas Pavlopoulos",
-    "Marcos Giakoumoglou",
-    "Nikos Koukakis"
-  ],
   "lyricists": [
     "Anastasios Rammos",
     "Dimitris Kontopoulos",
@@ -50,7 +46,12 @@
     "Pavlos Manolis",
     "Sharon Vaughn"
   ],
-  "spokesperson": "Manolis Gkinis",
-  "stageDirector": "Fokas Evangelinos",
-  "writers": null
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "jury": null,
+  "spokesperson": "Manolis Gkinis"
 }

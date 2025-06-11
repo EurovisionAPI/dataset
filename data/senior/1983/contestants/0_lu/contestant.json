@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Corinne Hermès",
-  "artistPeople": [
-    "Corinne Hermès"
-  ],
   "song": "Si la vie est cadeau",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/jnPs07g58Ms",
@@ -15,23 +11,28 @@
   ],
   "bpm": 142,
   "tone": "Eb minor",
+  "artistPeople": [
+    "Corinne Hermès"
+  ],
   "backings": [
     "Georges Costa",
     "Michel Costa",
     "Patrick Alessi"
   ],
-  "commentators": [
-    "Valérie Sarn"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jean-Pierre Millers"
   ],
   "conductor": "Michel Bernholc",
-  "dancers": null,
   "lyricists": [
     "Alain Garcia"
   ],
-  "spokesperson": "Jacques Harvey",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Valérie Sarn"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Harvey"
 }

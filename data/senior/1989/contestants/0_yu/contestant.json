@@ -1,15 +1,7 @@
 {
   "id": 0,
   "country": "YU",
-  "broadcaster": "JRT",
   "artist": "Riva",
-  "artistPeople": [
-    "Boško Colić",
-    "Dalibor Musap",
-    "Emilija Kokić",
-    "Nenad Nakić",
-    "Zvonimir Zrilić"
-  ],
   "song": "Rock Me",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ZWwmCT7P3VE",
@@ -20,21 +12,30 @@
   ],
   "bpm": 147,
   "tone": "Eb major",
+  "artistPeople": [
+    "Boško Colić",
+    "Dalibor Musap",
+    "Emilija Kokić",
+    "Nenad Nakić",
+    "Zvonimir Zrilić"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Rajko Dujmić"
+  ],
+  "conductor": "Nikica Kalogjera",
+  "lyricists": [
+    "Stevo Cvikić"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
   "commentators": [
     "Miša Molk",
     "Mladen Popović",
     "Oliver Mlakar"
   ],
-  "composers": [
-    "Rajko Dujmić"
-  ],
-  "conductor": "Nikica Kalogjera",
-  "dancers": null,
-  "lyricists": [
-    "Stevo Cvikić"
-  ],
-  "spokesperson": "Dijana Čulić",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Dijana Čulić"
 }

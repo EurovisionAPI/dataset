@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "RU",
-  "broadcaster": "RTR",
   "artist": "Peter Nalitch & Friends",
-  "artistPeople": [
-    "Peter Nalitch"
-  ],
   "song": "Lost And Forgotten",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/IOB7uaWuRyc",
@@ -14,6 +10,9 @@
   ],
   "bpm": 131,
   "tone": "C major",
+  "artistPeople": [
+    "Peter Nalitch"
+  ],
   "backings": [
     "Denis Marinkin",
     "Dima Simonov",
@@ -21,17 +20,19 @@
     "Sergei Sokolov",
     "Yuri Kostenko"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Peter Nalitch"
+  ],
+  "broadcaster": "RTR",
   "commentators": [
     "Dmitry Guberniev",
     "Olga Shelest"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Oxana Fedorova",
-  "stageDirector": null,
-  "writers": [
-    "Peter Nalitch"
-  ]
+  "jury": null,
+  "spokesperson": "Oxana Fedorova"
 }

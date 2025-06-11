@@ -1,11 +1,7 @@
 {
   "id": 28,
   "country": "MT",
-  "broadcaster": "PBS",
   "artist": "Amber",
-  "artistPeople": [
-    "Amber Bondin"
-  ],
   "song": "Warrior",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/SaJxu3vorLc",
@@ -16,19 +12,24 @@
   ],
   "bpm": 152,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Corazon Mizzi"
+  "artistPeople": [
+    "Amber Bondin"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Elton Zarb"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Matt Mercieca"
   ],
-  "spokesperson": "Julie Zahra",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": [
+    "Corazon Mizzi"
+  ],
+  "jury": null,
+  "spokesperson": "Julie Zahra"
 }

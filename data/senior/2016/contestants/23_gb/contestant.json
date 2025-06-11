@@ -1,12 +1,7 @@
 {
   "id": 23,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Joe & Jake",
-  "artistPeople": [
-    "Jake Shakeshaft",
-    "Joe Woolford"
-  ],
   "song": "You're Not Alone",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/XgGahKsBtts",
@@ -17,26 +12,32 @@
   ],
   "bpm": 128,
   "tone": "E major",
+  "artistPeople": [
+    "Jake Shakeshaft",
+    "Joe Woolford"
+  ],
   "backings": [
     "Chris Moncrieff",
     "Lai Shin-Aba",
     "Mikey Burke",
     "Ross Harris"
   ],
+  "dancers": null,
+  "stageDirector": "Dan Shipton",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Justin J. Benson",
+    "Matt Schwartz",
+    "S. Kanes"
+  ],
+  "broadcaster": "BBC",
   "commentators": [
     "Graham Norton",
     "Mel Giedroyc",
     "Scott Mills"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Richard Osman",
-  "stageDirector": "Dan Shipton",
-  "writers": [
-    "Justin J. Benson",
-    "Matt Schwartz",
-    "S. Kanes"
-  ]
+  "jury": null,
+  "spokesperson": "Richard Osman"
 }

@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "GE",
-  "broadcaster": "GPB",
   "artist": "Nina Sublatti",
-  "artistPeople": [
-    "Nina Sulaberidze (ნინა სულაბერიძე)"
-  ],
   "song": "Warrior",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ddC8lviTERI",
@@ -18,24 +14,29 @@
   ],
   "bpm": 141,
   "tone": "F minor",
+  "artistPeople": [
+    "Nina Sulaberidze (ნინა სულაბერიძე)"
+  ],
   "backings": [
     "Rebecca Kollau-Freidinger",
     "Veronika Hammer"
   ],
-  "commentators": [
-    "Lado Tatishvili",
-    "Tamuna Museridze"
-  ],
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
   "composers": [
     "Nina Sublatti",
     "Thomas G:son"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Nina Sublatti"
   ],
-  "spokesperson": "Natia Bunturi",
-  "stageDirector": "Sacha Jean-Baptiste",
-  "writers": null
+  "writers": null,
+  "broadcaster": "GPB",
+  "commentators": [
+    "Lado Tatishvili",
+    "Tamuna Museridze"
+  ],
+  "jury": null,
+  "spokesperson": "Natia Bunturi"
 }

@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Marco Mengoni",
-  "artistPeople": [
-    "Marco Mengoni"
-  ],
   "song": "L'essenziale",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/JKsj5DCnNs4",
@@ -13,24 +9,29 @@
   ],
   "bpm": 126,
   "tone": "F# minor",
-  "backings": null,
-  "commentators": [
-    "Federica Gentile",
-    "Filippo Solibello",
-    "Marco Ardemagni",
-    "Natasha Lusenti"
+  "artistPeople": [
+    "Marco Mengoni"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Francesco De Benedittis",
     "Marco Mengoni",
     "Roberto Casalino"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Roberto Casalino"
   ],
-  "spokesperson": "Federica Gentile",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Federica Gentile",
+    "Filippo Solibello",
+    "Marco Ardemagni",
+    "Natasha Lusenti"
+  ],
+  "jury": null,
+  "spokesperson": "Federica Gentile"
 }

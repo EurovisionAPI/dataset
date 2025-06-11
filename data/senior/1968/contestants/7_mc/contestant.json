@@ -1,12 +1,7 @@
 {
   "id": 7,
   "country": "MC",
-  "broadcaster": "TMC",
   "artist": "Line & Willy",
-  "artistPeople": [
-    "Jacqueline Van Meenen",
-    "Claude Boillod"
-  ],
   "song": "À chacun sa chanson",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/8_3iE_L1Mbg",
@@ -14,19 +9,25 @@
   ],
   "bpm": 117,
   "tone": "F# major",
-  "backings": null,
-  "commentators": [
-    "Pierre Tchernia"
+  "artistPeople": [
+    "Jacqueline Van Meenen",
+    "Claude Boillod"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jean-Claude Oliver"
   ],
   "conductor": "Michel Colombier",
-  "dancers": null,
   "lyricists": [
     "Roland Valade"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

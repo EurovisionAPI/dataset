@@ -1,14 +1,7 @@
 {
   "id": 12,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Doce",
-  "artistPeople": [
-    "Fá",
-    "Laura Diogo",
-    "Helena Coelho",
-    "Teresa Miguel"
-  ],
   "song": "Bem bom",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/RrJp8DwI5s4",
@@ -20,22 +13,30 @@
   ],
   "bpm": 110,
   "tone": "B minor",
+  "artistPeople": [
+    "Fá",
+    "Laura Diogo",
+    "Helena Coelho",
+    "Teresa Miguel"
+  ],
   "backings": [
     "Maria Sampaio",
     "Mila Ferreira"
   ],
-  "commentators": [
-    "Fialho Gouveia"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Luís Duarte",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Margarida Andrade",
-  "stageDirector": null,
   "writers": [
     "António Avelar de Pinho",
     "Pedro Brito",
     "Tozé Brito"
-  ]
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Fialho Gouveia"
+  ],
+  "jury": null,
+  "spokesperson": "Margarida Andrade"
 }

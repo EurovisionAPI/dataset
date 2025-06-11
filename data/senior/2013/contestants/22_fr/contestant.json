@@ -1,37 +1,38 @@
 {
   "id": 22,
   "country": "FR",
-  "broadcaster": "France 3",
   "artist": "Amandine Bourgeois",
-  "artistPeople": [
-    "Amandine Bourgeois"
-  ],
   "song": "L'enfer et moi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/hQwiQj5Dyj8"
   ],
   "bpm": 90,
   "tone": "C# minor",
+  "artistPeople": [
+    "Amandine Bourgeois"
+  ],
   "backings": [
     "Fanny Llado",
     "Guillaume Eyango",
     "Judith Flessel-Toto"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "David Salkin"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Boris Bergman"
+  ],
+  "writers": null,
+  "broadcaster": "France 3",
   "commentators": [
     "Audrey Chauveau",
     "Bruno Berberes",
     "Cyril Féraud",
     "Mireille Dumas"
   ],
-  "composers": [
-    "David Salkin"
-  ],
-  "conductor": null,
-  "dancers": null,
-  "lyricists": [
-    "Boris Bergman"
-  ],
-  "spokesperson": "Marine Vignes",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Marine Vignes"
 }

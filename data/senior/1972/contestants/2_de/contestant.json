@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "DE",
-  "broadcaster": "ARD",
   "artist": "Mary Roos",
-  "artistPeople": [
-    "Marianne Rosemarie Schwab"
-  ],
   "song": "Nur die Liebe läßt uns leben",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/bMLx7Isyfvc",
@@ -15,19 +11,24 @@
   ],
   "bpm": 99,
   "tone": "E major",
-  "backings": null,
-  "commentators": [
-    "Hanns Verres"
+  "artistPeople": [
+    "Marianne Rosemarie Schwab"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Joachim Heider"
   ],
   "conductor": "Paul Kuhn",
-  "dancers": null,
   "lyricists": [
     "Joachim Relin"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Hanns Verres"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

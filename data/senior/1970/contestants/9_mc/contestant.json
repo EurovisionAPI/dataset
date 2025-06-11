@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "MC",
-  "broadcaster": "TMC",
   "artist": "Dominique Dussault",
-  "artistPeople": [
-    "Dominique Dussault"
-  ],
   "song": "Marlène",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/UUfQ6k6KP_E",
@@ -14,20 +10,25 @@
   ],
   "bpm": 142,
   "tone": "C# minor",
-  "backings": null,
-  "commentators": [
-    "Pierre Tchernia"
+  "artistPeople": [
+    "Dominique Dussault"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Eddie Barclay",
     "Jimmy Walter"
   ],
   "conductor": "Jimmy Walter",
-  "dancers": null,
   "lyricists": [
     "Henri Djian"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

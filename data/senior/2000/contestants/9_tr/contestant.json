@@ -1,14 +1,7 @@
 {
   "id": 9,
   "country": "TR",
-  "broadcaster": "TRT",
   "artist": "Pınar & The S.O.S.",
-  "artistPeople": [
-    "Orkun Yazgan",
-    "Pınar Ayhan",
-    "Selim Öncel",
-    "Sühan Ayhan"
-  ],
   "song": "Yorgunum Anla",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/rpgLTblTilY",
@@ -19,23 +12,31 @@
   ],
   "bpm": 94,
   "tone": "G minor",
-  "backings": null,
-  "commentators": [
-    "Ömer Önder"
-  ],
-  "composers": [
+  "artistPeople": [
+    "Orkun Yazgan",
+    "Pınar Ayhan",
+    "Selim Öncel",
     "Sühan Ayhan"
   ],
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Ceylan Karadağoğlu",
     "Tunç Özşakar"
   ],
+  "stageDirector": null,
+  "composers": [
+    "Sühan Ayhan"
+  ],
+  "conductor": null,
   "lyricists": [
     "Orkun Yazgan",
     "Pınar Ayhan"
   ],
-  "spokesperson": "Osman Erkan",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Ömer Önder"
+  ],
+  "jury": null,
+  "spokesperson": "Osman Erkan"
 }

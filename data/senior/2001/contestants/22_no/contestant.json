@@ -1,11 +1,7 @@
 {
   "id": 22,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Haldor Lægreid",
-  "artistPeople": [
-    "Haldor Lægreid"
-  ],
   "song": "On My Own",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/l7Pqlo0TsHw",
@@ -13,26 +9,31 @@
   ],
   "bpm": 128,
   "tone": "A major",
+  "artistPeople": [
+    "Haldor Lægreid"
+  ],
   "backings": [
     "Åse Karin Hjelen",
     "Håvard Gryting",
     "Per Øystein Sørensen"
   ],
-  "commentators": [
-    "Jostein Pedersen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ole Henrik Antonsen",
     "Tom-Steinar Hanssen"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Ole Henrik Antonsen",
     "Ole Jørgen Olsen",
     "Tom-Steinar Hanssen"
   ],
-  "spokesperson": "Roald Øyen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "jury": null,
+  "spokesperson": "Roald Øyen"
 }

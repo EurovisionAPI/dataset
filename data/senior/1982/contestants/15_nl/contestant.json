@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Bill van Dijk",
-  "artistPeople": [
-    "Bill van Dijk"
-  ],
   "song": "Jij en ik",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ByECf_srTQM",
@@ -15,24 +11,29 @@
   ],
   "bpm": 117,
   "tone": "G major",
+  "artistPeople": [
+    "Bill van Dijk"
+  ],
   "backings": [
     "Jody Pijper",
     "Lisa Boray",
     "Titia Dekker",
     "Wanda Stellaard"
   ],
-  "commentators": [
-    "Pim Jacobs"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Dick Bakker"
   ],
   "conductor": "Rogier van Otterloo",
-  "dancers": null,
   "lyricists": [
     "Liselore Gerritsen"
   ],
-  "spokesperson": "Flip van der Schalie",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Pim Jacobs"
+  ],
+  "jury": null,
+  "spokesperson": "Flip van der Schalie"
 }

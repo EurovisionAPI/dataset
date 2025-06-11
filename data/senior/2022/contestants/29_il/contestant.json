@@ -1,11 +1,7 @@
 {
   "id": 29,
   "country": "IL",
-  "broadcaster": "KAN",
   "artist": "Michael Ben David",
-  "artistPeople": [
-    "Michael Ben David"
-  ],
   "song": "I.M",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/XgXjPUsjx4Y",
@@ -17,25 +13,30 @@
   ],
   "bpm": 120,
   "tone": "Ab minor",
-  "backings": null,
-  "commentators": [
-    "Akiva Novik",
-    "Asaf Liberman"
+  "artistPeople": [
+    "Michael Ben David"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Bar Benjamin",
     "Eyal Levy",
     "Moty Pilas",
     "Tomer Tenenboym"
   ],
-  "lyricists": null,
-  "spokesperson": "Daniel Styopin",
   "stageDirector": "Dan Shipton, Marvin Dietmann, Moshe Kepten",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Asi Tal",
     "Chen Aharoni",
     "Lidor Saadia"
-  ]
+  ],
+  "broadcaster": "KAN",
+  "commentators": [
+    "Akiva Novik",
+    "Asaf Liberman"
+  ],
+  "jury": null,
+  "spokesperson": "Daniel Styopin"
 }

@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "DE",
-  "broadcaster": "ARD",
   "artist": "Guildo Horn",
-  "artistPeople": [
-    "Horst Köhler"
-  ],
   "song": "Guildo hat euch lieb",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/7q8psHyVX9Y",
@@ -15,6 +11,9 @@
   ],
   "bpm": 129,
   "tone": "A minor",
+  "artistPeople": [
+    "Horst Köhler"
+  ],
   "backings": [
     "August Schrader",
     "Elute",
@@ -22,16 +21,18 @@
     "Mihaly Szabo",
     "Pierre Kertzman"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Alf Igel",
+  "lyricists": null,
+  "writers": [
+    "Alf Igel"
+  ],
+  "broadcaster": "ARD",
   "commentators": [
     "Peter Urban"
   ],
-  "composers": null,
-  "conductor": "Alf Igel",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Nena",
-  "stageDirector": null,
-  "writers": [
-    "Alf Igel"
-  ]
+  "jury": null,
+  "spokesperson": "Nena"
 }

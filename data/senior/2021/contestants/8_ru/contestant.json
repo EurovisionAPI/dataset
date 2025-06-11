@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "RU",
-  "broadcaster": "C1R",
   "artist": "Manizha",
-  "artistPeople": [
-    "Manizha Dalerovna Sanghin (Манижа Далеровна Сангин)"
-  ],
   "song": "Russian Woman",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/V-Di9A28e5E",
@@ -18,26 +14,31 @@
   ],
   "bpm": 102,
   "tone": "A minor",
+  "artistPeople": [
+    "Manizha Dalerovna Sanghin (Манижа Далеровна Сангин)"
+  ],
   "backings": [
     "Alexandr Kudinov",
     "Artemiy Cheers",
     "Basilisa",
     "Iyulina"
   ],
-  "commentators": [
-    "Yana Churikova",
-    "Yuriy Aksuta"
-  ],
+  "dancers": null,
+  "stageDirector": "Andrey Sychev",
   "composers": [
     "Ori Avni",
     "Ori Kaplan"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Manizha"
   ],
-  "spokesperson": "Polina Gagarina",
-  "stageDirector": "Andrey Sychev",
-  "writers": null
+  "writers": null,
+  "broadcaster": "C1R",
+  "commentators": [
+    "Yana Churikova",
+    "Yuriy Aksuta"
+  ],
+  "jury": null,
+  "spokesperson": "Polina Gagarina"
 }

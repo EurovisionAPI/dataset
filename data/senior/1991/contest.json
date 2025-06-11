@@ -6,11 +6,11 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1991.png",
+  "broadcasters": [
+    "RAI"
+  ],
   "presenters": [
     "Gigliola Cinguetti",
     "Toto Cutugno"
-  ],
-  "broadcasters": [
-    "RAI"
   ]
 }

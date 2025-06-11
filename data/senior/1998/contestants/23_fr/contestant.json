@@ -1,11 +1,7 @@
 {
   "id": 23,
   "country": "FR",
-  "broadcaster": "FT2",
   "artist": "Marie-Line",
-  "artistPeople": [
-    "Marie Line Marolany"
-  ],
   "song": "Où aller",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/_KY-84SdQVs",
@@ -13,15 +9,16 @@
   ],
   "bpm": 136,
   "tone": "C minor",
+  "artistPeople": [
+    "Marie Line Marolany"
+  ],
   "backings": [
     "Jean-Philippe Dary",
     "Micaël Sene",
     "Moïse Crespy"
   ],
-  "commentators": [
-    "Chris Mayne",
-    "Laura Mayne"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jean-Philippe Dary",
     "Marie Line Marolany",
@@ -29,11 +26,15 @@
     "Moïse Crespy"
   ],
   "conductor": "Martin Koch",
-  "dancers": null,
   "lyricists": [
     "Marie Line Marolany"
   ],
-  "spokesperson": "Marie Myriam",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "FT2",
+  "commentators": [
+    "Chris Mayne",
+    "Laura Mayne"
+  ],
+  "jury": null,
+  "spokesperson": "Marie Myriam"
 }

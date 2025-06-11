@@ -1,15 +1,7 @@
 {
   "id": 21,
   "country": "FR",
-  "broadcaster": "France 3",
   "artist": "Les Fatals Picards",
-  "artistPeople": [
-    "Ivan Callot",
-    "Jean-Marc Sauvagnargues",
-    "Laurent Honel",
-    "Paul Léger",
-    "Yves Giraud"
-  ],
   "song": "L'amour à la française",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/xjo3PIABpVQ",
@@ -18,24 +10,33 @@
   ],
   "bpm": 166,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "Julien Lepers",
-    "Peggy Olmi",
-    "Tex",
-    "Yann Renoard"
+  "artistPeople": [
+    "Ivan Callot",
+    "Jean-Marc Sauvagnargues",
+    "Laurent Honel",
+    "Paul Léger",
+    "Yves Giraud"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Vanessa Dolmen",
-  "stageDirector": null,
   "writers": [
     "Ivan Callot",
     "Jean-Marc Sauvagnargues",
     "Laurent Honel",
     "Paul Léger",
     "Yves Giraud"
-  ]
+  ],
+  "broadcaster": "France 3",
+  "commentators": [
+    "Julien Lepers",
+    "Peggy Olmi",
+    "Tex",
+    "Yann Renoard"
+  ],
+  "jury": null,
+  "spokesperson": "Vanessa Dolmen"
 }

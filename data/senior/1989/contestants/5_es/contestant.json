@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Nina",
-  "artistPeople": [
-    "Anna María Agustí Flores"
-  ],
   "song": "Nacida para amar",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/MUd0TxLz7zg",
@@ -14,19 +10,24 @@
   ],
   "bpm": 153,
   "tone": "C major",
+  "artistPeople": [
+    "Anna María Agustí Flores"
+  ],
   "backings": [
     "Alejandro Gutiérrez"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Juan Carlos Calderón López De Arroyabe",
+  "lyricists": null,
+  "writers": [
+    "Juan Carlos Calderón"
+  ],
+  "broadcaster": "TVE",
   "commentators": [
     "Tomás Fernando Flores"
   ],
-  "composers": null,
-  "conductor": "Juan Carlos Calderón López De Arroyabe",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Matilde Jarrín",
-  "stageDirector": null,
-  "writers": [
-    "Juan Carlos Calderón"
-  ]
+  "jury": null,
+  "spokesperson": "Matilde Jarrín"
 }

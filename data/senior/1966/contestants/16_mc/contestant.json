@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "MC",
-  "broadcaster": "TMC",
   "artist": "Tereza",
-  "artistPeople": [
-    "Tereza Kesovija"
-  ],
   "song": "Bien plus fort",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/n0EoZQiH7ro",
@@ -14,19 +10,24 @@
   ],
   "bpm": 79,
   "tone": "F major",
-  "backings": null,
-  "commentators": [
-    "François Deguelt"
+  "artistPeople": [
+    "Tereza Kesovija"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Gérard Bourgeois"
   ],
   "conductor": "Alain Goraguer",
-  "dancers": null,
   "lyricists": [
     "Jean-Max Rivière"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "François Deguelt"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

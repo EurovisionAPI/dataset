@@ -1,11 +1,7 @@
 {
   "id": 21,
   "country": "HU",
-  "broadcaster": "MTV",
   "artist": "Csaba Szigeti",
-  "artistPeople": [
-    "Csaba Szigeti"
-  ],
   "song": "Új név egy régi ház falán",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Ok86PTKzv0s",
@@ -13,19 +9,24 @@
   ],
   "bpm": 163,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "István Vágó"
+  "artistPeople": [
+    "Csaba Szigeti"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ferenc Balázs"
   ],
   "conductor": "Miklós Malek",
-  "dancers": null,
   "lyricists": [
     "Attila Horváth"
   ],
-  "spokesperson": "Katalin Bogyay",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "István Vágó"
+  ],
+  "jury": null,
+  "spokesperson": "Katalin Bogyay"
 }

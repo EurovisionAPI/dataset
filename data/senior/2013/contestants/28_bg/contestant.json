@@ -1,12 +1,7 @@
 {
   "id": 28,
   "country": "BG",
-  "broadcaster": "BNT",
   "artist": "Elitsa Todorova & Stoyan Yankulov",
-  "artistPeople": [
-    "Elitsa Todorova",
-    "Stoyan Yankoulov"
-  ],
   "song": "Samo Shampioni",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Cb46Mhy_mCI",
@@ -17,23 +12,29 @@
   ],
   "bpm": 130,
   "tone": "A minor",
+  "artistPeople": [
+    "Elitsa Todorova",
+    "Stoyan Yankoulov"
+  ],
   "backings": [
     "Bilyana Sokolova",
     "Biserka Danova-Pilarska",
     "Desislava Georgieva"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Christian Talev",
+    "Elitsa Todorova"
+  ],
+  "broadcaster": "BNT",
   "commentators": [
     "Elena Rosberg",
     "Georgi Kushvaliev"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Yoanna Dragneva",
-  "stageDirector": null,
-  "writers": [
-    "Christian Talev",
-    "Elitsa Todorova"
-  ]
+  "jury": null,
+  "spokesperson": "Yoanna Dragneva"
 }

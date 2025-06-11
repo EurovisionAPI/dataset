@@ -6,12 +6,12 @@
   "intendedCountry": null,
   "slogan": "Feel Your Heart Beat!",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2011.png",
+  "broadcasters": [
+    "NDR"
+  ],
   "presenters": [
     "Anke Engelke",
     "Judith Rakers",
     "Stefan Raab"
-  ],
-  "broadcasters": [
-    "NDR"
   ]
 }

@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Kirsti Sparboe",
-  "artistPeople": [
-    "Kirsti Sparboe"
-  ],
   "song": "Oj, oj, oj, så glad jeg skal bli",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/82uR5MLX5YY",
@@ -17,17 +13,22 @@
   ],
   "bpm": 126,
   "tone": "Eb major",
+  "artistPeople": [
+    "Kirsti Sparboe"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Øivind Bergh",
+  "lyricists": null,
+  "writers": [
+    "Arne Bendiksen"
+  ],
+  "broadcaster": "NRK",
   "commentators": [
     "Sverre Christophersen"
   ],
-  "composers": null,
-  "conductor": "Øivind Bergh",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Janka Polanyi",
-  "stageDirector": null,
-  "writers": [
-    "Arne Bendiksen"
-  ]
+  "jury": null,
+  "spokesperson": "Janka Polanyi"
 }

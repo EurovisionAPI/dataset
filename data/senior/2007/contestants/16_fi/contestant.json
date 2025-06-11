@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Hanna Pakarinen",
-  "artistPeople": [
-    "Hanna Pakarinen"
-  ],
   "song": "Leave Me Alone",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3ibC5pps0dA",
@@ -15,29 +11,34 @@
   ],
   "bpm": 141,
   "tone": "C# major",
+  "artistPeople": [
+    "Hanna Pakarinen"
+  ],
   "backings": [
     "Jaakko Kääriäinen",
     "Jyrki Alanen",
     "Mikko Määttä",
     "Risto Niinikoski"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Martti Vuorinen",
+    "Miikka Huttunen"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Hanna Pakarinen",
+    "Martti Vuorinen"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
   "commentators": [
     "Asko Murtomäki",
     "Ellen Jokikunnas",
     "Heikki Paasonen",
     "Thomas Lundin"
   ],
-  "composers": [
-    "Martti Vuorinen",
-    "Miikka Huttunen"
-  ],
-  "conductor": null,
-  "dancers": null,
-  "lyricists": [
-    "Hanna Pakarinen",
-    "Martti Vuorinen"
-  ],
-  "spokesperson": "Laura Voutilainen",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Laura Voutilainen"
 }

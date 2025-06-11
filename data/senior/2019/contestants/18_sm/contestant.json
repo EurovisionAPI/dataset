@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "SM",
-  "broadcaster": "SMRTV",
   "artist": "Serhat",
-  "artistPeople": [
-    "Ahmet Serhat Hacıpaşalıoğlu"
-  ],
   "song": "Say Na Na Na",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/d_iEis_ZRoQ",
@@ -18,6 +14,9 @@
   ],
   "bpm": 118,
   "tone": "F# major",
+  "artistPeople": [
+    "Ahmet Serhat Hacıpaşalıoğlu"
+  ],
   "backings": [
     "Chantal Hartmann",
     "Giulia Wahn",
@@ -25,20 +24,22 @@
     "Johan D. Seil",
     "Sebastián Millepied"
   ],
-  "commentators": [
-    "Gigi Restivo",
-    "Lia Fiorio"
-  ],
+  "dancers": null,
+  "stageDirector": "Nick Marianos",
   "composers": [
     "Serhat"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Mary Susan Applegate",
     "Serhat"
   ],
-  "spokesperson": "Monica Fabbri",
-  "stageDirector": "Nick Marianos",
-  "writers": null
+  "writers": null,
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Gigi Restivo",
+    "Lia Fiorio"
+  ],
+  "jury": null,
+  "spokesperson": "Monica Fabbri"
 }

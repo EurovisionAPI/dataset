@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "SI",
-  "broadcaster": "RTVSLO",
   "artist": "Darja Švajger",
-  "artistPeople": [
-    "Darja Švajger"
-  ],
   "song": "Prisluhni mi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/jqM3mAfztU8",
@@ -16,20 +12,25 @@
   ],
   "bpm": 144,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Damjana Golavšek"
+  "artistPeople": [
+    "Darja Švajger"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Primož Peterca",
     "Sašo Fajon"
   ],
   "conductor": "Jože Privšek",
-  "dancers": null,
   "lyricists": [
     "Primož Peterca"
   ],
-  "spokesperson": "Miša Molk",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Damjana Golavšek"
+  ],
+  "jury": null,
+  "spokesperson": "Miša Molk"
 }

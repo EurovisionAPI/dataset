@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Svetlana",
-  "artistPeople": [
-    "Claire de Loutchek"
-  ],
   "song": "Cours après le temps",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/vQPdRhIwx_w",
@@ -14,22 +10,27 @@
   ],
   "bpm": 126,
   "tone": "C major",
+  "artistPeople": [
+    "Claire de Loutchek"
+  ],
   "backings": [
     "Georges Costa",
     "Michel Costa"
   ],
-  "commentators": [
-    "Marylène Bergmann"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Cyril Assous"
   ],
   "conductor": "Jean Claudric",
-  "dancers": null,
   "lyricists": [
     "Michel Jouveaux"
   ],
-  "spokesperson": "Jacques Harvey",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Marylène Bergmann"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Harvey"
 }

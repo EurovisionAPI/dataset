@@ -6,12 +6,12 @@
   "intendedCountry": null,
   "slogan": "The Sound of Beauty",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2022.png",
+  "broadcasters": [
+    "RAI"
+  ],
   "presenters": [
     "Laura Pausini",
     "Alessandro Cattelan",
     "Mika"
-  ],
-  "broadcasters": [
-    "RAI"
   ]
 }

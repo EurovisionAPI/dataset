@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "MT",
-  "broadcaster": "PBS",
   "artist": "Chiara",
-  "artistPeople": [
-    "Chiara Siracusa"
-  ],
   "song": "Angel",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Vv8GmwcfR9A",
@@ -13,17 +9,22 @@
   ],
   "bpm": 136,
   "tone": "G major",
+  "artistPeople": [
+    "Chiara Siracusa"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Chiara"
+  ],
+  "broadcaster": "PBS",
   "commentators": [
     "Eileen Montesin"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Valerie Vella",
-  "stageDirector": null,
-  "writers": [
-    "Chiara"
-  ]
+  "jury": null,
+  "spokesperson": "Valerie Vella"
 }

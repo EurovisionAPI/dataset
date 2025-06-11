@@ -1,13 +1,7 @@
 {
   "id": 29,
   "country": "ME",
-  "broadcaster": "RTCG",
   "artist": "Who See",
-  "artistPeople": [
-    "Dejan Dedović",
-    "Nina Žižić",
-    "Mario Đorđević"
-  ],
   "song": "Igranka",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/FR9rtB2ilZU",
@@ -15,22 +9,29 @@
   ],
   "bpm": 130,
   "tone": "C minor",
-  "backings": null,
-  "commentators": [
-    "Dražen Bauković",
-    "Tamara Ivanković"
+  "artistPeople": [
+    "Dejan Dedović",
+    "Nina Žižić",
+    "Mario Đorđević"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Zoran Marković Zonjo",
   "composers": [
     "Đorđe Miljenović"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Dejan Dedović",
     "Đorđe Miljenović",
     "Mario Đorđević"
   ],
-  "spokesperson": "Ivana Sebek",
-  "stageDirector": "Zoran Marković Zonjo",
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Dražen Bauković",
+    "Tamara Ivanković"
+  ],
+  "jury": null,
+  "spokesperson": "Ivana Sebek"
 }

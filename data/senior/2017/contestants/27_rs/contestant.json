@@ -1,11 +1,7 @@
 {
   "id": 27,
   "country": "RS",
-  "broadcaster": "RTS",
   "artist": "Tijana Bogićević",
-  "artistPeople": [
-    "Tijana Bogićević"
-  ],
   "song": "In Too Deep",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/A0wAd-a0hXA",
@@ -16,28 +12,33 @@
   ],
   "bpm": 136,
   "tone": "A minor",
+  "artistPeople": [
+    "Tijana Bogićević"
+  ],
   "backings": [
     "Jelena Đurić-Mitić",
     "Jelena Pajić",
     "Sanja Bogosavljević"
   ],
-  "commentators": [
-    "Duška Vučinić-Lučić",
-    "Olga Kapor",
-    "Silvana Grujić"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Boris Vidaković"
   ],
-  "lyricists": null,
-  "spokesperson": "Sanja Vučić",
   "stageDirector": "Igor Basorović",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Borislav Milanov",
     "Joacim Persson",
     "Johan Alkenäs",
     "Lisa Desmond"
-  ]
+  ],
+  "broadcaster": "RTS",
+  "commentators": [
+    "Duška Vučinić-Lučić",
+    "Olga Kapor",
+    "Silvana Grujić"
+  ],
+  "jury": null,
+  "spokesperson": "Sanja Vučić"
 }

@@ -1,11 +1,7 @@
 {
   "id": 17,
   "country": "NL",
-  "broadcaster": "AVROTROS",
   "artist": "Waylon",
-  "artistPeople": [
-    "Willem Bijkerk"
-  ],
   "song": "Outlaw In 'Em",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/p7jHz5asMs8",
@@ -17,27 +13,32 @@
   ],
   "bpm": 87,
   "tone": "E major",
+  "artistPeople": [
+    "Willem Bijkerk"
+  ],
   "backings": [
     "Justin Pieplenbosch"
   ],
-  "commentators": [
-    "Cornald Maas",
-    "Jan Smit"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Brandon Likiyo",
     "Pierre Anganda",
     "Pieter Likiyo",
     "Roger Makadi"
   ],
-  "lyricists": null,
-  "spokesperson": "Amy Vol, Lisa Vol, Shelley Vol",
   "stageDirector": "Hans Pannecoucke",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Ilya Toshinskiy",
     "Jim Beaver",
     "Waylon"
-  ]
+  ],
+  "broadcaster": "AVROTROS",
+  "commentators": [
+    "Cornald Maas",
+    "Jan Smit"
+  ],
+  "jury": null,
+  "spokesperson": "Amy Vol, Lisa Vol, Shelley Vol"
 }

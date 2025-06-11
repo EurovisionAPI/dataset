@@ -1,12 +1,7 @@
 {
   "id": 11,
   "country": "MT",
-  "broadcaster": "PBS",
   "artist": "Julie & Ludwig",
-  "artistPeople": [
-    "Julie Ann Zahra",
-    "Ludwig Galea"
-  ],
   "song": "On again... off again",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/hbKBo7QhwcI",
@@ -16,21 +11,27 @@
   ],
   "bpm": 125,
   "tone": "Eb major",
+  "artistPeople": [
+    "Julie Ann Zahra",
+    "Ludwig Galea"
+  ],
   "backings": [
     "Katrin Schild von Spannenberg"
   ],
-  "commentators": [
-    "Eileen Montesin"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Philip Vella"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Gerard James Borg"
   ],
-  "spokesperson": "Claire Agius",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": [
+    "Eileen Montesin"
+  ],
+  "jury": null,
+  "spokesperson": "Claire Agius"
 }

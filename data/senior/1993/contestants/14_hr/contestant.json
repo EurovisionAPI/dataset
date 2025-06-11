@@ -1,16 +1,7 @@
 {
   "id": 14,
   "country": "HR",
-  "broadcaster": "HRT",
   "artist": "Put",
-  "artistPeople": [
-    "Anđela Jeličić",
-    "Melita Sedić",
-    "Naim Ajra",
-    "Olja Dešić",
-    "Pater Čučak",
-    "Vivien Galletta"
-  ],
   "song": "Don't Ever Cry",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/NqBcDIzfID8",
@@ -21,19 +12,29 @@
   ],
   "bpm": 92,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Aco Kostadinov"
+  "artistPeople": [
+    "Anđela Jeličić",
+    "Melita Sedić",
+    "Naim Ajra",
+    "Olja Dešić",
+    "Pater Čučak",
+    "Vivien Galletta"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Andrej Basa"
   ],
   "conductor": "Andrej Basa",
-  "dancers": null,
   "lyricists": [
     "Đorđe Novković"
   ],
-  "spokesperson": "Veljko Đuretić",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "jury": null,
+  "spokesperson": "Veljko Đuretić"
 }

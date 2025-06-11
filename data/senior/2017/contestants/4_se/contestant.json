@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Robin Bengtsson",
-  "artistPeople": [
-    "Hans Robin Gustav Bengtsson"
-  ],
   "song": "I Can't Go On",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/RjH_4oYqLw4",
@@ -17,6 +13,9 @@
   ],
   "bpm": 109,
   "tone": "A minor",
+  "artistPeople": [
+    "Hans Robin Gustav Bengtsson"
+  ],
   "backings": [
     "Alvaro Estrella",
     "Erik Segerstedt",
@@ -24,19 +23,21 @@
     "Lamin Holmén",
     "Patrik Riber"
   ],
-  "commentators": [
-    "Edward af Sillén",
-    "Måns Zelmerlöw"
-  ],
+  "dancers": null,
+  "stageDirector": "Lotta Furebäck, Mari Ryberger, Zain Odelstål",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Wiktoria",
-  "stageDirector": "Lotta Furebäck, Mari Ryberger, Zain Odelstål",
   "writers": [
     "David Kreuger",
     "K-One",
     "Robin Stjernberg"
-  ]
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Edward af Sillén",
+    "Måns Zelmerlöw"
+  ],
+  "jury": null,
+  "spokesperson": "Wiktoria"
 }

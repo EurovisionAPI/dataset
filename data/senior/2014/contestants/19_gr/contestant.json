@@ -1,15 +1,7 @@
 {
   "id": 19,
   "country": "GR",
-  "broadcaster": "NERIT",
   "artist": "Freaky Fortune feat. RiskyKidd",
-  "artistPeople": [
-    "Nicolas Raptakis",
-    "Shane Schuller",
-    "Teo DK",
-    "Teo Arkitekt",
-    "Teo Buzz"
-  ],
   "song": "Rise Up",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/c9y6A1uXLn8",
@@ -19,26 +11,35 @@
   ],
   "bpm": 128,
   "tone": "C minor",
+  "artistPeople": [
+    "Nicolas Raptakis",
+    "Shane Schuller",
+    "Teo DK",
+    "Teo Arkitekt",
+    "Teo Buzz"
+  ],
   "backings": [
     "Mihalis Zeis",
     "Vasilis Manthopoulos"
   ],
-  "commentators": [
-    "Giorgos Kapoutzidis",
-    "Maria Kozakou"
-  ],
+  "dancers": null,
+  "stageDirector": "Giorgos Papadopoulos",
   "composers": [
     "Nicolas Raptakis",
     "Theofilos Pouzbouris"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Nicolas Raptakis",
     "RiskyKidd",
     "Theofilos Pouzbouris"
   ],
-  "spokesperson": "Andrianna Maggania",
-  "stageDirector": "Giorgos Papadopoulos",
-  "writers": null
+  "writers": null,
+  "broadcaster": "NERIT",
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "jury": null,
+  "spokesperson": "Andrianna Maggania"
 }

@@ -1,11 +1,7 @@
 {
   "id": 27,
   "country": "MK",
-  "broadcaster": "MKRTV",
   "artist": "Vasil",
-  "artistPeople": [
-    "Vasil Garvanliev (Васил Гарванлиев)"
-  ],
   "song": "You",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/xPZumQQExQc",
@@ -13,21 +9,26 @@
   ],
   "bpm": 115,
   "tone": "Bb major",
+  "artistPeople": [
+    "Vasil Garvanliev (Васил Гарванлиев)"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Darko Dimitrov",
     "Lazar Cvetkoski",
     "Nevena Neskoska"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Alice Schroeder",
     "Kalina Neskoska",
     "Nevena Neskoska"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

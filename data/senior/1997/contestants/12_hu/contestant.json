@@ -1,14 +1,7 @@
 {
   "id": 12,
   "country": "HU",
-  "broadcaster": "MTV",
   "artist": "VIP",
-  "artistPeople": [
-    "Alex Józsa",
-    "Gergő Rácz",
-    "Imre Rakonczai",
-    "Viktor Rakonczai"
-  ],
   "song": "Miért kell, hogy elmenj?",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Nqjz3jGnxuY",
@@ -18,19 +11,27 @@
   ],
   "bpm": 105,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "István Vágó"
+  "artistPeople": [
+    "Alex Józsa",
+    "Gergő Rácz",
+    "Imre Rakonczai",
+    "Viktor Rakonczai"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Viktor Rakonczai"
   ],
   "conductor": "Péter Wolf",
-  "dancers": null,
   "lyricists": [
     "Krisztina Bokor Fekete"
   ],
-  "spokesperson": "Gyöngyi Albert",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "István Vágó"
+  ],
+  "jury": null,
+  "spokesperson": "Gyöngyi Albert"
 }

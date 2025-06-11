@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Lonnie Devantier",
-  "artistPeople": [
-    "Lonnie Høgh Devantier Askou Kjer"
-  ],
   "song": "Hallo, hallo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Lsp0S79f1ko",
@@ -14,24 +10,29 @@
   ],
   "bpm": 100,
   "tone": "D major",
+  "artistPeople": [
+    "Lonnie Høgh Devantier Askou Kjer"
+  ],
   "backings": [
     "Jacob Launbjerg",
     "Niclas Bendixen",
     "Peter Busborg"
   ],
-  "commentators": [
-    "Jørgen de Mylius"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "John Hatting",
     "Torben Lendager"
   ],
   "conductor": "Henrik Krogsgaard",
-  "dancers": null,
   "lyricists": [
     "Keld Heick"
   ],
-  "spokesperson": "Bent Henius",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
 }

@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Monica Aspelund",
-  "artistPeople": [
-    "Monica Helena Aspelund-Holm"
-  ],
   "song": "Lapponia",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/v9kKfTKenC8",
@@ -18,24 +14,29 @@
   ],
   "bpm": 103,
   "tone": "C major",
+  "artistPeople": [
+    "Monica Helena Aspelund-Holm"
+  ],
   "backings": [
     "Aarno Raninen",
     "Kari Fall",
     "Kari Kuusamo",
     "Reijo Karvonen"
   ],
-  "commentators": [
-    "Erkki Toivanen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Aarno Raninen"
   ],
   "conductor": "Ossi Runne",
-  "dancers": null,
   "lyricists": [
     "Monica Aspelund"
   ],
-  "spokesperson": "Kaarina Pönniö",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Toivanen"
+  ],
+  "jury": null,
+  "spokesperson": "Kaarina Pönniö"
 }

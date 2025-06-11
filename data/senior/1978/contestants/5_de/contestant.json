@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "DE",
-  "broadcaster": "ARD",
   "artist": "Ireen Sheer",
-  "artistPeople": [
-    "Ireen Sheer"
-  ],
   "song": "Feuer",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/WEZjOeBLu_Q",
@@ -15,6 +11,9 @@
   ],
   "bpm": 139,
   "tone": "C minor",
+  "artistPeople": [
+    "Ireen Sheer"
+  ],
   "backings": [
     "Catherine Bonnevay",
     "Dominique Poulain",
@@ -22,18 +21,20 @@
     "Georges Costa",
     "Michel Costa"
   ],
-  "commentators": [
-    "Werner Veigel"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jean Frankfurter"
   ],
   "conductor": "Jean Frankfurter",
-  "dancers": null,
   "lyricists": [
     "John Möring"
   ],
-  "spokesperson": "Sigi Harreis",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Werner Veigel"
+  ],
+  "jury": null,
+  "spokesperson": "Sigi Harreis"
 }

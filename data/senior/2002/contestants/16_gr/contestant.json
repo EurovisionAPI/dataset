@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "GR",
-  "broadcaster": "ERT",
   "artist": "Michalis Rakintzis",
-  "artistPeople": [
-    "Michalis Rakintzis"
-  ],
   "song": "S.A.G.A.P.O.",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/m78_J5riBMk",
@@ -15,22 +11,27 @@
   ],
   "bpm": 102,
   "tone": "F minor",
+  "artistPeople": [
+    "Michalis Rakintzis"
+  ],
   "backings": [
     "Michalis Kyriakides",
     "Nikos Menem",
     "Terry Mavridis",
     "Yiannis Karmas"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Michalis Rakintzis"
+  ],
+  "broadcaster": "ERT",
   "commentators": [
     "Dafni Bokota"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Alexis Kostalas",
-  "stageDirector": null,
-  "writers": [
-    "Michalis Rakintzis"
-  ]
+  "jury": null,
+  "spokesperson": "Alexis Kostalas"
 }

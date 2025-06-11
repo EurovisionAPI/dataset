@@ -1,15 +1,7 @@
 {
   "id": 40,
   "country": "GE",
-  "broadcaster": "GPB",
   "artist": "Ethno-Jazz Band Iriao",
-  "artistPeople": [
-    "Bidzina Murgulia",
-    "George Abashidze",
-    "Levan Abshilava",
-    "Mikheil Javakhishvili",
-    "Shalva Gelekva Niutone"
-  ],
   "song": "For You",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/FvVx5-mzmm0",
@@ -19,20 +11,29 @@
   ],
   "bpm": 121,
   "tone": "A minor",
-  "backings": null,
-  "commentators": [
-    "Demetre Ergemlidze"
+  "artistPeople": [
+    "Bidzina Murgulia",
+    "George Abashidze",
+    "Levan Abshilava",
+    "Mikheil Javakhishvili",
+    "Shalva Gelekva Niutone"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Zaza Orashvili",
   "composers": [
     "David Malazonia",
     "Mikheil Mdinaradze"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Irina Sanikidze"
   ],
-  "spokesperson": "Tamara Gachechiladze",
-  "stageDirector": "Zaza Orashvili",
-  "writers": null
+  "writers": null,
+  "broadcaster": "GPB",
+  "commentators": [
+    "Demetre Ergemlidze"
+  ],
+  "jury": null,
+  "spokesperson": "Tamara Gachechiladze"
 }

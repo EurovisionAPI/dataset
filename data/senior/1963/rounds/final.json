@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "1963-03-23",
   "time": "19:00:00",
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 42,
           "votes": {
             "AT": 3,
             "BE": 5,
@@ -38,6 +38,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 40,
           "votes": {
             "AT": 5,
             "BE": 4,
@@ -65,6 +66,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 37,
           "votes": {
             "AT": 0,
             "BE": 3,
@@ -92,6 +94,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 28,
           "votes": {
             "AT": 0,
             "BE": 0,
@@ -119,6 +122,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 25,
           "votes": {
             "AT": 2,
             "BE": 1,
@@ -146,6 +150,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 25,
           "votes": {
             "AT": 1,
             "BE": 0,
@@ -173,6 +178,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 16,
           "votes": {
             "BE": 2,
             "DK": 1,
@@ -200,6 +206,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 13,
           "votes": {
             "AT": 0,
             "BE": 0,
@@ -227,6 +234,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 5,
           "votes": {
             "AT": 0,
             "BE": 0,
@@ -254,6 +262,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 4,
           "votes": {
             "AT": 4,
             "DK": 0,
@@ -281,6 +290,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 3,
           "votes": {
             "AT": 0,
             "BE": 0,
@@ -308,6 +318,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 2,
           "votes": {
             "AT": 0,
             "BE": 0,
@@ -335,6 +346,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 0,
           "votes": {
             "AT": 0,
             "BE": 0,
@@ -362,6 +374,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 0,
           "votes": {
             "AT": 0,
             "BE": 0,
@@ -389,6 +402,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 0,
           "votes": {
             "AT": 0,
             "BE": 0,
@@ -416,6 +430,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 0,
           "votes": {
             "AT": 0,
             "BE": 0,

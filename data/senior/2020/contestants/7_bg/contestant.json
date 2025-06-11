@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "BG",
-  "broadcaster": "BNT",
   "artist": "Victoria",
-  "artistPeople": [
-    "Victoria Georgieva (Виктория Георгиева)"
-  ],
   "song": "Tears Getting Sober",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/V_hgYnwZR8I",
@@ -18,8 +14,12 @@
   ],
   "bpm": 116,
   "tone": "F# major",
+  "artistPeople": [
+    "Victoria Georgieva (Виктория Георгиева)"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Borislav Milanov",
     "Cornelia Wiebols",
@@ -27,13 +27,14 @@
     "Victoria"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Borislav Milanov",
     "Lukas Oscar Janisch",
     "Victoria"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BNT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

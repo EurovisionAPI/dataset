@@ -1,16 +1,7 @@
 {
   "id": 0,
   "country": "UA",
-  "broadcaster": "UA:PBC",
   "artist": "Kalush Orchestra",
-  "artistPeople": [
-    "Ihor Didenchuk",
-    "Psyuchyy Syn",
-    "Sasha Tab",
-    "Tymofii Muzychuk",
-    "Vitalii Duzhyk",
-    "KilimMen"
-  ],
   "song": "Stefania",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/F1fl60ypdLs",
@@ -23,22 +14,32 @@
   ],
   "bpm": 105,
   "tone": "D minor",
-  "backings": null,
-  "commentators": [
-    "Timur Miroshnychenko"
+  "artistPeople": [
+    "Ihor Didenchuk",
+    "Psyuchyy Syn",
+    "Sasha Tab",
+    "Tymofii Muzychuk",
+    "Vitalii Duzhyk",
+    "KilimMen"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Oleksii Zhembrovskyi",
   "composers": [
     "Ihor Didenchuk",
     "Tymofii Muzychuk",
     "Vitalii Duzhyk"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Ivan Klymenko",
     "Oleh Psiuk"
   ],
-  "spokesperson": "Kateryna Pavlenko",
-  "stageDirector": "Oleksii Zhembrovskyi",
-  "writers": null
+  "writers": null,
+  "broadcaster": "UA:PBC",
+  "commentators": [
+    "Timur Miroshnychenko"
+  ],
+  "jury": null,
+  "spokesperson": "Kateryna Pavlenko"
 }

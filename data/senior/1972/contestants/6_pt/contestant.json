@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Carlos Mendes",
-  "artistPeople": [
-    "Carlos Mendes"
-  ],
   "song": "A festa da vida",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/sE60nsaf7q0",
@@ -18,23 +14,28 @@
   ],
   "bpm": 163,
   "tone": "E minor",
+  "artistPeople": [
+    "Carlos Mendes"
+  ],
   "backings": [
     "Gill Gray",
     "Laura Lee",
     "Sylvia King"
   ],
-  "commentators": [
-    "Henrique Mendes"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "José Calvário"
   ],
   "conductor": "Richard Hill",
-  "dancers": null,
   "lyricists": [
     "José Niza"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Henrique Mendes"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

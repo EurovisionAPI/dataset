@@ -1,11 +1,7 @@
 {
   "id": 40,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Eric Papilaya",
-  "artistPeople": [
-    "Eric Papilaya"
-  ],
   "song": "Get A Life - Get Alive",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/gydbp99tMlg",
@@ -13,6 +9,9 @@
   ],
   "bpm": 128,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Eric Papilaya"
+  ],
   "backings": [
     "Cedric Lee Bradley",
     "Jerome Knols",
@@ -20,18 +19,20 @@
     "Nina Weiß",
     "Thomas Pilat"
   ],
-  "commentators": [
-    "Andi Knoll"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Greg Usek"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Austin Howard"
   ],
-  "spokesperson": "Eva Pölzl",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Eva Pölzl"
 }

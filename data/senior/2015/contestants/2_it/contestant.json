@@ -1,13 +1,7 @@
 {
   "id": 2,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Il Volo",
-  "artistPeople": [
-    "Gianluca Ginoble",
-    "Ignazio Boschetto",
-    "Piero Barone"
-  ],
   "song": "Grande amore",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/1TOMqZV2jA8",
@@ -20,21 +14,28 @@
   ],
   "bpm": 142,
   "tone": "F minor",
+  "artistPeople": [
+    "Gianluca Ginoble",
+    "Ignazio Boschetto",
+    "Piero Barone"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ciro Esposito",
+    "Francesco Boccia"
+  ],
+  "broadcaster": "RAI",
   "commentators": [
     "Federico Russo",
     "Filippo Solibello",
     "Marco Ardemagni",
     "Valentina Correani"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Federico Russo",
-  "stageDirector": null,
-  "writers": [
-    "Ciro Esposito",
-    "Francesco Boccia"
-  ]
+  "jury": null,
+  "spokesperson": "Federico Russo"
 }

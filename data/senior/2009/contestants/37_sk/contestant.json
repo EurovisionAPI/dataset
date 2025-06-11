@@ -1,12 +1,7 @@
 {
   "id": 37,
   "country": "SK",
-  "broadcaster": "STV",
   "artist": "Kamil Mikulčík & Nela Pocisková",
-  "artistPeople": [
-    "Kamil Mikulčík",
-    "Nela Pocisková"
-  ],
   "song": "Leť tmou",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/RLMU1u2ojfk",
@@ -15,23 +10,29 @@
   ],
   "bpm": 153,
   "tone": "E minor",
+  "artistPeople": [
+    "Kamil Mikulčík",
+    "Nela Pocisková"
+  ],
   "backings": [
     "Jan Pospíšil",
     "Rastislav Dubovský"
   ],
-  "commentators": [
-    "Roman Bomboš"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Rastislav Dubovský"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Anna Žigová",
     "Petronela Kolevská"
   ],
-  "spokesperson": "Ľubomír Bajaník",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "STV",
+  "commentators": [
+    "Roman Bomboš"
+  ],
+  "jury": null,
+  "spokesperson": "Ľubomír Bajaník"
 }

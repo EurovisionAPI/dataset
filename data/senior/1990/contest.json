@@ -6,11 +6,11 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1990.png",
+  "broadcasters": [
+    "JRT"
+  ],
   "presenters": [
     "Olivar Mlakar",
     "Helga Vlahovic"
-  ],
-  "broadcasters": [
-    "JRT"
   ]
 }

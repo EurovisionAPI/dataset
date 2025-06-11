@@ -1,11 +1,7 @@
 {
   "id": 16,
   "country": "DE",
-  "broadcaster": "ARD",
   "artist": "Joy Fleming",
-  "artistPeople": [
-    "Erna Strube"
-  ],
   "song": "Ein Lied kann eine Brücke sein",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/y2I53RbxGYo",
@@ -16,23 +12,28 @@
   ],
   "bpm": 120,
   "tone": "G major",
+  "artistPeople": [
+    "Erna Strube"
+  ],
   "backings": [
     "Madeline Bell",
     "Sue Glover",
     "Sunny Leslie"
   ],
-  "commentators": [
-    "Werner Veigel"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Rainer Pietsch"
   ],
   "conductor": "Rainer Pietsch",
-  "dancers": null,
   "lyricists": [
     "Michael Holm"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Werner Veigel"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Lucio Corsi",
-  "artistPeople": [
-    "Lucio Corsi"
-  ],
   "song": "Volevo essere un duro",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Vlu5XXDwHos",
@@ -18,21 +14,26 @@
   ],
   "bpm": 79,
   "tone": "E major",
+  "artistPeople": [
+    "Lucio Corsi"
+  ],
   "backings": [
     "Tommaso Ottomano"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Lucio Corsi",
+    "Tommaso Ottomano"
+  ],
+  "broadcaster": "RAI",
   "commentators": [
     "BigMama",
     "Gabriele Corsi"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": [
-    "Lucio Corsi",
-    "Tommaso Ottomano"
-  ]
+  "jury": null,
+  "spokesperson": null
 }

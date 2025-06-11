@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Eimear Quinn",
-  "artistPeople": [
-    "Eimear Ní Chuinn"
-  ],
   "song": "The Voice",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/0KiE1byYXtA",
@@ -16,17 +12,22 @@
   ],
   "bpm": 125,
   "tone": "G major",
+  "artistPeople": [
+    "Eimear Ní Chuinn"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Brendan J. Graham"
+  ],
+  "broadcaster": "RTÉ",
   "commentators": [
     "Pat Kenny"
   ],
-  "composers": null,
-  "conductor": "Noel Kelehan",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Eileen Dunne",
-  "stageDirector": null,
-  "writers": [
-    "Brendan J. Graham"
-  ]
+  "jury": null,
+  "spokesperson": "Eileen Dunne"
 }

@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Nunzio Gallo",
-  "artistPeople": [
-    "Nunzio Gallo"
-  ],
   "song": "Corde della mia chitarra",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/uUPzp2XJIyo",
@@ -14,21 +10,26 @@
   ],
   "bpm": 132,
   "tone": "C minor",
+  "artistPeople": [
+    "Nunzio Gallo"
+  ],
   "backings": [
     "Piero Gozio"
   ],
-  "commentators": [
-    "Bianca Maria Piccinino"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Mario Ruccione"
   ],
   "conductor": "Armando Trovajoli",
-  "dancers": null,
   "lyricists": [
     "Giuseppe Fiorelli"
   ],
-  "spokesperson": "Nunzio Filogamo",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Bianca Maria Piccinino"
+  ],
+  "jury": null,
+  "spokesperson": "Nunzio Filogamo"
 }

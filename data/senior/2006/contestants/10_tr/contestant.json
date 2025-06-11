@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "TR",
-  "broadcaster": "TRT",
   "artist": "Sibel Tüzün",
-  "artistPeople": [
-    "Sibel Tüzün"
-  ],
   "song": "Superstar",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/BlIDxZ1YfVc",
@@ -14,22 +10,27 @@
   ],
   "bpm": 132,
   "tone": "F minor",
+  "artistPeople": [
+    "Sibel Tüzün"
+  ],
   "backings": [
     "Arthur Gourounlian",
     "Glenn Ball",
     "James Robinson",
     "Scott Marshall"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sibel Tüzün"
+  ],
+  "broadcaster": "TRT",
   "commentators": [
     "Bülend Özveren"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Meltem Ersan Yazgan",
-  "stageDirector": null,
-  "writers": [
-    "Sibel Tüzün"
-  ]
+  "jury": null,
+  "spokesperson": "Meltem Ersan Yazgan"
 }

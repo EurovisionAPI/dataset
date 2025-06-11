@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Marion Rung",
-  "artistPeople": [
-    "Marion Rung"
-  ],
   "song": "Tipi-tii",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/yj7nnOq26cQ",
@@ -14,18 +10,23 @@
   ],
   "bpm": 165,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Aarno Walli"
+  "artistPeople": [
+    "Marion Rung"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "George de Godzinsky",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Poppe Berg",
-  "stageDirector": null,
   "writers": [
     "Jaakko Salo",
     "Kari Tuomisaari"
-  ]
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aarno Walli"
+  ],
+  "jury": null,
+  "spokesperson": "Poppe Berg"
 }

@@ -1,13 +1,7 @@
 {
   "id": 10,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Charmed",
-  "artistPeople": [
-    "Hanne Kristine Haugsand",
-    "Lise Monica Nygård",
-    "Oddrun Valestrand"
-  ],
   "song": "My Heart Goes Boom",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/b1vK77bk2HM",
@@ -15,22 +9,29 @@
   ],
   "bpm": 105,
   "tone": "B major",
+  "artistPeople": [
+    "Hanne Kristine Haugsand",
+    "Lise Monica Nygård",
+    "Oddrun Valestrand"
+  ],
   "backings": [
     "Åse Karin Hjelen",
     "Åshild Kristin Stensrud",
     "Håvard Gryting"
   ],
-  "commentators": [
-    "Jostein Pedersen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Marit Åslein",
-  "stageDirector": null,
   "writers": [
     "Morten Henriksen",
     "Tore Madsen"
-  ]
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "jury": null,
+  "spokesperson": "Marit Åslein"
 }

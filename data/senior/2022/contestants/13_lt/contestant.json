@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "LT",
-  "broadcaster": "LRT",
   "artist": "Monika Liu",
-  "artistPeople": [
-    "Monika Liubinaitė"
-  ],
   "song": "Sentimentai",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/BVqSTVJhD44",
@@ -18,17 +14,22 @@
   ],
   "bpm": 93,
   "tone": "D minor",
+  "artistPeople": [
+    "Monika Liubinaitė"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": "Povilas Varvuolis",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Monika Liu"
+  ],
+  "broadcaster": "LRT",
   "commentators": [
     "Ramūnas Zilnys"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Vaidotas Valiukevičius",
-  "stageDirector": "Povilas Varvuolis",
-  "writers": [
-    "Monika Liu"
-  ]
+  "jury": null,
+  "spokesperson": "Vaidotas Valiukevičius"
 }

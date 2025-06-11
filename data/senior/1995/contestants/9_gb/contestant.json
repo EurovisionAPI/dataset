@@ -1,14 +1,7 @@
 {
   "id": 9,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Love City Groove",
-  "artistPeople": [
-    "Stephen Rudden",
-    "Jay Williams",
-    "Yinka Charles",
-    "Paul Hardy"
-  ],
   "song": "Love City Groove",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Cy2HbL4rwaA",
@@ -18,22 +11,30 @@
   ],
   "bpm": 99,
   "tone": "F# minor",
+  "artistPeople": [
+    "Stephen Rudden",
+    "Jay Williams",
+    "Yinka Charles",
+    "Paul Hardy"
+  ],
   "backings": [
     "Jingles"
   ],
-  "commentators": [
-    "Terry Wogan"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Mike Dixon",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Colin Berry",
-  "stageDirector": null,
   "writers": [
     "Beanz",
     "Jay Williams",
     "Paul Hardy",
     "Tatsiana Mais"
-  ]
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
 }

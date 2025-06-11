@@ -1,13 +1,7 @@
 {
   "id": 14,
   "country": "SI",
-  "broadcaster": "RTVSLO",
   "artist": "Sestre",
-  "artistPeople": [
-    "Srečko Blas",
-    "Damjan Levec",
-    "Tomaž Mihelič"
-  ],
   "song": "Samo ljubezen",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/xgpZDGvNEOE",
@@ -17,23 +11,30 @@
   ],
   "bpm": 140,
   "tone": "D major",
+  "artistPeople": [
+    "Srečko Blas",
+    "Damjan Levec",
+    "Tomaž Mihelič"
+  ],
   "backings": [
     "Anže Langus",
     "Jadranka Juras",
     "Mate Brodar"
   ],
-  "commentators": [
-    "Andrea F"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Magnifico"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Barbara Pešut"
   ],
-  "spokesperson": "Nuša Derenda",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrea F"
+  ],
+  "jury": null,
+  "spokesperson": "Nuša Derenda"
 }

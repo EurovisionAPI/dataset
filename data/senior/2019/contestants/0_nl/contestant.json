@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "NL",
-  "broadcaster": "AVROTROS",
   "artist": "Duncan Laurence",
-  "artistPeople": [
-    "Duncan de Moor"
-  ],
   "song": "Arcade",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/R3D-r4ogr7s",
@@ -18,24 +14,29 @@
   ],
   "bpm": 143,
   "tone": "F major",
+  "artistPeople": [
+    "Duncan de Moor"
+  ],
   "backings": [
     "Kris Rietveld",
     "Marcel Swerissen",
     "Sarina Voorn"
   ],
-  "commentators": [
-    "Cornald Maas",
-    "Jan Smit"
-  ],
+  "dancers": null,
+  "stageDirector": "Hans Pannecoucke",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Emma Wortelboer",
-  "stageDirector": "Hans Pannecoucke",
   "writers": [
     "Duncan de Moor",
     "Joel Sjöö",
     "Wouter Hardy"
-  ]
+  ],
+  "broadcaster": "AVROTROS",
+  "commentators": [
+    "Cornald Maas",
+    "Jan Smit"
+  ],
+  "jury": null,
+  "spokesperson": "Emma Wortelboer"
 }

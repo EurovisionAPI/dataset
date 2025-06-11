@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "2016-05-10",
   "time": "20:00:00",
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 342,
           "votes": {
             "AM": 19,
             "AT": 15,
@@ -36,6 +36,7 @@
         },
         {
           "name": "public",
+          "points": 194,
           "votes": {
             "AM": 12,
             "AT": 7,
@@ -61,6 +62,7 @@
         },
         {
           "name": "jury",
+          "points": 148,
           "votes": {
             "AM": 7,
             "AT": 8,
@@ -93,6 +95,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 243,
           "votes": {
             "AT": 9,
             "AZ": 0,
@@ -118,6 +121,7 @@
         },
         {
           "name": "public",
+          "points": 116,
           "votes": {
             "AT": 4,
             "AZ": 0,
@@ -143,6 +147,7 @@
         },
         {
           "name": "jury",
+          "points": 127,
           "votes": {
             "AT": 5,
             "AZ": 0,
@@ -175,6 +180,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 209,
           "votes": {
             "AM": 22,
             "AT": 12,
@@ -200,6 +206,7 @@
         },
         {
           "name": "public",
+          "points": 54,
           "votes": {
             "AM": 10,
             "AT": 0,
@@ -225,6 +232,7 @@
         },
         {
           "name": "jury",
+          "points": 155,
           "votes": {
             "AM": 12,
             "AT": 12,
@@ -257,6 +265,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 197,
           "votes": {
             "AM": 6,
             "AT": 8,
@@ -282,6 +291,7 @@
         },
         {
           "name": "public",
+          "points": 119,
           "votes": {
             "AM": 6,
             "AT": 8,
@@ -307,6 +317,7 @@
         },
         {
           "name": "jury",
+          "points": 78,
           "votes": {
             "AM": 0,
             "AT": 0,
@@ -339,6 +350,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 197,
           "votes": {
             "AM": 8,
             "AT": 16,
@@ -364,6 +376,7 @@
         },
         {
           "name": "public",
+          "points": 95,
           "votes": {
             "AM": 4,
             "AT": 10,
@@ -389,6 +402,7 @@
         },
         {
           "name": "jury",
+          "points": 102,
           "votes": {
             "AM": 4,
             "AT": 6,
@@ -421,6 +435,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 185,
           "votes": {
             "AM": 0,
             "AT": 4,
@@ -446,6 +461,7 @@
         },
         {
           "name": "public",
+          "points": 93,
           "votes": {
             "AM": 0,
             "AT": 0,
@@ -471,6 +487,7 @@
         },
         {
           "name": "jury",
+          "points": 92,
           "votes": {
             "AM": 0,
             "AT": 4,
@@ -503,6 +520,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 170,
           "votes": {
             "AM": 5,
             "AZ": 6,
@@ -528,6 +546,7 @@
         },
         {
           "name": "public",
+          "points": 133,
           "votes": {
             "AM": 5,
             "AZ": 6,
@@ -553,6 +572,7 @@
         },
         {
           "name": "jury",
+          "points": 37,
           "votes": {
             "AM": 0,
             "AZ": 0,
@@ -585,6 +605,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 164,
           "votes": {
             "AM": 8,
             "AT": 2,
@@ -610,6 +631,7 @@
         },
         {
           "name": "public",
+          "points": 93,
           "votes": {
             "AM": 8,
             "AT": 2,
@@ -635,6 +657,7 @@
         },
         {
           "name": "jury",
+          "points": 71,
           "votes": {
             "AM": 0,
             "AT": 0,
@@ -667,6 +690,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 161,
           "votes": {
             "AM": 7,
             "AT": 11,
@@ -692,6 +716,7 @@
         },
         {
           "name": "public",
+          "points": 41,
           "votes": {
             "AM": 2,
             "AT": 1,
@@ -717,6 +742,7 @@
         },
         {
           "name": "jury",
+          "points": 120,
           "votes": {
             "AM": 5,
             "AT": 10,
@@ -749,6 +775,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 133,
           "votes": {
             "AM": 5,
             "AT": 13,
@@ -774,6 +801,7 @@
         },
         {
           "name": "public",
+          "points": 53,
           "votes": {
             "AM": 3,
             "AT": 6,
@@ -799,6 +827,7 @@
         },
         {
           "name": "jury",
+          "points": 80,
           "votes": {
             "AM": 2,
             "AT": 7,
@@ -831,6 +860,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 104,
           "votes": {
             "AM": 2,
             "AT": 12,
@@ -856,6 +886,7 @@
         },
         {
           "name": "public",
+          "points": 78,
           "votes": {
             "AM": 1,
             "AT": 12,
@@ -881,6 +912,7 @@
         },
         {
           "name": "jury",
+          "points": 26,
           "votes": {
             "AM": 1,
             "AT": 0,
@@ -913,6 +945,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 68,
           "votes": {
             "AM": 0,
             "AT": 5,
@@ -938,6 +971,7 @@
         },
         {
           "name": "public",
+          "points": 49,
           "votes": {
             "AM": 0,
             "AT": 5,
@@ -963,6 +997,7 @@
         },
         {
           "name": "jury",
+          "points": 19,
           "votes": {
             "AM": 0,
             "AT": 0,
@@ -995,6 +1030,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 60,
           "votes": {
             "AM": 10,
             "AT": 0,
@@ -1020,6 +1056,7 @@
         },
         {
           "name": "public",
+          "points": 14,
           "votes": {
             "AM": 0,
             "AT": 0,
@@ -1045,6 +1082,7 @@
         },
         {
           "name": "jury",
+          "points": 46,
           "votes": {
             "AM": 10,
             "AT": 0,
@@ -1077,6 +1115,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 51,
           "votes": {
             "AM": 0,
             "AT": 6,
@@ -1102,6 +1141,7 @@
         },
         {
           "name": "public",
+          "points": 24,
           "votes": {
             "AM": 0,
             "AT": 3,
@@ -1127,6 +1167,7 @@
         },
         {
           "name": "jury",
+          "points": 27,
           "votes": {
             "AM": 0,
             "AT": 3,
@@ -1159,6 +1200,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 51,
           "votes": {
             "AM": 8,
             "AT": 2,
@@ -1184,6 +1226,7 @@
         },
         {
           "name": "public",
+          "points": 16,
           "votes": {
             "AM": 0,
             "AT": 0,
@@ -1209,6 +1252,7 @@
         },
         {
           "name": "jury",
+          "points": 35,
           "votes": {
             "AM": 8,
             "AT": 2,
@@ -1241,6 +1285,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 44,
           "votes": {
             "AM": 10,
             "AT": 0,
@@ -1266,6 +1311,7 @@
         },
         {
           "name": "public",
+          "points": 22,
           "votes": {
             "AM": 7,
             "AT": 0,
@@ -1291,6 +1337,7 @@
         },
         {
           "name": "jury",
+          "points": 22,
           "votes": {
             "AM": 3,
             "AT": 0,
@@ -1323,6 +1370,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 33,
           "votes": {
             "AM": 6,
             "AT": 0,
@@ -1348,6 +1396,7 @@
         },
         {
           "name": "public",
+          "points": 9,
           "votes": {
             "AM": 0,
             "AT": 0,
@@ -1373,6 +1422,7 @@
         },
         {
           "name": "jury",
+          "points": 24,
           "votes": {
             "AM": 6,
             "AT": 0,
@@ -1405,6 +1455,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 24,
           "votes": {
             "AM": 0,
             "AT": 1,
@@ -1430,6 +1481,7 @@
         },
         {
           "name": "public",
+          "points": 15,
           "votes": {
             "AM": 0,
             "AT": 0,
@@ -1455,6 +1507,7 @@
         },
         {
           "name": "jury",
+          "points": 9,
           "votes": {
             "AM": 0,
             "AT": 1,

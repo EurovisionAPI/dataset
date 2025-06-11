@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Charlotte Nilsson",
-  "artistPeople": [
-    "Anna Jenny Charlotte Jensen Perrelli"
-  ],
   "song": "Take Me To Your Heaven",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/a0cERXG3m90",
@@ -16,6 +12,9 @@
   ],
   "bpm": 144,
   "tone": "E major",
+  "artistPeople": [
+    "Anna Jenny Charlotte Jensen Perrelli"
+  ],
   "backings": [
     "Dea Norberg",
     "Fredrik Ivarson",
@@ -23,19 +22,21 @@
     "Micke Blomqvist",
     "Anna Cecilia Sahlin"
   ],
-  "commentators": [
-    "Anders Berglund",
-    "Pekka Heino"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Lars 'Dille' Diedricson"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Marcos Ubeda"
   ],
-  "spokesperson": "Pontus Gårdinger",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Anders Berglund",
+    "Pekka Heino"
+  ],
+  "jury": null,
+  "spokesperson": "Pontus Gårdinger"
 }

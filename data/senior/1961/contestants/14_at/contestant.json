@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Jimmy Makulis",
-  "artistPeople": [
-    "Jimmy Makulis"
-  ],
   "song": "Sehnsucht",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/GYYr9pLQNOQ",
@@ -13,15 +9,20 @@
   ],
   "bpm": 148,
   "tone": "C major",
+  "artistPeople": [
+    "Jimmy Makulis"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Franck Pourcel",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Emil Kollpacher",
-  "stageDirector": null,
   "writers": [
     "Leopold Andrejewitsch"
-  ]
+  ],
+  "broadcaster": "ORF",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Emil Kollpacher"
 }

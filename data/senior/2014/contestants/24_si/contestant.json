@@ -1,11 +1,7 @@
 {
   "id": 24,
   "country": "SI",
-  "broadcaster": "RTVSLO",
   "artist": "Tinkara Kovač",
-  "artistPeople": [
-    "Tinkara Kovač"
-  ],
   "song": "Round and Round",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/CiwM1sY3u0s",
@@ -16,26 +12,31 @@
   ],
   "bpm": 120,
   "tone": "C minor",
+  "artistPeople": [
+    "Tinkara Kovač"
+  ],
   "backings": [
     "Lea Sirk",
     "Manca Špik",
     "Nika Zorjan",
     "Raay"
   ],
-  "commentators": [
-    "Andrej Hofer"
-  ],
+  "dancers": null,
+  "stageDirector": "Urška Žnidaršič",
   "composers": [
     "Raay"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Hannah Mancini",
     "Tina Piš",
     "Tinkara Kovač"
   ],
-  "spokesperson": "Ula Furlan",
-  "stageDirector": "Urška Žnidaršič",
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "jury": null,
+  "spokesperson": "Ula Furlan"
 }

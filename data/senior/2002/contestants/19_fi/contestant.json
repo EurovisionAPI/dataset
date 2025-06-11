@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Laura",
-  "artistPeople": [
-    "Sanna Laura Voutilainen"
-  ],
   "song": "Addicted to You",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/FfPCyx4z2EM",
@@ -15,26 +11,31 @@
   ],
   "bpm": 126,
   "tone": "F major",
+  "artistPeople": [
+    "Sanna Laura Voutilainen"
+  ],
   "backings": [
     "Gary Revell Jr.",
     "Maria Ilmoniemi",
     "Marika Tuhkala",
     "Sheidi"
   ],
-  "commentators": [
-    "Asko Murtomäki",
-    "Maria Guzenina"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Maki Kolehmainen"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Janina Frostell",
     "Tracy Lipp"
   ],
-  "spokesperson": "Marion Rung",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Asko Murtomäki",
+    "Maria Guzenina"
+  ],
+  "jury": null,
+  "spokesperson": "Marion Rung"
 }

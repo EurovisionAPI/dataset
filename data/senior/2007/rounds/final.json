@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "2007-05-12",
   "time": "19:00:00",
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 268,
           "votes": {
             "AL": 1,
             "AD": 0,
@@ -64,6 +64,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 235,
           "votes": {
             "AL": 0,
             "AD": 12,
@@ -117,6 +118,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 207,
           "votes": {
             "AL": 0,
             "AD": 3,
@@ -170,6 +172,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 163,
           "votes": {
             "AL": 10,
             "AD": 0,
@@ -223,6 +226,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 157,
           "votes": {
             "AL": 0,
             "AD": 0,
@@ -276,6 +280,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 145,
           "votes": {
             "AL": 2,
             "AD": 0,
@@ -329,6 +334,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 139,
           "votes": {
             "AL": 7,
             "AD": 0,
@@ -382,6 +388,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 138,
           "votes": {
             "AL": 0,
             "AD": 0,
@@ -435,6 +442,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 128,
           "votes": {
             "AL": 0,
             "AD": 6,
@@ -488,6 +496,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 109,
           "votes": {
             "AL": 0,
             "AD": 4,
@@ -541,6 +550,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 106,
           "votes": {
             "AL": 8,
             "AD": 0,
@@ -594,6 +604,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 97,
           "votes": {
             "AL": 0,
             "AD": 0,
@@ -647,6 +658,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 84,
           "votes": {
             "AL": 0,
             "AD": 10,
@@ -700,6 +712,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 73,
           "votes": {
             "AL": 3,
             "AD": 0,
@@ -753,6 +766,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 66,
           "votes": {
             "AL": 0,
             "AD": 0,
@@ -806,6 +820,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 54,
           "votes": {
             "AL": 0,
             "AD": 0,
@@ -859,6 +874,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 53,
           "votes": {
             "AL": 0,
             "AD": 7,
@@ -912,6 +928,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 51,
           "votes": {
             "AL": 0,
             "AD": 2,
@@ -965,6 +982,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 49,
           "votes": {
             "AL": 6,
             "AD": 5,
@@ -1018,6 +1036,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 43,
           "votes": {
             "AL": 12,
             "AD": 0,
@@ -1071,6 +1090,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 28,
           "votes": {
             "AL": 0,
             "AD": 1,
@@ -1124,6 +1144,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 19,
           "votes": {
             "AL": 4,
             "AD": 8,
@@ -1177,6 +1198,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 19,
           "votes": {
             "AL": 0,
             "AD": 0,
@@ -1230,6 +1252,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 5,
           "votes": {
             "AL": 5,
             "AD": 0,

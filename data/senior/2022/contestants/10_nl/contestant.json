@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "NL",
-  "broadcaster": "AVROTROS",
   "artist": "S10",
-  "artistPeople": [
-    "S10"
-  ],
   "song": "De diepte",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/sgOnu7ux2-k",
@@ -17,19 +13,24 @@
   ],
   "bpm": 90,
   "tone": "F major",
+  "artistPeople": [
+    "S10"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": "Marnix Kaart",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Arno Krabman",
+    "Stien den Hollander"
+  ],
+  "broadcaster": "AVROTROS",
   "commentators": [
     "Cornald Maas",
     "Jan Smit"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Jeangu Macrooy",
-  "stageDirector": "Marnix Kaart",
-  "writers": [
-    "Arno Krabman",
-    "Stien den Hollander"
-  ]
+  "jury": null,
+  "spokesperson": "Jeangu Macrooy"
 }

@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "AZ",
-  "broadcaster": "İctimai",
   "artist": "Dihaj",
-  "artistPeople": [
-    "Diana Hajiyeva"
-  ],
   "song": "Skeletons",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/g_HSRHqd_7s",
@@ -19,26 +15,31 @@
   ],
   "bpm": 90,
   "tone": "A major",
+  "artistPeople": [
+    "Diana Hajiyeva"
+  ],
   "backings": [
     "Jennie Jahns",
     "Johan D. Seil",
     "Kristian Tåje",
     "Marie Nordmark Sjöström"
   ],
-  "commentators": [
-    "Azer Suleymanli"
+  "dancers": [
+    "Vitaliy Zagoruiko"
   ],
+  "stageDirector": "Naila Mammadzadeh",
   "composers": [
     "Isa Melikov"
   ],
   "conductor": null,
-  "dancers": [
-    "Vitaliy Zagoruiko"
-  ],
   "lyricists": [
     "Sandra Bjurman"
   ],
-  "spokesperson": "Tural Asadov",
-  "stageDirector": "Naila Mammadzadeh",
-  "writers": null
+  "writers": null,
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Azer Suleymanli"
+  ],
+  "jury": null,
+  "spokesperson": "Tural Asadov"
 }

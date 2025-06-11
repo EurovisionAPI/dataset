@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "FR",
-  "broadcaster": "France 3",
   "artist": "Amaury Vassili",
-  "artistPeople": [
-    "Amaury Vassili"
-  ],
   "song": "Sognu",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/OTiBNPT-x_Y",
@@ -13,24 +9,29 @@
   ],
   "bpm": 129,
   "tone": "E major",
+  "artistPeople": [
+    "Amaury Vassili"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Daniel Moyne",
+    "Quentin Bachelet"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jean-Pierre Marcellesi",
+    "Julie Miller"
+  ],
+  "writers": null,
+  "broadcaster": "France 3",
   "commentators": [
     "Audrey Chauveau",
     "Bruno Berberes",
     "Catherine Lara",
     "Laurent Boyer"
   ],
-  "composers": [
-    "Daniel Moyne",
-    "Quentin Bachelet"
-  ],
-  "conductor": null,
-  "dancers": null,
-  "lyricists": [
-    "Jean-Pierre Marcellesi",
-    "Julie Miller"
-  ],
-  "spokesperson": "Cyril Féraud",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Cyril Féraud"
 }

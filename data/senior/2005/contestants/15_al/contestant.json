@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "AL",
-  "broadcaster": "RTSH",
   "artist": "Ledina Celo",
-  "artistPeople": [
-    "Ledina Çelo"
-  ],
   "song": "Tomorrow I Go",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/EVchcL1fWXU",
@@ -14,20 +10,25 @@
   ],
   "bpm": 110,
   "tone": "G minor",
-  "backings": null,
-  "commentators": [
-    "Leon Menkshi"
+  "artistPeople": [
+    "Ledina Çelo"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Adrian Hila"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Pandi Laço",
     "Sidorela Risto"
   ],
-  "spokesperson": "Zhani Ciko",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Leon Menkshi"
+  ],
+  "jury": null,
+  "spokesperson": "Zhani Ciko"
 }

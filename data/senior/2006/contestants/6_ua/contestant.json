@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "UA",
-  "broadcaster": "NTU",
   "artist": "Tina Karol",
-  "artistPeople": [
-    "Tetiana Grigorivna Liberman"
-  ],
   "song": "Show Me Your Love",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/mRqhkwTIuU8",
@@ -15,20 +11,25 @@
   ],
   "bpm": 130,
   "tone": "E minor",
-  "backings": null,
-  "commentators": [
-    "Pavlo Shylko"
+  "artistPeople": [
+    "Tetiana Grigorivna Liberman"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Mikhail Nekrasov",
     "Tina Karol"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Pavlo Shylko"
   ],
-  "spokesperson": "Igor Posypaiko",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NTU",
+  "commentators": [
+    "Pavlo Shylko"
+  ],
+  "jury": null,
+  "spokesperson": "Igor Posypaiko"
 }

@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Fernando Tordo",
-  "artistPeople": [
-    "Fernando Tordo"
-  ],
   "song": "Tourada",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/eMNIGliSArk",
@@ -16,23 +12,28 @@
   ],
   "bpm": 98,
   "tone": "A major",
+  "artistPeople": [
+    "Fernando Tordo"
+  ],
   "backings": [
     "Jaime Queimado",
     "Luís Waddington",
     "Vítor Mamede"
   ],
-  "commentators": [
-    "Artur Agostinho"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Fernando Tordo"
   ],
   "conductor": "Jorge Costa Pinto",
-  "dancers": null,
   "lyricists": [
     "José Carlos Ary dos Santos"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Artur Agostinho"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

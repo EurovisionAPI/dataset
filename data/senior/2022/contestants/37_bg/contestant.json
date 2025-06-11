@@ -1,16 +1,7 @@
 {
   "id": 37,
   "country": "BG",
-  "broadcaster": "BNT",
   "artist": "Intelligent Music Project",
-  "artistPeople": [
-    "Bisser Ivanov",
-    "Dimiter Sirakov",
-    "Ivo Stefanov",
-    "Ronnie Romero",
-    "Slavin Slavchev",
-    "Stoyan Yankoulov"
-  ],
   "song": "Intention",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/EwZTI5AoTg4",
@@ -23,20 +14,30 @@
   ],
   "bpm": 162,
   "tone": "D major",
+  "artistPeople": [
+    "Bisser Ivanov",
+    "Dimiter Sirakov",
+    "Ivo Stefanov",
+    "Ronnie Romero",
+    "Slavin Slavchev",
+    "Stoyan Yankoulov"
+  ],
   "backings": [
     "Slavin Slavchev"
   ],
+  "dancers": null,
+  "stageDirector": "Andrea Celi",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Milen Vrabevski"
+  ],
+  "broadcaster": "BNT",
   "commentators": [
     "Elena Rosberg",
     "Petko Kralev"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Janan Dural",
-  "stageDirector": "Andrea Celi",
-  "writers": [
-    "Milen Vrabevski"
-  ]
+  "jury": null,
+  "spokesperson": "Janan Dural"
 }

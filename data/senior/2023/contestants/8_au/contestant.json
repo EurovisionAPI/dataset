@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "AU",
-  "broadcaster": "SBS",
   "artist": "Voyager",
-  "artistPeople": [
-    "Danny Estrin"
-  ],
   "song": "Promise",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/GSoy_mJMlMY",
@@ -18,27 +14,32 @@
   ],
   "bpm": 122,
   "tone": "C major",
+  "artistPeople": [
+    "Danny Estrin"
+  ],
   "backings": [
     "Alex Canion",
     "Ashley Doodkorte",
     "Scott Kay",
     "Simone Dow"
   ],
-  "commentators": [
-    "Joel Creasey",
-    "Myf Warhurst"
-  ],
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Catherine Martin",
-  "stageDirector": "Marvin Dietmann",
   "writers": [
     "Alex Canion",
     "Ashley Doodkorte",
     "Daniel Estrin",
     "Scott Kay",
     "Simone Dow"
-  ]
+  ],
+  "broadcaster": "SBS",
+  "commentators": [
+    "Joel Creasey",
+    "Myf Warhurst"
+  ],
+  "jury": null,
+  "spokesperson": "Catherine Martin"
 }

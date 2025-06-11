@@ -1,11 +1,7 @@
 {
   "id": 27,
   "country": "LT",
-  "broadcaster": "LRT",
   "artist": "Vilija Matačiūnaitė",
-  "artistPeople": [
-    "Vilija Matačiūnaitė"
-  ],
   "song": "Attention",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/qOGEtw7tmik",
@@ -14,26 +10,31 @@
   ],
   "bpm": 150,
   "tone": "F# minor",
+  "artistPeople": [
+    "Vilija Matačiūnaitė"
+  ],
   "backings": [
     "Algė Matekūnaitė",
     "Eglė Gadeikytė",
     "Lina Žilinskaitė"
   ],
-  "commentators": [
-    "Darius Užkuraitis"
+  "dancers": [
+    "Šarūnas Kirdeikis"
   ],
+  "stageDirector": null,
   "composers": [
     "Viktoras Vaupšas",
     "Vilija Matačiūnaitė"
   ],
   "conductor": null,
-  "dancers": [
-    "Šarūnas Kirdeikis"
-  ],
   "lyricists": [
     "Vilija Matačiūnaitė"
   ],
-  "spokesperson": "Ignas Krupavičius",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Ignas Krupavičius"
 }

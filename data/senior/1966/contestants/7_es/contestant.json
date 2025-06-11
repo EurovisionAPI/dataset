@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Raphael",
-  "artistPeople": [
-    "Miguel Rafael Martos Sánchez"
-  ],
   "song": "Yo soy aquél",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/EqmbC813p0w",
@@ -14,17 +10,22 @@
   ],
   "bpm": 110,
   "tone": "A major",
+  "artistPeople": [
+    "Miguel Rafael Martos Sánchez"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rafael de Ibarbia Serra",
+  "lyricists": null,
+  "writers": [
+    "Manuel Alejandro"
+  ],
+  "broadcaster": "TVE",
   "commentators": [
     "Federico Gallo"
   ],
-  "composers": null,
-  "conductor": "Rafael de Ibarbia Serra",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Blanca Álvarez",
-  "stageDirector": null,
-  "writers": [
-    "Manuel Alejandro"
-  ]
+  "jury": null,
+  "spokesperson": "Blanca Álvarez"
 }

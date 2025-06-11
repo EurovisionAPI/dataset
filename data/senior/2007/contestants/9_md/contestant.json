@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "MD",
-  "broadcaster": "TRM",
   "artist": "Natalia Barbu",
-  "artistPeople": [
-    "Natalia Barbu"
-  ],
   "song": "Fight",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/SZzcIOvoIfo",
@@ -14,22 +10,27 @@
   ],
   "bpm": 172,
   "tone": "G minor",
+  "artistPeople": [
+    "Natalia Barbu"
+  ],
   "backings": [
     "Ludmila Znamenskii",
     "Rodica Aculova"
   ],
-  "commentators": [
-    "Vitalie Rotaru"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Alexandru Braşoveanu"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Elena Buga"
   ],
-  "spokesperson": "Andrei Porubin",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Vitalie Rotaru"
+  ],
+  "jury": null,
+  "spokesperson": "Andrei Porubin"
 }

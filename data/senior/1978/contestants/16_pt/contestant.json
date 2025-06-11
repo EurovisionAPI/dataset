@@ -1,14 +1,7 @@
 {
   "id": 16,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Gemini",
-  "artistPeople": [
-    "Fá",
-    "Mike Sergeant",
-    "Teresa Miguel",
-    "António José Correia de Brito"
-  ],
   "song": "Dai-li-dou",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/c5lVMDN3gyw",
@@ -19,22 +12,30 @@
   ],
   "bpm": 172,
   "tone": "F major",
+  "artistPeople": [
+    "Fá",
+    "Mike Sergeant",
+    "Teresa Miguel",
+    "António José Correia de Brito"
+  ],
   "backings": [
     "Cristina Águas",
     "Helena Águas"
   ],
-  "commentators": [
-    "Eládio Clímaco"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Vítor Mamede"
   ],
   "conductor": "Thilo Krasmann",
-  "dancers": null,
   "lyricists": [
     "Carlos Quintas"
   ],
-  "spokesperson": "Isabel Wolmar",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Eládio Clímaco"
+  ],
+  "jury": null,
+  "spokesperson": "Isabel Wolmar"
 }

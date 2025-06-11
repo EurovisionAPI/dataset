@@ -1,11 +1,7 @@
 {
   "id": 22,
   "country": "FR",
-  "broadcaster": "France 3",
   "artist": "Ortal",
-  "artistPeople": [
-    "Marie Ortal Malka"
-  ],
   "song": "Chacun pense à soi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/d65hoJq5Wos",
@@ -13,27 +9,32 @@
   ],
   "bpm": 110,
   "tone": "F# minor",
+  "artistPeople": [
+    "Marie Ortal Malka"
+  ],
   "backings": [
     "Christelle Chaaban",
     "Julie Victor",
     "Marsha Nelzy"
   ],
+  "dancers": [
+    "Fabien Hannot",
+    "Raphael Kaney"
+  ],
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ortal",
+    "Saad Tabainet"
+  ],
+  "broadcaster": "France 3",
   "commentators": [
     "Guy Carlier",
     "Julien Lepers",
     "Peggy Olmi"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": [
-    "Fabien Hannot",
-    "Raphael Kaney"
-  ],
-  "lyricists": null,
-  "spokesperson": "Marie Myriam",
-  "stageDirector": null,
-  "writers": [
-    "Ortal",
-    "Saad Tabainet"
-  ]
+  "jury": null,
+  "spokesperson": "Marie Myriam"
 }

@@ -6,12 +6,12 @@
   "intendedCountry": null,
   "slogan": "Celebrate Diversity",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2017.png",
+  "broadcasters": [
+    "National Public Broadcasting Company of Ukraine (UA:PBC)"
+  ],
   "presenters": [
     "Oleksandr Skichko",
     "Volodymyr Ostapchuk",
     "Timur Miroshnychenko"
-  ],
-  "broadcasters": [
-    "National Public Broadcasting Company of Ukraine (UA:PBC)"
   ]
 }

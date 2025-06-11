@@ -1,11 +1,7 @@
 {
   "id": 31,
   "country": "RO",
-  "broadcaster": "TVR",
   "artist": "Ester Peony",
-  "artistPeople": [
-    "Ester Alexandra Crețu"
-  ],
   "song": "On a Sunday",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/cZC9o_Z90yo",
@@ -18,6 +14,9 @@
   ],
   "bpm": 72,
   "tone": "F minor",
+  "artistPeople": [
+    "Ester Alexandra Crețu"
+  ],
   "backings": [
     "Adela-Daniela Baranci",
     "Alexandru Șerbu",
@@ -25,20 +24,22 @@
     "Valentin Cristian Chiș",
     "Vlad Mircea"
   ],
-  "commentators": [
-    "Bogdan Stănescu",
-    "Liana Stanciu"
-  ],
+  "dancers": null,
+  "stageDirector": "Petre Năstase",
   "composers": [
     "Alexandru Șerbu",
     "Ester Alexandra Crețu"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Ioana Victoria Badea"
   ],
-  "spokesperson": "Ilinca",
-  "stageDirector": "Petre Năstase",
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": [
+    "Bogdan Stănescu",
+    "Liana Stanciu"
+  ],
+  "jury": null,
+  "spokesperson": "Ilinca"
 }

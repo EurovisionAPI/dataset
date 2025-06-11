@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "EE",
-  "broadcaster": "ERR",
   "artist": "Tommy Cash",
-  "artistPeople": [
-    "Tommy Cash"
-  ],
   "song": "Espresso macchiato",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/9b9Z5HSCXOI",
@@ -18,14 +14,10 @@
   ],
   "bpm": 120,
   "tone": "B minor",
-  "backings": null,
-  "commentators": [
-    "Aleksandr Hobotov",
-    "Julia Kalenda",
-    "Marko Reikop"
+  "artistPeople": [
+    "Tommy Cash"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Aleksandr Luksha",
     "Alexander Makarov",
@@ -33,11 +25,20 @@
     "Jene' Walker",
     "Kajtek Januszkiewicz"
   ],
-  "lyricists": null,
-  "spokesperson": "Estoni Kohver",
   "stageDirector": "Alina Pasok",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Johannes Naukkarinen",
     "Tomas Tammemets"
-  ]
+  ],
+  "broadcaster": "ERR",
+  "commentators": [
+    "Aleksandr Hobotov",
+    "Julia Kalenda",
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Estoni Kohver"
 }

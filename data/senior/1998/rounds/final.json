@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "1998-05-09",
   "time": "19:00:00",
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 172,
           "votes": {
             "BE": 10,
             "HR": 0,
@@ -47,6 +47,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 166,
           "votes": {
             "BE": 6,
             "HR": 12,
@@ -83,6 +84,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 165,
           "votes": {
             "BE": 8,
             "HR": 7,
@@ -119,6 +121,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 150,
           "votes": {
             "BE": 12,
             "HR": 10,
@@ -155,6 +158,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 131,
           "votes": {
             "BE": 5,
             "CY": 7,
@@ -191,6 +195,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 122,
           "votes": {
             "HR": 0,
             "CY": 6,
@@ -227,6 +232,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 86,
           "votes": {
             "BE": 7,
             "HR": 0,
@@ -263,6 +269,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 79,
           "votes": {
             "BE": 4,
             "HR": 0,
@@ -299,6 +306,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 64,
           "votes": {
             "BE": 0,
             "HR": 2,
@@ -335,6 +343,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 53,
           "votes": {
             "BE": 0,
             "HR": 0,
@@ -371,6 +380,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 37,
           "votes": {
             "BE": 2,
             "HR": 4,
@@ -407,6 +417,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 36,
           "votes": {
             "BE": 1,
             "HR": 0,
@@ -443,6 +454,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 36,
           "votes": {
             "BE": 0,
             "HR": 0,
@@ -479,6 +491,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 25,
           "votes": {
             "BE": 0,
             "HR": 5,
@@ -515,6 +528,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 22,
           "votes": {
             "BE": 0,
             "HR": 0,
@@ -551,6 +565,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 21,
           "votes": {
             "BE": 3,
             "HR": 1,
@@ -587,6 +602,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 19,
           "votes": {
             "BE": 0,
             "HR": 0,
@@ -623,6 +639,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 17,
           "votes": {
             "BE": 0,
             "HR": 3,
@@ -659,6 +676,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 16,
           "votes": {
             "BE": 0,
             "HR": 6,
@@ -695,6 +713,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 12,
           "votes": {
             "BE": 0,
             "HR": 0,
@@ -731,6 +750,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 8,
           "votes": {
             "BE": 0,
             "HR": 8,
@@ -767,6 +787,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 6,
           "votes": {
             "BE": 0,
             "HR": 0,
@@ -803,6 +824,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 4,
           "votes": {
             "BE": 0,
             "HR": 0,
@@ -839,6 +861,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 3,
           "votes": {
             "BE": 0,
             "HR": 0,
@@ -875,6 +898,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 0,
           "votes": {
             "BE": 0,
             "HR": 0,

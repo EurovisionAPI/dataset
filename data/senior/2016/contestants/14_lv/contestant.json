@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "LV",
-  "broadcaster": "LTV",
   "artist": "Justs",
-  "artistPeople": [
-    "Justs Sirmais"
-  ],
   "song": "Heartbeat",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/o-2Lt7zzlBU",
@@ -16,21 +12,26 @@
   ],
   "bpm": 115,
   "tone": "C# major",
+  "artistPeople": [
+    "Justs Sirmais"
+  ],
   "backings": [
     "Anna Zankovska",
     "Katrīna Anna Vīgante"
   ],
+  "dancers": null,
+  "stageDirector": "Andrejs Gavrišs",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Aminata Savadogo"
+  ],
+  "broadcaster": "LTV",
   "commentators": [
     "Toms Grēviņš",
     "Valters Frīdenbergs"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Toms Grēviņš",
-  "stageDirector": "Andrejs Gavrišs",
-  "writers": [
-    "Aminata Savadogo"
-  ]
+  "jury": null,
+  "spokesperson": "Toms Grēviņš"
 }

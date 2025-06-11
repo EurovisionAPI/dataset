@@ -1,12 +1,7 @@
 {
   "id": 10,
   "country": "CY",
-  "broadcaster": "CyBC",
   "artist": "Fanny Polymeri and Yiannis Savvidakis",
-  "artistPeople": [
-    "Fani Polymeri",
-    "Yiannis Savvidakis"
-  ],
   "song": "Apopse as vrethoume",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/9HlldYCQXKI",
@@ -15,23 +10,29 @@
   ],
   "bpm": 99,
   "tone": "C major",
+  "artistPeople": [
+    "Fani Polymeri",
+    "Yiannis Savvidakis"
+  ],
   "backings": [
     "Alexandros Panayi",
     "Elena Patroklou",
     "Nassia Trachonitou"
   ],
-  "commentators": [
-    "Neophytos Taliotis"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Marios Meletiou"
   ],
   "conductor": "Haris Andreadis",
-  "dancers": null,
   "lyricists": [
     "Efi Meletiou"
   ],
-  "spokesperson": "Anna Partelidou",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Neophytos Taliotis"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
 }

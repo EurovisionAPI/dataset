@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "FR",
-  "broadcaster": "TF1",
   "artist": "Catherine Ferry",
-  "artistPeople": [
-    "Catherine Ferry"
-  ],
   "song": "Un, deux, trois",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/glRnQkHDq98",
@@ -17,24 +13,29 @@
   ],
   "bpm": 149,
   "tone": "A major",
+  "artistPeople": [
+    "Catherine Ferry"
+  ],
   "backings": [
     "Bernard Balavoine",
     "Daniel Balavoine",
     "Guy Balavoine",
     "Patrice Scheider"
   ],
-  "commentators": [
-    "Jean-Claude Massoulier"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Tony Rallo"
   ],
   "conductor": "Tony Rallo",
-  "dancers": null,
   "lyricists": [
     "Jean-Paul Cara"
   ],
-  "spokesperson": "Michel Drucker",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TF1",
+  "commentators": [
+    "Jean-Claude Massoulier"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Drucker"
 }

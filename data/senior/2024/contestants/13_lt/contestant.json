@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "LT",
-  "broadcaster": "LRT",
   "artist": "Silvester Belt",
-  "artistPeople": [
-    "Silvestras Beltė"
-  ],
   "song": "Luktelk",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/N8YuQzJLR_k",
@@ -18,30 +14,35 @@
   ],
   "bpm": 140,
   "tone": "B minor",
+  "artistPeople": [
+    "Silvestras Beltė"
+  ],
   "backings": [
     "Monika Švilpaitė"
   ],
-  "commentators": [
-    "Ramūnas Zilnys"
-  ],
-  "composers": [
-    "Karolis Labanauskas",
-    "Linas Strockis",
-    "Silvestras Beltė"
-  ],
-  "conductor": null,
   "dancers": [
     "Andrius Vrubliauskas",
     "Arnas Ginevičius",
     "Kajus Kiševičius",
     "Nerijus Trilikauskas"
   ],
+  "stageDirector": "Norvydas Genys, Povilas Varvuolis",
+  "composers": [
+    "Karolis Labanauskas",
+    "Linas Strockis",
+    "Silvestras Beltė"
+  ],
+  "conductor": null,
   "lyricists": [
     "Džesika Šyvokaitė",
     "Elena Jurgaitytė",
     "Silvestras Beltė"
   ],
-  "spokesperson": "Monika Linkytė",
-  "stageDirector": "Norvydas Genys, Povilas Varvuolis",
-  "writers": null
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Ramūnas Zilnys"
+  ],
+  "jury": null,
+  "spokesperson": "Monika Linkytė"
 }

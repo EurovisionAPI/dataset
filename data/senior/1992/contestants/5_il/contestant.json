@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Dafna",
-  "artistPeople": [
-    "Dafna Dekel"
-  ],
   "song": "Ze Rak Sport",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Brcxkjdz1gM",
@@ -15,17 +11,22 @@
   ],
   "bpm": 126,
   "tone": "Bb major",
+  "artistPeople": [
+    "Dafna Dekel"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Kobi Oshrat"
   ],
   "conductor": "Kobi Oshrat",
-  "dancers": null,
   "lyricists": [
     "Ehud Manor"
   ],
-  "spokesperson": "Daniel Pe'er",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Daniel Pe'er"
 }

@@ -1,11 +1,7 @@
 {
   "id": 17,
   "country": "PL",
-  "broadcaster": "TVP",
   "artist": "Justyna",
-  "artistPeople": [
-    "Justyna Maria Steczkowska"
-  ],
   "song": "Sama",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/vdR-E5U3D4s",
@@ -14,22 +10,27 @@
   ],
   "bpm": 178,
   "tone": "D major",
+  "artistPeople": [
+    "Justyna Maria Steczkowska"
+  ],
   "backings": [
     "Magda Steczkowska"
   ],
-  "commentators": [
-    "Artur Orzech"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Mateusz Pospieszalski",
     "Wojciech Waglewski"
   ],
   "conductor": "Noel Kelehan",
-  "dancers": null,
   "lyricists": [
     "Wojciech Waglewski"
   ],
-  "spokesperson": "Jan Chojnacki",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": null,
+  "spokesperson": "Jan Chojnacki"
 }

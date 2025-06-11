@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "EE",
-  "broadcaster": "ERR",
   "artist": "Uku Suviste",
-  "artistPeople": [
-    "Uku Suviste"
-  ],
   "song": "What Love Is",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/z4I3vvQzQ-E",
@@ -15,16 +11,21 @@
   ],
   "bpm": 83,
   "tone": "A minor",
+  "artistPeople": [
+    "Uku Suviste"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Sharon Vaughn",
     "Uku Suviste"
-  ]
+  ],
+  "broadcaster": "ERR",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

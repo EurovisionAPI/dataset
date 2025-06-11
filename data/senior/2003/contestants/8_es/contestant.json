@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Beth",
-  "artistPeople": [
-    "Elisabeth Rodergas"
-  ],
   "song": "Dime",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/WRlwL7X_jE8",
@@ -14,25 +10,30 @@
   ],
   "bpm": 130,
   "tone": "B minor",
+  "artistPeople": [
+    "Elisabeth Rodergas"
+  ],
   "backings": [
     "Brigitte Hernández",
     "Judith Del Monte",
     "Vanessa Guillén"
   ],
-  "commentators": [
-    "José Luis Uribarri"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Jesus Caramel",
     "Toni Rodríguez"
   ],
-  "lyricists": null,
-  "spokesperson": "Anne Igartiburu",
   "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Amaya Martínez",
     "Jesús María Pérez"
-  ]
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Anne Igartiburu"
 }

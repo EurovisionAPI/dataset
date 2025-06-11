@@ -1,11 +1,7 @@
 {
   "id": 30,
   "country": "BE",
-  "broadcaster": "RTBF",
   "artist": "Eliot",
-  "artistPeople": [
-    "Eliot Vassamillet"
-  ],
   "song": "Wake Up",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/iFB9NnjU4ns",
@@ -17,25 +13,30 @@
   ],
   "bpm": 145,
   "tone": "Bb major",
+  "artistPeople": [
+    "Eliot Vassamillet"
+  ],
   "backings": [
     "Elya Lufwa",
     "Julien Michel",
     "Mahdy Coulibaly",
     "Renato Bennardo"
   ],
+  "dancers": null,
+  "stageDirector": "Jean-Jacques Marotte",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Eliot Vassamillet",
+    "Pierre Dumoulin"
+  ],
+  "broadcaster": "RTBF",
   "commentators": [
     "Jean-Louis Lahaye",
     "Maureen Louys",
     "Peter Van de Veire"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "David Jeanmotte",
-  "stageDirector": "Jean-Jacques Marotte",
-  "writers": [
-    "Eliot Vassamillet",
-    "Pierre Dumoulin"
-  ]
+  "jury": null,
+  "spokesperson": "David Jeanmotte"
 }

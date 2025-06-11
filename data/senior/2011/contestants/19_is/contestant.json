@@ -1,16 +1,7 @@
 {
   "id": 19,
   "country": "IS",
-  "broadcaster": "RÚV",
   "artist": "Sjonni's Friends",
-  "artistPeople": [
-    "Benediktus",
-    "Gunnar Ólafsson",
-    "Hreimur Örn Heimisson",
-    "Matthías Matthíasson",
-    "Pálmi Sigurhjartarson",
-    "Vignir Snær Vigfússon"
-  ],
   "song": "Coming Home",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/apc_qJf3nws",
@@ -19,19 +10,29 @@
   ],
   "bpm": 92,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Hrafnhildur Halldórsdóttir"
+  "artistPeople": [
+    "Benediktus",
+    "Gunnar Ólafsson",
+    "Hreimur Örn Heimisson",
+    "Matthías Matthíasson",
+    "Pálmi Sigurhjartarson",
+    "Vignir Snær Vigfússon"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Sigurjón Brink"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Þórunn Erna Clausen"
   ],
-  "spokesperson": "Ragnhildur Steinunn Jónsdóttir",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Hrafnhildur Halldórsdóttir"
+  ],
+  "jury": null,
+  "spokesperson": "Ragnhildur Steinunn Jónsdóttir"
 }

@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "2013-05-14",
   "time": "19:00:00",
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 167,
           "votes": {
             "AT": 12,
             "BY": 8,
@@ -41,6 +41,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 156,
           "votes": {
             "AT": 10,
             "BY": 10,
@@ -71,6 +72,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 140,
           "votes": {
             "AT": 2,
             "BY": 12,
@@ -101,6 +103,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 95,
           "votes": {
             "AT": 7,
             "BY": 6,
@@ -131,6 +134,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 75,
           "votes": {
             "AT": 4,
             "BY": 3,
@@ -161,6 +165,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 75,
           "votes": {
             "AT": 8,
             "BY": 0,
@@ -191,6 +196,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 64,
           "votes": {
             "AT": 0,
             "BE": 0,
@@ -221,6 +227,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 54,
           "votes": {
             "AT": 0,
             "BY": 4,
@@ -251,6 +258,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 53,
           "votes": {
             "AT": 0,
             "BY": 7,
@@ -281,6 +289,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 52,
           "votes": {
             "AT": 3,
             "BY": 5,
@@ -311,6 +320,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 46,
           "votes": {
             "AT": 6,
             "BY": 1,
@@ -341,6 +351,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 41,
           "votes": {
             "AT": 0,
             "BY": 2,
@@ -371,6 +382,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 38,
           "votes": {
             "AT": 5,
             "BY": 0,
@@ -401,6 +413,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 27,
           "votes": {
             "BY": 0,
             "BE": 3,
@@ -431,6 +444,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 11,
           "votes": {
             "AT": 1,
             "BY": 0,
@@ -461,6 +475,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 8,
           "votes": {
             "AT": 0,
             "BY": 0,

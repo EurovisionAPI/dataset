@@ -1,11 +1,7 @@
 {
   "id": 34,
   "country": "MK",
-  "broadcaster": "MKRTV",
   "artist": "Jana Burčeska",
-  "artistPeople": [
-    "Jana Burčeska"
-  ],
   "song": "Dance Alone",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/XvIbLOOWfYI",
@@ -17,25 +13,30 @@
   ],
   "bpm": 120,
   "tone": "C# minor",
+  "artistPeople": [
+    "Jana Burčeska"
+  ],
   "backings": [
     "Katya Krusteva",
     "Krustina Kokorska",
     "Milena Tzanova",
     "Valentina Dimitrova"
   ],
-  "commentators": [
-    "Karolina Petkovska"
-  ],
+  "dancers": null,
+  "stageDirector": "Ambra Succi",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Ilija Grujoski",
-  "stageDirector": "Ambra Succi",
   "writers": [
     "Alex Omar",
     "Borislav Milanov",
     "Florence A.",
     "Joacim Persson"
-  ]
+  ],
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Karolina Petkovska"
+  ],
+  "jury": null,
+  "spokesperson": "Ilija Grujoski"
 }

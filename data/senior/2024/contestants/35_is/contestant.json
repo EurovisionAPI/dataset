@@ -1,11 +1,7 @@
 {
   "id": 35,
   "country": "IS",
-  "broadcaster": "RÚV",
   "artist": "Hera Björk",
-  "artistPeople": [
-    "Hera Björk Þórhallsdóttir"
-  ],
   "song": "Scared of Heights",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/VChBgcycVl8",
@@ -18,6 +14,9 @@
   ],
   "bpm": 128,
   "tone": "A minor",
+  "artistPeople": [
+    "Hera Björk Þórhallsdóttir"
+  ],
   "backings": [
     "Ágústa Ósk Óskarsdottir",
     "Arnar Jónsson",
@@ -25,19 +24,21 @@
     "Ragna Björg Ársælsdóttir",
     "Villi Ósk"
   ],
-  "commentators": [
-    "Gunna Dís Emilsdóttir"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Friðrik Ómar Hjörleifsson",
-  "stageDirector": null,
   "writers": [
     "Ásdís María Viðarsdóttir",
     "Ferras Alqaisi",
     "Jaro Omar",
     "Michael Burek"
-  ]
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Gunna Dís Emilsdóttir"
+  ],
+  "jury": null,
+  "spokesperson": "Friðrik Ómar Hjörleifsson"
 }

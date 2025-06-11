@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "CY",
-  "broadcaster": "CyBC",
   "artist": "Lisa Andreas",
-  "artistPeople": [
-    "Lisa Andreas"
-  ],
   "song": "Stronger Every Minute",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Dq4RNHax5ow",
@@ -15,17 +11,22 @@
   ],
   "bpm": 147,
   "tone": "A major",
+  "artistPeople": [
+    "Lisa Andreas"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Mike Connaris"
+  ],
+  "broadcaster": "CyBC",
   "commentators": [
     "Evi Papamichail"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Loukas Hamatsos",
-  "stageDirector": null,
-  "writers": [
-    "Mike Connaris"
-  ]
+  "jury": null,
+  "spokesperson": "Loukas Hamatsos"
 }

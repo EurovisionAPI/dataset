@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "BE",
-  "broadcaster": "RTBF",
   "artist": "Morgane",
-  "artistPeople": [
-    "Ingrid Simonis"
-  ],
   "song": "Nous, on veut des violons",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/u60o-w4uSms",
@@ -14,20 +10,25 @@
   ],
   "bpm": 124,
   "tone": "F# minor",
-  "backings": null,
-  "commentators": [
-    "André Vermeulen",
-    "Claude Delacroix"
+  "artistPeople": [
+    "Ingrid Simonis"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Claude Barzotti"
   ],
   "conductor": "Frank Fiévez",
-  "dancers": null,
   "lyricists": [
     "Anne-Marie Gaspard"
   ],
-  "spokesperson": "Jacques Olivier",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "André Vermeulen",
+    "Claude Delacroix"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Olivier"
 }

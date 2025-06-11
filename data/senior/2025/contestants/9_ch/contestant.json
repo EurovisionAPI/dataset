@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Zoë Më",
-  "artistPeople": [
-    "Zoë Anina Kressler"
-  ],
   "song": "Voyage",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5TMc6HzimQo",
@@ -18,7 +14,21 @@
   ],
   "bpm": 170,
   "tone": "C minor",
+  "artistPeople": [
+    "Zoë Anina Kressler"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": "Theo Adams",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Emily Middlemas",
+    "Tom Oehler",
+    "Zoë Më"
+  ],
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Ellis Cavallini",
     "Gian-Andrea Costa",
@@ -26,15 +36,6 @@
     "Nicolas Tanner",
     "Sven Epiney"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Mélanie Freymond, Sven Epiney",
-  "stageDirector": "Theo Adams",
-  "writers": [
-    "Emily Middlemas",
-    "Tom Oehler",
-    "Zoë Më"
-  ]
+  "jury": null,
+  "spokesperson": "Mélanie Freymond, Sven Epiney"
 }

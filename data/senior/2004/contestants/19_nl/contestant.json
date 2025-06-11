@@ -1,12 +1,7 @@
 {
   "id": 19,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Re-union",
-  "artistPeople": [
-    "Fabrizio Pennisi",
-    "Paul de Corte"
-  ],
   "song": "Without You",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/phHQrLvEBUU",
@@ -16,24 +11,30 @@
   ],
   "bpm": 109,
   "tone": "E major",
+  "artistPeople": [
+    "Fabrizio Pennisi",
+    "Paul de Corte"
+  ],
   "backings": [
     "Erwin van Motman",
     "Pieter van Schooten",
     "Tarif Heljanan"
   ],
-  "commentators": [
-    "Cornald Maas",
-    "Willem van Beusekom"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ed van Otterdijk"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Angeline van Otterdijk"
   ],
-  "spokesperson": "Esther Hart",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Cornald Maas",
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Esther Hart"
 }

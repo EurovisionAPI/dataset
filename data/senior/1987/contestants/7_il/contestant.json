@@ -1,12 +1,7 @@
 {
   "id": 7,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Datner & Kushnir",
-  "artistPeople": [
-    "Avi Kushnir",
-    "Natan Datner"
-  ],
   "song": "Shir Habatlanim",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/L2oOiI55-g4",
@@ -16,15 +11,21 @@
   ],
   "bpm": 156,
   "tone": "G minor",
+  "artistPeople": [
+    "Avi Kushnir",
+    "Natan Datner"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Kobi Oshrat",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Yitzhak Shim'oni",
-  "stageDirector": null,
   "writers": [
     "Zohar Laskov"
-  ]
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yitzhak Shim'oni"
 }

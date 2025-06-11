@@ -1,11 +1,7 @@
 {
   "id": 29,
   "country": "SI",
-  "broadcaster": "RTVSLO",
   "artist": "Anžej Dežan",
-  "artistPeople": [
-    "Anžej Dežan"
-  ],
   "song": "Mr. Nobody",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/6AfU39gHNg4",
@@ -15,26 +11,31 @@
   ],
   "bpm": 138,
   "tone": "G major",
+  "artistPeople": [
+    "Anžej Dežan"
+  ],
   "backings": [
     "Katarina Turinski",
     "Katja Koren",
     "Maja Slatinšek"
   ],
-  "commentators": [
-    "Mojca Mavec"
-  ],
-  "composers": [
-    "Matjaž Vlašič"
-  ],
-  "conductor": null,
   "dancers": [
     "Jana Žnidar",
     "Katja Lekan"
   ],
+  "stageDirector": null,
+  "composers": [
+    "Matjaž Vlašič"
+  ],
+  "conductor": null,
   "lyricists": [
     "Urša Vlašič"
   ],
-  "spokesperson": "Peter Poles",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Mojca Mavec"
+  ],
+  "jury": null,
+  "spokesperson": "Peter Poles"
 }

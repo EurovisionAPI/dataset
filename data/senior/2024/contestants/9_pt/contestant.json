@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Iolanda",
-  "artistPeople": [
-    "Iolanda Costa"
-  ],
   "song": "Grito",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/OZn4-H6JvKU",
@@ -18,16 +14,10 @@
   ],
   "bpm": 152,
   "tone": "Eb minor",
+  "artistPeople": [
+    "Iolanda Costa"
+  ],
   "backings": null,
-  "commentators": [
-    "José Carlos Malato",
-    "Nuno Galopim"
-  ],
-  "composers": [
-    "Iolanda Costa",
-    "Luar"
-  ],
-  "conductor": null,
   "dancers": [
     "Gonçalo Carrapiço",
     "Inês Gonfer",
@@ -35,10 +25,21 @@
     "Renato Garcia",
     "Telmo Leite"
   ],
+  "stageDirector": null,
+  "composers": [
+    "Iolanda Costa",
+    "Luar"
+  ],
+  "conductor": null,
   "lyricists": [
     "Iolanda Costa"
   ],
-  "spokesperson": "Mimicat",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "José Carlos Malato",
+    "Nuno Galopim"
+  ],
+  "jury": null,
+  "spokesperson": "Mimicat"
 }

@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "CY",
-  "broadcaster": "CyBC",
   "artist": "Anna Vissi",
-  "artistPeople": [
-    "Anna Vissi"
-  ],
   "song": "Mono i agapi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/D1mOu8-6vVA",
@@ -14,24 +10,29 @@
   ],
   "bpm": 88,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Anna Vissi"
+  ],
   "backings": [
     "Eleana",
     "Lia Vissi",
     "Stelios Goulielmos"
   ],
-  "commentators": [
-    "Fryni Papadopoulou"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Anna Vissi",
     "Nikos Karvelas"
   ],
   "conductor": "Martyn Ford",
-  "dancers": null,
   "lyricists": [
     "Anna Vissi"
   ],
-  "spokesperson": "Anna Partelidou",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Fryni Papadopoulou"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
 }

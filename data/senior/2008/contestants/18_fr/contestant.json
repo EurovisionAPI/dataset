@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "FR",
-  "broadcaster": "France 3",
   "artist": "Sébastien Tellier",
-  "artistPeople": [
-    "Sébastien Tellier"
-  ],
   "song": "Divine",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/CZQjBCvFd9E",
@@ -14,6 +10,9 @@
   ],
   "bpm": 142,
   "tone": "Eb major",
+  "artistPeople": [
+    "Sébastien Tellier"
+  ],
   "backings": [
     "Abigael Debit",
     "Falone Tayoung",
@@ -21,22 +20,24 @@
     "Sheliyah Masry",
     "Stanislas Debit"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sébastien Tellier"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Amandine de La Richardière",
+    "Sébastien Tellier"
+  ],
+  "writers": null,
+  "broadcaster": "France 3",
   "commentators": [
     "Jean-Paul Gaultier",
     "Julien Lepers",
     "Peggy Olmi",
     "Yann Renoard"
   ],
-  "composers": [
-    "Sébastien Tellier"
-  ],
-  "conductor": null,
-  "dancers": null,
-  "lyricists": [
-    "Amandine de La Richardière",
-    "Sébastien Tellier"
-  ],
-  "spokesperson": "Cyril Hanouna",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Cyril Hanouna"
 }

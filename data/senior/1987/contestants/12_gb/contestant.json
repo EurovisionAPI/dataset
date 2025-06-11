@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Rikki",
-  "artistPeople": [
-    "Richard Peebles"
-  ],
   "song": "Only the Light",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/QJ778bwvxfk",
@@ -14,6 +10,9 @@
   ],
   "bpm": 144,
   "tone": "E major",
+  "artistPeople": [
+    "Richard Peebles"
+  ],
   "backings": [
     "David Watson",
     "James Welsh",
@@ -21,16 +20,18 @@
     "Neil Danns",
     "Robin Rankin"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ronnie Hazlehurst",
+  "lyricists": null,
+  "writers": [
+    "Richard Peebles"
+  ],
+  "broadcaster": "BBC",
   "commentators": [
     "Terry Wogan"
   ],
-  "composers": null,
-  "conductor": "Ronnie Hazlehurst",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Colin Berry",
-  "stageDirector": null,
-  "writers": [
-    "Richard Peebles"
-  ]
+  "jury": null,
+  "spokesperson": "Colin Berry"
 }

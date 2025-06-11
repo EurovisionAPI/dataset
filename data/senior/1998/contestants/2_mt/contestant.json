@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "MT",
-  "broadcaster": "PBS",
   "artist": "Chiara",
-  "artistPeople": [
-    "Chiara Siracusa"
-  ],
   "song": "The One That I Love",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/g0AQI_Nt1X4",
@@ -14,19 +10,24 @@
   ],
   "bpm": 102,
   "tone": "E major",
-  "backings": null,
-  "commentators": [
-    "Gino Cauchi"
+  "artistPeople": [
+    "Chiara Siracusa"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jason Cassar"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Sunny Aquilina"
   ],
-  "spokesperson": "Stephanie Farrugia",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": [
+    "Gino Cauchi"
+  ],
+  "jury": null,
+  "spokesperson": "Stephanie Farrugia"
 }

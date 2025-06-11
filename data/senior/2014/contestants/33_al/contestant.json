@@ -1,11 +1,7 @@
 {
   "id": 33,
   "country": "AL",
-  "broadcaster": "RTSH",
   "artist": "Hersi",
-  "artistPeople": [
-    "Hersjana Matmuja"
-  ],
   "song": "One Night's Anger",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Ahu_K_Jh2vc",
@@ -15,22 +11,27 @@
   ],
   "bpm": 152,
   "tone": "F minor",
+  "artistPeople": [
+    "Hersjana Matmuja"
+  ],
   "backings": [
     "Erga Halilaj",
     "Olsa Papandili"
   ],
-  "commentators": [
-    "Andri Xhahu"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Gentian Lako"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Jorgo Papingji"
   ],
-  "spokesperson": "Andri Xhahu",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": null,
+  "spokesperson": "Andri Xhahu"
 }

@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "AL",
-  "broadcaster": "RTSH",
   "artist": "Rona Nishliu",
-  "artistPeople": [
-    "Rona Nishliu"
-  ],
   "song": "Suus",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/QeBL2UHhyEc",
@@ -15,19 +11,24 @@
   ],
   "bpm": 151,
   "tone": "Bb minor",
-  "backings": null,
-  "commentators": [
-    "Andri Xhahu"
+  "artistPeople": [
+    "Rona Nishliu"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Florent Boshnjaku"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Rona Nishliu"
   ],
-  "spokesperson": "Andri Xhahu",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": null,
+  "spokesperson": "Andri Xhahu"
 }

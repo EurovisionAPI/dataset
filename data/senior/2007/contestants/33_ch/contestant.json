@@ -1,8 +1,13 @@
 {
   "id": 33,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "DJ BoBo",
+  "song": "Vampires Are Alive",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/h9YTasUpAjw"
+  ],
+  "bpm": 134,
+  "tone": "Bb minor",
   "artistPeople": [
     "René Baumann",
     "Kimia Fonkam-Roth",
@@ -11,13 +16,17 @@
     "Nicole 'Nikita' Ganzhorn",
     "Renick Bernadina"
   ],
-  "song": "Vampires Are Alive",
-  "videoUrls": [
-    "https://www.youtube-nocookie.com/embed/h9YTasUpAjw"
-  ],
-  "bpm": 134,
-  "tone": "Bb minor",
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Axel Breitung",
+    "DJ BoBo"
+  ],
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Bernard Thurnheer",
     "Claudio Lazzarino",
@@ -26,14 +35,6 @@
     "Nicolas Tanner",
     "Sandy Altermatt"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Sven Epiney",
-  "stageDirector": null,
-  "writers": [
-    "Axel Breitung",
-    "DJ BoBo"
-  ]
+  "jury": null,
+  "spokesperson": "Sven Epiney"
 }

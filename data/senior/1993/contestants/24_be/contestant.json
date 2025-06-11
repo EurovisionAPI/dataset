@@ -1,11 +1,7 @@
 {
   "id": 24,
   "country": "BE",
-  "broadcaster": "BRTN",
   "artist": "Barbara Dex",
-  "artistPeople": [
-    "Barbara Deckx"
-  ],
   "song": "Iemand als jij",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/13d64amN_h8",
@@ -14,6 +10,9 @@
   ],
   "bpm": 145,
   "tone": "G major",
+  "artistPeople": [
+    "Barbara Deckx"
+  ],
   "backings": [
     "Gregoir Cibos",
     "Heidi Boumans",
@@ -21,19 +20,21 @@
     "Jimmy Van Hoppe",
     "Peter Meulemans"
   ],
-  "commentators": [
-    "André Vermeulen",
-    "Claude Delacroix"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Marc Vliegen"
   ],
   "conductor": "Bert Candries",
-  "dancers": null,
   "lyricists": [
     "Tobana"
   ],
-  "spokesperson": "Anne Ploegaerts",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BRTN",
+  "commentators": [
+    "André Vermeulen",
+    "Claude Delacroix"
+  ],
+  "jury": null,
+  "spokesperson": "Anne Ploegaerts"
 }

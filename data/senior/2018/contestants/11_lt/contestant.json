@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "LT",
-  "broadcaster": "LRT",
   "artist": "Ieva Zasimauskaitė",
-  "artistPeople": [
-    "Ieva Zasimauskaitė-Kiltinavičienė"
-  ],
   "song": "When We're Old",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/pPDFhfU25go",
@@ -18,20 +14,25 @@
   ],
   "bpm": 89,
   "tone": "Bb major",
+  "artistPeople": [
+    "Ieva Zasimauskaitė-Kiltinavičienė"
+  ],
   "backings": [
     "Akmėja Bru"
   ],
+  "dancers": null,
+  "stageDirector": "Povilas Varvuolis, Rasa Micachienė",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Vytautas Bikus"
+  ],
+  "broadcaster": "LRT",
   "commentators": [
     "Darius Užkuraitis",
     "Gerūta Griniūtė"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Eglė Daugėlaitė",
-  "stageDirector": "Povilas Varvuolis, Rasa Micachienė",
-  "writers": [
-    "Vytautas Bikus"
-  ]
+  "jury": null,
+  "spokesperson": "Eglė Daugėlaitė"
 }

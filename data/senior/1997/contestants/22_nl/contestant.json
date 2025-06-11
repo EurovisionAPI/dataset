@@ -1,15 +1,7 @@
 {
   "id": 22,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Mrs. Einstein",
-  "artistPeople": [
-    "Linda Snoeij",
-    "Marjolein Spijkers",
-    "Paulette Willemse",
-    "Saskia van Zutphen",
-    "Suzanne Venneker"
-  ],
   "song": "Niemand heeft nog tijd",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/kcg72GZj8QY",
@@ -18,17 +10,26 @@
   ],
   "bpm": 89,
   "tone": "A major",
+  "artistPeople": [
+    "Linda Snoeij",
+    "Marjolein Spijkers",
+    "Paulette Willemse",
+    "Saskia van Zutphen",
+    "Suzanne Venneker"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Dick Bakker",
+  "lyricists": null,
+  "writers": [
+    "Ed Hooijmans"
+  ],
+  "broadcaster": "NOS",
   "commentators": [
     "Willem van Beusekom"
   ],
-  "composers": null,
-  "conductor": "Dick Bakker",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Corry Brokken",
-  "stageDirector": null,
-  "writers": [
-    "Ed Hooijmans"
-  ]
+  "jury": null,
+  "spokesperson": "Corry Brokken"
 }

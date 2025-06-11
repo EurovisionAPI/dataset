@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "BA",
-  "broadcaster": "PBSBIH",
   "artist": "Mija Martina",
-  "artistPeople": [
-    "Mija Martina Barbarić"
-  ],
   "song": "Ne Brini",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/KPFjADXmEPo",
@@ -14,23 +10,28 @@
   ],
   "bpm": 132,
   "tone": "Bb major",
+  "artistPeople": [
+    "Mija Martina Barbarić"
+  ],
   "backings": [
     "Andrej Pucarević",
     "Dunja Galineo",
     "Vladimir Pavelić-Bubi"
   ],
-  "commentators": [
-    "Dejan Kukrić"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ines Prajo"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Arjana Kunštek"
   ],
-  "spokesperson": "Ana Vilenica",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "PBSBIH",
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "jury": null,
+  "spokesperson": "Ana Vilenica"
 }

@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "FR",
-  "broadcaster": "ORTF",
   "artist": "Dominique Walter",
-  "artistPeople": [
-    "Dominique Walter"
-  ],
   "song": "Chez nous",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/HkDpDiTez8I",
@@ -13,19 +9,24 @@
   ],
   "bpm": 108,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "François Deguelt"
+  "artistPeople": [
+    "Dominique Walter"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Claude Carrère"
   ],
   "conductor": "Franck Pourcel",
-  "dancers": null,
   "lyricists": [
     "Jacques Plante"
   ],
-  "spokesperson": "Jean-Claude Massoulier",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORTF",
+  "commentators": [
+    "François Deguelt"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Claude Massoulier"
 }

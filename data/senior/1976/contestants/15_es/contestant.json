@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Braulio",
-  "artistPeople": [
-    "Braulio Antonio García Bautista"
-  ],
   "song": "Sobran las palabras",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/glDKvjKX20c",
@@ -14,17 +10,22 @@
   ],
   "bpm": 90,
   "tone": "D major",
+  "artistPeople": [
+    "Braulio Antonio García Bautista"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Juan Barcons",
+  "lyricists": null,
+  "writers": [
+    "Braulio"
+  ],
+  "broadcaster": "TVE",
   "commentators": [
     "José Luis Uribarri"
   ],
-  "composers": null,
-  "conductor": "Juan Barcons",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "José María Íñigo",
-  "stageDirector": null,
-  "writers": [
-    "Braulio"
-  ]
+  "jury": null,
+  "spokesperson": "José María Íñigo"
 }

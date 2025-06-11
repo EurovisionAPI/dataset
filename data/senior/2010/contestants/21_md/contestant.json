@@ -1,11 +1,7 @@
 {
   "id": 21,
   "country": "MD",
-  "broadcaster": "TRM",
   "artist": "Sunstroke Project & Olia Tira",
-  "artistPeople": [
-    "Olia Tira"
-  ],
   "song": "Run Away",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/pHXDMe6QV-U",
@@ -15,23 +11,28 @@
   ],
   "bpm": 130,
   "tone": "D minor",
-  "backings": null,
-  "commentators": [
-    "Marcel Spătari"
+  "artistPeople": [
+    "Olia Tira"
   ],
+  "backings": null,
+  "dancers": [
+    "Maxim Vadov",
+    "Vadim Tsurkan"
+  ],
+  "stageDirector": null,
   "composers": [
     "Anton Ragoza",
     "Sergey Stepanov"
   ],
   "conductor": null,
-  "dancers": [
-    "Maxim Vadov",
-    "Vadim Tsurkan"
-  ],
   "lyricists": [
     "Alina Galetskaya"
   ],
-  "spokesperson": "Tania Cerga",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Marcel Spătari"
+  ],
+  "jury": null,
+  "spokesperson": "Tania Cerga"
 }

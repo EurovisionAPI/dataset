@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "YU",
-  "broadcaster": "JRT",
   "artist": "Berta Ambrož",
-  "artistPeople": [
-    "Berta Ambrož"
-  ],
   "song": "Brez besed",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/qXjTSWUHY0c",
@@ -13,21 +9,26 @@
   ],
   "bpm": 163,
   "tone": "Bb major",
+  "artistPeople": [
+    "Berta Ambrož"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mojmir Sepe"
+  ],
+  "conductor": "Mojmir Sepe",
+  "lyricists": [
+    "Elza Budau"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
   "commentators": [
     "Miloje Orlović",
     "Mladen Delić",
     "Tomaž Terček"
   ],
-  "composers": [
-    "Mojmir Sepe"
-  ],
-  "conductor": "Mojmir Sepe",
-  "dancers": null,
-  "lyricists": [
-    "Elza Budau"
-  ],
-  "spokesperson": "Dragana Marković",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Dragana Marković"
 }

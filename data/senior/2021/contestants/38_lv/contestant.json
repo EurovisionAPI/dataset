@@ -1,11 +1,7 @@
 {
   "id": 38,
   "country": "LV",
-  "broadcaster": "LTV",
   "artist": "Samanta Tīna",
-  "artistPeople": [
-    "Samanta Poļakova"
-  ],
   "song": "The Moon Is Rising",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/btA_Tyiyfhc",
@@ -17,24 +13,29 @@
   ],
   "bpm": 150,
   "tone": "Eb minor",
+  "artistPeople": [
+    "Samanta Poļakova"
+  ],
   "backings": [
     "Kitija Bluma",
     "Paula Saija",
     "Una Daniela Aizgale"
   ],
-  "commentators": [
-    "Marie N",
-    "Toms Grēviņš"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Aminata",
-  "stageDirector": null,
   "writers": [
     "Aminata Savadogo",
     "Oskars Uhaņs",
     "Samanta Tīna"
-  ]
+  ],
+  "broadcaster": "LTV",
+  "commentators": [
+    "Marie N",
+    "Toms Grēviņš"
+  ],
+  "jury": null,
+  "spokesperson": "Aminata"
 }

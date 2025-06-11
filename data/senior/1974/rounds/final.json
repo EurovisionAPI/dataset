@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "1974-04-06",
   "time": "19:00:00",
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 24,
           "votes": {
             "BE": 0,
             "FI": 5,
@@ -39,6 +39,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 18,
           "votes": {
             "BE": 1,
             "FI": 2,
@@ -67,6 +68,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 15,
           "votes": {
             "BE": 1,
             "FI": 1,
@@ -95,6 +97,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 14,
           "votes": {
             "BE": 1,
             "FI": 1,
@@ -123,6 +126,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 14,
           "votes": {
             "BE": 1,
             "FI": 0,
@@ -151,6 +155,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 14,
           "votes": {
             "BE": 2,
             "FI": 0,
@@ -179,6 +184,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 11,
           "votes": {
             "BE": 0,
             "FI": 0,
@@ -207,6 +213,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 11,
           "votes": {
             "BE": 0,
             "FI": 0,
@@ -235,6 +242,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 10,
           "votes": {
             "BE": 0,
             "FI": 0,
@@ -263,6 +271,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 10,
           "votes": {
             "FI": 0,
             "DE": 0,
@@ -291,6 +300,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 7,
           "votes": {
             "BE": 0,
             "FI": 0,
@@ -319,6 +329,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 6,
           "votes": {
             "BE": 1,
             "FI": 1,
@@ -347,6 +358,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 4,
           "votes": {
             "BE": 0,
             "DE": 0,
@@ -375,6 +387,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 3,
           "votes": {
             "BE": 1,
             "FI": 0,
@@ -403,6 +416,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 3,
           "votes": {
             "BE": 1,
             "FI": 0,
@@ -431,6 +445,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 3,
           "votes": {
             "BE": 1,
             "FI": 0,
@@ -459,6 +474,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 3,
           "votes": {
             "BE": 0,
             "FI": 0,

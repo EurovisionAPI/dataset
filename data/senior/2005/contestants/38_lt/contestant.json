@@ -1,14 +1,7 @@
 {
   "id": 38,
   "country": "LT",
-  "broadcaster": "LRT",
   "artist": "Laura and the Lovers",
-  "artistPeople": [
-    "Audrius Piragis",
-    "Donatas Paulauskas",
-    "Laura Čepukaite",
-    "Martynas Lukoševičius"
-  ],
   "song": "Little By Little",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/qUfTcrz8Zcc",
@@ -17,22 +10,30 @@
   ],
   "bpm": 130,
   "tone": "C major",
+  "artistPeople": [
+    "Audrius Piragis",
+    "Donatas Paulauskas",
+    "Laura Čepukaite",
+    "Martynas Lukoševičius"
+  ],
   "backings": [
     "Caroline Jönsson",
     "Sonja Aldén"
   ],
-  "commentators": [
-    "Darius Užkuraitis"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Bobby Ljunggren"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "William 'Billy' Butt"
   ],
-  "spokesperson": "Rolandas Vilkončius",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Rolandas Vilkončius"
 }

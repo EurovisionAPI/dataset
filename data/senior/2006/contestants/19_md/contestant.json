@@ -1,13 +1,7 @@
 {
   "id": 19,
   "country": "MD",
-  "broadcaster": "TRM",
   "artist": "Arsenium & Natalia Gordienko",
-  "artistPeople": [
-    "Arsenie Todîras",
-    "Ștefan Relu Mihalache",
-    "Natalia Gordienko"
-  ],
   "song": "Loca",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/11Xi8u1gkTo",
@@ -16,17 +10,24 @@
   ],
   "bpm": 93,
   "tone": "A minor",
+  "artistPeople": [
+    "Arsenie Todîras",
+    "Ștefan Relu Mihalache",
+    "Natalia Gordienko"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Arsenium"
+  ],
+  "broadcaster": "TRM",
   "commentators": [
     "Vitalie Rotaru"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Svetlana Cocoș",
-  "stageDirector": null,
-  "writers": [
-    "Arsenium"
-  ]
+  "jury": null,
+  "spokesperson": "Svetlana Cocoș"
 }

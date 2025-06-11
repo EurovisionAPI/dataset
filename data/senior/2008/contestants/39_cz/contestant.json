@@ -1,11 +1,7 @@
 {
   "id": 39,
   "country": "CZ",
-  "broadcaster": "ČT",
   "artist": "Tereza Kerndlová",
-  "artistPeople": [
-    "Tereza Kerndlová"
-  ],
   "song": "Have Some Fun",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/6dBjDeCyD8s",
@@ -15,6 +11,9 @@
   ],
   "bpm": 120,
   "tone": "A major",
+  "artistPeople": [
+    "Tereza Kerndlová"
+  ],
   "backings": [
     "Adéla Blažková",
     "Alena Langerová",
@@ -22,17 +21,19 @@
     "DJ Jan Gajdoš",
     "Veronika Nízlová"
   ],
-  "commentators": [
-    "Kateřina Kristelová"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Petra Šubrtová",
-  "stageDirector": null,
   "writers": [
     "Gordon Pogoda",
     "Stano Šimor"
-  ]
+  ],
+  "broadcaster": "ČT",
+  "commentators": [
+    "Kateřina Kristelová"
+  ],
+  "jury": null,
+  "spokesperson": "Petra Šubrtová"
 }

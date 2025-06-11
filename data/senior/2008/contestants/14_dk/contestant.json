@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Simon Mathew",
-  "artistPeople": [
-    "Simon Mathew"
-  ],
   "song": "All Night Long",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/bA_qUXpQFfg",
@@ -16,6 +12,9 @@
   ],
   "bpm": 123,
   "tone": "A major",
+  "artistPeople": [
+    "Simon Mathew"
+  ],
   "backings": [
     "Anders Øhrstrøm",
     "Kim Nowak-Zorde",
@@ -23,18 +22,20 @@
     "Morten Hellmann",
     "Oliver McEwan"
   ],
-  "commentators": [
-    "Nicolai Molbech"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Maria Montell",
-  "stageDirector": null,
   "writers": [
     "Jacob Launbjerg",
     "Nis Bøgvad",
     "Svend Gudiksen"
-  ]
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Nicolai Molbech"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Montell"
 }

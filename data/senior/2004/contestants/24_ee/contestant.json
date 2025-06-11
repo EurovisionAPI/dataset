@@ -1,16 +1,7 @@
 {
   "id": 24,
   "country": "EE",
-  "broadcaster": "ERR",
   "artist": "Neiokõsõ",
-  "artistPeople": [
-    "Anu Taul",
-    "Astrid Böning",
-    "Diana Põld",
-    "Kadri Uutmaa",
-    "Peeter Jõgioja",
-    "Triinu Taul"
-  ],
   "song": "Tii",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/8gOwmmxQaho",
@@ -20,20 +11,30 @@
   ],
   "bpm": 130,
   "tone": "F major",
-  "backings": null,
-  "commentators": [
-    "Marko Reikop"
+  "artistPeople": [
+    "Anu Taul",
+    "Astrid Böning",
+    "Diana Põld",
+    "Kadri Uutmaa",
+    "Peeter Jõgioja",
+    "Triinu Taul"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Glen Pilvre",
     "Priit Pajusaar"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Aapo Ilves"
   ],
-  "spokesperson": "Maarja-Liis Ilus",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Maarja-Liis Ilus"
 }

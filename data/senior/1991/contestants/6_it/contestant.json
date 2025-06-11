@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Peppino di Capri",
-  "artistPeople": [
-    "Giuseppe Faiella"
-  ],
   "song": "Comme è ddoce 'o mare",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/uYo9PN10bm4",
@@ -13,17 +9,22 @@
   ],
   "bpm": 137,
   "tone": "D major",
+  "artistPeople": [
+    "Giuseppe Faiella"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Marcello Marocchi"
   ],
   "conductor": "Bruno Canfora",
-  "dancers": null,
   "lyricists": [
     "Giampiero Artegiani"
   ],
-  "spokesperson": "Rosanna Vaudetti",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Rosanna Vaudetti"
 }

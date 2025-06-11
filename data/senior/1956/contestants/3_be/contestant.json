@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "BE",
-  "broadcaster": "NIR",
   "artist": "Fud Leclerc",
-  "artistPeople": [
-    "Fernand Urbain Dominic Leclerc"
-  ],
   "song": "Messieurs les noyés de la Seine",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/U9O3sqlyra0",
@@ -13,21 +9,26 @@
   ],
   "bpm": 122,
   "tone": "G minor",
-  "backings": null,
-  "commentators": [
-    "Piet te Nuyl Jr.",
-    "Raymond Colbert"
+  "artistPeople": [
+    "Fernand Urbain Dominic Leclerc"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jack Say",
     "Jean Miret"
   ],
   "conductor": "Léo Souris",
-  "dancers": null,
   "lyricists": [
     "Robert Montal"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NIR",
+  "commentators": [
+    "Piet te Nuyl Jr.",
+    "Raymond Colbert"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

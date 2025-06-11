@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "CY",
-  "broadcaster": "CyBC",
   "artist": "Silia Kapsis",
-  "artistPeople": [
-    "Vasiliki Silia Kapsi (Βασιλική Σίλια Καψή)"
-  ],
   "song": "Liar",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/c4wMioZXbMk",
@@ -17,27 +13,32 @@
   ],
   "bpm": 100,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Vasiliki Silia Kapsi (Βασιλική Σίλια Καψή)"
+  ],
   "backings": [
     "Victoria Halkiti"
   ],
-  "commentators": [
-    "Hovig",
-    "Melina Karageorgiou"
-  ],
-  "composers": [
-    "Dimitris Kontopoulos"
-  ],
-  "conductor": null,
   "dancers": [
     "Martin Daugaard",
     "Sebastian Laurentius Nielsen",
     "Theo B. Kofoed",
     "Thomas Hegnet"
   ],
+  "stageDirector": "Dan Shipton, Marvin Dietmann",
+  "composers": [
+    "Dimitris Kontopoulos"
+  ],
+  "conductor": null,
   "lyricists": [
     "Elke Tiel"
   ],
-  "spokesperson": "Loukas Hamatsos",
-  "stageDirector": "Dan Shipton, Marvin Dietmann",
-  "writers": null
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Hovig",
+    "Melina Karageorgiou"
+  ],
+  "jury": null,
+  "spokesperson": "Loukas Hamatsos"
 }

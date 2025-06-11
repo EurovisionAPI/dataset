@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "FR",
-  "broadcaster": "A2F",
   "artist": "Nathalie Pâque",
-  "artistPeople": [
-    "Nathalie Pâque"
-  ],
   "song": "J'ai volé la vie",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/f9rxnwHbg8A",
@@ -14,20 +10,25 @@
   ],
   "bpm": 147,
   "tone": "Ab major",
-  "backings": null,
-  "commentators": [
-    "Lionel Cassan"
+  "artistPeople": [
+    "Nathalie Pâque"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "G. G. Candy",
     "Guy Mattéoni"
   ],
   "conductor": "Guy Mattéoni",
-  "dancers": null,
   "lyricists": [
     "Sylvain Lebel"
   ],
-  "spokesperson": "Marie-Ange Nardi",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "A2F",
+  "commentators": [
+    "Lionel Cassan"
+  ],
+  "jury": null,
+  "spokesperson": "Marie-Ange Nardi"
 }

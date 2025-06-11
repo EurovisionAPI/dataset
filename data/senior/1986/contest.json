@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1986.png",
-  "presenters": [
-    "Åse Kleveland"
-  ],
   "broadcasters": [
     "NRK"
+  ],
+  "presenters": [
+    "Åse Kleveland"
   ]
 }

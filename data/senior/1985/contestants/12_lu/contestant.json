@@ -1,8 +1,14 @@
 {
   "id": 12,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Margo, Franck, Diane, Ireen, Malcolm & Chris",
+  "song": "Children, Kinder, Enfants",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XumSPzsl6mQ",
+    "https://www.youtube-nocookie.com/embed/XGHLf81wuqE"
+  ],
+  "bpm": 114,
+  "tone": "G major",
   "artistPeople": [
     "Christian Franz Klusáček",
     "Diane Solomon",
@@ -11,27 +17,22 @@
     "Malcolm Roberts",
     "Annemieke Verdoorn"
   ],
-  "song": "Children, Kinder, Enfants",
-  "videoUrls": [
-    "https://www.youtube-nocookie.com/embed/XumSPzsl6mQ",
-    "https://www.youtube-nocookie.com/embed/XGHLf81wuqE"
-  ],
-  "bpm": 114,
-  "tone": "G major",
   "backings": null,
-  "commentators": [
-    "Valérie Sarn"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ralph Siegel"
   ],
   "conductor": "Norbert Daum",
-  "dancers": null,
   "lyricists": [
     "Gunter Johansen",
     "Jean-Michel Beriat"
   ],
-  "spokesperson": "Frédérique Ries",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Valérie Sarn"
+  ],
+  "jury": null,
+  "spokesperson": "Frédérique Ries"
 }

@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Piera Martell",
-  "artistPeople": [
-    "Piera Martell"
-  ],
   "song": "Mein Ruf nach dir",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/wP_h6mpDIoY",
@@ -15,6 +11,9 @@
   ],
   "bpm": 103,
   "tone": "G minor",
+  "artistPeople": [
+    "Piera Martell"
+  ],
   "backings": [
     "Angelo Santi",
     "Athina Amperiadou",
@@ -22,18 +21,20 @@
     "Irene Schwendimann",
     "Sylvia Pyka"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Pepe Ederer",
+  "lyricists": null,
+  "writers": [
+    "Pepe Ederer"
+  ],
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Georges Hardy",
     "Giovanni Bertini",
     "Theodor Haller"
   ],
-  "composers": null,
-  "conductor": "Pepe Ederer",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Michel Stocker",
-  "stageDirector": null,
-  "writers": [
-    "Pepe Ederer"
-  ]
+  "jury": null,
+  "spokesperson": "Michel Stocker"
 }

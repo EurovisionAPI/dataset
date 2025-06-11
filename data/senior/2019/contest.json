@@ -6,13 +6,13 @@
   "intendedCountry": null,
   "slogan": "Dare to Dream",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2019.png",
+  "broadcasters": [
+    "Israeli Public Broadcasting Corporation (IPBC)"
+  ],
   "presenters": [
     "Bar Refaeli",
     "Erez Tal",
     "Assi Azar",
     "Lucy Ayoub"
-  ],
-  "broadcasters": [
-    "Israeli Public Broadcasting Corporation (IPBC)"
   ]
 }

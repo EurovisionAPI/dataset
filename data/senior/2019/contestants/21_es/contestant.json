@@ -1,11 +1,7 @@
 {
   "id": 21,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Miki",
-  "artistPeople": [
-    "Miguel Núñez Pozo"
-  ],
   "song": "La venda",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/lWXuohnM14U",
@@ -18,25 +14,30 @@
   ],
   "bpm": 74,
   "tone": "Eb major",
+  "artistPeople": [
+    "Miguel Núñez Pozo"
+  ],
   "backings": [
     "Ernesto Santos",
     "Fran Guerrero",
     "Mikel"
   ],
-  "commentators": [
-    "Julia Varela",
-    "Tony Aguilar"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "María Acosta Colubi",
     "Mary Martínez"
   ],
-  "lyricists": null,
-  "spokesperson": "Nieves Álvarez",
   "stageDirector": "Fokas Evangelinos",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Adrià Salas"
-  ]
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Julia Varela",
+    "Tony Aguilar"
+  ],
+  "jury": null,
+  "spokesperson": "Nieves Álvarez"
 }

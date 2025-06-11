@@ -1,16 +1,7 @@
 {
   "id": 14,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Os Amigos",
-  "artistPeople": [
-    "Ana Bola",
-    "Edmundo Silva",
-    "Fernanda Piçarra",
-    "Fernando Tordo",
-    "Luísa Basto",
-    "Paulo da Costa"
-  ],
   "song": "Portugal no coração",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/W3SVxow-oao",
@@ -20,19 +11,29 @@
   ],
   "bpm": 127,
   "tone": "Bb major",
-  "backings": null,
-  "commentators": [
-    "José Côrte-Real"
+  "artistPeople": [
+    "Ana Bola",
+    "Edmundo Silva",
+    "Fernanda Piçarra",
+    "Fernando Tordo",
+    "Luísa Basto",
+    "Paulo da Costa"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Fernando Tordo"
   ],
   "conductor": "José Calvário",
-  "dancers": null,
   "lyricists": [
     "José Carlos Ary dos Santos"
   ],
-  "spokesperson": "Ana Zanatti",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "José Côrte-Real"
+  ],
+  "jury": null,
+  "spokesperson": "Ana Zanatti"
 }

@@ -1,14 +1,7 @@
 {
   "id": 32,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Nonstop",
-  "artistPeople": [
-    "Andrea de Brito Soares",
-    "Kátia Moreira Alcunha",
-    "Liliana Patrícia Almeida",
-    "Ana Rita Branco Gonçalves Reis"
-  ],
   "song": "Coisas De Nada",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/mWLX83XLmCs",
@@ -16,20 +9,28 @@
   ],
   "bpm": 148,
   "tone": "E major",
+  "artistPeople": [
+    "Andrea de Brito Soares",
+    "Kátia Moreira Alcunha",
+    "Liliana Patrícia Almeida",
+    "Ana Rita Branco Gonçalves Reis"
+  ],
   "backings": [
     "Elaisa"
   ],
-  "commentators": [
-    "Eládio Clímaco"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Cristina Alves",
-  "stageDirector": null,
   "writers": [
     "Elvis Veiguinha",
     "José Manuel Afonso"
-  ]
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Eládio Clímaco"
+  ],
+  "jury": null,
+  "spokesperson": "Cristina Alves"
 }

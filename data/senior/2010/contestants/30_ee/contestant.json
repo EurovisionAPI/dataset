@@ -1,12 +1,7 @@
 {
   "id": 30,
   "country": "EE",
-  "broadcaster": "ERR",
   "artist": "Malcolm Lincoln",
-  "artistPeople": [
-    "Madis Kubu",
-    "Robin Juhkental"
-  ],
   "song": "Siren",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/yFbVAQjESzE",
@@ -17,23 +12,29 @@
   ],
   "bpm": 103,
   "tone": "A minor",
+  "artistPeople": [
+    "Madis Kubu",
+    "Robin Juhkental"
+  ],
   "backings": [
     "Andrei Ozdoba",
     "Jaanus Saago",
     "Kristjan Knight",
     "Mick Pedaja"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Robin Juhkental"
+  ],
+  "broadcaster": "ERR",
   "commentators": [
     "Marko Reikop",
     "Sven Lõhmus"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Rolf Roosalu",
-  "stageDirector": null,
-  "writers": [
-    "Robin Juhkental"
-  ]
+  "jury": null,
+  "spokesperson": "Rolf Roosalu"
 }

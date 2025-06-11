@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Lys Assia",
-  "artistPeople": [
-    "Rosa Mina Schärer"
-  ],
   "song": "Das alte Karussell",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/lVpf8uzHnX0",
@@ -14,6 +10,9 @@
   ],
   "bpm": 104,
   "tone": "C major",
+  "artistPeople": [
+    "Rosa Mina Schärer"
+  ],
   "backings": [
     "Anita Traversi",
     "Athos Beretta",
@@ -21,17 +20,19 @@
     "Luciano Rezzonico",
     "Silvano Beretta"
   ],
-  "commentators": [
-    "Georges Hardy"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Fernando Paggi",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Fernando Paggi",
     "George Betz-Stahl"
-  ]
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "YU",
-  "broadcaster": "JRT",
   "artist": "Sabahudin Kurt",
-  "artistPeople": [
-    "Sabahudin Kurt"
-  ],
   "song": "Život je sklopio krug",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/4yLS6MPutk8",
@@ -13,21 +9,26 @@
   ],
   "bpm": 85,
   "tone": "A major",
+  "artistPeople": [
+    "Sabahudin Kurt"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Srđan Matijević"
+  ],
+  "conductor": "Radivoj Spasić",
+  "lyricists": [
+    "Stevan Raičković"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
   "commentators": [
     "Gordana Bonetti",
     "Miloje Orlović",
     "Tomaž Terček"
   ],
-  "composers": [
-    "Srđan Matijević"
-  ],
-  "conductor": "Radivoj Spasić",
-  "dancers": null,
-  "lyricists": [
-    "Stevan Raičković"
-  ],
-  "spokesperson": "Saša Novak",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Saša Novak"
 }

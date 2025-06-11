@@ -1,12 +1,7 @@
 {
   "id": 15,
   "country": "MC",
-  "broadcaster": "TMC",
   "artist": "Anne-Marie Godart and Peter MacLane",
-  "artistPeople": [
-    "Anne-Marie Godart",
-    "Peter McLane"
-  ],
   "song": "Comme on s'aime",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/RuxHF5-HbMk",
@@ -14,19 +9,25 @@
   ],
   "bpm": 172,
   "tone": "G minor",
-  "backings": null,
-  "commentators": [
-    "Pierre Tchernia"
+  "artistPeople": [
+    "Anne-Marie Godart",
+    "Peter McLane"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Raymond Bernard"
   ],
   "conductor": "Raymond Bernard",
-  "dancers": null,
   "lyricists": [
     "Jean Drejac"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

@@ -1,12 +1,7 @@
 {
   "id": 20,
   "country": "CY",
-  "broadcaster": "CyBC",
   "artist": "Voice",
-  "artistPeople": [
-    "Alex Panayi",
-    "Christina Argyri"
-  ],
   "song": "Nomiza",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/GayjGl1AXFY",
@@ -15,25 +10,31 @@
   ],
   "bpm": 118,
   "tone": "Ab minor",
+  "artistPeople": [
+    "Alex Panayi",
+    "Christina Argyri"
+  ],
   "backings": [
     "Christina Lazarou",
     "Giorgios Gavriel",
     "Lina Kawar",
     "Michael Moschou"
   ],
-  "commentators": [
-    "Evi Papamichail"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Alexandros Panayi"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Alexandros Panayi",
     "Silvia M. Klemm"
   ],
-  "spokesperson": "Loukas Hamatsos",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Loukas Hamatsos"
 }

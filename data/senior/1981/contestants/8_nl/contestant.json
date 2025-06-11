@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Linda Williams",
-  "artistPeople": [
-    "Henriëtte Willems"
-  ],
   "song": "Het is een wonder",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/x7olEEGIWq8",
@@ -15,6 +11,9 @@
   ],
   "bpm": 95,
   "tone": "E major",
+  "artistPeople": [
+    "Henriëtte Willems"
+  ],
   "backings": [
     "Cees de Wit",
     "Francis Goya",
@@ -22,18 +21,20 @@
     "Miriam Snoek",
     "Titia Dekker"
   ],
-  "commentators": [
-    "Pim Jacobs"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Cees de Wit"
   ],
   "conductor": "Rogier van Otterloo",
-  "dancers": null,
   "lyricists": [
     "Bart van de Laar"
   ],
-  "spokesperson": "Flip van der Schalie",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Pim Jacobs"
+  ],
+  "jury": null,
+  "spokesperson": "Flip van der Schalie"
 }

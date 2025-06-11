@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Maribelle",
-  "artistPeople": [
-    "Maria Lidwina Kwakman"
-  ],
   "song": "Ik hou van jou",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/gPEBOXtGt04",
@@ -17,18 +13,23 @@
   ],
   "bpm": 172,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Ivo Niehe"
+  "artistPeople": [
+    "Maria Lidwina Kwakman"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Rogier van Otterloo",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Flip van der Schalie",
-  "stageDirector": null,
   "writers": [
     "Peter van Asten",
     "Richard Debois"
-  ]
+  ],
+  "broadcaster": "NOS",
+  "commentators": [
+    "Ivo Niehe"
+  ],
+  "jury": null,
+  "spokesperson": "Flip van der Schalie"
 }

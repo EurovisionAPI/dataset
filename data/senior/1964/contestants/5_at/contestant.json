@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Udo Jürgens",
-  "artistPeople": [
-    "Jürgen Udo Bockelmann"
-  ],
   "song": "Warum nur, warum?",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Cqvp-gJqGlY",
@@ -15,17 +11,22 @@
   ],
   "bpm": 89,
   "tone": "Eb major",
+  "artistPeople": [
+    "Jürgen Udo Bockelmann"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Johannes Fehring",
+  "lyricists": null,
+  "writers": [
+    "Udo Jürgens"
+  ],
+  "broadcaster": "ORF",
   "commentators": [
     "Willy Kralik"
   ],
-  "composers": null,
-  "conductor": "Johannes Fehring",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Walter Richard Langer",
-  "stageDirector": null,
-  "writers": [
-    "Udo Jürgens"
-  ]
+  "jury": null,
+  "spokesperson": "Walter Richard Langer"
 }

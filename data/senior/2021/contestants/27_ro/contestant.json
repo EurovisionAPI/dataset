@@ -1,11 +1,7 @@
 {
   "id": 27,
   "country": "RO",
-  "broadcaster": "TVR",
   "artist": "Roxen",
-  "artistPeople": [
-    "Larisa Roxana Giurgiu"
-  ],
   "song": "Amnesia",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5ZWcsj_6Log",
@@ -18,12 +14,10 @@
   ],
   "bpm": 120,
   "tone": "Ab minor",
-  "backings": null,
-  "commentators": [
-    "Bogdan Stănescu"
+  "artistPeople": [
+    "Larisa Roxana Giurgiu"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Alex Sandulescu",
     "Andrei Groza",
@@ -31,11 +25,18 @@
     "Ruxandra Anamaria",
     "Vivienne Szentyobbi"
   ],
-  "lyricists": null,
-  "spokesperson": "Cătălina Ponor",
   "stageDirector": "Bogdan Păun, Dan Manoliu",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Adelina Stîngă",
     "Viky Red"
-  ]
+  ],
+  "broadcaster": "TVR",
+  "commentators": [
+    "Bogdan Stănescu"
+  ],
+  "jury": null,
+  "spokesperson": "Cătălina Ponor"
 }

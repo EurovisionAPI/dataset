@@ -1,12 +1,7 @@
 {
   "id": 3,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Hot Eyes",
-  "artistPeople": [
-    "Kirsten Siggaard",
-    "Søren Bundgaard"
-  ],
   "song": "Det' lige det",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/oBk3aBUbv8k",
@@ -18,24 +13,30 @@
   ],
   "bpm": 144,
   "tone": "A major",
+  "artistPeople": [
+    "Kirsten Siggaard",
+    "Søren Bundgaard"
+  ],
   "backings": [
     "Frede Ewert",
     "Hanne Boel",
     "Lise Dandanell",
     "Tina Schäfer"
   ],
-  "commentators": [
-    "Jørgen de Mylius"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Søren Bundgaard"
   ],
   "conductor": "Henrik Krogsgaard",
-  "dancers": null,
   "lyricists": [
     "Keld Heick"
   ],
-  "spokesperson": "Bent Henius",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
 }

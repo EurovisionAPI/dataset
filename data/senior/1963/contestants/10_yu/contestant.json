@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "YU",
-  "broadcaster": "JRT",
   "artist": "Vice Vukov",
-  "artistPeople": [
-    "Vice Vukov"
-  ],
   "song": "Brodovi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/6TnKpdwMPfM",
@@ -13,19 +9,24 @@
   ],
   "bpm": 144,
   "tone": "C major",
+  "artistPeople": [
+    "Vice Vukov"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Miljenko Prohaska",
+  "lyricists": null,
+  "writers": [
+    "Mario Nardelli"
+  ],
+  "broadcaster": "JRT",
   "commentators": [
     "Gordana Bonetti",
     "Ljubomir Vukadinović",
     "Tomaž Terček"
   ],
-  "composers": null,
-  "conductor": "Miljenko Prohaska",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Miloje Orlović",
-  "stageDirector": null,
-  "writers": [
-    "Mario Nardelli"
-  ]
+  "jury": null,
+  "spokesperson": "Miloje Orlović"
 }

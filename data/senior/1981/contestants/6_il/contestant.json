@@ -1,14 +1,7 @@
 {
   "id": 6,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Habibi",
-  "artistPeople": [
-    "Ami Mendelman",
-    "Zvi Rotstein",
-    "Shlomit Aharon",
-    "Yuval Dor"
-  ],
   "song": "Halaylah",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/9c7y22qi2Mo",
@@ -19,18 +12,26 @@
   ],
   "bpm": 126,
   "tone": "Eb major",
+  "artistPeople": [
+    "Ami Mendelman",
+    "Zvi Rotstein",
+    "Shlomit Aharon",
+    "Yuval Dor"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Shuki Levy"
   ],
   "conductor": "Eldad Shrem",
-  "dancers": null,
   "lyricists": [
     "Shlomit Aharon",
     "Yuval Dor"
   ],
-  "spokesperson": "Dan Kaner",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Dan Kaner"
 }

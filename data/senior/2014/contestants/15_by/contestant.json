@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "BY",
-  "broadcaster": "BTRC",
   "artist": "Teo",
-  "artistPeople": [
-    "Yuriy Alexeyevich Vashchuk (Юрый Аляксеевіч Вашчук)"
-  ],
   "song": "Cheesecake",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/tImGMW-4eHY",
@@ -15,26 +11,31 @@
   ],
   "bpm": 95,
   "tone": "C# minor",
+  "artistPeople": [
+    "Yuriy Alexeyevich Vashchuk (Юрый Аляксеевіч Вашчук)"
+  ],
   "backings": [
     "Artyom Ahpash",
     "Denis Lis",
     "Yuriy Seleznyov"
   ],
-  "commentators": [
-    "Evgeny Perlin"
-  ],
-  "composers": [
-    "Yuriy Vashchuk"
-  ],
-  "conductor": null,
   "dancers": [
     "Alexander Zalesskiy",
     "Andrey Martynov"
   ],
+  "stageDirector": "Tine Matulessy",
+  "composers": [
+    "Yuriy Vashchuk"
+  ],
+  "conductor": null,
   "lyricists": [
     "Dmitry Novik"
   ],
-  "spokesperson": "Alyona Lanskaya",
-  "stageDirector": "Tine Matulessy",
-  "writers": null
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Evgeny Perlin"
+  ],
+  "jury": null,
+  "spokesperson": "Alyona Lanskaya"
 }

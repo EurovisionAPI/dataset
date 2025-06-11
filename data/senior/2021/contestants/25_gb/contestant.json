@@ -1,11 +1,7 @@
 {
   "id": 25,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "James Newman",
-  "artistPeople": [
-    "James Richard Newman"
-  ],
   "song": "Embers",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/VxNOynEJ6wc",
@@ -18,31 +14,36 @@
   ],
   "bpm": 126,
   "tone": "B major",
+  "artistPeople": [
+    "James Richard Newman"
+  ],
   "backings": [
     "Annabel Williams"
   ],
-  "commentators": [
-    "Chelcee Grimes",
-    "Graham Norton",
-    "Sara Cox",
-    "Scott Mills"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Alex Chambers",
     "Israel Donowa",
     "Shaun Niles",
     "Yves Cueni"
   ],
-  "lyricists": null,
-  "spokesperson": "Amanda Holden",
   "stageDirector": "Jerry Reeve, Tom Denning",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Conor Blake",
     "Danny Shah",
     "James Newman",
     "Samuel Brennan",
     "Tom Hollings"
-  ]
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Chelcee Grimes",
+    "Graham Norton",
+    "Sara Cox",
+    "Scott Mills"
+  ],
+  "jury": null,
+  "spokesperson": "Amanda Holden"
 }

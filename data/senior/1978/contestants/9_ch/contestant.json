@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Carole Vinci",
-  "artistPeople": [
-    "Carole Vinci"
-  ],
   "song": "Vivre",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/tvbJwQGF3wI",
@@ -15,21 +11,26 @@
   ],
   "bpm": 135,
   "tone": "E major",
+  "artistPeople": [
+    "Carole Vinci"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alain Morisod"
+  ],
+  "conductor": "Daniel Janin",
+  "lyricists": [
+    "Pierre Alain"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Georges Hardy",
     "Giovanni Bertini",
     "Theodor Haller"
   ],
-  "composers": [
-    "Alain Morisod"
-  ],
-  "conductor": "Daniel Janin",
-  "dancers": null,
-  "lyricists": [
-    "Pierre Alain"
-  ],
-  "spokesperson": "Michel Stocker",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Michel Stocker"
 }

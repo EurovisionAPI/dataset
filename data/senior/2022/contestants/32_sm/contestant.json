@@ -1,11 +1,7 @@
 {
   "id": 32,
   "country": "SM",
-  "broadcaster": "SMRTV",
   "artist": "Achille Lauro",
-  "artistPeople": [
-    "Lauro De Marinis"
-  ],
   "song": "Stripper",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/vCmX64N_sXM",
@@ -17,6 +13,9 @@
   ],
   "bpm": 140,
   "tone": "A minor",
+  "artistPeople": [
+    "Lauro De Marinis"
+  ],
   "backings": [
     "Boss Doms",
     "Gregorio Calculli",
@@ -24,10 +23,8 @@
     "Nicola Iazzi",
     "Raffaele Littorio"
   ],
-  "commentators": [
-    "Gigi Restivo",
-    "Lia Fiorio"
-  ],
+  "dancers": null,
+  "stageDirector": "Alessandro Michele",
   "composers": [
     "Gregorio Calculli",
     "Marco Lanciotti",
@@ -35,7 +32,6 @@
     "Mattia Cutolo"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Daniele Dezi",
     "Daniele Mungai",
@@ -45,7 +41,12 @@
     "Lauro De Marinis",
     "Simon Pietro Manzari"
   ],
-  "spokesperson": "Labiuse",
-  "stageDirector": "Alessandro Michele",
-  "writers": null
+  "writers": null,
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Gigi Restivo",
+    "Lia Fiorio"
+  ],
+  "jury": null,
+  "spokesperson": "Labiuse"
 }

@@ -1,12 +1,7 @@
 {
   "id": 2,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Wess & Dori Ghezzi",
-  "artistPeople": [
-    "Dori Ghezzi",
-    "Wess Johnson"
-  ],
   "song": "Era",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Xp5xejPoOgY",
@@ -18,24 +13,30 @@
   ],
   "bpm": 139,
   "tone": "Bb major",
+  "artistPeople": [
+    "Dori Ghezzi",
+    "Wess Johnson"
+  ],
   "backings": [
     "Lalla Francia",
     "Mirella Bossi",
     "Paola Orlandi",
     "Silvia Annichiarico"
   ],
-  "commentators": [
-    "Silvio Noto"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Shel Shapiro"
   ],
   "conductor": "Pier Natale Massara",
-  "dancers": null,
   "lyricists": [
     "Andrea Lo Vecchio"
   ],
-  "spokesperson": "Anna Maria Gambineri",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Silvio Noto"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Maria Gambineri"
 }

@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "IS",
-  "broadcaster": "RÚV",
   "artist": "Selma Björnsdóttir",
-  "artistPeople": [
-    "Selma Björnsdóttir"
-  ],
   "song": "All out of luck",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/B-Fw2EHzIro",
@@ -15,6 +11,9 @@
   ],
   "bpm": 132,
   "tone": "E major",
+  "artistPeople": [
+    "Selma Björnsdóttir"
+  ],
   "backings": [
     "Brynjar Örn Thorleifsson",
     "Daniel Traustason",
@@ -22,20 +21,22 @@
     "Rúna Stefansdottir",
     "Stefán Hilmarsson"
   ],
-  "commentators": [
-    "Gísli Marteinn Baldursson"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Selma Björnsdóttir",
     "Sveinbjörn I. Baldvinsson",
     "Þorvaldur Bjarni Þorvaldsson"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Þorvaldur Bjarni Þorvaldsson"
   ],
-  "spokesperson": "Áslaug Dóra Eyjólfsdóttir",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "jury": null,
+  "spokesperson": "Áslaug Dóra Eyjólfsdóttir"
 }

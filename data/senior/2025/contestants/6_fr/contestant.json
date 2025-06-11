@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "FR",
-  "broadcaster": "France 2",
   "artist": "Louane",
-  "artistPeople": [
-    "Anne Peichert"
-  ],
   "song": "Maman",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/jhqJY0ll1Wo",
@@ -18,21 +14,26 @@
   ],
   "bpm": 88,
   "tone": "G minor",
-  "backings": null,
-  "commentators": [
-    "Laurence Boccolini",
-    "Stéphane Bern"
+  "artistPeople": [
+    "Anne Peichert"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Fredrik Rydman",
   "composers": [
     "Louane",
     "Tristan Salvati"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Louane"
   ],
-  "spokesperson": "Émilie Mazoyer",
-  "stageDirector": "Fredrik Rydman",
-  "writers": null
+  "writers": null,
+  "broadcaster": "France 2",
+  "commentators": [
+    "Laurence Boccolini",
+    "Stéphane Bern"
+  ],
+  "jury": null,
+  "spokesperson": "Émilie Mazoyer"
 }

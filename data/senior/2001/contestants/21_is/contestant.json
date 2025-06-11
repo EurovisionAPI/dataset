@@ -1,12 +1,7 @@
 {
   "id": 21,
   "country": "IS",
-  "broadcaster": "RÚV",
   "artist": "TwoTricky",
-  "artistPeople": [
-    "Gunnar Ólafsson",
-    "Kristján Gíslason"
-  ],
   "song": "Angel",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/B6JROajTrIc",
@@ -14,25 +9,31 @@
   ],
   "bpm": 92,
   "tone": "C major",
+  "artistPeople": [
+    "Gunnar Ólafsson",
+    "Kristján Gíslason"
+  ],
   "backings": [
     "Margrét Eir Hjartardóttir",
     "Nanna Jonsdóttir",
     "Regína Ósk",
     "Yesmine Olson"
   ],
-  "commentators": [
-    "Gísli Marteinn Baldursson"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Einar Bárðarson",
     "Magnús Þór Sigmundsson"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Einar Bárðarson"
   ],
-  "spokesperson": "Eva María Jónsdóttir",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "jury": null,
+  "spokesperson": "Eva María Jónsdóttir"
 }

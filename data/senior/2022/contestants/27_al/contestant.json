@@ -1,11 +1,7 @@
 {
   "id": 27,
   "country": "AL",
-  "broadcaster": "RTSH",
   "artist": "Ronela Hajati",
-  "artistPeople": [
-    "Ronela Hajati"
-  ],
   "song": "Sekret",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/_jWXmo0-ZjI",
@@ -18,12 +14,10 @@
   ],
   "bpm": 100,
   "tone": "F major",
-  "backings": null,
-  "commentators": [
-    "Andri Xhahu"
+  "artistPeople": [
+    "Ronela Hajati"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Andrea Attila Felice",
     "Karmine Verola",
@@ -31,10 +25,17 @@
     "Mario Giuseppe Uzzi",
     "Zusef Yahir"
   ],
-  "lyricists": null,
-  "spokesperson": "Andri Xhahu",
   "stageDirector": "Klaudia Pepa",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Ronela Hajati"
-  ]
+  ],
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": null,
+  "spokesperson": "Andri Xhahu"
 }

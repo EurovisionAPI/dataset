@@ -1,16 +1,7 @@
 {
   "id": 9,
   "country": "CZ",
-  "broadcaster": "ČT",
   "artist": "Vesna",
-  "artistPeople": [
-    "Bára Juránková",
-    "Markéta Vedralová",
-    "Olesya Ochepovská",
-    "Patricie Kaňok Fuxová",
-    "Tanita Yankova",
-    "Tereza Čepková"
-  ],
   "song": "My Sister's Crown",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ag8qxpvTTy0",
@@ -23,10 +14,17 @@
   ],
   "bpm": 150,
   "tone": "E minor",
-  "backings": null,
-  "commentators": [
-    "Jan Maxián"
+  "artistPeople": [
+    "Bára Juránková",
+    "Markéta Vedralová",
+    "Olesya Ochepovská",
+    "Patricie Kaňok Fuxová",
+    "Tanita Yankova",
+    "Tereza Čepková"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Matyáš Vorda, Vítek Bělohradský",
   "composers": [
     "Adam Albrecht",
     "Michal Jiráň",
@@ -35,13 +33,16 @@
     "Tanita Yankova"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Kateryna Vatchenko",
     "Patricie Kaňok Fuxová",
     "Tanita Yankova"
   ],
-  "spokesperson": "Radka Rosická",
-  "stageDirector": "Matyáš Vorda, Vítek Bělohradský",
-  "writers": null
+  "writers": null,
+  "broadcaster": "ČT",
+  "commentators": [
+    "Jan Maxián"
+  ],
+  "jury": null,
+  "spokesperson": "Radka Rosická"
 }

@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Dana International",
-  "artistPeople": [
-    "Sharon Cohen"
-  ],
   "song": "Diva",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/4No1oClTp_E",
@@ -17,22 +13,27 @@
   ],
   "bpm": 134,
   "tone": "E minor",
+  "artistPeople": [
+    "Sharon Cohen"
+  ],
   "backings": [
     "Galit Dahan",
     "Lilach Koch",
     "Shirley Tsapary",
     "Talia Adler"
   ],
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Svika Pick"
   ],
   "conductor": "Svika Pick",
-  "dancers": null,
   "lyricists": [
     "Yoav Ginai"
   ],
-  "spokesperson": "Yigal Ravid",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yigal Ravid"
 }

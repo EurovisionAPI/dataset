@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Elisabeth Andreasson",
-  "artistPeople": [
-    "Elisabeth Gunilla Andreassen"
-  ],
   "song": "I evighet",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Dxr64yUHzKM",
@@ -14,6 +10,9 @@
   ],
   "bpm": 143,
   "tone": "C# major",
+  "artistPeople": [
+    "Elisabeth Gunilla Andreassen"
+  ],
   "backings": [
     "Hilde Kjeldsen",
     "Marian Lisland",
@@ -21,16 +20,18 @@
     "Roar Engelberg",
     "Rolf Graf"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Frode Thingnæs",
+  "lyricists": null,
+  "writers": [
+    "Torhild Nigar"
+  ],
+  "broadcaster": "NRK",
   "commentators": [
     "Jostein Pedersen"
   ],
-  "composers": null,
-  "conductor": "Frode Thingnæs",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Ragnhild Sælthun Fjørtoft",
-  "stageDirector": null,
-  "writers": [
-    "Torhild Nigar"
-  ]
+  "jury": null,
+  "spokesperson": "Ragnhild Sælthun Fjørtoft"
 }

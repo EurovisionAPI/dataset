@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "SE",
-  "broadcaster": "SR",
   "artist": "Östen Warnerbring",
-  "artistPeople": [
-    "Östen Warnerbring"
-  ],
   "song": "Som en dröm",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/egGTA2yU0RU",
@@ -15,20 +11,25 @@
   ],
   "bpm": 94,
   "tone": "E minor",
-  "backings": null,
-  "commentators": [
-    "Christina Hansegård"
+  "artistPeople": [
+    "Östen Warnerbring"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Curt Petterson",
     "Marcus Österdahl"
   ],
   "conductor": "Mats Olsson",
-  "dancers": null,
   "lyricists": [
     "Patrice Hellberg"
   ],
-  "spokesperson": "Edvard Matz",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Christina Hansegård"
+  ],
+  "jury": null,
+  "spokesperson": "Edvard Matz"
 }

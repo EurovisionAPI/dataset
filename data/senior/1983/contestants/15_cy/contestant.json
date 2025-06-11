@@ -1,12 +1,7 @@
 {
   "id": 15,
   "country": "CY",
-  "broadcaster": "CyBC",
   "artist": "Stavros & Constantina",
-  "artistPeople": [
-    "Constantina Konstantinou",
-    "Stavros Sideras"
-  ],
   "song": "I agapi akoma zi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Oh0bfRWDaSc",
@@ -15,22 +10,28 @@
   ],
   "bpm": 91,
   "tone": "F major",
+  "artistPeople": [
+    "Constantina Konstantinou",
+    "Stavros Sideras"
+  ],
   "backings": [
     "Elena Patroklou",
     "Evridiki Theokleous",
     "John Vickers",
     "Stelios Konstantinou"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Michalis Rozakis",
+  "lyricists": null,
+  "writers": [
+    "Stavros Sideras"
+  ],
+  "broadcaster": "CyBC",
   "commentators": [
     "Fryni Papadopoulou"
   ],
-  "composers": null,
-  "conductor": "Michalis Rozakis",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Anna Partelidou",
-  "stageDirector": null,
-  "writers": [
-    "Stavros Sideras"
-  ]
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
 }

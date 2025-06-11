@@ -1,11 +1,7 @@
 {
   "id": 29,
   "country": "MD",
-  "broadcaster": "TRM",
   "artist": "Natalia Barbu",
-  "artistPeople": [
-    "Natalia Barbu"
-  ],
   "song": "In the Middle",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/evIoGkZXj2s",
@@ -18,20 +14,25 @@
   ],
   "bpm": 114,
   "tone": "Ab minor",
-  "backings": null,
-  "commentators": [
-    "Angela Rudenco"
+  "artistPeople": [
+    "Natalia Barbu"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Natalia Barbu"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Khris Richards",
     "Natalia Barbu"
   ],
-  "spokesperson": "Doina Stimpovschi",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Angela Rudenco"
+  ],
+  "jury": null,
+  "spokesperson": "Doina Stimpovschi"
 }

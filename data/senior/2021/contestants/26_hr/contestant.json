@@ -1,11 +1,7 @@
 {
   "id": 26,
   "country": "HR",
-  "broadcaster": "HRT",
   "artist": "Albina",
-  "artistPeople": [
-    "Albina Grčić"
-  ],
   "song": "Tick-Tock",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/vKdxjoNluzY",
@@ -18,25 +14,30 @@
   ],
   "bpm": 126,
   "tone": "E minor",
+  "artistPeople": [
+    "Albina Grčić"
+  ],
   "backings": null,
-  "commentators": [
-    "Duško Ćurlić"
-  ],
-  "composers": [
-    "Branimir Mihaljević"
-  ],
-  "conductor": null,
   "dancers": [
     "Devin Juraj",
     "Luciano Plazibat",
     "Marko Marić",
     "Stjepan Cutvarić"
   ],
+  "stageDirector": "Dan Shipton, Marvin Dietmann",
+  "composers": [
+    "Branimir Mihaljević"
+  ],
+  "conductor": null,
   "lyricists": [
     "Max Cinnamon",
     "Tihana Buklijaš Bakić"
   ],
-  "spokesperson": "Ivan Dorian Molnar",
-  "stageDirector": "Dan Shipton, Marvin Dietmann",
-  "writers": null
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": null,
+  "spokesperson": "Ivan Dorian Molnar"
 }

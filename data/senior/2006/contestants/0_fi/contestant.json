@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Lordi",
-  "artistPeople": [
-    "Tomi Petteri Putaansuu"
-  ],
   "song": "Hard Rock Hallelujah",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/gAh9NRGNhUU",
@@ -16,6 +12,9 @@
   ],
   "bpm": 123,
   "tone": "C minor",
+  "artistPeople": [
+    "Tomi Petteri Putaansuu"
+  ],
   "backings": [
     "Amen",
     "Awa",
@@ -23,19 +22,21 @@
     "Ox",
     "Pasi Rantanen"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Mr. Lordi"
+  ],
+  "broadcaster": "YLE",
   "commentators": [
     "Asko Murtomäki",
     "Heikki Paasonen",
     "Jaana Pelkonen",
     "Thomas Lundin"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Nina Tapio",
-  "stageDirector": null,
-  "writers": [
-    "Mr. Lordi"
-  ]
+  "jury": null,
+  "spokesperson": "Nina Tapio"
 }

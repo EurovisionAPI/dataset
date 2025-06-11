@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "FR",
-  "broadcaster": "ORTF",
   "artist": "Guy Mardel",
-  "artistPeople": [
-    "Guy Mardel"
-  ],
   "song": "N'avoue jamais",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/VQhZq5WcyzE",
@@ -15,19 +11,24 @@
   ],
   "bpm": 74,
   "tone": "Bb major",
-  "backings": null,
-  "commentators": [
-    "Pierre Tchernia"
+  "artistPeople": [
+    "Guy Mardel"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Guy Mardel"
   ],
   "conductor": "Franck Pourcel",
-  "dancers": null,
   "lyricists": [
     "Françoise Dorin"
   ],
-  "spokesperson": "Jean-Claude Massoulier",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Claude Massoulier"
 }

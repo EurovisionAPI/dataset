@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "IT",
-  "broadcaster": "RAI",
   "artist": "Nicola di Bari",
-  "artistPeople": [
-    "Michele Scommegna"
-  ],
   "song": "I giorni dell'arcobaleno",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/O6UUdV92CdA",
@@ -16,20 +12,25 @@
   ],
   "bpm": 165,
   "tone": "D major",
-  "backings": null,
-  "commentators": [
-    "Renato Tagliani"
+  "artistPeople": [
+    "Michele Scommegna"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Nicola di Bari",
     "Piero Pintucci"
   ],
   "conductor": "Gianfranco Reverberi",
-  "dancers": null,
   "lyricists": [
     "Dalmazio Masini"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

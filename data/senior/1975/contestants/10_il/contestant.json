@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Shlomo Artzi",
-  "artistPeople": [
-    "Shlomo Artzi"
-  ],
   "song": "At Va'Ani",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/uXkULDSYGCk",
@@ -17,17 +13,22 @@
   ],
   "bpm": 140,
   "tone": "F major",
+  "artistPeople": [
+    "Shlomo Artzi"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Shlomo Artzi"
   ],
   "conductor": "Eldad Shrem",
-  "dancers": null,
   "lyricists": [
     "Ehud Manor"
   ],
-  "spokesperson": "Yitzhak Shim'oni",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yitzhak Shim'oni"
 }

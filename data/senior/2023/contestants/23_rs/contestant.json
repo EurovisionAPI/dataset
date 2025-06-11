@@ -1,11 +1,7 @@
 {
   "id": 23,
   "country": "RS",
-  "broadcaster": "RTS",
   "artist": "Luke Black",
-  "artistPeople": [
-    "Luka Ivanović"
-  ],
   "song": "Samo mi se spava",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/gPRfg9wzbpw",
@@ -18,22 +14,27 @@
   ],
   "bpm": 103,
   "tone": "A major",
-  "backings": null,
-  "commentators": [
-    "Duška Vučinić-Lučić"
+  "artistPeople": [
+    "Luka Ivanović"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Eva Mauricio",
     "Kostja Nardin",
     "Lea Vaupotić",
     "Žiga Janškovec"
   ],
-  "lyricists": null,
-  "spokesperson": "Dragana Kosjerina",
   "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Luka Ivanović"
-  ]
+  ],
+  "broadcaster": "RTS",
+  "commentators": [
+    "Duška Vučinić-Lučić"
+  ],
+  "jury": null,
+  "spokesperson": "Dragana Kosjerina"
 }

@@ -1,11 +1,7 @@
 {
   "id": 36,
   "country": "AZ",
-  "broadcaster": "İctimai",
   "artist": "Mamagama",
-  "artistPeople": [
-    "Safael Mishi"
-  ],
   "song": "Run With U",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/wk1CUjaRKyo",
@@ -17,26 +13,31 @@
   ],
   "bpm": 116,
   "tone": "G minor",
+  "artistPeople": [
+    "Safael Mishi"
+  ],
   "backings": [
     "Melissa Kanza",
     "Quincy Denzel Sedney",
     "Valentina Dekker"
   ],
-  "commentators": [
-    "Aga Nadirov",
-    "Elnara Khalilova"
-  ],
+  "dancers": null,
+  "stageDirector": "Ace Bowerman",
   "composers": [
     "Asef Mishiyev",
     "Hasan Heydar",
     "Roman Zee"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Asef Mishiyev"
   ],
-  "spokesperson": "Safura Alizadeh",
-  "stageDirector": "Ace Bowerman",
-  "writers": null
+  "writers": null,
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Aga Nadirov",
+    "Elnara Khalilova"
+  ],
+  "jury": null,
+  "spokesperson": "Safura Alizadeh"
 }

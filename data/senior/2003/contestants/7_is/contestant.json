@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "IS",
-  "broadcaster": "RÚV",
   "artist": "Birgitta",
-  "artistPeople": [
-    "Birgitta Haukdal Brynjarsdóttir"
-  ],
   "song": "Open Your Heart",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ZI7l5WSJPIA",
@@ -13,6 +9,9 @@
   ],
   "bpm": 105,
   "tone": "B major",
+  "artistPeople": [
+    "Birgitta Haukdal Brynjarsdóttir"
+  ],
   "backings": [
     "Herbert Viðarsson",
     "Jóhann Bachman Ólafsson",
@@ -20,19 +19,21 @@
     "Regína Ósk",
     "Vignir Snær Vigfússon"
   ],
-  "commentators": [
-    "Gísli Marteinn Baldursson"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Birgitta Haukdal Brynjarsdóttir",
     "Hallgrímur Óskarsson"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Hallgrímur Óskarsson"
   ],
-  "spokesperson": "Eva María Jónsdóttir",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "jury": null,
+  "spokesperson": "Eva María Jónsdóttir"
 }

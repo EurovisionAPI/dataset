@@ -6,12 +6,12 @@
   "intendedCountry": null,
   "slogan": "Building Bridges",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2015.png",
+  "broadcasters": [
+    "Österreichischer Rundfunk (ORF)"
+  ],
   "presenters": [
     "Mirjam Weichselbraun",
     "Alice Tumler",
     "Arabella Kiesbauer"
-  ],
-  "broadcasters": [
-    "Österreichischer Rundfunk (ORF)"
   ]
 }

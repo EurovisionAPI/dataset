@@ -1,11 +1,7 @@
 {
   "id": 22,
   "country": "SI",
-  "broadcaster": "RTVSLO",
   "artist": "Karmen",
-  "artistPeople": [
-    "Karmen Stavec"
-  ],
   "song": "Nanana",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ZGJagYLLOSQ",
@@ -15,19 +11,24 @@
   ],
   "bpm": 140,
   "tone": "Ab major",
-  "backings": null,
-  "commentators": [
-    "Andrea F"
+  "artistPeople": [
+    "Karmen Stavec"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Martin Štibernik"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Karmen Stavec"
   ],
-  "spokesperson": "Peter Poles",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrea F"
+  ],
+  "jury": null,
+  "spokesperson": "Peter Poles"
 }

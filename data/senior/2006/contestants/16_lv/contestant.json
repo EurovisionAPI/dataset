@@ -1,8 +1,14 @@
 {
   "id": 16,
   "country": "LV",
-  "broadcaster": "LTV",
   "artist": "Cosmos",
+  "song": "I Hear Your Heart",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-_pDAxEtt7g",
+    "https://www.youtube-nocookie.com/embed/tYwHraZ1KD4"
+  ],
+  "bpm": 89,
+  "tone": "C# minor",
   "artistPeople": [
     "Andris Sējāns",
     "Jānis Ozols",
@@ -11,28 +17,23 @@
     "Juris Lisenko",
     "Reinis Sējāns"
   ],
-  "song": "I Hear Your Heart",
-  "videoUrls": [
-    "https://www.youtube-nocookie.com/embed/-_pDAxEtt7g",
-    "https://www.youtube-nocookie.com/embed/tYwHraZ1KD4"
-  ],
-  "bpm": 89,
-  "tone": "C# minor",
   "backings": null,
-  "commentators": [
-    "Kārlis Streips"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Andris Sējāns",
     "Reinis Sējāns"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Guntars Račs",
     "Molly-Ann Leikin"
   ],
-  "spokesperson": "Mārtiņš Freimanis",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "jury": null,
+  "spokesperson": "Mārtiņš Freimanis"
 }

@@ -1,11 +1,7 @@
 {
   "id": 23,
   "country": "EE",
-  "broadcaster": "ERR",
   "artist": "Getter Jaani",
-  "artistPeople": [
-    "Getter Ragnila Jaani"
-  ],
   "song": "Rockefeller Street",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/vOIXQskfy6o",
@@ -16,24 +12,29 @@
   ],
   "bpm": 130,
   "tone": "Eb minor",
+  "artistPeople": [
+    "Getter Ragnila Jaani"
+  ],
   "backings": [
     "Anna Põldvere",
     "Marilin Kongo"
   ],
-  "commentators": [
-    "Marko Reikop"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Ahti Kiili",
     "Ahto Paasik",
     "Eghert-Sören Nõmm"
   ],
-  "lyricists": null,
-  "spokesperson": "Piret Järvis",
   "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Sven Lõhmus"
-  ]
+  ],
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Piret Järvis"
 }

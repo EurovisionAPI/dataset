@@ -1,11 +1,7 @@
 {
   "id": 32,
   "country": "NL",
-  "broadcaster": "AVROTROS",
   "artist": "Trijntje Oosterhuis",
-  "artistPeople": [
-    "Judith Katrijntje Oosterhuis"
-  ],
   "song": "Walk Along",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/O_fs4SPGyF0",
@@ -16,25 +12,30 @@
   ],
   "bpm": 86,
   "tone": "F# major",
+  "artistPeople": [
+    "Judith Katrijntje Oosterhuis"
+  ],
   "backings": [
     "Jenny Lane",
     "Lesley van der Aa",
     "Michelle Oudeman",
     "Patt Riley"
   ],
-  "commentators": [
-    "Cornald Maas",
-    "Jan Smit"
-  ],
+  "dancers": null,
+  "stageDirector": "Hans Pannecoucke",
   "composers": [
     "Tobias Karlsson"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Anouk Teeuwe"
   ],
-  "spokesperson": "Edsilia Rombley",
-  "stageDirector": "Hans Pannecoucke",
-  "writers": null
+  "writers": null,
+  "broadcaster": "AVROTROS",
+  "commentators": [
+    "Cornald Maas",
+    "Jan Smit"
+  ],
+  "jury": null,
+  "spokesperson": "Edsilia Rombley"
 }

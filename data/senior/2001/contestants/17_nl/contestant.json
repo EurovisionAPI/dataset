@@ -1,11 +1,7 @@
 {
   "id": 17,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Michelle",
-  "artistPeople": [
-    "Michelle Courtens"
-  ],
   "song": "Out On My Own",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5h2Kbu-aPu0",
@@ -13,23 +9,28 @@
   ],
   "bpm": 120,
   "tone": "A major",
+  "artistPeople": [
+    "Michelle Courtens"
+  ],
   "backings": [
     "Janneke Spruijt",
     "Martine Wolkers"
   ],
-  "commentators": [
-    "Willem van Beusekom"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "André Remkes",
     "Dirk-Jan Vermeij"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "André Remkes"
   ],
-  "spokesperson": "Marlayne",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Marlayne"
 }

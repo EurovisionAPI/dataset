@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "HR",
-  "broadcaster": "HRT",
   "artist": "Vanna",
-  "artistPeople": [
-    "Ivana Ranilović-Vrdoljak"
-  ],
   "song": "Strings Of My Heart",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/24ihE_vYBRs",
@@ -13,22 +9,27 @@
   ],
   "bpm": 120,
   "tone": "F minor",
+  "artistPeople": [
+    "Ivana Ranilović-Vrdoljak"
+  ],
   "backings": [
     "Alenka Milano",
     "Fedor Boić"
   ],
-  "commentators": [
-    "Ante Batinović"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Tonči Huljić"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Vjekoslava Huljić"
   ],
-  "spokesperson": "Danijela Trbović",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Ante Batinović"
+  ],
+  "jury": null,
+  "spokesperson": "Danijela Trbović"
 }

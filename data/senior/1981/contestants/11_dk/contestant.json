@@ -1,12 +1,7 @@
 {
   "id": 11,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Debbie Cameron & Tommy Seebach",
-  "artistPeople": [
-    "Debbie Cameron",
-    "Tommy Seebach"
-  ],
   "song": "Krøller eller ej",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Vgc6NF3ynFM",
@@ -16,25 +11,31 @@
   ],
   "bpm": 117,
   "tone": "D major",
+  "artistPeople": [
+    "Debbie Cameron",
+    "Tommy Seebach"
+  ],
   "backings": [
     "Ianne Elo",
     "Michael Elo"
   ],
-  "commentators": [
-    "Jørgen de Mylius"
-  ],
-  "composers": [
-    "Tommy Seebach"
-  ],
-  "conductor": "Allan Botschinsky",
   "dancers": [
     "Louise Frevert",
     "Unknown"
   ],
+  "stageDirector": null,
+  "composers": [
+    "Tommy Seebach"
+  ],
+  "conductor": "Allan Botschinsky",
   "lyricists": [
     "Keld Heick"
   ],
-  "spokesperson": "Bent Henius",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
 }

@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "FR",
-  "broadcaster": "RTF",
   "artist": "Rachel",
-  "artistPeople": [
-    "Rachel Ros"
-  ],
   "song": "Le Chant de Mallory",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/wu7BImCXj9g",
@@ -16,19 +12,24 @@
   ],
   "bpm": 110,
   "tone": "E major",
-  "backings": null,
-  "commentators": [
-    "Robert Beauvais"
+  "artistPeople": [
+    "Rachel Ros"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "André Popp"
   ],
   "conductor": "Franck Pourcel",
-  "dancers": null,
   "lyricists": [
     "Pierre Cour"
   ],
-  "spokesperson": "Claude Darget",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTF",
+  "commentators": [
+    "Robert Beauvais"
+  ],
+  "jury": null,
+  "spokesperson": "Claude Darget"
 }

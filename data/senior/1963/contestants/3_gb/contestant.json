@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Ronnie Carroll",
-  "artistPeople": [
-    "Ronald Cleghorn"
-  ],
   "song": "Say Wonderful Things",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/rwOOqARFxB4",
@@ -14,21 +10,26 @@
   ],
   "bpm": 127,
   "tone": "C major",
+  "artistPeople": [
+    "Ronald Cleghorn"
+  ],
   "backings": [
     "George Mitchell Choir"
   ],
-  "commentators": [
-    "David Jacobs"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Philip Green"
   ],
   "conductor": "Eric Robinson",
-  "dancers": null,
   "lyricists": [
     "Norman Newell"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BBC",
+  "commentators": [
+    "David Jacobs"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

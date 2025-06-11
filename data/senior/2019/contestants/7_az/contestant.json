@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "AZ",
-  "broadcaster": "İctimai",
   "artist": "Chingiz",
-  "artistPeople": [
-    "Çingiz Mustafayev"
-  ],
   "song": "Truth",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/D6vvuCiHwSs",
@@ -17,15 +13,17 @@
   ],
   "bpm": 101,
   "tone": "E major",
+  "artistPeople": [
+    "Çingiz Mustafayev"
+  ],
   "backings": [
     "Cedrik Hammar",
     "Patrick Jean Olsson",
     "Peter Simpson",
     "Sara Linnea Larsson"
   ],
-  "commentators": [
-    "Murad Arif"
-  ],
+  "dancers": null,
+  "stageDirector": "Kostiantyn Tomilchenko, Mads Enggaard, Oleksandr Bratkovskyi",
   "composers": [
     "Borislav Milanov",
     "Chingiz",
@@ -35,7 +33,6 @@
     "Trey Campbell"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Borislav Milanov",
     "Chingiz",
@@ -43,7 +40,11 @@
     "Bo J",
     "Trey Campbell"
   ],
-  "spokesperson": "Faig Agayev",
-  "stageDirector": "Kostiantyn Tomilchenko, Mads Enggaard, Oleksandr Bratkovskyi",
-  "writers": null
+  "writers": null,
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Murad Arif"
+  ],
+  "jury": null,
+  "spokesperson": "Faig Agayev"
 }

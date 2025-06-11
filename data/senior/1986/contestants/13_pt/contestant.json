@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Dora",
-  "artistPeople": [
-    "Maria Reis Dias de Jesus"
-  ],
   "song": "Não sejas mau para mim",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/DOzMkQWvHOQ",
@@ -14,19 +10,24 @@
   ],
   "bpm": 127,
   "tone": "C# minor",
-  "backings": null,
-  "commentators": [
-    "Fialho Gouveia"
+  "artistPeople": [
+    "Maria Reis Dias de Jesus"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Colin Frechter",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Margarida Andrade",
-  "stageDirector": null,
   "writers": [
     "Guilherme Inês",
     "Zé da Ponte",
     "Luís Oliveira"
-  ]
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Fialho Gouveia"
+  ],
+  "jury": null,
+  "spokesperson": "Margarida Andrade"
 }

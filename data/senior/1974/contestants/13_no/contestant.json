@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Anne-Karine Ström and the Bendik Singers",
-  "artistPeople": [
-    "Anne Karine Strøm"
-  ],
   "song": "The First Day of Love",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/alKvTLD-Jgk",
@@ -16,23 +12,28 @@
   ],
   "bpm": 112,
   "tone": "G major",
+  "artistPeople": [
+    "Anne Karine Strøm"
+  ],
   "backings": [
     "Anne Lise Gjøstøl",
     "Benny Kruse",
     "Bjørn Kruse"
   ],
-  "commentators": [
-    "John Andreassen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Frode Thingnæs"
   ],
   "conductor": "Frode Thingnæs",
-  "dancers": null,
   "lyricists": [
     "Philip A. Kruse"
   ],
-  "spokesperson": "Sverre Christophersen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "John Andreassen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
 }

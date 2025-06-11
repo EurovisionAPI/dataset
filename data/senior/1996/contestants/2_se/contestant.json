@@ -1,13 +1,7 @@
 {
   "id": 2,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "One More Time",
-  "artistPeople": [
-    "Maria Rådsten",
-    "Marianne Elisabeth Grönvall",
-    "Peter Grönvall"
-  ],
   "song": "Den vilda",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/8T7taFxLRvk",
@@ -18,23 +12,30 @@
   ],
   "bpm": 165,
   "tone": "C major",
+  "artistPeople": [
+    "Maria Rådsten",
+    "Marianne Elisabeth Grönvall",
+    "Peter Grönvall"
+  ],
   "backings": [
     "Joachim Dominique",
     "Magnus Bengtsson",
     "Thomas Bergqvist"
   ],
-  "commentators": [
-    "Björn Kjellman"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Peter Grönvall"
   ],
   "conductor": "Anders Berglund",
-  "dancers": null,
   "lyricists": [
     "Nanne Grönvall"
   ],
-  "spokesperson": "Ulla Rundquist",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Björn Kjellman"
+  ],
+  "jury": null,
+  "spokesperson": "Ulla Rundquist"
 }

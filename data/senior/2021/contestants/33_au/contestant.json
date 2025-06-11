@@ -1,11 +1,7 @@
 {
   "id": 33,
   "country": "AU",
-  "broadcaster": "SBS",
   "artist": "Montaigne",
-  "artistPeople": [
-    "Jessica Alyssa Cerro"
-  ],
   "song": "Technicolour",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/CoUTzNXQud0",
@@ -16,26 +12,31 @@
   ],
   "bpm": 119,
   "tone": "F major",
+  "artistPeople": [
+    "Jessica Alyssa Cerro"
+  ],
   "backings": [
     "Christine Muscat",
     "Reigan Derry"
   ],
-  "commentators": [
-    "Joel Creasey",
-    "Myf Warhurst"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Crystal Russell",
     "Paris Cavanagh",
     "Shivawn Joubert"
   ],
-  "lyricists": null,
-  "spokesperson": "Joel Creasey",
   "stageDirector": "Marko Panzic",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Dave Hammer",
     "Jessica Alyssa Cerro"
-  ]
+  ],
+  "broadcaster": "SBS",
+  "commentators": [
+    "Joel Creasey",
+    "Myf Warhurst"
+  ],
+  "jury": null,
+  "spokesperson": "Joel Creasey"
 }

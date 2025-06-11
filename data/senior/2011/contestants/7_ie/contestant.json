@@ -1,12 +1,7 @@
 {
   "id": 7,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Jedward",
-  "artistPeople": [
-    "Edward Peter Anthony Kevin Patrick Grimes",
-    "John Paul Henry Daniel Richard Grimes"
-  ],
   "song": "Lipstick",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/XgrlG6hQbNM",
@@ -17,24 +12,30 @@
   ],
   "bpm": 138,
   "tone": "F minor",
+  "artistPeople": [
+    "Edward Peter Anthony Kevin Patrick Grimes",
+    "John Paul Henry Daniel Richard Grimes"
+  ],
   "backings": [
     "Dan Priddy",
     "David O'Connor",
     "Leanne Moore",
     "Morgan Deane"
   ],
-  "commentators": [
-    "Marty Whelan"
-  ],
+  "dancers": null,
+  "stageDirector": "Brian Friedman",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Derek Mooney",
-  "stageDirector": "Brian Friedman",
   "writers": [
     "Dan Priddy",
     "Lars Halvor Jensen",
     "Martin Larson"
-  ]
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Derek Mooney"
 }

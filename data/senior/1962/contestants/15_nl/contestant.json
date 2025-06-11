@@ -1,12 +1,7 @@
 {
   "id": 15,
   "country": "NL",
-  "broadcaster": "NTS",
   "artist": "De Spelbrekers",
-  "artistPeople": [
-    "Hugo Kok",
-    "Theo Rekkers"
-  ],
   "song": "Katinka",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/67q3XNXcZ4g",
@@ -16,20 +11,26 @@
   ],
   "bpm": 141,
   "tone": "Ab major",
-  "backings": null,
-  "commentators": [
-    "Willem Duys"
+  "artistPeople": [
+    "Hugo Kok",
+    "Theo Rekkers"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Joop Stokkermans"
   ],
   "conductor": "Dolf van der Linden",
-  "dancers": null,
   "lyricists": [
     "Lodewijk Post",
     "Henny Hamhuis"
   ],
-  "spokesperson": "Ger Lugtenburg",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NTS",
+  "commentators": [
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Ger Lugtenburg"
 }

@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Udo Jürgens",
-  "artistPeople": [
-    "Jürgen Udo Bockelmann"
-  ],
   "song": "Merci Chérie",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/py7osl51W8A",
@@ -18,20 +14,25 @@
   ],
   "bpm": 153,
   "tone": "F major",
-  "backings": null,
-  "commentators": [
-    "Willy Kralik"
+  "artistPeople": [
+    "Jürgen Udo Bockelmann"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Udo Jürgens"
   ],
   "conductor": "Hans Hammerschmid",
-  "dancers": null,
   "lyricists": [
     "Thomas Hörbiger",
     "Udo Jürgens"
   ],
-  "spokesperson": "Walter Richard Langer",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Willy Kralik"
+  ],
+  "jury": null,
+  "spokesperson": "Walter Richard Langer"
 }

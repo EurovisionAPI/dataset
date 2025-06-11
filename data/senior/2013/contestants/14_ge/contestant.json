@@ -1,12 +1,7 @@
 {
   "id": 14,
   "country": "GE",
-  "broadcaster": "GPB",
   "artist": "Nodi Tatishvili & Sophie Gelovani",
-  "artistPeople": [
-    "Nodiko Tatishvili",
-    "Sopho Gelovani"
-  ],
   "song": "Waterfall",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-n3mwx0vQDE",
@@ -14,22 +9,28 @@
   ],
   "bpm": 162,
   "tone": "G minor",
+  "artistPeople": [
+    "Nodiko Tatishvili",
+    "Sopho Gelovani"
+  ],
   "backings": [
     "Johanna Beijbom",
     "Lisette Vares Uhlmann",
     "Martin Kagemark"
   ],
-  "commentators": [
-    "Temo Kvirkvelia"
-  ],
+  "dancers": null,
+  "stageDirector": "Lasha Oniani",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Liza Tsiklauri",
-  "stageDirector": "Lasha Oniani",
   "writers": [
     "Erik Bernholm",
     "Thomas G:son"
-  ]
+  ],
+  "broadcaster": "GPB",
+  "commentators": [
+    "Temo Kvirkvelia"
+  ],
+  "jury": null,
+  "spokesperson": "Liza Tsiklauri"
 }

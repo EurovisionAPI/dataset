@@ -1,14 +1,7 @@
 {
   "id": 16,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Schmetterlinge",
-  "artistPeople": [
-    "Beatrix Neundlinger",
-    "Willi Resetarits",
-    "Erich Meixner",
-    "Pippa Armstrong"
-  ],
   "song": "Boom Boom Boomerang",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/HXyxrduUjyo",
@@ -19,21 +12,29 @@
   ],
   "bpm": 123,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Ernst Grissemann"
+  "artistPeople": [
+    "Beatrix Neundlinger",
+    "Willi Resetarits",
+    "Erich Meixner",
+    "Pippa Armstrong"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Dr. Kurt Ostbahn",
     "Georg 'Schurli' Herrnstadt",
     "Herbert Zöchling-Tampier"
   ],
   "conductor": "Christian Kolonovits",
-  "dancers": null,
   "lyricists": [
     "E. Lukas Resetarits"
   ],
-  "spokesperson": "Jenny Pippal",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Jenny Pippal"
 }

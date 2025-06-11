@@ -1,8 +1,14 @@
 {
   "id": 1,
   "country": "BE",
-  "broadcaster": "RTBF",
   "artist": "Urban Trad",
+  "song": "Sanomi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RRQlsvWMWBo",
+    "https://www.youtube-nocookie.com/embed/n9Waz45vAvs"
+  ],
+  "bpm": 172,
+  "tone": "C minor",
   "artistPeople": [
     "Cédric Waterschoot",
     "Didier Laloy",
@@ -11,25 +17,20 @@
     "Veronica Codesal",
     "Yves Barbieux"
   ],
-  "song": "Sanomi",
-  "videoUrls": [
-    "https://www.youtube-nocookie.com/embed/RRQlsvWMWBo",
-    "https://www.youtube-nocookie.com/embed/n9Waz45vAvs"
-  ],
-  "bpm": 172,
-  "tone": "C minor",
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Yves Barbieux"
+  ],
+  "broadcaster": "RTBF",
   "commentators": [
     "André Vermeulen",
     "Jean-Pierre Hautier"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Corinne Boulangier",
-  "stageDirector": null,
-  "writers": [
-    "Yves Barbieux"
-  ]
+  "jury": null,
+  "spokesperson": "Corinne Boulangier"
 }

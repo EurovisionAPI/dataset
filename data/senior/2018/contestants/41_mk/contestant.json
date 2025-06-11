@@ -1,12 +1,7 @@
 {
   "id": 41,
   "country": "MK",
-  "broadcaster": "MKRTV",
   "artist": "Eye Cue",
-  "artistPeople": [
-    "Bojan Trajkovski",
-    "Marija Ivanovska"
-  ],
   "song": "Lost And Found",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/MV_cR_Qb2Cg",
@@ -19,24 +14,30 @@
   ],
   "bpm": 120,
   "tone": "Ab major",
+  "artistPeople": [
+    "Bojan Trajkovski",
+    "Marija Ivanovska"
+  ],
   "backings": [
     "Antonia Gigovska",
     "Dina Jashari",
     "Valery Dimovska"
   ],
-  "commentators": [
-    "Karolina Petkovska"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Bojan Trajkovski",
     "Darko Dimitrov"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Bojan Trajkovski"
   ],
-  "spokesperson": "Jana Burčeska",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Karolina Petkovska"
+  ],
+  "jury": null,
+  "spokesperson": "Jana Burčeska"
 }

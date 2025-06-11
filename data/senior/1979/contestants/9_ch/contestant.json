@@ -1,16 +1,7 @@
 {
   "id": 9,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Peter, Sue & Marc and Pfuri, Gorps & Kniri",
-  "artistPeople": [
-    "Anthony Fischer",
-    "Kniri Knaus",
-    "Marcel Dietrich",
-    "Peter Reber",
-    "Pfuri Baldenweg",
-    "Sue Schell"
-  ],
   "song": "Trödler & Co",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/-dbzbx6EEoc",
@@ -19,19 +10,29 @@
   ],
   "bpm": 118,
   "tone": "F minor",
+  "artistPeople": [
+    "Anthony Fischer",
+    "Kniri Knaus",
+    "Marcel Dietrich",
+    "Peter Reber",
+    "Pfuri Baldenweg",
+    "Sue Schell"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rolf Zuckowski",
+  "lyricists": null,
+  "writers": [
+    "Peter Reber"
+  ],
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Georges Hardy",
     "Giovanni Bertini",
     "Theodor Haller"
   ],
-  "composers": null,
-  "conductor": "Rolf Zuckowski",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Michel Stocker",
-  "stageDirector": null,
-  "writers": [
-    "Peter Reber"
-  ]
+  "jury": null,
+  "spokesperson": "Michel Stocker"
 }

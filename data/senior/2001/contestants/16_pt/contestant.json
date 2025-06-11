@@ -1,12 +1,7 @@
 {
   "id": 16,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "MTM",
-  "artistPeople": [
-    "Marco Quelhas",
-    "Tony Jackson"
-  ],
   "song": "Só sei ser feliz assim",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/QmFfQTvSVzk",
@@ -16,20 +11,26 @@
   ],
   "bpm": 178,
   "tone": "C major",
+  "artistPeople": [
+    "Marco Quelhas",
+    "Tony Jackson"
+  ],
   "backings": [
     "Fernanda Lopes",
     "Filipa Lourenço"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Marco Quelhas"
+  ],
+  "broadcaster": "RTP",
   "commentators": [
     "Eládio Clímaco"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Margarida Mercês de Mello",
-  "stageDirector": null,
-  "writers": [
-    "Marco Quelhas"
-  ]
+  "jury": null,
+  "spokesperson": "Margarida Mercês de Mello"
 }

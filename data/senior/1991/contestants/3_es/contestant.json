@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Sergio Dalma",
-  "artistPeople": [
-    "Josep Sergi Capdevila Querol"
-  ],
   "song": "Bailar Pegados",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/4EGAIciJ76U",
@@ -14,24 +10,29 @@
   ],
   "bpm": 144,
   "tone": "C major",
+  "artistPeople": [
+    "Josep Sergi Capdevila Querol"
+  ],
   "backings": [
     "Fernando Villar",
     "José 'Pepe' Pereira",
     "Juan Cerro",
     "Santiago Fernández"
   ],
-  "commentators": [
-    "Tomás Fernando Flores"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Julio Seijas"
   ],
   "conductor": "Eduardo Leiva",
-  "dancers": null,
   "lyricists": [
     "Luis Gómez-Escolar"
   ],
-  "spokesperson": "María Ángeles Balañac",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Tomás Fernando Flores"
+  ],
+  "jury": null,
+  "spokesperson": "María Ángeles Balañac"
 }

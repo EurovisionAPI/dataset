@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "LT",
-  "broadcaster": "LRT",
   "artist": "Katarsis",
-  "artistPeople": [
-    "Lukas Radzevičius"
-  ],
   "song": "Tavo akys",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/3F6bwWGhm_s",
@@ -18,20 +14,25 @@
   ],
   "bpm": 110,
   "tone": "A minor",
+  "artistPeople": [
+    "Lukas Radzevičius"
+  ],
   "backings": [
     "Augustė Kontautaitė",
     "Titas Astafejevas"
   ],
+  "dancers": null,
+  "stageDirector": "Ignas Blažys, Paulius Varonenka, Povilas Varvuolis",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Lukas Radzevičius"
+  ],
+  "broadcaster": "LRT",
   "commentators": [
     "Ramūnas Zilnys"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Silvester Belt",
-  "stageDirector": "Ignas Blažys, Paulius Varonenka, Povilas Varvuolis",
-  "writers": [
-    "Lukas Radzevičius"
-  ]
+  "jury": null,
+  "spokesperson": "Silvester Belt"
 }

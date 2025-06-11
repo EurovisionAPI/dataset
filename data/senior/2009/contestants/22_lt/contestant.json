@@ -1,11 +1,7 @@
 {
   "id": 22,
   "country": "LT",
-  "broadcaster": "LRT",
   "artist": "Sasha Son",
-  "artistPeople": [
-    "Dmitry Shavrov"
-  ],
   "song": "Love",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ukSmGIp_xVk",
@@ -17,21 +13,26 @@
   ],
   "bpm": 103,
   "tone": "A minor",
+  "artistPeople": [
+    "Dmitry Shavrov"
+  ],
   "backings": [
     "Baiba Skurstene",
     "Nora Strolyte",
     "Sam Hywel James"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sasha Son"
+  ],
+  "broadcaster": "LRT",
   "commentators": [
     "Darius Užkuraitis"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Ignas Krupavičius",
-  "stageDirector": null,
-  "writers": [
-    "Sasha Son"
-  ]
+  "jury": null,
+  "spokesperson": "Ignas Krupavičius"
 }

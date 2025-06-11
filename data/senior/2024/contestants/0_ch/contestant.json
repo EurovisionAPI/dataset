@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Nemo",
-  "artistPeople": [
-    "Nemo Mettler"
-  ],
   "song": "The Code",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/CO_qJf-nW0k",
@@ -18,11 +14,26 @@
   ],
   "bpm": 160,
   "tone": "F minor",
+  "artistPeople": [
+    "Nemo Mettler"
+  ],
   "backings": [
     "Kenny Lantz",
     "Lisa Arnold",
     "Pauline Eddeborn"
   ],
+  "dancers": null,
+  "stageDirector": "Fredrik Rydman",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Benjamin Jon Alasu",
+    "Lasse Midtsian Nymann",
+    "Linda Dale",
+    "Nemo Mettler"
+  ],
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Ellis Cavallini",
     "Gian-Andrea Costa",
@@ -31,16 +42,6 @@
     "Nicolas Tanner",
     "Sven Epiney"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Jennifer Bosshard",
-  "stageDirector": "Fredrik Rydman",
-  "writers": [
-    "Benjamin Jon Alasu",
-    "Lasse Midtsian Nymann",
-    "Linda Dale",
-    "Nemo Mettler"
-  ]
+  "jury": null,
+  "spokesperson": "Jennifer Bosshard"
 }

@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Samantha Janus",
-  "artistPeople": [
-    "Samantha Janus"
-  ],
   "song": "A Message To Your Heart",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/nYU_3l0-hVo",
@@ -14,6 +10,9 @@
   ],
   "bpm": 136,
   "tone": "D major",
+  "artistPeople": [
+    "Samantha Janus"
+  ],
   "backings": [
     "Hazell Dean",
     "Kit Rolfe",
@@ -21,16 +20,18 @@
     "Nikki Belsher",
     "Zoe Picot"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ronnie Hazlehurst",
+  "lyricists": null,
+  "writers": [
+    "Paul Curtis"
+  ],
+  "broadcaster": "BBC",
   "commentators": [
     "Terry Wogan"
   ],
-  "composers": null,
-  "conductor": "Ronnie Hazlehurst",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Colin Berry",
-  "stageDirector": null,
-  "writers": [
-    "Paul Curtis"
-  ]
+  "jury": null,
+  "spokesperson": "Colin Berry"
 }

@@ -1,14 +1,7 @@
 {
   "id": 36,
   "country": "SM",
-  "broadcaster": "SMRTV",
   "artist": "Piqued Jacks",
-  "artistPeople": [
-    "Andrea Lazzeretti",
-    "Tommaso Oliveri",
-    "Francesco Bini",
-    "Marco Sgaramella"
-  ],
   "song": "Like An Animal",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/pIdHjcqyLfo",
@@ -21,21 +14,29 @@
   ],
   "bpm": 128,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "Gigi Restivo",
-    "Lia Fiorio"
+  "artistPeople": [
+    "Andrea Lazzeretti",
+    "Tommaso Oliveri",
+    "Francesco Bini",
+    "Marco Sgaramella"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Nick Marianos",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "John Kennedy O'Connor",
-  "stageDirector": "Nick Marianos",
   "writers": [
     "Andrea Lazzeretti",
     "Tommaso Oliveri",
     "Francesco Bini",
     "Marco Sgaramella"
-  ]
+  ],
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Gigi Restivo",
+    "Lia Fiorio"
+  ],
+  "jury": null,
+  "spokesperson": "John Kennedy O'Connor"
 }

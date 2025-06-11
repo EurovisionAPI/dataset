@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1959.png",
-  "presenters": [
-    "Jacqueline Joubert"
-  ],
   "broadcasters": [
     "RTF"
+  ],
+  "presenters": [
+    "Jacqueline Joubert"
   ]
 }

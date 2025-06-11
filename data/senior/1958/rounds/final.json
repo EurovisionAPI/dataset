@@ -1,5 +1,4 @@
 {
-  "name": null,
   "date": "1958-03-12",
   "time": null,
   "disqualifieds": null,
@@ -11,6 +10,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 27,
           "votes": {
             "AT": 7,
             "BE": 1,
@@ -32,6 +32,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 24,
           "votes": {
             "AT": 0,
             "BE": 2,
@@ -53,6 +54,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 13,
           "votes": {
             "AT": 1,
             "BE": 4,
@@ -74,6 +76,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 10,
           "votes": {
             "AT": 1,
             "BE": 1,
@@ -95,6 +98,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 8,
           "votes": {
             "AT": 0,
             "DK": 1,
@@ -116,6 +120,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 8,
           "votes": {
             "BE": 1,
             "DK": 0,
@@ -137,6 +142,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 5,
           "votes": {
             "AT": 1,
             "BE": 1,
@@ -158,6 +164,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 3,
           "votes": {
             "AT": 0,
             "BE": 0,
@@ -179,6 +186,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 1,
           "votes": {
             "AT": 0,
             "BE": 0,
@@ -200,6 +208,7 @@
       "scores": [
         {
           "name": "total",
+          "points": 1,
           "votes": {
             "AT": 0,
             "BE": 0,

@@ -1,13 +1,7 @@
 {
   "id": 11,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Peter, Sue and Marc",
-  "artistPeople": [
-    "Marcel Dietrich",
-    "Peter Reber",
-    "Sue Schell"
-  ],
   "song": "Les illusions de nos vingt ans",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Egwke_ENofQ",
@@ -18,21 +12,28 @@
   ],
   "bpm": 137,
   "tone": "G minor",
+  "artistPeople": [
+    "Marcel Dietrich",
+    "Peter Reber",
+    "Sue Schell"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Peter Reber"
+  ],
+  "conductor": "Hardy Schneiders",
+  "lyricists": [
+    "Maurice Tézé"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Georges Hardy",
     "Giovanni Bertini",
     "Theodor Haller"
   ],
-  "composers": [
-    "Peter Reber"
-  ],
-  "conductor": "Hardy Schneiders",
-  "dancers": null,
-  "lyricists": [
-    "Maurice Tézé"
-  ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": null
 }

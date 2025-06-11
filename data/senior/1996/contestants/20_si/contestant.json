@@ -1,11 +1,7 @@
 {
   "id": 20,
   "country": "SI",
-  "broadcaster": "RTVSLO",
   "artist": "Regina",
-  "artistPeople": [
-    "Irena Kogoj"
-  ],
   "song": "Dan najlepših sanj",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/bLkch4pIA_M",
@@ -15,17 +11,22 @@
   ],
   "bpm": 106,
   "tone": "E major",
+  "artistPeople": [
+    "Irena Kogoj"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Jože Privšek",
+  "lyricists": null,
+  "writers": [
+    "Aleksander Kogoj"
+  ],
+  "broadcaster": "RTVSLO",
   "commentators": [
     "Miša Molk"
   ],
-  "composers": null,
-  "conductor": "Jože Privšek",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Mario Galunič",
-  "stageDirector": null,
-  "writers": [
-    "Aleksander Kogoj"
-  ]
+  "jury": null,
+  "spokesperson": "Mario Galunič"
 }

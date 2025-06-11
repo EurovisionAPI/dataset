@@ -1,11 +1,7 @@
 {
   "id": 14,
   "country": "YU",
-  "broadcaster": "JRT",
   "artist": "Krunoslav Slabinac",
-  "artistPeople": [
-    "Krunoslav Kićo Slabinac"
-  ],
   "song": "Tvoj dječak je tužan",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/AM6aUeSRHO4",
@@ -15,21 +11,26 @@
   ],
   "bpm": 104,
   "tone": "E minor",
+  "artistPeople": [
+    "Krunoslav Kićo Slabinac"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ivan Krajač"
+  ],
+  "conductor": "Miljenko Prohaska",
+  "lyricists": [
+    "Zvonimir Golob"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
   "commentators": [
     "Milovan Ilić",
     "Oliver Mlakar",
     "Tomaž Terček"
   ],
-  "composers": [
-    "Ivan Krajač"
-  ],
-  "conductor": "Miljenko Prohaska",
-  "dancers": null,
-  "lyricists": [
-    "Zvonimir Golob"
-  ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": null
 }

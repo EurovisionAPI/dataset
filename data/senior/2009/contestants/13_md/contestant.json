@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "MD",
-  "broadcaster": "TRM",
   "artist": "Nelly Ciobanu",
-  "artistPeople": [
-    "Nelly Ciobanu"
-  ],
   "song": "Hora din Moldova",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ZoP_0okrWyo",
@@ -16,24 +12,29 @@
   ],
   "bpm": 90,
   "tone": "C# minor",
+  "artistPeople": [
+    "Nelly Ciobanu"
+  ],
   "backings": [
     "Gicu Cimbir"
   ],
-  "commentators": [
-    "Andrei Sava",
-    "Rosalina Rusu"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Veaceslav Daniliuc"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Andrei Hadjiu",
     "Aristotelis Kalimeris",
     "Nelly Ciobanu"
   ],
-  "spokesperson": "Sandu Leancă",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Andrei Sava",
+    "Rosalina Rusu"
+  ],
+  "jury": null,
+  "spokesperson": "Sandu Leancă"
 }

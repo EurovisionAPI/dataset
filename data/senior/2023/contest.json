@@ -6,13 +6,13 @@
   "intendedCountry": "UA",
   "slogan": "United By Music",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2023.png",
+  "broadcasters": [
+    "BBC"
+  ],
   "presenters": [
     "Alesha Dixon",
     "Graham Norton",
     "Hannah Waddingham",
     "Julia Sanina"
-  ],
-  "broadcasters": [
-    "BBC"
   ]
 }

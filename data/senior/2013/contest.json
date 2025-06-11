@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": "We Are One",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2013.png",
-  "presenters": [
-    "Petra Mede"
-  ],
   "broadcasters": [
     "SVT"
+  ],
+  "presenters": [
+    "Petra Mede"
   ]
 }

@@ -1,12 +1,7 @@
 {
   "id": 11,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Gili & Galit",
-  "artistPeople": [
-    "Galit Burg-Michael",
-    "Gili Netanel"
-  ],
   "song": "Derech Ha'melech",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/wEyDxsdIOfI",
@@ -16,15 +11,21 @@
   ],
   "bpm": 165,
   "tone": "Bb major",
+  "artistPeople": [
+    "Galit Burg-Michael",
+    "Gili Netanel"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Shaike Paikov",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Yitzhak Shim'oni",
-  "stageDirector": null,
   "writers": [
     "Shaike Paikov"
-  ]
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yitzhak Shim'oni"
 }

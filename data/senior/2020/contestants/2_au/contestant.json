@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "AU",
-  "broadcaster": "SBS",
   "artist": "Montaigne",
-  "artistPeople": [
-    "Jessica Alyssa Cerro"
-  ],
   "song": "Don't Break Me",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/gr-wWxu4974",
@@ -14,17 +10,22 @@
   ],
   "bpm": 146,
   "tone": "F minor",
+  "artistPeople": [
+    "Jessica Alyssa Cerro"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Anthony Egizii",
     "David Musumeci",
     "Jessica Alyssa Cerro"
-  ]
+  ],
+  "broadcaster": "SBS",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

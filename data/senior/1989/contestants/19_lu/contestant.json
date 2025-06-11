@@ -1,13 +1,7 @@
 {
   "id": 19,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Park Café",
-  "artistPeople": [
-    "Gaston Waltzing",
-    "Margaret Elizabeth Parke",
-    "Rom Heck"
-  ],
   "song": "Monsieur",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/yGF8OhHOZac",
@@ -18,26 +12,33 @@
   ],
   "bpm": 120,
   "tone": "C major",
+  "artistPeople": [
+    "Gaston Waltzing",
+    "Margaret Elizabeth Parke",
+    "Rom Heck"
+  ],
   "backings": [
     "Ander Schmit",
     "Rainer Kind",
     "Serge Vesque"
   ],
-  "commentators": [
-    "Valérie Sarn"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Gast Waltzing",
     "Maggie Parke"
   ],
   "conductor": "Benoît Kaufman",
-  "dancers": null,
   "lyricists": [
     "Bernard Loncheval",
     "Maggie Parke",
     "Yves Lacomblez"
   ],
-  "spokesperson": "Jean-Luc Bertrand",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Valérie Sarn"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Luc Bertrand"
 }

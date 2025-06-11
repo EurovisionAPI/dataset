@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Katy Bødtger",
-  "artistPeople": [
-    "Katy Bødtger"
-  ],
   "song": "Det var en yndig tid",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/WgBhdYQkIr0",
@@ -14,19 +10,24 @@
   ],
   "bpm": 99,
   "tone": "Eb major",
-  "backings": null,
-  "commentators": [
-    "Sejr Volmer-Sørensen"
+  "artistPeople": [
+    "Katy Bødtger"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Vilfred Kjær"
   ],
   "conductor": "Kai Mortensen",
-  "dancers": null,
   "lyricists": [
     "Sven Buemann"
   ],
-  "spokesperson": "Svend Pedersen",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Sejr Volmer-Sørensen"
+  ],
+  "jury": null,
+  "spokesperson": "Svend Pedersen"
 }

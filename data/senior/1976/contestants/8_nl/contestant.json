@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Sandra Reemer",
-  "artistPeople": [
-    "Barbara Alexandra Reemer"
-  ],
   "song": "The Party's Over Now",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/cGTEkQn-Xy4",
@@ -15,6 +11,9 @@
   ],
   "bpm": 110,
   "tone": "A major",
+  "artistPeople": [
+    "Barbara Alexandra Reemer"
+  ],
   "backings": [
     "Anita Meyer",
     "Dianne Marchal",
@@ -22,16 +21,18 @@
     "Martha Hollestelle",
     "Okkie Huysdens"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Harry van Hoof",
+  "lyricists": null,
+  "writers": [
+    "Hans van Hemert"
+  ],
+  "broadcaster": "NOS",
   "commentators": [
     "Willem Duys"
   ],
-  "composers": null,
-  "conductor": "Harry van Hoof",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Dick van Bommel",
-  "stageDirector": null,
-  "writers": [
-    "Hans van Hemert"
-  ]
+  "jury": null,
+  "spokesperson": "Dick van Bommel"
 }

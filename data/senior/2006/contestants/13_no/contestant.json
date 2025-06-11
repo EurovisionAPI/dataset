@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Christine Guldbrandsen",
-  "artistPeople": [
-    "Christine Guldbrandsen"
-  ],
   "song": "Alvedansen",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/LIaFyFGWgnw",
@@ -13,6 +9,9 @@
   ],
   "bpm": 172,
   "tone": "G minor",
+  "artistPeople": [
+    "Christine Guldbrandsen"
+  ],
   "backings": [
     "Åshild Kristin Stensrud",
     "Jorunn Hauge",
@@ -20,17 +19,19 @@
     "Liv Merete Kroken",
     "Sigrid Moldestad"
   ],
-  "commentators": [
-    "Jostein Pedersen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Ingvild Helljesen",
-  "stageDirector": null,
   "writers": [
     "Atle Halstensen",
     "Kjetil Fluge"
-  ]
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "jury": null,
+  "spokesperson": "Ingvild Helljesen"
 }

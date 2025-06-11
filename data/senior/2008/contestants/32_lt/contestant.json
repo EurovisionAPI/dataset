@@ -1,11 +1,7 @@
 {
   "id": 32,
   "country": "LT",
-  "broadcaster": "LRT",
   "artist": "Jeronimas Milius",
-  "artistPeople": [
-    "Jeronimas Milius"
-  ],
   "song": "Nomads In The Night",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Lxi0MqXbDiQ",
@@ -15,19 +11,24 @@
   ],
   "bpm": 145,
   "tone": "C minor",
-  "backings": null,
-  "commentators": [
-    "Darius Užkuraitis"
+  "artistPeople": [
+    "Jeronimas Milius"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Dalius Abaris, Vytautas Dambrauskas",
   "composers": [
     "Vytautas Diškevičius"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Jeronimas Milius"
   ],
-  "spokesperson": "Rolandas Vilkončius",
-  "stageDirector": "Dalius Abaris, Vytautas Dambrauskas",
-  "writers": null
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Rolandas Vilkončius"
 }

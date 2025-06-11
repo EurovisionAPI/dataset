@@ -1,15 +1,7 @@
 {
   "id": 9,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Westend",
-  "artistPeople": [
-    "Bernhard Rabitsch",
-    "Gerhard Lux",
-    "Hans Christian Wagner",
-    "Patricia Tandien",
-    "Peter Vieweger"
-  ],
   "song": "Hurricane",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Ex9Im5C2NIk",
@@ -20,20 +12,29 @@
   ],
   "bpm": 134,
   "tone": "Eb major",
-  "backings": null,
-  "commentators": [
-    "Ernst Grissemann"
+  "artistPeople": [
+    "Bernhard Rabitsch",
+    "Gerhard Lux",
+    "Hans Christian Wagner",
+    "Patricia Tandien",
+    "Peter Vieweger"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Peter Vieweger"
   ],
   "conductor": "Richard Österreicher",
-  "dancers": null,
   "lyricists": [
     "Heinz Nessizius",
     "Heli Deinboek"
   ],
-  "spokesperson": "Tilia Herold",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
 }

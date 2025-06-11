@@ -1,11 +1,7 @@
 {
   "id": 28,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Sofia Vitória",
-  "artistPeople": [
-    "Sofia Vitória Inácio"
-  ],
   "song": "Foi magia",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/4t2aNdDdJ0c",
@@ -13,22 +9,27 @@
   ],
   "bpm": 130,
   "tone": "E minor",
+  "artistPeople": [
+    "Sofia Vitória Inácio"
+  ],
   "backings": [
     "Francisco Andrade",
     "Gonçalo Medeiros",
     "Laura Ferreira",
     "Vânia de Oliveira"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Paulo Neves"
+  ],
+  "broadcaster": "RTP",
   "commentators": [
     "Eládio Clímaco"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Isabel Angelino",
-  "stageDirector": null,
-  "writers": [
-    "Paulo Neves"
-  ]
+  "jury": null,
+  "spokesperson": "Isabel Angelino"
 }

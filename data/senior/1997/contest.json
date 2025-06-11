@@ -6,11 +6,11 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1997.png",
+  "broadcasters": [
+    "Raidió Teilifís Éireann (RTÉ)"
+  ],
   "presenters": [
     "Carrie Crowley",
     "Ronan Keating"
-  ],
-  "broadcasters": [
-    "Raidió Teilifís Éireann (RTÉ)"
   ]
 }

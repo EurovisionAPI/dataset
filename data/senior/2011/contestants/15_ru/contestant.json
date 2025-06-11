@@ -1,11 +1,7 @@
 {
   "id": 15,
   "country": "RU",
-  "broadcaster": "C1R",
   "artist": "Alexej Vorobjov",
-  "artistPeople": [
-    "Alexey Vladimirovich Vorobyov"
-  ],
   "song": "Get You",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/C-3ohaRN3MM",
@@ -14,29 +10,34 @@
   ],
   "bpm": 123,
   "tone": "E major",
+  "artistPeople": [
+    "Alexey Vladimirovich Vorobyov"
+  ],
   "backings": [
     "Britta Bergström",
     "Robert Malmborg"
   ],
-  "commentators": [
-    "Yana Churikova",
-    "Yuriy Aksuta"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Daniel Koivunen",
     "Filmon Michael",
     "Jan Henrik Rongedal"
   ],
-  "lyricists": null,
-  "spokesperson": "Dima Bilan",
   "stageDirector": "Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "AJ Junior",
     "Alex Sparrow",
     "Bilal 'The Chef'",
     "Eric Sanicola",
     "RedOne"
-  ]
+  ],
+  "broadcaster": "C1R",
+  "commentators": [
+    "Yana Churikova",
+    "Yuriy Aksuta"
+  ],
+  "jury": null,
+  "spokesperson": "Dima Bilan"
 }

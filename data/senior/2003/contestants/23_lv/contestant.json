@@ -1,13 +1,7 @@
 {
   "id": 23,
   "country": "LV",
-  "broadcaster": "LTV",
   "artist": "F.L.Y.",
-  "artistPeople": [
-    "Lauris Reiniks",
-    "Mārtiņš Freimanis",
-    "Yana Kay"
-  ],
   "song": "Hello From Mars",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/iUoiA60x_HY",
@@ -16,18 +10,25 @@
   ],
   "bpm": 132,
   "tone": "C major",
-  "backings": null,
-  "commentators": [
-    "Kārlis Streips"
+  "artistPeople": [
+    "Lauris Reiniks",
+    "Mārtiņš Freimanis",
+    "Yana Kay"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Ģirts Līcis",
-  "stageDirector": null,
   "writers": [
     "Lauris Reiniks",
     "Mārtiņš Freimanis"
-  ]
+  ],
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "jury": null,
+  "spokesperson": "Ģirts Līcis"
 }

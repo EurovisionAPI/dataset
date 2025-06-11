@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Aksel",
-  "artistPeople": [
-    "Aksel Kankaanranta"
-  ],
   "song": "Looking Back",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/EgONBKFQpxE",
@@ -13,19 +9,24 @@
   ],
   "bpm": 125,
   "tone": "C# major",
+  "artistPeople": [
+    "Aksel Kankaanranta"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
   "writers": [
     "Connor McDonough",
     "Joonas Angeria",
     "Riley McDonough",
     "Toby McDonough",
     "Withney Phillips"
-  ]
+  ],
+  "broadcaster": "YLE",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

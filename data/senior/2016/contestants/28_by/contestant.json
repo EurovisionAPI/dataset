@@ -1,11 +1,7 @@
 {
   "id": 28,
   "country": "BY",
-  "broadcaster": "BTRC",
   "artist": "Ivan",
-  "artistPeople": [
-    "Alexander Ivanov (Алякса́ндр Івано́ў)"
-  ],
   "song": "Help You Fly",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/pM07r57QqGg",
@@ -17,6 +13,9 @@
   ],
   "bpm": 93,
   "tone": "D minor",
+  "artistPeople": [
+    "Alexander Ivanov (Алякса́ндр Івано́ў)"
+  ],
   "backings": [
     "Anna Linnéa Isbäck",
     "Herman Gardarfve",
@@ -24,20 +23,22 @@
     "Ksenia Pavroz",
     "Melanie My Rosas"
   ],
-  "commentators": [
-    "Evgeny Perlin"
-  ],
+  "dancers": null,
+  "stageDirector": "Viktor Drobysh",
   "composers": [
     "Viktor Drobysh"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Alexander Ivanov",
     "Mary Susan Applegate",
     "Timofei Leontiev"
   ],
-  "spokesperson": "Uzari",
-  "stageDirector": "Viktor Drobysh",
-  "writers": null
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Evgeny Perlin"
+  ],
+  "jury": null,
+  "spokesperson": "Uzari"
 }

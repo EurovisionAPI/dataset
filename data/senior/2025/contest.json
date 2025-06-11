@@ -6,12 +6,12 @@
   "intendedCountry": null,
   "slogan": "United By Music",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2025.png",
+  "broadcasters": [
+    "Swiss Broadcasting Corporation (SRG SSR)"
+  ],
   "presenters": [
     "Hazel Brugger",
     "Michelle Hunzike",
     "Sandra Studer"
-  ],
-  "broadcasters": [
-    "Swiss Broadcasting Corporation (SRG SSR)"
   ]
 }

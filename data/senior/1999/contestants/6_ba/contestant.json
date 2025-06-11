@@ -1,12 +1,7 @@
 {
   "id": 6,
   "country": "BA",
-  "broadcaster": "RTVBIH",
   "artist": "Dino & Beatrice",
-  "artistPeople": [
-    "Béatrice Poulot",
-    "Edin Dervišhalidović"
-  ],
   "song": "Putnici",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/RRxgcossuOs",
@@ -16,20 +11,26 @@
   ],
   "bpm": 172,
   "tone": "C major",
+  "artistPeople": [
+    "Béatrice Poulot",
+    "Edin Dervišhalidović"
+  ],
   "backings": [
     "Selma Muhedinović",
     "Vesna Andrée-Zaimović"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Edin Dervišhalidović"
+  ],
+  "broadcaster": "RTVBIH",
   "commentators": [
     "Ismeta Dervoz-Krvavac"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Segmedina Srna",
-  "stageDirector": null,
-  "writers": [
-    "Edin Dervišhalidović"
-  ]
+  "jury": null,
+  "spokesperson": "Segmedina Srna"
 }

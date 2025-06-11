@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Gary Lux",
-  "artistPeople": [
-    "Gerhard Lux"
-  ],
   "song": "Kinder dieser Welt",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/bpOHDPQk7Ao",
@@ -14,22 +10,27 @@
   ],
   "bpm": 122,
   "tone": "A major",
+  "artistPeople": [
+    "Gerhard Lux"
+  ],
   "backings": [
     "Rhonda Heath"
   ],
-  "commentators": [
-    "Ernst Grissemann"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Geoff Bastow",
     "Mick Jackson"
   ],
   "conductor": "Richard Österreicher",
-  "dancers": null,
   "lyricists": [
     "Michael Kunze"
   ],
-  "spokesperson": "Chris Lohner",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Chris Lohner"
 }

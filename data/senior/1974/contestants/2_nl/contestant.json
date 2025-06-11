@@ -1,12 +1,7 @@
 {
   "id": 2,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Mouth & MacNeal",
-  "artistPeople": [
-    "Willem Duyn",
-    "Sjoukje Smit-van 't Spijker"
-  ],
   "song": "I See a Star",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Hqj_UNeWA9w",
@@ -18,24 +13,30 @@
   ],
   "bpm": 89,
   "tone": "E major",
+  "artistPeople": [
+    "Willem Duyn",
+    "Sjoukje Smit-van 't Spijker"
+  ],
   "backings": [
     "Jan Vermeulen",
     "Johann Huisdens",
     "Piet Souer",
     "Ron Westerbeek"
   ],
-  "commentators": [
-    "Willem Duys"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Hans van Hemert"
   ],
   "conductor": "Harry van Hoof",
-  "dancers": null,
   "lyricists": [
     "Gerrit den Braber"
   ],
-  "spokesperson": "Dick van Bommel",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Dick van Bommel"
 }

@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Paloma San Basilio",
-  "artistPeople": [
-    "Paloma San Basilio"
-  ],
   "song": "La fiesta terminó",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/VOna_jv4L0s",
@@ -15,17 +11,22 @@
   ],
   "bpm": 80,
   "tone": "F major",
+  "artistPeople": [
+    "Paloma San Basilio"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Juan Carlos Calderón López De Arroyabe",
+  "lyricists": null,
+  "writers": [
+    "Juan Carlos Calderón"
+  ],
+  "broadcaster": "TVE",
   "commentators": [
     "Antonio Gómez"
   ],
-  "composers": null,
-  "conductor": "Juan Carlos Calderón López De Arroyabe",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Matilde Jarrín",
-  "stageDirector": null,
-  "writers": [
-    "Juan Carlos Calderón"
-  ]
+  "jury": null,
+  "spokesperson": "Matilde Jarrín"
 }

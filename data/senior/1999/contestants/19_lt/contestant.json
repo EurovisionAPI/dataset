@@ -1,11 +1,7 @@
 {
   "id": 19,
   "country": "LT",
-  "broadcaster": "LRT",
   "artist": "Aiste Smilgeviciute",
-  "artistPeople": [
-    "Aistė Smilgevičiūtė"
-  ],
   "song": "Strazdas",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ai6zMnVVicY",
@@ -15,17 +11,22 @@
   ],
   "bpm": 102,
   "tone": "D major",
+  "artistPeople": [
+    "Aistė Smilgevičiūtė"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Linas Rimša"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Sigitas Geda"
   ],
-  "spokesperson": "Andrius Tapinas",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Andrius Tapinas"
 }

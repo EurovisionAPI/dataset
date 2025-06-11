@@ -1,13 +1,7 @@
 {
   "id": 11,
   "country": "LV",
-  "broadcaster": "LTV",
   "artist": "Pirates Of The Sea",
-  "artistPeople": [
-    "Aleksandra Kurusova",
-    "Jānis Vaišļa",
-    "Roberto Meloni"
-  ],
   "song": "Wolves Of The Sea",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/gQy0PJEkQhA",
@@ -16,14 +10,18 @@
   ],
   "bpm": 145,
   "tone": "A major",
+  "artistPeople": [
+    "Aleksandra Kurusova",
+    "Jānis Vaišļa",
+    "Roberto Meloni"
+  ],
   "backings": [
     "Candy",
     "Oskars Zaļkalniņš",
     "Zane Biķe"
   ],
-  "commentators": [
-    "Kārlis Streips"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Claes Andreasson",
     "Johan Sahlen",
@@ -31,11 +29,14 @@
     "Torbjörn Wassenius"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Jonas Liberg"
   ],
-  "spokesperson": "Kristīne Virsnīte",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "jury": null,
+  "spokesperson": "Kristīne Virsnīte"
 }

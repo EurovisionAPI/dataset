@@ -1,11 +1,7 @@
 {
   "id": 25,
   "country": "MT",
-  "broadcaster": "PBS",
   "artist": "Glen Vella",
-  "artistPeople": [
-    "Glen Vella"
-  ],
   "song": "One Life",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/U9YRL_pHxvU",
@@ -15,6 +11,9 @@
   ],
   "bpm": 137,
   "tone": "D minor",
+  "artistPeople": [
+    "Glen Vella"
+  ],
   "backings": [
     "Angela Spiteri",
     "Isabelle Zammit",
@@ -22,17 +21,19 @@
     "Sandro Zammit",
     "Simon Law"
   ],
-  "commentators": [
-    "Eileen Montesin"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Kelly Schembri",
-  "stageDirector": null,
   "writers": [
     "Fleur Balzan",
     "Paul Giordimaina"
-  ]
+  ],
+  "broadcaster": "PBS",
+  "commentators": [
+    "Eileen Montesin"
+  ],
+  "jury": null,
+  "spokesperson": "Kelly Schembri"
 }

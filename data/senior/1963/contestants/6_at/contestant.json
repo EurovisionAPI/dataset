@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Carmela Corren",
-  "artistPeople": [
-    "Carmela Corren"
-  ],
   "song": "Vielleicht geschieht ein Wunder",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/TQM5qto_R3E",
@@ -14,17 +10,22 @@
   ],
   "bpm": 118,
   "tone": "A major",
+  "artistPeople": [
+    "Carmela Corren"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Erwin Halletz"
   ],
   "conductor": "Erwin Halletz",
-  "dancers": null,
   "lyricists": [
     "Peter Wehle"
   ],
-  "spokesperson": "Emil Kollpacher",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Emil Kollpacher"
 }

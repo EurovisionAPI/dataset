@@ -1,16 +1,7 @@
 {
   "id": 2,
   "country": "RO",
-  "broadcaster": "TVR",
   "artist": "Luminita Anghel & Sistem",
-  "artistPeople": [
-    "Mihai Ciprian Rogojan",
-    "Luminiţa Anghel",
-    "Florin Cătălin Romaşcu",
-    "Robert Magheti",
-    "Claudiu Purcărin",
-    "Toth Zoltan"
-  ],
   "song": "Let Me Try",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/bGY20O4Z7nM",
@@ -20,15 +11,25 @@
   ],
   "bpm": 130,
   "tone": "A minor",
+  "artistPeople": [
+    "Mihai Ciprian Rogojan",
+    "Luminiţa Anghel",
+    "Florin Cătălin Romaşcu",
+    "Robert Magheti",
+    "Claudiu Purcărin",
+    "Toth Zoltan"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Berti Barbera",
-  "stageDirector": null,
   "writers": [
     "Cristian Faur"
-  ]
+  ],
+  "broadcaster": "TVR",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Berti Barbera"
 }

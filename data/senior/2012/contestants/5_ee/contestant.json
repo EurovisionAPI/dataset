@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "EE",
-  "broadcaster": "ERR",
   "artist": "Ott Lepland",
-  "artistPeople": [
-    "Ott Lepland"
-  ],
   "song": "Kuula",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/T7BaTBe0UD8",
@@ -17,20 +13,25 @@
   ],
   "bpm": 129,
   "tone": "F major",
+  "artistPeople": [
+    "Ott Lepland"
+  ],
   "backings": [
     "Marvi Vallaste"
   ],
-  "commentators": [
-    "Marko Reikop"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Getter Jaani",
-  "stageDirector": null,
   "writers": [
     "Aapo Ilves",
     "Ott Lepland"
-  ]
+  ],
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Getter Jaani"
 }

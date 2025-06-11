@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "RO",
-  "broadcaster": "TVR",
   "artist": "Mihai Traistariu",
-  "artistPeople": [
-    "Mihai Trăistariu"
-  ],
   "song": "Tornerò",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/1SyPb8IOimE",
@@ -14,18 +10,23 @@
   ],
   "bpm": 130,
   "tone": "C# minor",
+  "artistPeople": [
+    "Mihai Trăistariu"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Eduard Cîrcotă"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Cristian Hriscu",
     "Mihaela Deac"
   ],
-  "spokesperson": "Andreea Marin Bănică",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Andreea Marin Bănică"
 }

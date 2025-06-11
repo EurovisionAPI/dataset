@@ -1,12 +1,7 @@
 {
   "id": 15,
   "country": "IL",
-  "broadcaster": "IBA",
   "artist": "Noa & Mira Awad",
-  "artistPeople": [
-    "Mira Anwar Awad",
-    "Achinoam Nini"
-  ],
   "song": "There Must Be Another Way",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/bBTQFOkFZw8",
@@ -16,19 +11,25 @@
   ],
   "bpm": 106,
   "tone": "Ab major",
+  "artistPeople": [
+    "Mira Anwar Awad",
+    "Achinoam Nini"
+  ],
   "backings": [
     "Gil Dor"
   ],
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Ofer Nachshon",
-  "stageDirector": null,
   "writers": [
     "Gil Dor",
     "Mira Awad",
     "Noa"
-  ]
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Ofer Nachshon"
 }

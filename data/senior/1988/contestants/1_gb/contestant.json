@@ -1,11 +1,7 @@
 {
   "id": 1,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Scott Fitzgerald",
-  "artistPeople": [
-    "William McPhail"
-  ],
   "song": "Go",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/T8mWt2ePsJQ",
@@ -14,21 +10,26 @@
   ],
   "bpm": 84,
   "tone": "B minor",
+  "artistPeople": [
+    "William McPhail"
+  ],
   "backings": [
     "Des Dyer",
     "Dominic Grant",
     "Julie Forsyth"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ronnie Hazlehurst",
+  "lyricists": null,
+  "writers": [
+    "Julie Forsyth"
+  ],
+  "broadcaster": "BBC",
   "commentators": [
     "Terry Wogan"
   ],
-  "composers": null,
-  "conductor": "Ronnie Hazlehurst",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Colin Berry",
-  "stageDirector": null,
-  "writers": [
-    "Julie Forsyth"
-  ]
+  "jury": null,
+  "spokesperson": "Colin Berry"
 }

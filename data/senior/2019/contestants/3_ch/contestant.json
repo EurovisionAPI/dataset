@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "CH",
-  "broadcaster": "SSR SRG",
   "artist": "Luca Hänni",
-  "artistPeople": [
-    "Luca Hänni"
-  ],
   "song": "She Got Me",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/8aUYzqAIdoM",
@@ -17,11 +13,30 @@
   ],
   "bpm": 97,
   "tone": "F# major",
+  "artistPeople": [
+    "Luca Hänni"
+  ],
   "backings": [
     "Daniel Asamoah",
     "David Lei Brandt",
     "Greg Curtis jr."
   ],
+  "dancers": [
+    "Hanna Levitt-Collins",
+    "Keisha von Arnold"
+  ],
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Frazer Mac",
+    "Jon Hällgren",
+    "Laurell Barker",
+    "Luca Hänni",
+    "Lukas Hällgren"
+  ],
+  "broadcaster": "SSR SRG",
   "commentators": [
     "Bastian Baker",
     "Clarissa Tami",
@@ -30,20 +45,6 @@
     "Sebalter",
     "Sven Epiney"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": [
-    "Hanna Levitt-Collins",
-    "Keisha von Arnold"
-  ],
-  "lyricists": null,
-  "spokesperson": "Gabriel Broggini, Ivan Broggini",
-  "stageDirector": "Sacha Jean-Baptiste",
-  "writers": [
-    "Frazer Mac",
-    "Jon Hällgren",
-    "Laurell Barker",
-    "Luca Hänni",
-    "Lukas Hällgren"
-  ]
+  "jury": null,
+  "spokesperson": "Gabriel Broggini, Ivan Broggini"
 }

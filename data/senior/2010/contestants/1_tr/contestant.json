@@ -1,15 +1,7 @@
 {
   "id": 1,
   "country": "TR",
-  "broadcaster": "TRT",
   "artist": "maNga",
-  "artistPeople": [
-    "Cem Bahtiyar",
-    "Efe Yılmaz",
-    "Ferman Akgül",
-    "Özgür Can Öney",
-    "Yağmur Sarıgül"
-  ],
   "song": "We Could Be The Same",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/HB_GnnhNz-8",
@@ -17,10 +9,18 @@
   ],
   "bpm": 133,
   "tone": "D minor",
-  "backings": null,
-  "commentators": [
-    "Bülend Özveren"
+  "artistPeople": [
+    "Cem Bahtiyar",
+    "Efe Yılmaz",
+    "Ferman Akgül",
+    "Özgür Can Öney",
+    "Yağmur Sarıgül"
   ],
+  "backings": null,
+  "dancers": [
+    "Nathalie Marrable"
+  ],
+  "stageDirector": "Genevieve Cleary",
   "composers": [
     "Cem Bahtiyar",
     "Efe Yılmaz",
@@ -29,9 +29,6 @@
     "Yağmur Sarıgül"
   ],
   "conductor": null,
-  "dancers": [
-    "Nathalie Marrable"
-  ],
   "lyricists": [
     "Cem Bahtiyar",
     "Efe Yılmaz",
@@ -41,7 +38,11 @@
     "Özgür Can Öney",
     "Yağmur Sarıgül"
   ],
-  "spokesperson": "Meltem Ersan Yazgan",
-  "stageDirector": "Genevieve Cleary",
-  "writers": null
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Meltem Ersan Yazgan"
 }

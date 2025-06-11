@@ -1,12 +1,7 @@
 {
   "id": 3,
   "country": "IS",
-  "broadcaster": "RÚV",
   "artist": "Stjórnin",
-  "artistPeople": [
-    "Grétar Örvarsson",
-    "Sigga"
-  ],
   "song": "Eitt lag enn",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ybH_XhW6Rkk",
@@ -17,21 +12,27 @@
   ],
   "bpm": 149,
   "tone": "F major",
+  "artistPeople": [
+    "Grétar Örvarsson",
+    "Sigga"
+  ],
   "backings": [
     "Einar Bragi Bragason"
   ],
-  "commentators": [
-    "Arthúr Björgvin Bollason"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Hörður G. Ólafsson"
   ],
   "conductor": "Jon Kjell Seljeseth",
-  "dancers": null,
   "lyricists": [
     "Aðalsteinn Ásberg Sigurðsson"
   ],
-  "spokesperson": "Árni Snævarr",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Arthúr Björgvin Bollason"
+  ],
+  "jury": null,
+  "spokesperson": "Árni Snævarr"
 }

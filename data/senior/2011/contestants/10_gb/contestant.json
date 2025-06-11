@@ -1,14 +1,7 @@
 {
   "id": 10,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Blue",
-  "artistPeople": [
-    "Antony Costa",
-    "Duncan James",
-    "Lee Ryan",
-    "Simon Webbe"
-  ],
   "song": "I Can",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/y1dXMWWq6y8",
@@ -16,21 +9,21 @@
   ],
   "bpm": 93,
   "tone": "Bb major",
+  "artistPeople": [
+    "Antony Costa",
+    "Duncan James",
+    "Lee Ryan",
+    "Simon Webbe"
+  ],
   "backings": [
     "Bryan Chambers",
     "Daniel Thomas"
   ],
-  "commentators": [
-    "Graham Norton",
-    "Sara Cox",
-    "Scott Mills"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Alex Jones",
-  "stageDirector": null,
   "writers": [
     "Ben Collier",
     "Ciaron Bell",
@@ -38,5 +31,13 @@
     "Ian Hope",
     "Lee Ryan",
     "Liam Keenan"
-  ]
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Graham Norton",
+    "Sara Cox",
+    "Scott Mills"
+  ],
+  "jury": null,
+  "spokesperson": "Alex Jones"
 }

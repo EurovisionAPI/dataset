@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "HU",
-  "broadcaster": "MTV",
   "artist": "Friderika Bayer",
-  "artistPeople": [
-    "Friderika Bayer"
-  ],
   "song": "Kinek mondjam el vétkeimet",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/fHdjqtSECPw",
@@ -16,19 +12,24 @@
   ],
   "bpm": 115,
   "tone": "D major",
+  "artistPeople": [
+    "Friderika Bayer"
+  ],
   "backings": [
     "Szilveszter Jenei"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Péter Wolf",
+  "lyricists": null,
+  "writers": [
+    "Szilveszter Jenei"
+  ],
+  "broadcaster": "MTV",
   "commentators": [
     "István Vágó"
   ],
-  "composers": null,
-  "conductor": "Péter Wolf",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Iván Bradányi",
-  "stageDirector": null,
-  "writers": [
-    "Szilveszter Jenei"
-  ]
+  "jury": null,
+  "spokesperson": "Iván Bradányi"
 }

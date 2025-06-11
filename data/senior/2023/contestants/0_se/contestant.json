@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Loreen",
-  "artistPeople": [
-    "Lorine Zineb Nora Talhaoui"
-  ],
   "song": "Tattoo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/BE2Fj0W4jP4",
@@ -18,17 +14,15 @@
   ],
   "bpm": 150,
   "tone": "Eb minor",
-  "backings": null,
-  "commentators": [
-    "Edward af Sillén",
-    "Måns Zelmerlöw"
+  "artistPeople": [
+    "Lorine Zineb Nora Talhaoui"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Farah Abadi",
-  "stageDirector": "Sacha Jean-Baptiste",
   "writers": [
     "Jimmy Jansson",
     "Jimmy Joker",
@@ -36,5 +30,12 @@
     "Moa Carlebecker",
     "Peter Boström",
     "Thomas G:son"
-  ]
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Edward af Sillén",
+    "Måns Zelmerlöw"
+  ],
+  "jury": null,
+  "spokesperson": "Farah Abadi"
 }

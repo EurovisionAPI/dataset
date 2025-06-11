@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "BE",
-  "broadcaster": "NIR",
   "artist": "Fud Leclerc",
-  "artistPeople": [
-    "Fernand Urbain Dominic Leclerc"
-  ],
   "song": "Ma petite chatte",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/q2_oFjwiPa8",
@@ -13,17 +9,22 @@
   ],
   "bpm": 144,
   "tone": "Eb major",
+  "artistPeople": [
+    "Fernand Urbain Dominic Leclerc"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Dolf van der Linden",
+  "lyricists": null,
+  "writers": [
+    "André Dohet"
+  ],
+  "broadcaster": "NIR",
   "commentators": [
     "Arlette Vincent"
   ],
-  "composers": null,
-  "conductor": "Dolf van der Linden",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Paule Herreman",
-  "stageDirector": null,
-  "writers": [
-    "André Dohet"
-  ]
+  "jury": null,
+  "spokesperson": "Paule Herreman"
 }

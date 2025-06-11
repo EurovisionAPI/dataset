@@ -1,11 +1,7 @@
 {
   "id": 21,
   "country": "GB",
-  "broadcaster": "BBC",
   "artist": "Javine",
-  "artistPeople": [
-    "Javine Dionne Hylton"
-  ],
   "song": "Touch My Fire",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/k8zTZkCdeyg",
@@ -13,20 +9,25 @@
   ],
   "bpm": 120,
   "tone": "Ab minor",
-  "backings": null,
-  "commentators": [
-    "Paddy O'Connell",
-    "Terry Wogan"
+  "artistPeople": [
+    "Javine Dionne Hylton"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "John Themis"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Javine"
   ],
-  "spokesperson": "Cheryl Baker",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BBC",
+  "commentators": [
+    "Paddy O'Connell",
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Cheryl Baker"
 }

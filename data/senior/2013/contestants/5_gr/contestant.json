@@ -1,16 +1,7 @@
 {
   "id": 5,
   "country": "GR",
-  "broadcaster": "ERT",
   "artist": "Koza Mostra feat. Agathon Iakovidis",
-  "artistPeople": [
-    "Agathonas Iakovidis",
-    "Alexandros Archontis (Αλέξανδρος Αρχοντής)",
-    "Christos Kalaitzopoulos",
-    "Ilias Kozas",
-    "Stelios Siomos",
-    "Vassilis Nalbantis"
-  ],
   "song": "Alcohol Is Free",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/LFs9AdNV4Qw",
@@ -20,20 +11,30 @@
   ],
   "bpm": 172,
   "tone": "D minor",
-  "backings": null,
-  "commentators": [
-    "Giorgos Kapoutzidis",
-    "Maria Kozakou"
+  "artistPeople": [
+    "Agathonas Iakovidis",
+    "Alexandros Archontis (Αλέξανδρος Αρχοντής)",
+    "Christos Kalaitzopoulos",
+    "Ilias Kozas",
+    "Stelios Siomos",
+    "Vassilis Nalbantis"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Maria Liraraki",
   "composers": [
     "Ilias Kozas"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Stathis Pachidis"
   ],
-  "spokesperson": "Andrianna Maggania",
-  "stageDirector": "Maria Liraraki",
-  "writers": null
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "jury": null,
+  "spokesperson": "Andrianna Maggania"
 }

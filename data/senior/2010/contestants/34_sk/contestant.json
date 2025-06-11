@@ -1,11 +1,7 @@
 {
   "id": 34,
   "country": "SK",
-  "broadcaster": "STV",
   "artist": "Kristina Pelakova",
-  "artistPeople": [
-    "Kristína Peláková"
-  ],
   "song": "Horehronie",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/j8G6byTMr0o",
@@ -18,26 +14,31 @@
   ],
   "bpm": 120,
   "tone": "Bb minor",
+  "artistPeople": [
+    "Kristína Peláková"
+  ],
   "backings": [
     "Hanka Servická"
   ],
-  "commentators": [
-    "Roman Bomboš"
-  ],
-  "composers": [
-    "Martin Kavulič"
-  ],
-  "conductor": null,
   "dancers": [
     "David Schimmer",
     "Martin Mikulášek",
     "Peter Živner",
     "Slavomír Kolkovič"
   ],
+  "stageDirector": null,
+  "composers": [
+    "Martin Kavulič"
+  ],
+  "conductor": null,
   "lyricists": [
     "Kamil Peteraj"
   ],
-  "spokesperson": "Ľubomír Bajaník",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "STV",
+  "commentators": [
+    "Roman Bomboš"
+  ],
+  "jury": null,
+  "spokesperson": "Ľubomír Bajaník"
 }

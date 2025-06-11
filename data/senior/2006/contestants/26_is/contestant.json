@@ -1,11 +1,7 @@
 {
   "id": 26,
   "country": "IS",
-  "broadcaster": "RÚV",
   "artist": "Silvia Night",
-  "artistPeople": [
-    "Ágústa Eva Erlendsdóttir"
-  ],
   "song": "Congratulations",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/e9DCMJHvs2c",
@@ -14,6 +10,9 @@
   ],
   "bpm": 178,
   "tone": "D major",
+  "artistPeople": [
+    "Ágústa Eva Erlendsdóttir"
+  ],
   "backings": [
     "Björn Thors",
     "Gisli Magnason",
@@ -21,18 +20,20 @@
     "Rúnar Freyr Gislasson",
     "Sigríður Beinteinsdóttir"
   ],
-  "commentators": [
-    "Sigmar Guðmundsson"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Þorvaldur Bjarni Þorvaldsson"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Silvia Night"
   ],
-  "spokesperson": "Ragnhildur Steinunn Jónsdóttir",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Sigmar Guðmundsson"
+  ],
+  "jury": null,
+  "spokesperson": "Ragnhildur Steinunn Jónsdóttir"
 }

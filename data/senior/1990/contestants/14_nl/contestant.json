@@ -1,12 +1,7 @@
 {
   "id": 14,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Maywood",
-  "artistPeople": [
-    "Alie de Vries",
-    "Doetie de Vries"
-  ],
   "song": "Ik wil alles met je delen",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/wa4UjvbF3so",
@@ -16,21 +11,27 @@
   ],
   "bpm": 75,
   "tone": "G minor",
+  "artistPeople": [
+    "Alie de Vries",
+    "Doetie de Vries"
+  ],
   "backings": [
     "Dian Senders",
     "Jody Pijper",
     "Jolande Fouraux"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Harry van Hoof",
+  "lyricists": null,
+  "writers": [
+    "Alice May"
+  ],
+  "broadcaster": "NOS",
   "commentators": [
     "Willem van Beusekom"
   ],
-  "composers": null,
-  "conductor": "Harry van Hoof",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Joop van Os",
-  "stageDirector": null,
-  "writers": [
-    "Alice May"
-  ]
+  "jury": null,
+  "spokesperson": "Joop van Os"
 }

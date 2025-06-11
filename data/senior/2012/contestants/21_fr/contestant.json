@@ -1,11 +1,7 @@
 {
   "id": 21,
   "country": "FR",
-  "broadcaster": "France 3",
   "artist": "Anggun",
-  "artistPeople": [
-    "Anggun Cipta Sasmi"
-  ],
   "song": "Écho (You and I)",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/0DZ7DbdeOeE",
@@ -13,31 +9,36 @@
   ],
   "bpm": 137,
   "tone": "Bb major",
+  "artistPeople": [
+    "Anggun Cipta Sasmi"
+  ],
   "backings": [
     "Andréa Catozzi",
     "Caroline Devismes"
   ],
+  "dancers": [
+    "Jeremy Maupilet",
+    "Jimmy Bourcereau",
+    "Sebastien Demeaux"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Jean-Pierre Pilot",
+    "William Rousseau"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Anggun",
+    "William Rousseau"
+  ],
+  "writers": null,
+  "broadcaster": "France 3",
   "commentators": [
     "Audrey Chauveau",
     "Bruno Berberes",
     "Cyril Féraud",
     "Mireille Dumas"
   ],
-  "composers": [
-    "Jean-Pierre Pilot",
-    "William Rousseau"
-  ],
-  "conductor": null,
-  "dancers": [
-    "Jeremy Maupilet",
-    "Jimmy Bourcereau",
-    "Sebastien Demeaux"
-  ],
-  "lyricists": [
-    "Anggun",
-    "William Rousseau"
-  ],
-  "spokesperson": "Amaury Vassili",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Amaury Vassili"
 }

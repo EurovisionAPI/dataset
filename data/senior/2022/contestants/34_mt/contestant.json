@@ -1,11 +1,7 @@
 {
   "id": 34,
   "country": "MT",
-  "broadcaster": "TVM",
   "artist": "Emma Muscat",
-  "artistPeople": [
-    "Emma Muscat"
-  ],
   "song": "I Am What I Am",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/DFCFM5qtvms",
@@ -17,23 +13,28 @@
   ],
   "bpm": 98,
   "tone": "G major",
+  "artistPeople": [
+    "Emma Muscat"
+  ],
   "backings": [
     "Frank Ksey",
     "Giulia Santoriello",
     "Lorenzo De Rosa",
     "Shadia Taghi"
   ],
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": "Gordon Bonello",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Aidan Cassar",
-  "stageDirector": "Gordon Bonello",
   "writers": [
     "Dino Medanhodzic",
     "Emma Muscat",
     "Julie Aagaard",
     "Stine Kinck"
-  ]
+  ],
+  "broadcaster": "TVM",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Aidan Cassar"
 }

@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "DK",
-  "broadcaster": "DR",
   "artist": "Jakob Sveistrup",
-  "artistPeople": [
-    "Jakob Sveistrup"
-  ],
   "song": "Talking To You",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/409tasQxq2s",
@@ -14,23 +10,28 @@
   ],
   "bpm": 172,
   "tone": "C major",
+  "artistPeople": [
+    "Jakob Sveistrup"
+  ],
   "backings": [
     "Anders Øhrstrøm",
     "Kenny Lübcke",
     "Kim Sandberg",
     "Peter Busborg"
   ],
-  "commentators": [
-    "Jørgen de Mylius"
-  ],
+  "dancers": null,
+  "stageDirector": "Birgitte Næss-Schmidt",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Gry Johansen",
-  "stageDirector": "Birgitte Næss-Schmidt",
   "writers": [
     "Andreas Mørck",
     "Jacob Launbjerg"
-  ]
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Gry Johansen"
 }

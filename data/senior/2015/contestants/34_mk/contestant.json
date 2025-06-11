@@ -1,11 +1,7 @@
 {
   "id": 34,
   "country": "MK",
-  "broadcaster": "MKRTV",
   "artist": "Daniel Kajmakoski",
-  "artistPeople": [
-    "Daniel Kajmakoski"
-  ],
   "song": "Autumn Leaves",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/TtSum7ouImU",
@@ -17,21 +13,26 @@
   ],
   "bpm": 120,
   "tone": "C major",
+  "artistPeople": [
+    "Daniel Kajmakoski"
+  ],
   "backings": [
     "Eric Williams",
     "Jeremy Hanna",
     "Mark Middleton"
   ],
+  "dancers": null,
+  "stageDirector": "Mojca Horvat",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Joacim Persson"
+  ],
+  "broadcaster": "MKRTV",
   "commentators": [
     "Karolina Petkovska"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Marko Mark",
-  "stageDirector": "Mojca Horvat",
-  "writers": [
-    "Joacim Persson"
-  ]
+  "jury": null,
+  "spokesperson": "Marko Mark"
 }

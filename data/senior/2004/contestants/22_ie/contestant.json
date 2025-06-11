@@ -1,11 +1,7 @@
 {
   "id": 22,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Chris Doran",
-  "artistPeople": [
-    "Chris Doran"
-  ],
   "song": "If My World Stopped Turning",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/DpHuREDD798",
@@ -13,19 +9,24 @@
   ],
   "bpm": 148,
   "tone": "B major",
-  "backings": null,
-  "commentators": [
-    "Marty Whelan"
+  "artistPeople": [
+    "Chris Doran"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Bryan McFadden"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Jonathan Shorten"
   ],
-  "spokesperson": "Johnny Logan",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Johnny Logan"
 }

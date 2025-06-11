@@ -1,15 +1,7 @@
 {
   "id": 5,
   "country": "MD",
-  "broadcaster": "TRM",
   "artist": "Zdob și Zdub",
-  "artistPeople": [
-    "Anatol Pugaci",
-    "Igor Buzurniuc",
-    "Mihail Gincu",
-    "Roman Iagupov",
-    "Valeriu Mazîlu"
-  ],
   "song": "Boonika Bate Doba",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/RWQCgSB_lpE",
@@ -18,21 +10,30 @@
   ],
   "bpm": 87,
   "tone": "D minor",
+  "artistPeople": [
+    "Anatol Pugaci",
+    "Igor Buzurniuc",
+    "Mihail Gincu",
+    "Roman Iagupov",
+    "Valeriu Mazîlu"
+  ],
   "backings": [
     "Lidia Bejenaru"
   ],
-  "commentators": [
-    "Vitalie Rotaru"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Mihai Gîncu"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Roman Iagupov"
   ],
-  "spokesperson": "Elena Camerzan",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Vitalie Rotaru"
+  ],
+  "jury": null,
+  "spokesperson": "Elena Camerzan"
 }

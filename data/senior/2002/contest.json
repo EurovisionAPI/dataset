@@ -6,11 +6,11 @@
   "intendedCountry": null,
   "slogan": "A Modern Fairytale",
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/2002.png",
+  "broadcasters": [
+    "ERR"
+  ],
   "presenters": [
     "Annely Peebo",
     "Marko Matvere"
-  ],
-  "broadcasters": [
-    "ERR"
   ]
 }

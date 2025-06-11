@@ -1,12 +1,7 @@
 {
   "id": 13,
   "country": "DE",
-  "broadcaster": "ARD",
   "artist": "Maxi & Chris Garden",
-  "artistPeople": [
-    "Christiane Gärtner",
-    "Meike Gärtner"
-  ],
   "song": "Lied für einen Freund",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/jTzWGNIQ_Nc",
@@ -15,20 +10,26 @@
   ],
   "bpm": 127,
   "tone": "Eb major",
-  "backings": null,
-  "commentators": [
-    "Claus-Erich Boetzkes",
-    "Nicole"
+  "artistPeople": [
+    "Christiane Gärtner",
+    "Meike Gärtner"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Ralph Siegel"
   ],
   "conductor": "Michael Thatcher",
-  "dancers": null,
   "lyricists": [
     "Gunter Johansen"
   ],
-  "spokesperson": "Lotti Ohnesorge",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Claus-Erich Boetzkes",
+    "Nicole"
+  ],
+  "jury": null,
+  "spokesperson": "Lotti Ohnesorge"
 }

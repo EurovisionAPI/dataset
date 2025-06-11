@@ -1,11 +1,7 @@
 {
   "id": 18,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Anita",
-  "artistPeople": [
-    "Anita Spanner"
-  ],
   "song": "Einfach weg",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/RylzE-ULCpY",
@@ -15,21 +11,26 @@
   ],
   "bpm": 121,
   "tone": "A major",
+  "artistPeople": [
+    "Anita Spanner"
+  ],
   "backings": [
     "Gerhard Lux"
   ],
-  "commentators": [
-    "Ernst Grissemann"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Brigitte Seuberth"
   ],
   "conductor": "Richard Österreicher",
-  "dancers": null,
   "lyricists": [
     "Walter Müller"
   ],
-  "spokesperson": "Tilia Herold",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
 }

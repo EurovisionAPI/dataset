@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Inger Jacobsen",
-  "artistPeople": [
-    "Inger Jacobsen"
-  ],
   "song": "Kom sol, kom regn",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/58QSyaUc6Ms",
@@ -13,19 +9,24 @@
   ],
   "bpm": 94,
   "tone": "Bb major",
-  "backings": null,
-  "commentators": [
-    "Odd Grythe"
+  "artistPeople": [
+    "Inger Jacobsen"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Kjell Karlsen"
   ],
   "conductor": "Øivind Bergh",
-  "dancers": null,
   "lyricists": [
     "Ivar Andersen"
   ],
-  "spokesperson": "Kari Borg Mannsåker",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Odd Grythe"
+  ],
+  "jury": null,
+  "spokesperson": "Kari Borg Mannsåker"
 }

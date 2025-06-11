@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "MD",
-  "broadcaster": "TRM",
   "artist": "Natalia Gordienko",
-  "artistPeople": [
-    "Natalia Gordienko"
-  ],
   "song": "Sugar",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5I_1GTehgkI",
@@ -18,28 +14,33 @@
   ],
   "bpm": 120,
   "tone": "F# minor",
+  "artistPeople": [
+    "Natalia Gordienko"
+  ],
   "backings": [
     "Victoria Halkiti"
   ],
-  "commentators": [
-    "Doina Stimpovschi"
-  ],
-  "composers": [
-    "Dimitris Kontopoulos",
-    "Philipp Kirkorov"
-  ],
-  "conductor": null,
   "dancers": [
     "Igor Kuleshyn",
     "Kostya Vechersky",
     "Maxim Bondar",
     "Slava"
   ],
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Dimitris Kontopoulos",
+    "Philipp Kirkorov"
+  ],
+  "conductor": null,
   "lyricists": [
     "Mikhail Gutseriyev",
     "Sharon Vaughn"
   ],
-  "spokesperson": "Sergey Stepanov",
-  "stageDirector": "Fokas Evangelinos",
-  "writers": null
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Doina Stimpovschi"
+  ],
+  "jury": null,
+  "spokesperson": "Sergey Stepanov"
 }

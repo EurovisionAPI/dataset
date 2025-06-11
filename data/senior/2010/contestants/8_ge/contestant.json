@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "GE",
-  "broadcaster": "GPB",
   "artist": "Sofia Nizharadze",
-  "artistPeople": [
-    "Sopho Nizharadze (სოფო ნიჟარაძე)"
-  ],
   "song": "Shine",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/y5yTMGxFiPw",
@@ -14,26 +10,31 @@
   ],
   "bpm": 135,
   "tone": "G major",
+  "artistPeople": [
+    "Sopho Nizharadze (სოფო ნიჟარაძე)"
+  ],
   "backings": [
     "Helen Kalandadze",
     "Sopho Toroshelidze"
   ],
-  "commentators": [
-    "Sopho Altunishvili"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Francesca Lavecchia",
     "François Doppia",
     "Jérôme Piel"
   ],
-  "lyricists": null,
-  "spokesperson": "Mariam Vashadze",
   "stageDirector": "Redha Benteifour",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Christian Leuzzi",
     "Hanne Margrethe Fredriksen Sørvaag",
     "Harry Sommerdahl"
-  ]
+  ],
+  "broadcaster": "GPB",
+  "commentators": [
+    "Sopho Altunishvili"
+  ],
+  "jury": null,
+  "spokesperson": "Mariam Vashadze"
 }

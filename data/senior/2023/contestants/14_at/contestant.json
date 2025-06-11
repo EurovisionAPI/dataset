@@ -1,13 +1,7 @@
 {
   "id": 14,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Teya & Salena",
-  "artistPeople": [
-    "Salena",
-    "Teya",
-    "Thea Devy"
-  ],
   "song": "Who The Hell Is Edgar?",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/8uk64V9h0Ko",
@@ -20,25 +14,32 @@
   ],
   "bpm": 82,
   "tone": "F# minor",
-  "backings": null,
-  "commentators": [
-    "Andi Knoll"
+  "artistPeople": [
+    "Salena",
+    "Teya",
+    "Thea Devy"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Alex Schoendorf",
     "Alexandre Novelli",
     "Angel Grace Wharmby",
     "Ria Hunte"
   ],
-  "lyricists": null,
-  "spokesperson": "Philipp Hansa",
   "stageDirector": "Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Pele Loriano",
     "Ronald Janeček",
     "Selina-Maria Edbauer",
     "Teodora Špirić"
-  ]
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Philipp Hansa"
 }

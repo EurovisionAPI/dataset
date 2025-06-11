@@ -1,11 +1,7 @@
 {
   "id": 13,
   "country": "DE",
-  "broadcaster": "ARD",
   "artist": "Mary Roos",
-  "artistPeople": [
-    "Marianne Rosemarie Schwab"
-  ],
   "song": "Aufrecht geh'n",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ag3TeXJOGF4",
@@ -17,21 +13,26 @@
   ],
   "bpm": 85,
   "tone": "E major",
+  "artistPeople": [
+    "Marianne Rosemarie Schwab"
+  ],
   "backings": [
     "Jerry Rix"
   ],
-  "commentators": [
-    "Ado Schlier"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Michael Reinecke"
   ],
   "conductor": "Pierre Cao",
-  "dancers": null,
   "lyricists": [
     "Michael Kunze"
   ],
-  "spokesperson": "Kerstin Schweighöfer",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Ado Schlier"
+  ],
+  "jury": null,
+  "spokesperson": "Kerstin Schweighöfer"
 }

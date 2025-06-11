@@ -1,11 +1,7 @@
 {
   "id": 20,
   "country": "RO",
-  "broadcaster": "TVR",
   "artist": "Dan Bittman",
-  "artistPeople": [
-    "Dan Bittman"
-  ],
   "song": "Dincolo de nori",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Zpp_zOTz7FY",
@@ -13,6 +9,9 @@
   ],
   "bpm": 152,
   "tone": "G major",
+  "artistPeople": [
+    "Dan Bittman"
+  ],
   "backings": [
     "Corina Bogaru",
     "Daniela Vladescu",
@@ -20,17 +19,19 @@
     "Mariana Turcanu",
     "Romeo Bediu"
   ],
-  "commentators": [
-    "Gabriela Cristea"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": "Noel Kelehan",
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Cristina Țopescu",
-  "stageDirector": null,
   "writers": [
     "Antonio Furtuna",
     "Dan Bittman"
-  ]
+  ],
+  "broadcaster": "TVR",
+  "commentators": [
+    "Gabriela Cristea"
+  ],
+  "jury": null,
+  "spokesperson": "Cristina Țopescu"
 }

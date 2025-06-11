@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Sanna Nielsen",
-  "artistPeople": [
-    "Sanna Nielsen"
-  ],
   "song": "Undo",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/5PQJI-3LW-8",
@@ -15,6 +11,9 @@
   ],
   "bpm": 122,
   "tone": "B major",
+  "artistPeople": [
+    "Sanna Nielsen"
+  ],
   "backings": [
     "Britta Bergström",
     "Dea Norberg",
@@ -22,19 +21,21 @@
     "Jessica Marberger",
     "Thérèse Löf Amberg"
   ],
-  "commentators": [
-    "Edward af Sillén",
-    "Malin Olsson"
-  ],
+  "dancers": null,
+  "stageDirector": "Lotta Furebäck, Mari Ryberger",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Andreas Lundstedt, Lina Hedlund, Therese Merkel",
-  "stageDirector": "Lotta Furebäck, Mari Ryberger",
   "writers": [
     "David Kreuger",
     "Fredrik Kempe",
     "K-One"
-  ]
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Edward af Sillén",
+    "Malin Olsson"
+  ],
+  "jury": null,
+  "spokesperson": "Andreas Lundstedt, Lina Hedlund, Therese Merkel"
 }

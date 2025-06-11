@@ -1,11 +1,7 @@
 {
   "id": 11,
   "country": "AZ",
-  "broadcaster": "İctimai",
   "artist": "Elnur Hüseynov",
-  "artistPeople": [
-    "Elnur Hüseynov"
-  ],
   "song": "Hour Of The Wolf",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/L_y-yMIzTNc",
@@ -16,31 +12,36 @@
   ],
   "bpm": 106,
   "tone": "D major",
+  "artistPeople": [
+    "Elnur Hüseynov"
+  ],
   "backings": [
     "Krysten Cummings",
     "Nicklas Lif",
     "Tamara Nivillac"
   ],
-  "commentators": [
-    "Kamran Guliyev"
+  "dancers": [
+    "Julia Spiesser",
+    "Lukas McFarlane"
   ],
+  "stageDirector": "Ambra Succi",
   "composers": [
     "Lina Hansson",
     "Nicklas Lif",
     "Nicolas Rebscher"
   ],
   "conductor": null,
-  "dancers": [
-    "Julia Spiesser",
-    "Lukas McFarlane"
-  ],
   "lyricists": [
     "Lina Hansson",
     "Nicklas Lif",
     "Nicolas Rebscher",
     "Sandra Bjurman"
   ],
-  "spokesperson": "Tural Asadov",
-  "stageDirector": "Ambra Succi",
-  "writers": null
+  "writers": null,
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Kamran Guliyev"
+  ],
+  "jury": null,
+  "spokesperson": "Tural Asadov"
 }

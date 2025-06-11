@@ -1,11 +1,7 @@
 {
   "id": 28,
   "country": "CY",
-  "broadcaster": "CyBC",
   "artist": "Andromache",
-  "artistPeople": [
-    "Andromachi Dimitropoulou (Ανδρομάχη Δημητροπούλου)"
-  ],
   "song": "Ela",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/W2IUdTl-gAI",
@@ -15,20 +11,18 @@
   ],
   "bpm": 98,
   "tone": "Eb minor",
-  "backings": null,
-  "commentators": [
-    "Alexandros Taramountas",
-    "Melina Karageorgiou"
+  "artistPeople": [
+    "Andromachi Dimitropoulou (Ανδρομάχη Δημητροπούλου)"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Despina Lagoudaki",
     "Nefeli Theodotou"
   ],
-  "lyricists": null,
-  "spokesperson": "Loukas Hamatsos",
   "stageDirector": "Dan Shipton, Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Alex P",
     "Arash Labaf",
@@ -40,5 +34,12 @@
     "Robert Uhlmann",
     "Viktor Svensson",
     "Yll Limani"
-  ]
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Alexandros Taramountas",
+    "Melina Karageorgiou"
+  ],
+  "jury": null,
+  "spokesperson": "Loukas Hamatsos"
 }

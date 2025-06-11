@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "DE",
-  "broadcaster": "NDR",
   "artist": "Michael Schulte",
-  "artistPeople": [
-    "Michael Anthony Schulte"
-  ],
   "song": "You Let Me Walk Alone",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/N4YwSy4Q9k0",
@@ -18,20 +14,25 @@
   ],
   "bpm": 149,
   "tone": "B major",
-  "backings": null,
-  "commentators": [
-    "Peter Urban"
+  "artistPeople": [
+    "Michael Anthony Schulte"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Barbara Schöneberger",
-  "stageDirector": null,
   "writers": [
     "Katharina Müller",
     "Michael Schulte",
     "Nisse Ingwersen",
     "Thomas Stengaard"
-  ]
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Barbara Schöneberger"
 }

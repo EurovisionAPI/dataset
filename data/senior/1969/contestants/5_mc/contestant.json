@@ -1,11 +1,7 @@
 {
   "id": 5,
   "country": "MC",
-  "broadcaster": "TMC",
   "artist": "Jean-Jacques",
-  "artistPeople": [
-    "Jean-Jacques Bertolai"
-  ],
   "song": "Maman, Maman",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Fa4RWu5h_00",
@@ -16,19 +12,24 @@
   ],
   "bpm": 139,
   "tone": "C minor",
+  "artistPeople": [
+    "Jean-Jacques Bertolai"
+  ],
   "backings": [
     "Achille Pellegrini"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Hervé Roy",
+  "lyricists": null,
+  "writers": [
+    "Jo Perrier"
+  ],
+  "broadcaster": "TMC",
   "commentators": [
     "Pierre Tchernia"
   ],
-  "composers": null,
-  "conductor": "Hervé Roy",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": [
-    "Jo Perrier"
-  ]
+  "jury": null,
+  "spokesperson": null
 }

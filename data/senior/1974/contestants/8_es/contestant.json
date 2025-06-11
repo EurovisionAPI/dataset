@@ -1,11 +1,7 @@
 {
   "id": 8,
   "country": "ES",
-  "broadcaster": "TVE",
   "artist": "Peret",
-  "artistPeople": [
-    "Pedro Pubill Calafat Moya"
-  ],
   "song": "Canta y sé feliz",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/omMet0dAklI",
@@ -14,6 +10,9 @@
   ],
   "bpm": 103,
   "tone": "Ab minor",
+  "artistPeople": [
+    "Pedro Pubill Calafat Moya"
+  ],
   "backings": [
     "Antonio Valenti",
     "Consuelo Pubill",
@@ -21,16 +20,18 @@
     "Pedro Reyes",
     "Teresa Pubill"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rafael de Ibarbia Serra",
+  "lyricists": null,
+  "writers": [
+    "Peret"
+  ],
+  "broadcaster": "TVE",
   "commentators": [
     "José Luis Uribarri"
   ],
-  "composers": null,
-  "conductor": "Rafael de Ibarbia Serra",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Antolín García",
-  "stageDirector": null,
-  "writers": [
-    "Peret"
-  ]
+  "jury": null,
+  "spokesperson": "Antolín García"
 }

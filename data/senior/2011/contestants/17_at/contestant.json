@@ -1,11 +1,7 @@
 {
   "id": 17,
   "country": "AT",
-  "broadcaster": "ORF",
   "artist": "Nadine Beiler",
-  "artistPeople": [
-    "Nadine Beiler"
-  ],
   "song": "The Secret Is Love",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/UsBC5AB1tFo",
@@ -14,6 +10,9 @@
   ],
   "bpm": 123,
   "tone": "F# minor",
+  "artistPeople": [
+    "Nadine Beiler"
+  ],
   "backings": [
     "Anne Semper",
     "Juci Janoska",
@@ -21,18 +20,20 @@
     "Maria Rerych",
     "Renee Benson"
   ],
-  "commentators": [
-    "Andi Knoll"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Thomas Rabitsch"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Nadine Beiler"
   ],
-  "spokesperson": "Katharina Bellowitsch",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Katharina Bellowitsch"
 }

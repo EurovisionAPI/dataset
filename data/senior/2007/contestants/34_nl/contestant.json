@@ -1,11 +1,7 @@
 {
   "id": 34,
   "country": "NL",
-  "broadcaster": "NOS",
   "artist": "Edsilia Rombley",
-  "artistPeople": [
-    "Edsilia Rombley"
-  ],
   "song": "On Top Of The World",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/k2IPKCOixtE",
@@ -14,6 +10,9 @@
   ],
   "bpm": 126,
   "tone": "B minor",
+  "artistPeople": [
+    "Edsilia Rombley"
+  ],
   "backings": [
     "Bram Blankestijn",
     "Charida Jonkhart",
@@ -21,21 +20,23 @@
     "Merel Schaftenaar",
     "Thirza Solcer"
   ],
-  "commentators": [
-    "Cornald Maas",
-    "Paul de Leeuw"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Tjeerd Oosterhuis"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Maarten ten Hove",
     "Martin Gijzemijter",
     "Tjeerd Oosterhuis"
   ],
-  "spokesperson": "Edsilia Rombley, Paul de Leeuw",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Cornald Maas",
+    "Paul de Leeuw"
+  ],
+  "jury": null,
+  "spokesperson": "Edsilia Rombley, Paul de Leeuw"
 }

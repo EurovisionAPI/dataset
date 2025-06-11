@@ -1,11 +1,7 @@
 {
   "id": 7,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Carl Espen",
-  "artistPeople": [
-    "Carl Espen Thorbjørnsen"
-  ],
   "song": "Silent Storm",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/BTMli8U17MM",
@@ -15,17 +11,22 @@
   ],
   "bpm": 146,
   "tone": "C# major",
+  "artistPeople": [
+    "Carl Espen Thorbjørnsen"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": "Mattias Carlsson",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Josefin Winther"
+  ],
+  "broadcaster": "NRK",
   "commentators": [
     "Olav Viksmo-Slettan"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Margrethe Røed",
-  "stageDirector": "Mattias Carlsson",
-  "writers": [
-    "Josefin Winther"
-  ]
+  "jury": null,
+  "spokesperson": "Margrethe Røed"
 }

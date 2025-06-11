@@ -1,11 +1,7 @@
 {
   "id": 12,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Monique Melsen",
-  "artistPeople": [
-    "Monique Melsen"
-  ],
   "song": "Pomme, pomme, pomme",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/N2tcS2b8_tc",
@@ -16,19 +12,24 @@
   ],
   "bpm": 112,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Jacques Navadic"
+  "artistPeople": [
+    "Monique Melsen"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Hubert Giraud"
   ],
   "conductor": "Jean Claudric",
-  "dancers": null,
   "lyricists": [
     "Pierre Cour"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": null
 }

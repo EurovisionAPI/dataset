@@ -1,11 +1,7 @@
 {
   "id": 20,
   "country": "IL",
-  "broadcaster": "KAN",
   "artist": "Eden Alene",
-  "artistPeople": [
-    "Eden Alene"
-  ],
   "song": "Feker Libi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/YjzyZZ-oidc",
@@ -13,19 +9,24 @@
   ],
   "bpm": 120,
   "tone": "Ab major",
+  "artistPeople": [
+    "Eden Alene"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Doron Medalie",
     "Idan Raichel"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Idan Raichel",
     "Yinon Yahel"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "KAN",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

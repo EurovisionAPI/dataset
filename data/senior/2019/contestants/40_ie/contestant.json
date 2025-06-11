@@ -1,11 +1,7 @@
 {
   "id": 40,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Sarah McTernan",
-  "artistPeople": [
-    "Sarah McTernan"
-  ],
   "song": "22",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/lX7DT9GMHQM",
@@ -16,26 +12,31 @@
   ],
   "bpm": 125,
   "tone": "C major",
+  "artistPeople": [
+    "Sarah McTernan"
+  ],
   "backings": [
     "Ciara O'Connor",
     "Fiona Harte",
     "Michael Hopkins"
   ],
-  "commentators": [
-    "Marty Whelan"
-  ],
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Adele Dempsey",
     "Rhianna Binns"
   ],
-  "lyricists": null,
-  "spokesperson": "Sinéad Kennedy",
   "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Janieck Devy",
     "Misha",
     "Roel Rats"
-  ]
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Sinéad Kennedy"
 }

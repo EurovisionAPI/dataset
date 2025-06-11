@@ -1,11 +1,7 @@
 {
   "id": 25,
   "country": "PT",
-  "broadcaster": "RTP",
   "artist": "Cláudia Pascoal",
-  "artistPeople": [
-    "Cláudia Rafaela Teixeira Pascoal"
-  ],
   "song": "O jardim",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/mHjGbADMcOI",
@@ -18,20 +14,25 @@
   ],
   "bpm": 120,
   "tone": "Bb major",
+  "artistPeople": [
+    "Cláudia Rafaela Teixeira Pascoal"
+  ],
   "backings": [
     "Isaura"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Isaura"
+  ],
+  "broadcaster": "RTP",
   "commentators": [
     "Hélder Reis",
     "Nuno Galopim"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Pedro Fernandes",
-  "stageDirector": null,
-  "writers": [
-    "Isaura"
-  ]
+  "jury": null,
+  "spokesperson": "Pedro Fernandes"
 }

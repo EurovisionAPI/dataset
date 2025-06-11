@@ -6,10 +6,10 @@
   "intendedCountry": null,
   "slogan": null,
   "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/logos/senior/1985.png",
-  "presenters": [
-    "Lill Lindfors"
-  ],
   "broadcasters": [
     "SVT"
+  ],
+  "presenters": [
+    "Lill Lindfors"
   ]
 }

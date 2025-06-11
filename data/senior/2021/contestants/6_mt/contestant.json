@@ -1,11 +1,7 @@
 {
   "id": 6,
   "country": "MT",
-  "broadcaster": "PBS",
   "artist": "Destiny",
-  "artistPeople": [
-    "Destiny Chukunyere"
-  ],
   "song": "Je me casse",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/jbbc2yKnv0M",
@@ -18,23 +14,28 @@
   ],
   "bpm": 112,
   "tone": "C minor",
+  "artistPeople": [
+    "Destiny Chukunyere"
+  ],
   "backings": null,
-  "commentators": null,
-  "composers": null,
-  "conductor": null,
   "dancers": [
     "Jennifer Pacaanas",
     "Kim Pastor",
     "Milena Jacuniak",
     "Pauline Eddeborn"
   ],
-  "lyricists": null,
-  "spokesperson": "Stephanie Spiteri",
   "stageDirector": "Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Amanuel Dermont",
     "Malin Christin",
     "Nicklas Eklund",
     "Pete Barringer"
-  ]
+  ],
+  "broadcaster": "PBS",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Stephanie Spiteri"
 }

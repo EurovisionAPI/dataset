@@ -1,11 +1,7 @@
 {
   "id": 29,
   "country": "SM",
-  "broadcaster": "SMRTV",
   "artist": "Serhat",
-  "artistPeople": [
-    "Ahmet Serhat Hacıpaşalıoğlu"
-  ],
   "song": "I Didn't Know",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/HzPkDb2FSeg",
@@ -15,6 +11,9 @@
   ],
   "bpm": 123,
   "tone": "A major",
+  "artistPeople": [
+    "Ahmet Serhat Hacıpaşalıoğlu"
+  ],
   "backings": [
     "Caroline Hauwel",
     "Ellia Palazzi",
@@ -22,20 +21,22 @@
     "Jessica Fagniot",
     "Ophelie Crispin"
   ],
+  "dancers": null,
+  "stageDirector": "Thierry Mugler",
+  "composers": [
+    "Olcayto Ahmet Tuğsuz"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Nektarios Tyrakis"
+  ],
+  "writers": null,
+  "broadcaster": "SMRTV",
   "commentators": [
     "Gigi Restivo",
     "John Kennedy O'Connor",
     "Lia Fiorio"
   ],
-  "composers": [
-    "Olcayto Ahmet Tuğsuz"
-  ],
-  "conductor": null,
-  "dancers": null,
-  "lyricists": [
-    "Nektarios Tyrakis"
-  ],
-  "spokesperson": "Irol MC",
-  "stageDirector": "Thierry Mugler",
-  "writers": null
+  "jury": null,
+  "spokesperson": "Irol MC"
 }

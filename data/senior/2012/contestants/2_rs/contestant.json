@@ -1,11 +1,7 @@
 {
   "id": 2,
   "country": "RS",
-  "broadcaster": "RTS",
   "artist": "Željko Joksimović",
-  "artistPeople": [
-    "Željko Joksimović"
-  ],
   "song": "Nije ljubav stvar",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/R9x9VbJzaDQ",
@@ -14,6 +10,9 @@
   ],
   "bpm": 155,
   "tone": "C# minor",
+  "artistPeople": [
+    "Željko Joksimović"
+  ],
   "backings": [
     "Dragan Krstić",
     "Dušan Alagić",
@@ -21,20 +20,22 @@
     "Miloš Nikolić",
     "Olga Vulović"
   ],
-  "commentators": [
-    "Dragan Ilić",
-    "Duška Vučinić-Lučić"
-  ],
+  "dancers": null,
+  "stageDirector": "Marko Novaković",
   "composers": [
     "Željko Joksimović"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Marina Tucaković",
     "Miloš Roganović"
   ],
-  "spokesperson": "Maja Nikolić",
-  "stageDirector": "Marko Novaković",
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTS",
+  "commentators": [
+    "Dragan Ilić",
+    "Duška Vučinić-Lučić"
+  ],
+  "jury": null,
+  "spokesperson": "Maja Nikolić"
 }

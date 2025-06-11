@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "AZ",
-  "broadcaster": "İctimai",
   "artist": "Sabina Babayeva",
-  "artistPeople": [
-    "Sabina Babayeva"
-  ],
   "song": "When The Music Dies",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/yzT7O3Fnwpk",
@@ -13,26 +9,31 @@
   ],
   "bpm": 126,
   "tone": "C# minor",
+  "artistPeople": [
+    "Sabina Babayeva"
+  ],
   "backings": [
     "Alim Qasimov",
     "Anna Nilsson",
     "Jennie Jahns",
     "Marie Nordmark Sjöström"
   ],
-  "commentators": [
-    "Konul Arifgizi",
-    "Saleh Bagirov"
-  ],
+  "dancers": null,
+  "stageDirector": "Lars Bethke",
   "composers": null,
   "conductor": null,
-  "dancers": null,
   "lyricists": null,
-  "spokesperson": "Safura Alizadeh",
-  "stageDirector": "Lars Bethke",
   "writers": [
     "Anders Bagge",
     "Johan Kronlund",
     "Sandra Bjurman",
     "Stefan Örn"
-  ]
+  ],
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Konul Arifgizi",
+    "Saleh Bagirov"
+  ],
+  "jury": null,
+  "spokesperson": "Safura Alizadeh"
 }

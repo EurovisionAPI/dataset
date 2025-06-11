@@ -1,16 +1,7 @@
 {
   "id": 6,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Pihasoittajat",
-  "artistPeople": [
-    "Arja Karlsson",
-    "Hannu Karlsson",
-    "Harry Lindahl",
-    "Henrik Bergendahl",
-    "Kim Kuusi",
-    "Seppo Sillanpää"
-  ],
   "song": "Old Man Fiddle",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/luNTJefNlKU",
@@ -20,20 +11,30 @@
   ],
   "bpm": 108,
   "tone": "G major",
-  "backings": null,
-  "commentators": [
-    "Heikki Seppälä"
+  "artistPeople": [
+    "Arja Karlsson",
+    "Hannu Karlsson",
+    "Harry Lindahl",
+    "Henrik Bergendahl",
+    "Kim Kuusi",
+    "Seppo Sillanpää"
   ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Kim Kuusi"
   ],
   "conductor": "Ossi Runne",
-  "dancers": null,
   "lyricists": [
     "Arthur Ridgway Spencer",
     "Hannu Karlsson"
   ],
-  "spokesperson": "Kaarina Pönniö",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Heikki Seppälä"
+  ],
+  "jury": null,
+  "spokesperson": "Kaarina Pönniö"
 }

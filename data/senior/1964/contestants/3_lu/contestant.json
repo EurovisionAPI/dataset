@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Hugues Aufray",
-  "artistPeople": [
-    "Jean Aufray"
-  ],
   "song": "Dès que le printemps revient",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/Hdne0IMQ8Ac",
@@ -14,17 +10,22 @@
   ],
   "bpm": 123,
   "tone": "E major",
+  "artistPeople": [
+    "Jean Aufray"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Hugues Aufray"
   ],
   "conductor": "Jacques Denjean",
-  "dancers": null,
   "lyricists": [
     "Jacques Plante"
   ],
-  "spokesperson": null,
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
 }

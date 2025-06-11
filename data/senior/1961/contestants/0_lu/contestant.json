@@ -1,11 +1,7 @@
 {
   "id": 0,
   "country": "LU",
-  "broadcaster": "CLT",
   "artist": "Jean-Claude Pascal",
-  "artistPeople": [
-    "Jean-Claude Villeminot"
-  ],
   "song": "Nous les amoureux",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/W7jR8W2PNYk",
@@ -15,17 +11,22 @@
   ],
   "bpm": 126,
   "tone": "A minor",
+  "artistPeople": [
+    "Jean-Claude Villeminot"
+  ],
   "backings": null,
-  "commentators": null,
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Jacques Datin"
   ],
   "conductor": "Léo Chauliac",
-  "dancers": null,
   "lyricists": [
     "Maurice Vidalin"
   ],
-  "spokesperson": "Unknown",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Unknown"
 }

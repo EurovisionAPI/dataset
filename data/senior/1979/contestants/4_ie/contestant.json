@@ -1,11 +1,7 @@
 {
   "id": 4,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "Cathal Dunne",
-  "artistPeople": [
-    "Cathal Dunne"
-  ],
   "song": "Happy Man",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/f-z_gZFRptI",
@@ -14,17 +10,22 @@
   ],
   "bpm": 104,
   "tone": "D major",
+  "artistPeople": [
+    "Cathal Dunne"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Proinsias O'Duinn",
+  "lyricists": null,
+  "writers": [
+    "Cathal Dunne"
+  ],
+  "broadcaster": "RTÉ",
   "commentators": [
     "Mike Murphy"
   ],
-  "composers": null,
-  "conductor": "Proinsias O'Duinn",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "David Heffernan",
-  "stageDirector": null,
-  "writers": [
-    "Cathal Dunne"
-  ]
+  "jury": null,
+  "spokesperson": "David Heffernan"
 }

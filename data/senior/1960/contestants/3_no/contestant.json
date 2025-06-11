@@ -1,11 +1,7 @@
 {
   "id": 3,
   "country": "NO",
-  "broadcaster": "NRK",
   "artist": "Nora Brockstedt",
-  "artistPeople": [
-    "Nora Brockstedt"
-  ],
   "song": "Voi-voi",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/gvPieP0mys4",
@@ -18,17 +14,22 @@
   ],
   "bpm": 155,
   "tone": "C minor",
+  "artistPeople": [
+    "Nora Brockstedt"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Øivind Bergh",
+  "lyricists": null,
+  "writers": [
+    "Georg Elgaaen"
+  ],
+  "broadcaster": "NRK",
   "commentators": [
     "Erik Diesen"
   ],
-  "composers": null,
-  "conductor": "Øivind Bergh",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Kari Borg Mannsåker",
-  "stageDirector": null,
-  "writers": [
-    "Georg Elgaaen"
-  ]
+  "jury": null,
+  "spokesperson": "Kari Borg Mannsåker"
 }

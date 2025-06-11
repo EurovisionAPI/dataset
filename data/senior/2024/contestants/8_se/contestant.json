@@ -1,12 +1,7 @@
 {
   "id": 8,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Marcus & Martinus",
-  "artistPeople": [
-    "Marcus Gunnarsen",
-    "Martinus Gunnarsen"
-  ],
   "song": "Unforgettable",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/DcZpzObYzxs",
@@ -19,27 +14,33 @@
   ],
   "bpm": 117,
   "tone": "C# minor",
-  "backings": null,
-  "commentators": [
-    "Edward af Sillén",
-    "Tina Mehrafzoon"
+  "artistPeople": [
+    "Marcus Gunnarsen",
+    "Martinus Gunnarsen"
   ],
-  "composers": null,
-  "conductor": null,
+  "backings": null,
   "dancers": [
     "Daniel Koivunen",
     "Kenny Lantz",
     "Kim Pastor",
     "Pauline Eddeborn"
   ],
-  "lyricists": null,
-  "spokesperson": "Frans",
   "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
   "writers": [
     "Jimmy Joker",
     "Joy Deb",
     "Linnea Deb",
     "Marcus Gunnarsen",
     "Martinus Gunnarsen"
-  ]
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Edward af Sillén",
+    "Tina Mehrafzoon"
+  ],
+  "jury": null,
+  "spokesperson": "Frans"
 }

@@ -1,14 +1,7 @@
 {
   "id": 26,
   "country": "BA",
-  "broadcaster": "BHRT",
   "artist": "Dalal & Deen feat. Ana Rucner & Jala",
-  "artistPeople": [
-    "Ana Rucner",
-    "Dalal Midhat-Talakić",
-    "Fuad Backović",
-    "Jasmin Fazlić"
-  ],
   "song": "Ljubav je",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/QLrXmTB8OaY",
@@ -19,23 +12,31 @@
   ],
   "bpm": 172,
   "tone": "Eb major",
+  "artistPeople": [
+    "Ana Rucner",
+    "Dalal Midhat-Talakić",
+    "Fuad Backović",
+    "Jasmin Fazlić"
+  ],
   "backings": [
     "Ena Đapo",
     "Zorana Guja"
   ],
-  "commentators": [
-    "Dejan Kukrić"
-  ],
+  "dancers": null,
+  "stageDirector": "Haris Pašović",
   "composers": [
     "Almir Ajanović"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Almir Ajanović",
     "Jasmin Fazlić"
   ],
-  "spokesperson": "Ivana Crnogorac",
-  "stageDirector": "Haris Pašović",
-  "writers": null
+  "writers": null,
+  "broadcaster": "BHRT",
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "jury": null,
+  "spokesperson": "Ivana Crnogorac"
 }

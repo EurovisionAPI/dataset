@@ -1,11 +1,7 @@
 {
   "id": 20,
   "country": "AL",
-  "broadcaster": "RTSH",
   "artist": "Anxhela Peristeri",
-  "artistPeople": [
-    "Anxhela Peristeri"
-  ],
   "song": "Karma",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/OxniMKVXjqM",
@@ -18,21 +14,26 @@
   ],
   "bpm": 150,
   "tone": "D minor",
+  "artistPeople": [
+    "Anxhela Peristeri"
+  ],
   "backings": [
     "Ardit Cuni"
   ],
-  "commentators": [
-    "Andri Xhahu"
-  ],
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
   "composers": [
     "Kledi Bahiti"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Olti Curri"
   ],
-  "spokesperson": "Andri Xhahu",
-  "stageDirector": "Sacha Jean-Baptiste",
-  "writers": null
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": null,
+  "spokesperson": "Andri Xhahu"
 }

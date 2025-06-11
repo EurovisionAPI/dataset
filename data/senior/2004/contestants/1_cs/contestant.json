@@ -1,16 +1,7 @@
 {
   "id": 1,
   "country": "CS",
-  "broadcaster": "RTS",
   "artist": "Željko Joksimović",
-  "artistPeople": [
-    "Branko Popović",
-    "Dragan Krstić",
-    "Miloš Nikolić",
-    "Rastko Aksentijević",
-    "Tijana Miloševič",
-    "Željko Joksimović"
-  ],
   "song": "Lane moje",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/lY2lgHzAp8g",
@@ -21,21 +12,31 @@
   ],
   "bpm": 101,
   "tone": "B major",
+  "artistPeople": [
+    "Branko Popović",
+    "Dragan Krstić",
+    "Miloš Nikolić",
+    "Rastko Aksentijević",
+    "Tijana Miloševič",
+    "Željko Joksimović"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Željko Joksimović"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Leontina Vukomanović"
+  ],
+  "writers": null,
+  "broadcaster": "RTS",
   "commentators": [
     "Dražen Bauković",
     "Duška Vučinić-Lučić",
     "Tamara Ivanković"
   ],
-  "composers": [
-    "Željko Joksimović"
-  ],
-  "conductor": null,
-  "dancers": null,
-  "lyricists": [
-    "Leontina Vukomanović"
-  ],
-  "spokesperson": "Nataša Miljković",
-  "stageDirector": null,
-  "writers": null
+  "jury": null,
+  "spokesperson": "Nataša Miljković"
 }

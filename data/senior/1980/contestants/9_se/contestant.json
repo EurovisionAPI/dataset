@@ -1,11 +1,7 @@
 {
   "id": 9,
   "country": "SE",
-  "broadcaster": "SVT",
   "artist": "Tomas Ledin",
-  "artistPeople": [
-    "Tomas Ledin"
-  ],
   "song": "Just nu!",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/ELz4zAnvJf0",
@@ -14,22 +10,27 @@
   ],
   "bpm": 140,
   "tone": "F major",
+  "artistPeople": [
+    "Tomas Ledin"
+  ],
   "backings": [
     "Anders Glenmark",
     "Caj Högberg",
     "Lennart Sjöholm",
     "Rutger Gunnarsson"
   ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Anders Berglund",
+  "lyricists": null,
+  "writers": [
+    "Tomas Ledin"
+  ],
+  "broadcaster": "SVT",
   "commentators": [
     "Ulf Elfving"
   ],
-  "composers": null,
-  "conductor": "Anders Berglund",
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Arne Weise",
-  "stageDirector": null,
-  "writers": [
-    "Tomas Ledin"
-  ]
+  "jury": null,
+  "spokesperson": "Arne Weise"
 }

@@ -1,12 +1,7 @@
 {
   "id": 2,
   "country": "UA",
-  "broadcaster": "UA:PBC",
   "artist": "alyona alyona & Jerry Heil",
-  "artistPeople": [
-    "Alyona Savranenko",
-    "Yana Shemaeva"
-  ],
   "song": "Teresa & Maria",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/d4N82wPpdg8",
@@ -19,27 +14,33 @@
   ],
   "bpm": 114,
   "tone": "G minor",
+  "artistPeople": [
+    "Alyona Savranenko",
+    "Yana Shemaeva"
+  ],
   "backings": [
     "Oleksandra Makarovska",
     "Viktoriia Hunchenko"
   ],
-  "commentators": [
-    "Timur Miroshnychenko"
-  ],
+  "dancers": null,
+  "stageDirector": "Tanu Muino",
   "composers": [
     "Alyona Savranenko",
     "Ivan Klymenko",
     "Yana Shemaeva"
   ],
   "conductor": null,
-  "dancers": null,
   "lyricists": [
     "Alyona Savranenko",
     "Anton Chilibi",
     "Ivan Klymenko",
     "Yana Shemaeva"
   ],
-  "spokesperson": "Jamala",
-  "stageDirector": "Tanu Muino",
-  "writers": null
+  "writers": null,
+  "broadcaster": "UA:PBC",
+  "commentators": [
+    "Timur Miroshnychenko"
+  ],
+  "jury": null,
+  "spokesperson": "Jamala"
 }

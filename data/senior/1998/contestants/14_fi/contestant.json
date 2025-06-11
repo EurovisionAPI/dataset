@@ -1,15 +1,7 @@
 {
   "id": 14,
   "country": "FI",
-  "broadcaster": "YLE",
   "artist": "Edea",
-  "artistPeople": [
-    "Abdissa Assefa",
-    "Alexi Ahoniemi",
-    "Marika Krook",
-    "Samuli Kosminen",
-    "Tommy Mansikka-Aho"
-  ],
   "song": "Aava",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/i0Htj6UsUxw",
@@ -19,22 +11,31 @@
   ],
   "bpm": 105,
   "tone": "C major",
+  "artistPeople": [
+    "Abdissa Assefa",
+    "Alexi Ahoniemi",
+    "Marika Krook",
+    "Samuli Kosminen",
+    "Tommy Mansikka-Aho"
+  ],
   "backings": [
     "Ralph van Manen"
   ],
-  "commentators": [
-    "Maria Guzenina",
-    "Sami Aaltonen"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Alexi Ahoniemi"
   ],
   "conductor": "Olli Ahvenlahti",
-  "dancers": null,
   "lyricists": [
     "Tommy Mansikka-Aho"
   ],
-  "spokesperson": "Marjo Wilska",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Maria Guzenina",
+    "Sami Aaltonen"
+  ],
+  "jury": null,
+  "spokesperson": "Marjo Wilska"
 }

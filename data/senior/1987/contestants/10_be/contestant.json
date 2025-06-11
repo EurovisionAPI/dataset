@@ -1,11 +1,7 @@
 {
   "id": 10,
   "country": "BE",
-  "broadcaster": "BRT",
   "artist": "Liliane Saint-Pierre",
-  "artistPeople": [
-    "Liliane Keuninckx"
-  ],
   "song": "Soldiers of Love",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/6TDwZnx8gKg",
@@ -15,25 +11,30 @@
   ],
   "bpm": 146,
   "tone": "C minor",
+  "artistPeople": [
+    "Liliane Keuninckx"
+  ],
   "backings": [
     "Chris Peeters",
     "Jan Hautekiet",
     "Jean Bosco Safari"
   ],
-  "commentators": [
-    "Claude Delacroix",
-    "Luc Appermont"
-  ],
+  "dancers": null,
+  "stageDirector": null,
   "composers": [
     "Gyuri Spies",
     "Marc de Coen"
   ],
   "conductor": "Freddy Sunder",
-  "dancers": null,
   "lyricists": [
     "Liliane Keuninckx"
   ],
-  "spokesperson": "Anne Ploegaerts",
-  "stageDirector": null,
-  "writers": null
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Claude Delacroix",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Anne Ploegaerts"
 }

@@ -1,12 +1,7 @@
 {
   "id": 16,
   "country": "IE",
-  "broadcaster": "RTÉ",
   "artist": "The Mullan's",
-  "artistPeople": [
-    "Bronagh Mullan",
-    "Karen Mullan"
-  ],
   "song": "When You Need Me",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/2RWGVuvCCIs",
@@ -15,17 +10,23 @@
   ],
   "bpm": 82,
   "tone": "C major",
+  "artistPeople": [
+    "Bronagh Mullan",
+    "Karen Mullan"
+  ],
   "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Bronagh Mullan"
+  ],
+  "broadcaster": "RTÉ",
   "commentators": [
     "Pat Kenny"
   ],
-  "composers": null,
-  "conductor": null,
-  "dancers": null,
-  "lyricists": null,
-  "spokesperson": "Clare McNamara",
-  "stageDirector": null,
-  "writers": [
-    "Bronagh Mullan"
-  ]
+  "jury": null,
+  "spokesperson": "Clare McNamara"
 }
