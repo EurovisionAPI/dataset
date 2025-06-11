@@ -23,13 +23,16 @@ To contribute:
 <!-- JUNIOR-START -->
 #### 📅 2008
   - Contestants:
-    - 🇲🇰 **North Macedonia**
+    - 🇷🇺 **Russia**
       - Bpm
       - Tone
     - 🇨🇾 **Cyprus**
       - Bpm
       - Tone
-    - 🇷🇺 **Russia**
+    - 🇲🇰 **North Macedonia**
+      - Bpm
+      - Tone
+    - 🇬🇷 **Greece**
       - Bpm
       - Tone
     - 🇱🇹 **Lithuania**
@@ -38,27 +41,27 @@ To contribute:
     - 🇧🇬 **Bulgaria**
       - Bpm
       - Tone
-    - 🇬🇷 **Greece**
-      - Bpm
-      - Tone
 
 #### 📅 2009
   - Contestants:
-    - 🇺🇦 **Ukraine**
-      - Bpm
-      - Tone
-    - 🇳🇱 **Netherlands**
-      - Bpm
-      - Tone
     - 🇧🇾 **Belarus**
       - Bpm
       - Tone
     - 🇷🇸 **Serbia**
       - Bpm
       - Tone
+    - 🇳🇱 **Netherlands**
+      - Bpm
+      - Tone
+    - 🇺🇦 **Ukraine**
+      - Bpm
+      - Tone
 
 #### 📅 2010
   - Contestants:
+    - 🇬🇪 **Georgia**
+      - Bpm
+      - Tone
     - 🇲🇰 **North Macedonia**
       - Bpm
       - Tone
@@ -68,16 +71,13 @@ To contribute:
     - 🇲🇩 **Moldova**
       - Bpm
       - Tone
-    - 🇬🇪 **Georgia**
-      - Bpm
-      - Tone
 
 #### 📅 2014
   - Contestants:
-    - 🇸🇮 **Slovenia**
+    - 🇲🇹 **Malta**
       - Bpm
       - Tone
-    - 🇭🇷 **Croatia**
+    - 🇸🇮 **Slovenia**
       - Bpm
       - Tone
     - 🇷🇺 **Russia**
@@ -86,13 +86,13 @@ To contribute:
     - 🇧🇾 **Belarus**
       - Bpm
       - Tone
+    - 🇭🇷 **Croatia**
+      - Bpm
+      - Tone
     - 🇧🇬 **Bulgaria**
       - Bpm
       - Tone
     - 🇷🇸 **Serbia**
-      - Bpm
-      - Tone
-    - 🇲🇹 **Malta**
       - Bpm
       - Tone
 
@@ -101,13 +101,13 @@ To contribute:
     - 🇦🇱 **Albania**
       - Bpm
       - Tone
-    - 🇬🇪 **Georgia**
+    - 🇷🇺 **Russia**
       - Bpm
       - Tone
     - 🇲🇰 **North Macedonia**
       - Bpm
       - Tone
-    - 🇷🇺 **Russia**
+    - 🇬🇪 **Georgia**
       - Bpm
       - Tone
     - 🇸🇮 **Slovenia**
