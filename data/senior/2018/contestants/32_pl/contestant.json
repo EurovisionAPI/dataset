@@ -38,6 +38,12 @@
   "commentators": [
     "Artur Orzech"
   ],
-  "jury": null,
+  "jury": [
+    "Dorota Szpetkowska",
+    "Michał Grott",
+    "Michał Szpak",
+    "Natalia Szroeder",
+    "Sławomir Uniatowski"
+  ],
   "spokesperson": "Mateusz Szymkowiak"
 }

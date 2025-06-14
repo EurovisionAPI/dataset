@@ -36,6 +36,12 @@
     "Christine Meltzer Lind",
     "Edward af Sillén"
   ],
-  "jury": null,
+  "jury": [
+    "Andreas Lundstedt",
+    "Anna Charlotta Gunnarson",
+    "Eric Saade",
+    "Hélène Benno",
+    "Michael Cederberg"
+  ],
   "spokesperson": "Eric Saade"
 }

@@ -37,6 +37,12 @@
     "John Kennedy O'Connor",
     "Lia Fiorio"
   ],
-  "jury": null,
+  "jury": [
+    "Carlo Chiaruzzi",
+    "Edoardo Monti",
+    "Gea Gasperoni",
+    "Leonardo Bollini",
+    "Monica Moroni"
+  ],
   "spokesperson": "Irol MC"
 }

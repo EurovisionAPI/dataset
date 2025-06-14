@@ -39,6 +39,12 @@
   "commentators": [
     "Marte Stokstad"
   ],
-  "jury": null,
+  "jury": [
+    "JOWST",
+    "Mari Bølla",
+    "Mats Borch Bugge",
+    "Royane",
+    "Trine Rein"
+  ],
   "spokesperson": "TIX"
 }

@@ -33,6 +33,12 @@
   "commentators": [
     "Eli Tanaskovska"
   ],
-  "jury": null,
+  "jury": [
+    "Darko Tasev",
+    "Erhan Shukri",
+    "Ile Spasev",
+    "Lara Ivanova",
+    "Robert Bilbilov"
+  ],
   "spokesperson": "Vane Markoski"
 }

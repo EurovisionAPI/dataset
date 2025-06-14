@@ -42,6 +42,11 @@
     "Nicolas Tanner",
     "Sven Epiney"
   ],
-  "jury": null,
+  "jury": [
+    "Kety Fusco",
+    "Laurence Desarzens",
+    "Raphael Haldemann",
+    "Tobias Stuber"
+  ],
   "spokesperson": "Jennifer Bosshard"
 }

@@ -37,6 +37,12 @@
   "commentators": [
     "Peter Urban"
   ],
-  "jury": null,
+  "jury": [
+    "Constantin Zöller",
+    "Ivy Quainoo",
+    "Janin Ullmann",
+    "Matthias Arfmann",
+    "Uwe Kanthak"
+  ],
   "spokesperson": "Barbara Schöneberger"
 }

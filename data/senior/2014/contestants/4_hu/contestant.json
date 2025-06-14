@@ -36,6 +36,12 @@
   "commentators": [
     "Gábor Gundel Takács"
   ],
-  "jury": null,
+  "jury": [
+    "Attila Náksi",
+    "Kati Kovács",
+    "Péter Dorozsmai",
+    "Vera Tóth",
+    "Zoohacker"
+  ],
   "spokesperson": "Éva Novodomszky"
 }

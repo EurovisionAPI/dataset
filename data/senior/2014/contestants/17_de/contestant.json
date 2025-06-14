@@ -33,6 +33,12 @@
   "commentators": [
     "Peter Urban"
   ],
-  "jury": null,
+  "jury": [
+    "Andreas Bourani",
+    "Jennifer Weist",
+    "Konrad Sommermeyer",
+    "Madeline Juno",
+    "Paul Würdig"
+  ],
   "spokesperson": "Helene Fischer"
 }

@@ -40,6 +40,12 @@
   "commentators": [
     "Louis Patsalides"
   ],
-  "jury": null,
+  "jury": [
+    "Alexandros Taramountas",
+    "Andreas",
+    "Christiana Mitella",
+    "Marilena Charalambidou",
+    "Tasos Trifonos"
+  ],
   "spokesperson": "Loukas Hamatsos"
 }

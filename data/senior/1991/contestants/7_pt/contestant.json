@@ -33,6 +33,9 @@
   "commentators": [
     "Ana do Carmo"
   ],
-  "jury": null,
+  "jury": [
+    "Carlos Alberto Moniz",
+    "Thilo Krasmann"
+  ],
   "spokesperson": "Maria Margarida Gaspar"
 }

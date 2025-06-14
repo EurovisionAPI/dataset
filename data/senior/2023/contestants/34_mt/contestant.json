@@ -36,6 +36,12 @@
   "writers": null,
   "broadcaster": "PBS",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Brooke Borg",
+    "Emil Calleja Bayliss",
+    "Gerard James Borg",
+    "Ludwig Galea",
+    "Moira Stafrace"
+  ],
   "spokesperson": "Ryan Hili"
 }

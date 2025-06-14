@@ -37,6 +37,12 @@
     "Akiva Novik",
     "Asaf Liberman"
   ],
-  "jury": null,
+  "jury": [
+    "Dafna Armoni",
+    "Diana Golbi",
+    "Liron Lev",
+    "Shai Lahav",
+    "Yahel Doron"
+  ],
   "spokesperson": "Daniel Styopin"
 }

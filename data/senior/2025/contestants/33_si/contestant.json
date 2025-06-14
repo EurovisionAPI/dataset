@@ -34,6 +34,12 @@
   "commentators": [
     "Mojca Mavec"
   ],
-  "jury": null,
+  "jury": [
+    "Ana Soklič",
+    "Eva Boto",
+    "Gregor Starsbergar",
+    "Jon Vitezič",
+    "Urban Koritnik"
+  ],
   "spokesperson": "Lorella Flego"
 }

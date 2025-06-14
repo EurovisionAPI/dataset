@@ -39,6 +39,12 @@
   "commentators": [
     "Evgeny Perlin"
   ],
-  "jury": null,
+  "jury": [
+    "Alex Nabeev",
+    "Iskui Abalyan",
+    "Svetlana Statsenko",
+    "Tatsiana Parhamovich",
+    "Vladimir Bogdan"
+  ],
   "spokesperson": "Arciom Lukjanienka, Ksenia"
 }

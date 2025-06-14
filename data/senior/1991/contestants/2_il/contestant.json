@@ -28,6 +28,8 @@
   ],
   "broadcaster": "IBA",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Shaul Adar"
+  ],
   "spokesperson": "Yitzhak Shim'oni"
 }

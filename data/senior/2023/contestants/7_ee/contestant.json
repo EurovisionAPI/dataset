@@ -38,6 +38,12 @@
   "commentators": [
     "Marko Reikop"
   ],
-  "jury": null,
+  "jury": [
+    "Bert Järvet",
+    "Dagmar Oja",
+    "Gevin Niglas",
+    "Liis Lemsalu",
+    "Tambet Mumma"
+  ],
   "spokesperson": "Ragnar Klavan"
 }

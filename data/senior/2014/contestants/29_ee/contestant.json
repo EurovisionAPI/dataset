@@ -37,6 +37,12 @@
   "commentators": [
     "Marko Reikop"
   ],
-  "jury": null,
+  "jury": [
+    "Alar Kotkas",
+    "Laura Remmel",
+    "Marju Länik",
+    "Rasmus Rändvee",
+    "Rauno Märks"
+  ],
   "spokesperson": "Lauri Pihlap"
 }

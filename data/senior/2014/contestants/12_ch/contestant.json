@@ -39,6 +39,12 @@
     "Sandy Altermatt",
     "Sven Epiney"
   ],
-  "jury": null,
+  "jury": [
+    "Ivan Broggini",
+    "Marcus van Lier",
+    "Mélanie Freymond",
+    "Pascal Vonlanthen",
+    "Sina Bellwald"
+  ],
   "spokesperson": "Kurt Aeschbacher"
 }

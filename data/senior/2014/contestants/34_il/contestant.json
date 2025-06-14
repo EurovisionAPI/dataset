@@ -26,6 +26,12 @@
   ],
   "broadcaster": "IBA",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Amir Cohen",
+    "Chen Aharoni",
+    "Doron Medalie",
+    "Moshe Datz",
+    "Nikka Bukaee"
+  ],
   "spokesperson": "Ofer Nachshon"
 }

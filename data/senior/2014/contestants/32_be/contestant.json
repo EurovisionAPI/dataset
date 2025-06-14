@@ -31,6 +31,12 @@
     "Maureen Louys",
     "Peter Van de Veire"
   ],
-  "jury": null,
+  "jury": [
+    "Bob Savenberg",
+    "Laura van den Bruel",
+    "Roos van Acker",
+    "Wouter van der Veken",
+    "Yannic Fonderie"
+  ],
   "spokesperson": "Angelique Vlieghe"
 }

@@ -35,6 +35,12 @@
   "commentators": [
     "Andi Knoll"
   ],
-  "jury": null,
+  "jury": [
+    "Dorothee Freiberger",
+    "Franz Pleterski",
+    "Lukas Hillebrand",
+    "Peter Pansky",
+    "Sankil Jones"
+  ],
   "spokesperson": "Katharina Bellowitsch"
 }

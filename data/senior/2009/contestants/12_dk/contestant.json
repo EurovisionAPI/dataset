@@ -36,6 +36,12 @@
   "commentators": [
     "Nicolai Molbech"
   ],
-  "jury": null,
+  "jury": [
+    "Ataf Khawaja",
+    "Frede Fup",
+    "Kaya Brüel",
+    "Medina",
+    "Peter Biker"
+  ],
   "spokesperson": "Felix Smith"
 }

@@ -41,6 +41,12 @@
   "commentators": [
     "Doina Stimpovschi"
   ],
-  "jury": null,
+  "jury": [
+    "Constantin Moscovici",
+    "Dumitru Mitu",
+    "Ion Catar",
+    "Marina Djundiet",
+    "Nelly Ciobanu"
+  ],
   "spokesperson": "Sergey Stepanov"
 }

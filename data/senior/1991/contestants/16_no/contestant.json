@@ -36,6 +36,22 @@
     "Jahn Teigen",
     "John Andreassen"
   ],
-  "jury": null,
+  "jury": [
+    "Christine Holm",
+    "Egil Storeide",
+    "Erik Wesseltoft",
+    "Gustavo Pollastri",
+    "Jan Paul Brekke",
+    "Jean-Paul Choukroun",
+    "Kari Olstad",
+    "Knut Reiersrud",
+    "Kristin Skaare",
+    "Nils Einar Vinjor",
+    "Ragnhild Vaaler",
+    "Reidun Hansen",
+    "Rune Arnesen",
+    "Tine Smith",
+    "Vibeke Wesenlund"
+  ],
   "spokesperson": "Sverre Christophersen"
 }

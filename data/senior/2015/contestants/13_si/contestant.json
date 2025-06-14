@@ -39,6 +39,12 @@
   "commentators": [
     "Andrej Hofer"
   ],
-  "jury": null,
+  "jury": [
+    "Alex Volasko",
+    "Andrej Sifrer",
+    "Miha Gorse",
+    "Sandra Feketija",
+    "Tinkara Kovač"
+  ],
   "spokesperson": "Tinkara Kovač"
 }

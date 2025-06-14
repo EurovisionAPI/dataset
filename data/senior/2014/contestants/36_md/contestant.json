@@ -34,6 +34,12 @@
   "commentators": [
     "Daniela Babici"
   ],
-  "jury": null,
+  "jury": [
+    "Anatol Chiriac",
+    "Andrei Tostogan",
+    "Iurie Badicu",
+    "Nelly Ciobanu",
+    "Tatiana Postolachi"
+  ],
   "spokesperson": "Olivia Furtună"
 }

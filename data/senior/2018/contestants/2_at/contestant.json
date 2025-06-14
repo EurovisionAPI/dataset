@@ -40,6 +40,12 @@
   "commentators": [
     "Andi Knoll"
   ],
-  "jury": null,
+  "jury": [
+    "Florian Cojocaru",
+    "Hannes Tschürtz",
+    "Ina Regen",
+    "Monika Ballwein",
+    "Nathan Trent"
+  ],
   "spokesperson": "Katharina Bellowitsch"
 }

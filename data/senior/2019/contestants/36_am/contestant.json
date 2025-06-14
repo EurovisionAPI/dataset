@@ -39,6 +39,12 @@
     "Aram MP3",
     "Avet Barseghyan"
   ],
-  "jury": null,
+  "jury": [
+    "Erik Karapetyan",
+    "Lilith Navasardyan",
+    "Ruben Shahinyan",
+    "Sona Rubenyan",
+    "Tigran Petrosyan"
+  ],
   "spokesperson": "Aram MP3"
 }

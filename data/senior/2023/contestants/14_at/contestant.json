@@ -40,6 +40,12 @@
   "commentators": [
     "Andi Knoll"
   ],
-  "jury": null,
+  "jury": [
+    "Alica Ouschan",
+    "Christian Andreas Ude",
+    "Elke Kaufmann",
+    "Peter Schreiber",
+    "Thomas Traint"
+  ],
   "spokesperson": "Philipp Hansa"
 }

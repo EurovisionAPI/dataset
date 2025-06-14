@@ -31,6 +31,12 @@
     "Kārlis Būmeisters",
     "Valters Frīdenbergs"
   ],
-  "jury": null,
+  "jury": [
+    "Edgars Beļickis",
+    "Harijs Zarins",
+    "Igeta Gaike",
+    "Kaspars Ansons",
+    "Marta Ritova"
+  ],
   "spokesperson": "Ralfs Eilands"
 }

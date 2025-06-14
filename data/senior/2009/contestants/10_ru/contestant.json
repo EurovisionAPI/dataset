@@ -31,6 +31,12 @@
     "Philipp Kirkorov",
     "Yana Churikova"
   ],
-  "jury": null,
+  "jury": [
+    "Alexander Lunev",
+    "Elena Kipper",
+    "Igor Matvienko",
+    "Tamara Gverdtsiteli",
+    "Maria Katz"
+  ],
   "spokesperson": "Ingeborga Dapkunaite"
 }

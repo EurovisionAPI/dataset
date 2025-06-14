@@ -42,6 +42,12 @@
   "commentators": [
     "Gísli Marteinn Baldursson"
   ],
-  "jury": null,
+  "jury": [
+    "Helga Möller",
+    "Hildur Guðný",
+    "Pétur Örn Guðmundsson",
+    "Stefanía Svavarsdóttir",
+    "Viddi"
+  ],
   "spokesperson": "Björgvin Halldórsson"
 }

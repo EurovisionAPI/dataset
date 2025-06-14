@@ -39,6 +39,12 @@
     "Asaf Liberman",
     "Doron Medalie"
   ],
-  "jury": null,
+  "jury": [
+    "Adi Perry Cohen",
+    "Amir Ben-David",
+    "Ron Biton",
+    "Tal Argaman Peleg",
+    "Yasmin Ishbi"
+  ],
   "spokesperson": "Ilanit"
 }

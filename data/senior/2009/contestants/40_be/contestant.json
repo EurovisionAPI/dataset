@@ -33,6 +33,12 @@
     "Jean-Louis Lahaye",
     "Jean-Pierre Hautier"
   ],
-  "jury": null,
+  "jury": [
+    "Corrado Falciglia",
+    "Isabelle Monnart",
+    "Manu Champagne",
+    "Marie-Paule Lemmens",
+    "Pierre Guyaut"
+  ],
   "spokesperson": "Maureen Louys"
 }

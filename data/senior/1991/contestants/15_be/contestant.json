@@ -37,6 +37,11 @@
     "André Vermeulen",
     "Claude Delacroix"
   ],
-  "jury": null,
+  "jury": [
+    "Lou Roman",
+    "Nelly Byl",
+    "Patrick Hiketick",
+    "Rik Vervecken"
+  ],
   "spokesperson": "Anne Ploegaerts"
 }

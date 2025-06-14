@@ -44,6 +44,12 @@
   "commentators": [
     "Mojca Mavec"
   ],
-  "jury": null,
+  "jury": [
+    "Filip Vidušin",
+    "Lea Sirk",
+    "Maja Keuc",
+    "Matevž Česen",
+    "Mistermarsh"
+  ],
   "spokesperson": "Lorella Flego"
 }

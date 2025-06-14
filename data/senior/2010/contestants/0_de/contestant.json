@@ -35,6 +35,12 @@
   "commentators": [
     "Peter Urban"
   ],
-  "jury": null,
+  "jury": [
+    "Hadnet Tesfai",
+    "Hape Kerkeling",
+    "Jochen Rausch",
+    "Johannes Oerding",
+    "Mary Roos"
+  ],
   "spokesperson": "Hape Kerkeling"
 }

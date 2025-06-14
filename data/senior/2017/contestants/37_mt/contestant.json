@@ -34,6 +34,12 @@
   "writers": null,
   "broadcaster": "PBS",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Chiara",
+    "Karl Bonaci",
+    "Kevin Abela",
+    "Mark Spiteri Lucas",
+    "Whitney Cremona"
+  ],
   "spokesperson": "Martha Fenech"
 }

@@ -27,6 +27,12 @@
   "commentators": [
     "Olav Viksmo-Slettan"
   ],
-  "jury": null,
+  "jury": [
+    "Ahmed Ashraf",
+    "Jan Holmlund",
+    "Jonas Brenna",
+    "Monica Johansen",
+    "Rannveig Sundelin"
+  ],
   "spokesperson": "Margrethe Røed"
 }

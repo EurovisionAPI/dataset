@@ -37,6 +37,12 @@
   "commentators": [
     "Synnøve Svabø"
   ],
-  "jury": null,
+  "jury": [
+    "Arne Martin Vistnes",
+    "Elisabet Davidsen",
+    "Ellen Marie Steen",
+    "Jørn Johansen",
+    "Vivi Stenberg"
+  ],
   "spokesperson": "Stian Barsnes-Simonsen"
 }

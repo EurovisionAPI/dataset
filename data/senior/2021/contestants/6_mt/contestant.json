@@ -36,6 +36,12 @@
   ],
   "broadcaster": "PBS",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Anna Azzopardi",
+    "Ira Losco",
+    "Kevin Abela",
+    "Michela",
+    "Sigmund Mifsud"
+  ],
   "spokesperson": "Stephanie Spiteri"
 }

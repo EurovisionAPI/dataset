@@ -33,6 +33,13 @@
   "writers": null,
   "broadcaster": "MKRTV",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Agni Avshar",
+    "Andrijana Jovanovska",
+    "Ivan Petrovski",
+    "Nikola Micevski",
+    "Thea",
+    "Yon Idy"
+  ],
   "spokesperson": "Jana Burčeska"
 }

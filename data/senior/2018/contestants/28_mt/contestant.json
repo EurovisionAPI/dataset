@@ -39,6 +39,12 @@
   "writers": null,
   "broadcaster": "PBS",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Alexander Kitcher",
+    "Amber Bondin",
+    "Dorian Cassar",
+    "Elton Zarb",
+    "Olwyn Jo Saliba"
+  ],
   "spokesperson": "Lara Azzopardi"
 }

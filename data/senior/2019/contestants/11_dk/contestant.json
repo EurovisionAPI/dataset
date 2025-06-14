@@ -39,6 +39,12 @@
   "commentators": [
     "Ole Tøpholm"
   ],
-  "jury": null,
+  "jury": [
+    "Anders Bisgaard",
+    "Henrik Milling",
+    "Johnny Reimar",
+    "Julie Berthelsen",
+    "Katinka"
+  ],
   "spokesperson": "Rasmussen"
 }

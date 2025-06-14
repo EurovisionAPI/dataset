@@ -40,6 +40,12 @@
     "Elena Rosberg",
     "Georgi Kushvaliev"
   ],
-  "jury": null,
+  "jury": [
+    "Aleksey Vasilev",
+    "Kalin Veliov",
+    "Lora Kozeva",
+    "Maria Mutafchieva",
+    "Maya Raykova"
+  ],
   "spokesperson": "Yoanna Dragneva"
 }

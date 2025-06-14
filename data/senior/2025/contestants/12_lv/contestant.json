@@ -44,6 +44,12 @@
     "Marie N",
     "Toms Grēviņš"
   ],
-  "jury": null,
+  "jury": [
+    "Kristīne Pāže",
+    "Liena Edvardsa",
+    "Rodrigo Fomins",
+    "Toms Andris Putniņš",
+    "Una Stade"
+  ],
   "spokesperson": "Dons"
 }

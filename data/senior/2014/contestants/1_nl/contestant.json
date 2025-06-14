@@ -36,6 +36,12 @@
     "Cornald Maas",
     "Jan Smit"
   ],
-  "jury": null,
+  "jury": [
+    "Antonius van de Berkt",
+    "Freek Bartels",
+    "Marlayne",
+    "Ruth Jacott",
+    "Sander Lantinga"
+  ],
   "spokesperson": "Tim Douwsma"
 }

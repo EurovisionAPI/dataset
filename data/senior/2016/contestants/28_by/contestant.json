@@ -39,6 +39,12 @@
   "commentators": [
     "Evgeny Perlin"
   ],
-  "jury": null,
+  "jury": [
+    "Alexander Kapyonkin",
+    "Gennady Markevich",
+    "Olga Drozdova",
+    "Olga Plotnikova",
+    "Teo"
+  ],
   "spokesperson": "Uzari"
 }

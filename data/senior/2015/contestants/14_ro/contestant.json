@@ -43,6 +43,12 @@
   "writers": null,
   "broadcaster": "TVR",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Alexandra Cepraga",
+    "Anca Lupeș",
+    "Mihai Pocorschi",
+    "Ovidiu Jacobsen",
+    "Viorel Gavrila"
+  ],
   "spokesperson": "Sonia Argint-Ionescu"
 }

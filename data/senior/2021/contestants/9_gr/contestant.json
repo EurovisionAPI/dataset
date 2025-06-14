@@ -52,6 +52,12 @@
     "Giorgos Kapoutzidis",
     "Maria Kozakou"
   ],
-  "jury": null,
+  "jury": [
+    "Adam Tsarouchis",
+    "Athena Konstantinou",
+    "Fotis Sergoulopoulos",
+    "Ioannis Vasilopoulos",
+    "Xenia Ghali"
+  ],
   "spokesperson": "Manolis Gkinis"
 }

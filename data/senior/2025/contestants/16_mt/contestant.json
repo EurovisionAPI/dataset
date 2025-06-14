@@ -37,6 +37,12 @@
   ],
   "broadcaster": "PBS",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Aidan Cassar",
+    "Marie Angie Laus",
+    "Michele Spiteri",
+    "Pamela Kerr",
+    "Sigmund Mifsud"
+  ],
   "spokesperson": "Ingrid Sammut"
 }

@@ -40,6 +40,12 @@
   "commentators": [
     "Arthur Caruana"
   ],
-  "jury": null,
+  "jury": [
+    "Angie Laus",
+    "Ismael Portelli",
+    "Maria Abdilla",
+    "Matthew Merceica",
+    "Peter Borg"
+  ],
   "spokesperson": "Ben Camille"
 }

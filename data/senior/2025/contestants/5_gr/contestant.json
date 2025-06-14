@@ -44,6 +44,12 @@
     "Giorgos Kapoutzidis",
     "Maria Kozakou"
   ],
-  "jury": null,
+  "jury": [
+    "George Polychroniou",
+    "Ioannis Vasilopoulos",
+    "Margarita Kyriake Mitilinaiou",
+    "Mirela Pachou",
+    "Vangelis Konstantinidis"
+  ],
   "spokesperson": "Jenny Theona"
 }

@@ -36,6 +36,12 @@
     "John Kennedy O'Connor",
     "Lia Fiorio"
   ],
-  "jury": null,
+  "jury": [
+    "Andrea Gattei",
+    "Lorenzo Salvatori",
+    "Maria Ugolini",
+    "Paolo Macina",
+    "Sara Ghiotti"
+  ],
   "spokesperson": "Michele Perniola"
 }

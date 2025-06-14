@@ -36,6 +36,12 @@
   "commentators": [
     "Marko Reikop"
   ],
-  "jury": null,
+  "jury": [
+    "Getter Jaani",
+    "Jakko Maltis",
+    "Marju Länik",
+    "Olavi Paide",
+    "Rasmus Rändvee"
+  ],
   "spokesperson": "Jüri Pootsmann"
 }

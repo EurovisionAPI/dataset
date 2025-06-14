@@ -39,6 +39,12 @@
   "commentators": [
     "Timur Miroshnychenko"
   ],
-  "jury": null,
+  "jury": [
+    "Irena Zagorodnyuk",
+    "Irina Rozental",
+    "Olexander Zlotnik",
+    "Oleksandr Ponomariov",
+    "Roman Nedzelskiy"
+  ],
   "spokesperson": "Marysya Horobets"
 }

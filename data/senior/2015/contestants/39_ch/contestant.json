@@ -39,6 +39,12 @@
     "Peter Schneider",
     "Sven Epiney"
   ],
-  "jury": null,
+  "jury": [
+    "Andrea Pärli",
+    "Gabriel Broggini",
+    "Georg Schlunegger",
+    "Rafaela Spitzli",
+    "Simon Moser"
+  ],
   "spokesperson": "Laetitia Guarino"
 }

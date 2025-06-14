@@ -37,6 +37,12 @@
     "Maureen Louys",
     "Peter Van de Veire"
   ],
-  "jury": null,
+  "jury": [
+    "Alex Germys",
+    "Hakima Darhmouch",
+    "Joelle Morane",
+    "Olivier Biron",
+    "Pierre Bertinchamps"
+  ],
   "spokesperson": "David Jeanmotte"
 }

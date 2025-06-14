@@ -33,6 +33,12 @@
   ],
   "broadcaster": "IBA",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Betty Pablo",
+    "Chaya Zel",
+    "Nathan Slor",
+    "Rhone Rabin",
+    "Tsach Zimroni"
+  ],
   "spokesperson": "Ofer Nachshon"
 }

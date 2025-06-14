@@ -51,6 +51,12 @@
   "writers": null,
   "broadcaster": "PBS",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Cipryan Cassar",
+    "Gail Attard",
+    "Haley Azzopardi",
+    "Muxu",
+    "Paul Abela"
+  ],
   "spokesperson": "Matt Blxck"
 }

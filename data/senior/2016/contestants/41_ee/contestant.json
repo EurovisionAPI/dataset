@@ -36,6 +36,12 @@
   "commentators": [
     "Marko Reikop"
   ],
-  "jury": null,
+  "jury": [
+    "Els Himma",
+    "Hanna Parman",
+    "Kadri Koppel",
+    "Priit Pajusaar",
+    "Taavi Paomets"
+  ],
   "spokesperson": "Daniel Levi Viinalass"
 }

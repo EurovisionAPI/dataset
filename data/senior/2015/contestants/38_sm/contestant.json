@@ -37,6 +37,12 @@
     "John Kennedy O'Connor",
     "Lia Fiorio"
   ],
-  "jury": null,
+  "jury": [
+    "Barbara Andreini",
+    "Ilaria Ercolani",
+    "Katalin Pribelszki",
+    "Matteo Venturini",
+    "Nicola Della Valle"
+  ],
   "spokesperson": "Valentina Monetta"
 }

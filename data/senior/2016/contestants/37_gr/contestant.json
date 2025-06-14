@@ -34,6 +34,12 @@
     "Giorgos Kapoutzidis",
     "Maria Kozakou"
   ],
-  "jury": null,
+  "jury": [
+    "Adam Tsarouchis",
+    "Christiana Stamatelou",
+    "Georgios Segredakis",
+    "Lambros Konstantaras",
+    "Mariza Fakli"
+  ],
   "spokesperson": "Constantinos Christoforou"
 }

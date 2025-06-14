@@ -37,6 +37,12 @@
     "Eva Frantz",
     "Johan Lindroos"
   ],
-  "jury": null,
+  "jury": [
+    "Aija Puurtinen",
+    "Jukka Immonen",
+    "Laura Haimila",
+    "Mikko Pykäri",
+    "Pekka Eronen"
+  ],
   "spokesperson": "Krista Siegfrids"
 }

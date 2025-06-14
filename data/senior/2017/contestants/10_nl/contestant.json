@@ -35,6 +35,12 @@
     "Cornald Maas",
     "Jan Smit"
   ],
-  "jury": null,
+  "jury": [
+    "Erica Groeneveld",
+    "Gordon Groothedde",
+    "John Ewbank",
+    "Marjolein Dekkers",
+    "Matthijs van Duijvenbode"
+  ],
   "spokesperson": "Douwe Bob"
 }

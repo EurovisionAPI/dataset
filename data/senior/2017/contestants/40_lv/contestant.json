@@ -41,6 +41,12 @@
     "Toms Grēviņš",
     "Valters Frīdenbergs"
   ],
-  "jury": null,
+  "jury": [
+    "Ieva Akuratere",
+    "Jānis Ozols",
+    "Kaspars Ansons",
+    "Ruta Duduma",
+    "Valters Pūce"
+  ],
   "spokesperson": "Aminata"
 }

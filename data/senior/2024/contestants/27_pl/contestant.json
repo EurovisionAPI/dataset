@@ -39,6 +39,12 @@
   "commentators": [
     "Artur Orzech"
   ],
-  "jury": null,
+  "jury": [
+    "Filip Sojka",
+    "Łukasz Pieter",
+    "Marek Sierocki",
+    "Monika Wydrzyńska",
+    "Natalia Zastępa"
+  ],
   "spokesperson": "Viki Gabor"
 }

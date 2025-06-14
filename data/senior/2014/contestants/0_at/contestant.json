@@ -32,6 +32,12 @@
   "commentators": [
     "Andi Knoll"
   ],
-  "jury": null,
+  "jury": [
+    "Alexander Kahr",
+    "Diana Lueger",
+    "Dietmar Lienbacher",
+    "Michael Dörfler",
+    "Stella Jones"
+  ],
   "spokesperson": "Katharina Bellowitsch"
 }

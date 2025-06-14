@@ -36,6 +36,12 @@
   "commentators": [
     "Andi Knoll"
   ],
-  "jury": null,
+  "jury": [
+    "Christian Deix",
+    "Franziska Trost",
+    "Gary Lux",
+    "Manuel Ortega",
+    "Vanessa Legenstein"
+  ],
   "spokesperson": "Katharina Bellowitsch"
 }

@@ -35,6 +35,12 @@
   "writers": null,
   "broadcaster": "TVR",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Andrei Kerestely",
+    "Andrei Tudor",
+    "Corina Despot",
+    "Luminiţa Anghel",
+    "Mihai Alexandru"
+  ],
   "spokesperson": "Alina Sorescu"
 }

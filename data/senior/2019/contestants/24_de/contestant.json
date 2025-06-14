@@ -39,6 +39,12 @@
   "commentators": [
     "Peter Urban"
   ],
-  "jury": null,
+  "jury": [
+    "Annett Brosch",
+    "Joe Chialo",
+    "Michael Schulte",
+    "Nico Santos",
+    "Nicola Rost"
+  ],
   "spokesperson": "Barbara Schöneberger"
 }

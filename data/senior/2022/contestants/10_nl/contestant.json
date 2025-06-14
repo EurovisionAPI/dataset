@@ -31,6 +31,12 @@
     "Cornald Maas",
     "Jan Smit"
   ],
-  "jury": null,
+  "jury": [
+    "Andrew Makkinga",
+    "Barry Paf",
+    "Eva van Manen",
+    "Kris Berry",
+    "Pieter Perquin"
+  ],
   "spokesperson": "Jeangu Macrooy"
 }

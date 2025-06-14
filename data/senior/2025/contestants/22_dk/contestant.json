@@ -43,6 +43,12 @@
   "commentators": [
     "Ole Tøpholm"
   ],
-  "jury": null,
+  "jury": [
+    "Anders Ugilt Andersen",
+    "Anne Dorte Michelsen",
+    "Katrine Muff Enevoldsen",
+    "Mads Enggaard",
+    "Peter Düring"
+  ],
   "spokesperson": "Sara Bro"
 }

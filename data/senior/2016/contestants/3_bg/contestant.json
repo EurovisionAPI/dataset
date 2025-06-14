@@ -44,6 +44,12 @@
     "Elena Rosberg",
     "Georgi Kushvaliev"
   ],
-  "jury": null,
+  "jury": [
+    "Angel Zaberski",
+    "Michail Belchev",
+    "Stoyan Yankoulov",
+    "Teodora Katzarova",
+    "Yoanna Dragneva"
+  ],
   "spokesperson": "Anna Angelova"
 }

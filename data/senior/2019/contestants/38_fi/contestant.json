@@ -41,6 +41,12 @@
     "Krista Siegfrids",
     "Mikko Silvennoinen"
   ],
-  "jury": null,
+  "jury": [
+    "Eva Louhivuori",
+    "Janne Hyöty",
+    "Lasse Wikman",
+    "Samuli Sirviö",
+    "Susanna Vainiola"
+  ],
   "spokesperson": "Christoffer Strandberg"
 }

@@ -36,6 +36,12 @@
   "commentators": [
     "Felix Bergsson"
   ],
-  "jury": null,
+  "jury": [
+    "Fridrik Jonsson",
+    "Hildur Þórhallsdóttir",
+    "Kjartan Guðbergsson",
+    "Ragnheiður Gröndal",
+    "Jóhanna Guðrún Jónsdóttir"
+  ],
   "spokesperson": "Benedikt Valsson"
 }

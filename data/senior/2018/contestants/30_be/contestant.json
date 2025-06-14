@@ -38,6 +38,12 @@
     "Maureen Louys",
     "Peter Van de Veire"
   ],
-  "jury": null,
+  "jury": [
+    "Bob Savenberg",
+    "Laura Tesoro",
+    "Lien De Greef",
+    "Tom Dice",
+    "Wouter van der Veken"
+  ],
   "spokesperson": "Danira Boukhriss Terkessidis"
 }

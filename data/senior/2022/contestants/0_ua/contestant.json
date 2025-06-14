@@ -40,6 +40,12 @@
   "commentators": [
     "Timur Miroshnychenko"
   ],
-  "jury": null,
+  "jury": [
+    "Andriy Kapral",
+    "Andriy Yatskiv",
+    "Iryna Fedyshyn",
+    "Lukian Halkin",
+    "Vadym Lysycia"
+  ],
   "spokesperson": "Kateryna Pavlenko"
 }

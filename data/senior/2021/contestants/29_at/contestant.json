@@ -32,6 +32,12 @@
   "commentators": [
     "Andi Knoll"
   ],
-  "jury": null,
+  "jury": [
+    "Drew Sarich",
+    "Norbert Schneider",
+    "Pænda",
+    "Peter Pansky",
+    "Virginia Ernst"
+  ],
   "spokesperson": "Philipp Hansa"
 }

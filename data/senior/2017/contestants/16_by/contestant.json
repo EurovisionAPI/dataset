@@ -36,6 +36,12 @@
   "commentators": [
     "Evgeny Perlin"
   ],
-  "jury": null,
+  "jury": [
+    "Alexey Gross",
+    "Inna Mardusevich",
+    "Leonid Shyrin",
+    "Ludmila Kuts",
+    "Victoria Aleshko"
+  ],
   "spokesperson": "Alyona Lanskaya"
 }

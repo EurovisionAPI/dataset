@@ -37,6 +37,12 @@
   ],
   "broadcaster": "PBS",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Arthur Caruana",
+    "Carlo Borg Bonaci",
+    "Eileen Ann Spiteri",
+    "Matthew James Borg",
+    "Nicole Frendo"
+  ],
   "spokesperson": "Ben Camille"
 }

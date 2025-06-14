@@ -34,6 +34,12 @@
     "Jean-Louis Lahaye",
     "Jean-Pierre Hautier"
   ],
-  "jury": null,
+  "jury": [
+    "Barbara Dex",
+    "Caren Meynen",
+    "Johan Van Achte",
+    "Maarten Janssen",
+    "Sam Jaspers"
+  ],
   "spokesperson": "Katja Retsin"
 }

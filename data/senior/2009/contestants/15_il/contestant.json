@@ -30,6 +30,12 @@
   ],
   "broadcaster": "IBA",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Haya Zell",
+    "Itamar Barak",
+    "Moshe Morad",
+    "Nurit Bat Shahar Zafrir",
+    "Tahel Zimmerman"
+  ],
   "spokesperson": "Ofer Nachshon"
 }

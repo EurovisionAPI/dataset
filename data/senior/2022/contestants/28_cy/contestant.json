@@ -40,6 +40,12 @@
     "Alexandros Taramountas",
     "Melina Karageorgiou"
   ],
-  "jury": null,
+  "jury": [
+    "Athena",
+    "Estela",
+    "George",
+    "Liza",
+    "Pashias"
+  ],
   "spokesperson": "Loukas Hamatsos"
 }

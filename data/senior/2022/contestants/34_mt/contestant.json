@@ -35,6 +35,12 @@
   ],
   "broadcaster": "TVM",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Antoine Faure",
+    "Claudia Faniello",
+    "Daniel D’Anastasi",
+    "Gaia Cauchi",
+    "Maria Abdilla"
+  ],
   "spokesperson": "Aidan Cassar"
 }

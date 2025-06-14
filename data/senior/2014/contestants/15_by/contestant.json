@@ -36,6 +36,12 @@
   "commentators": [
     "Evgeny Perlin"
   ],
-  "jury": null,
+  "jury": [
+    "Alexander Mezhenny",
+    "Eugene Oleinik",
+    "Inna Adamovich",
+    "Olga Ryzhikova",
+    "Vasily Rainčyk"
+  ],
   "spokesperson": "Alyona Lanskaya"
 }

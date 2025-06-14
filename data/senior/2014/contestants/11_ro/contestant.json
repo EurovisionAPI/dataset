@@ -37,6 +37,12 @@
   "commentators": [
     "Bogdan Stănescu"
   ],
-  "jury": null,
+  "jury": [
+    "Mihai Stoica",
+    "Călin Geambașu",
+    "Mădălin Voicu",
+    "Mirela Voiculescu Fugaru",
+    "Nicoleta Matei"
+  ],
   "spokesperson": "Sonia Argint-Ionescu"
 }

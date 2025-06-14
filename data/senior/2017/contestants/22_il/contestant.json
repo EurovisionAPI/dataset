@@ -35,6 +35,12 @@
   ],
   "broadcaster": "IBA",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Kobi Oshrat",
+    "Meytal Shevach",
+    "Noy Alooshe",
+    "Ronit Rolland",
+    "Tal Sondak"
+  ],
   "spokesperson": "Ofer Nachshon"
 }

@@ -36,6 +36,12 @@
     "Marianne James",
     "Stéphane Bern"
   ],
-  "jury": null,
+  "jury": [
+    "Bruno Berberes",
+    "Eric Jeanjean",
+    "Marie Myriam",
+    "Matthieu Gonet",
+    "Yseult Onguenet"
+  ],
   "spokesperson": "Virginie Guilhaume"
 }

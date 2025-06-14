@@ -30,6 +30,12 @@
     "Marco Ardemagni",
     "Nicola Savino"
   ],
-  "jury": null,
+  "jury": [
+    "Andrea Laffranchi",
+    "Andrea Miro",
+    "Francesco Pasquero",
+    "Luca de Gennaro",
+    "Paola Folli"
+  ],
   "spokesperson": "Linus"
 }

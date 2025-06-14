@@ -33,6 +33,12 @@
   ],
   "broadcaster": "IBA",
   "commentators": null,
-  "jury": null,
+  "jury": [
+    "Chen Metzger Eder",
+    "Dalit Cahana",
+    "Lauren De Paz",
+    "Liora Simon",
+    "Rafi Weinstock"
+  ],
   "spokesperson": "Ofer Nachshon"
 }

@@ -36,6 +36,12 @@
   "commentators": [
     "Peter Urban"
   ],
-  "jury": null,
+  "jury": [
+    "Johannes Strate",
+    "Leslie Clio",
+    "Mark Forster",
+    "Sascha Reimann",
+    "Swen Meyer"
+  ],
   "spokesperson": "Barbara Schöneberger"
 }

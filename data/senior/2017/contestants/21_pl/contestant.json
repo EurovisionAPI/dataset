@@ -32,6 +32,12 @@
   "commentators": [
     "Artur Orzech"
   ],
-  "jury": null,
+  "jury": [
+    "Grzegorz Urban",
+    "Magda Steczkowska",
+    "Magdalena Tul",
+    "Marek Dutkiewicz",
+    "Piotr Iwicki"
+  ],
   "spokesperson": "Anna Popek"
 }
