@@ -1,0 +1,50 @@
+{
+  "id": 12,
+  "country": "AL",
+  "artist": "Alis",
+  "song": "Nân",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/doGkDemPcFE",
+    "https://www.youtube-nocookie.com/embed/FBoF2J8Mrbw",
+    "https://www.youtube-nocookie.com/embed/rZuF1aDDxKE",
+    "https://www.youtube-nocookie.com/embed/b9AdRrA554o",
+    "https://www.youtube-nocookie.com/embed/lPq2fxFZJKY",
+    "https://www.youtube-nocookie.com/embed/IcJ-WTD4XiE",
+    "https://www.youtube-nocookie.com/embed/qQX5G51XWN0"
+  ],
+  "bpm": 111,
+  "tone": "C minor",
+  "artistPeople": [
+    "Alis Kallacej"
+  ],
+  "backings": [
+    "Ariana Kraljić",
+    "Denise Jastraunig",
+    "Harri Baumgartner",
+    "Stefan Nagl"
+  ],
+  "dancers": ["Rajmonda Bulku"],
+  "stageDirector": "Dan Shipton, Ross Nicholson",
+  "composers": [
+    "Alis Kallacej"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Desara Gjini"
+  ],
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": [
+    "Armand Broshka",
+    "Aulon Naci",
+    "Eriona Rushiti",
+    "Fjodora Fjora",
+    "Inis Neziri",
+    "Luna Çausholli",
+    "Sokol Marsi"
+  ],
+  "spokesperson": "Andri Xhahu"
+}

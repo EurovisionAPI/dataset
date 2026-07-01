@@ -1,0 +1,59 @@
+{
+  "id": 18,
+  "country": "CY",
+  "artist": "Antigoni",
+  "song": "Jalla",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7i-k5QR6A6I",
+    "https://www.youtube-nocookie.com/embed/QMjGilVXpD0",
+    "https://www.youtube-nocookie.com/embed/TzSs51BiQrE",
+    "https://www.youtube-nocookie.com/embed/0gk47dNVxjg",
+    "https://www.youtube-nocookie.com/embed/er1GBvu2khw",
+    "https://www.youtube-nocookie.com/embed/nJlj18W6EU4",
+    "https://www.youtube-nocookie.com/embed/ZjPVIPb86WA"
+  ],
+  "bpm": 120,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Antigoni Buxton"
+  ],
+  "backings": null,
+  "dancers": [
+    "Anna Chatzikyriakou",
+    "Natalia Michael",
+    "Nina Spyrou",
+    "Sophia Papakonstantinou"
+  ],
+  "stageDirector": "Keisha von Arnold, Kim Pastor, Sacha Jean-Baptiste",
+  "composers": [
+    "Antigoni Buxton",
+    "Connor Mullally-Knight",
+    "Klejdi Lupa",
+    "Paris Kalpos",
+    "Trey Qua"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Antigoni Buxton",
+    "Charalambos Kallona",
+    "Connor Mullally-Knight",
+    "Demetris Nikolaou",
+    "Klejdi Lupa",
+    "Paris Kalpos",
+    "Trey Qua"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "jury": [
+    "Andria Zanti",
+    "Elena Antonopoulou",
+    "Giorgis Christodoulou",
+    "Iacovos Kedaritis",
+    "Marinos Consolos",
+    "Ntora Makrigianni"
+  ],
+  "spokesperson": "Loukas Hamatsos"
+}

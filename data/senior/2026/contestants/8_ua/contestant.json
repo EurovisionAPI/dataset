@@ -1,0 +1,54 @@
+{
+  "id": 8,
+  "country": "UA",
+  "artist": "Leléka",
+  "song": "Ridnym",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JYHhcKhzE-o",
+    "https://www.youtube-nocookie.com/embed/oSUIylL64XU",
+    "https://www.youtube-nocookie.com/embed/qxEeWgjbxx0",
+    "https://www.youtube-nocookie.com/embed/uLNefYVGoLs",
+    "https://www.youtube-nocookie.com/embed/yeUP_ANAhCM",
+    "https://www.youtube-nocookie.com/embed/GcbAYfEBqw4",
+    "https://www.youtube-nocookie.com/embed/IoDw_iixI84"
+  ],
+  "bpm": 120,
+  "tone": "E major",
+  "artistPeople": [
+    "Viktoriia Kornikova"
+  ],
+  "backings": [
+    "Yaroslav Dzhus"
+  ],
+  "dancers": null,
+  "stageDirector": "Illia Dutsyk",
+  "composers": [
+    "Adama Cefalu",
+    "Jakob Hegner",
+    "Viktoriia Leléka",
+    "Yaroslav Dzhus"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Adama Cefalu",
+    "Viktoriia Leléka"
+  ],
+  "writers": null,
+  "broadcaster": "Suspilne",
+  "commentators": [
+    "alyona alyona",
+    "Svitlana Tarabarova",
+    "Timur Miroshnychenko",
+    "Vasyl Baidak"
+  ],
+  "jury": [
+    "Hanna Svyrydovych",
+    "Ihor Kyrylenko",
+    "Solomiia Opryshko",
+    "Valentyn Leshchynskyi",
+    "Valerii Kharchyshyn",
+    "Viktoria Slobodska",
+    "Yevhen Kot"
+  ],
+  "spokesperson": "Daniel Leshchynskyi"
+}

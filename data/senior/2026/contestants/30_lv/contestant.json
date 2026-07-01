@@ -1,0 +1,45 @@
+{
+  "id": 30,
+  "country": "LV",
+  "artist": "Atvara",
+  "song": "Ēnā",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/m8QhLXwxGpg",
+    "https://www.youtube-nocookie.com/embed/ylj-kHKEFMY",
+    "https://www.youtube-nocookie.com/embed/bCP6M_tJelM",
+    "https://www.youtube-nocookie.com/embed/KknxQrBSk0E",
+    "https://www.youtube-nocookie.com/embed/j21XWm6wnw0",
+    "https://www.youtube-nocookie.com/embed/6f8H3JB49vk",
+    "https://www.youtube-nocookie.com/embed/PucxwyuSR-E"
+  ],
+  "bpm": 67,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Liene Stūrmane"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jānis Jačmenkins",
+    "Liene Stūrmane"
+  ],
+  "broadcaster": "LSM",
+  "commentators": [
+    "Ketija Šēnberga",
+    "Toms Grēviņš"
+  ],
+  "jury": [
+    "Artūrs Analts",
+    "Ieva Rozentāle",
+    "Juris Kaukulis",
+    "Kārlis Matīss Zitmanis",
+    "Krists Indrišonoks",
+    "Linda Āboliņa",
+    "Paula Saija"
+  ],
+  "spokesperson": "Aurēlija Rancāne"
+}

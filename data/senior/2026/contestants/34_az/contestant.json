@@ -1,0 +1,51 @@
+{
+  "id": 34,
+  "country": "AZ",
+  "artist": "Jiva",
+  "song": "Just Go",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LQDvYwYIT54",
+    "https://www.youtube-nocookie.com/embed/iMDBPe25JhM",
+    "https://www.youtube-nocookie.com/embed/1OvrUqqQUF8",
+    "https://www.youtube-nocookie.com/embed/ZStZkkCBdEI",
+    "https://www.youtube-nocookie.com/embed/zd2dhmPddbI",
+    "https://www.youtube-nocookie.com/embed/wYqkZu3tQGg",
+    "https://www.youtube-nocookie.com/embed/5V7a0wdudhQ"
+  ],
+  "bpm": 70,
+  "tone": "C minor",
+  "artistPeople": [
+    "Jamila Hashimova (Cəmilə Həşimova)"
+  ],
+  "backings": [
+    "Mila Miles"
+  ],
+  "dancers": [
+    "Emir Useynov"
+  ],
+  "stageDirector": "Mads Enggaard",
+  "composers": [
+    "Fuad Javadov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Fuad Javadov",
+    "Nurlana Jafarova"
+  ],
+  "writers": null,
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Aysel Zahidgizi",
+    "Azer Suleymanli"
+  ],
+  "jury": [
+    "Amina Namig Hajiyeva",
+    "Azad Faig Shabanov",
+    "İlkin Dövlətov",
+    "Medina Sadiyar Ali",
+    "Sevinj Nadir Aliyeva",
+    "Tarana Huseyn Muradova",
+    "Vugar Vagif Jamalzade"
+  ],
+  "spokesperson": "Sabina Babayeva"
+}

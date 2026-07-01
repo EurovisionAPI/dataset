@@ -1,0 +1,49 @@
+{
+  "id": 28,
+  "country": "ME",
+  "artist": "Tamara Živković",
+  "song": "Nova zora",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_Xo12vfHqtk",
+    "https://www.youtube-nocookie.com/embed/6TfmkUXeKf0",
+    "https://www.youtube-nocookie.com/embed/X1N0Gl6O0LA",
+    "https://www.youtube-nocookie.com/embed/nuvy2d60HbI",
+    "https://www.youtube-nocookie.com/embed/ycc87t232kw",
+    "https://www.youtube-nocookie.com/embed/8EgKMgchUEM",
+    "https://www.youtube-nocookie.com/embed/fRa4VREY5BQ"
+  ],
+  "bpm": 130,
+  "tone": "F minor",
+  "artistPeople": [
+    "Tamara Živković"
+  ],
+  "backings": null,
+  "dancers": [
+    "Isidora Maric",
+    "Mina Rajic",
+    "Sofija Ilic",
+    "Tamara Krstic"
+  ],
+  "stageDirector": "Boris Subotić, Dalibor Ivanković",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Boris Subotić"
+  ],
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Dražen Bauković",
+    "Tijana Mišković"
+  ],
+  "jury": [
+    "Andrijana Vučetić Obadović",
+    "Bojan Delic",
+    "Gana Comagic",
+    "Gojko Berkuljan",
+    "Luka Perazic",
+    "Milica Raicevic",
+    "Tamara Vujačić"
+  ],
+  "spokesperson": "Nina Žižić"
+}

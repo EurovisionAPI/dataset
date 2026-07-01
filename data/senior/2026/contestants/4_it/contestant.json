@@ -1,0 +1,55 @@
+{
+  "id": 4,
+  "country": "IT",
+  "artist": "Sal Da Vinci",
+  "song": "Per sempre sì",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rNpFNJLhSfA",
+    "https://www.youtube-nocookie.com/embed/OknnSe8SG8Q",
+    "https://www.youtube-nocookie.com/embed/kA7pS6kaTpg",
+    "https://www.youtube-nocookie.com/embed/4Q4Ga2Pb5MY",
+    "https://www.youtube-nocookie.com/embed/4jt9T7UKfEo",
+    "https://www.youtube-nocookie.com/embed/Dt-Op9aaEtg",
+    "https://www.youtube-nocookie.com/embed/47gjU5Cz9jE"
+  ],
+  "bpm": 123,
+  "tone": "C minor",
+  "artistPeople": [
+    "Salvatore Michael Sorrentino"
+  ],
+  "backings": null,
+  "dancers": [
+    "Francesca Tocca",
+    "Jhon Cruz",
+    "Mirko Moska",
+    "Mommo Sacchetta"
+  ],
+  "stageDirector": "Marcello Sacchetta",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alessandro La Cava",
+    "Eugenio Maimone",
+    "Federica Abbate",
+    "Federico Mercuri",
+    "Francesco Sorrentino",
+    "Giordano Cremona",
+    "Salvatore Michael Sorrentino"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Elettra Lamborghini",
+    "Gabriele Corsi"
+  ],
+  "jury": [
+    "Angelica Bove",
+    "Angelo Bonello",
+    "Dalila Frassanito",
+    "Enrico Cremonesi",
+    "Giorgia Belfiore",
+    "Nicol Angelozzi",
+    "Roberto Paulillo"
+  ],
+  "spokesperson": "Mariasole Pollio"
+}

@@ -1,0 +1,55 @@
+{
+  "id": 24,
+  "country": "GB",
+  "artist": "Look Mum No Computer",
+  "song": "Eins, Zwei, Drei",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/I0tqgGVQkew",
+    "https://www.youtube-nocookie.com/embed/xnls0LHAJLg",
+    "https://www.youtube-nocookie.com/embed/8XR2RvfZ-68",
+    "https://www.youtube-nocookie.com/embed/RB2cEOxo_as",
+    "https://www.youtube-nocookie.com/embed/TgfQPdj8KRM",
+    "https://www.youtube-nocookie.com/embed/QSOL7m0m_1U",
+    "https://www.youtube-nocookie.com/embed/-iZ909rc9iI"
+  ],
+  "bpm": 125,
+  "tone": "B minor",
+  "artistPeople": [
+    "Sam Bartle"
+  ],
+  "backings": [
+    "Curtis Thewlis"
+  ],
+  "dancers": [
+    "Andrew Lyle-Pinnock",
+    "Hetty Moss",
+    "Luke Fieldwright",
+    "Reece Inches"
+  ],
+  "stageDirector": "Fredrik Rydman",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Kill J",
+    "Lasse Midtsian Nymann",
+    "Sam Battle",
+    "Thomas Stengaard"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Angela Scanlon",
+    "Graham Norton",
+    "Rylan Clark"
+  ],
+  "jury": [
+    "Anuoluwapo Iyanu Omideyi",
+    "Eva Christina Petersen",
+    "Harry Ryan Hornsby",
+    "Joseph David Duddell",
+    "Nathan Othniel Powell",
+    "Riya Na Kalhan",
+    "Tilly Summer Lockey"
+  ],
+  "spokesperson": "La Voix"
+}

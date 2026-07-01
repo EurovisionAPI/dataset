@@ -1,0 +1,47 @@
+{
+  "id": 3,
+  "country": "AU",
+  "artist": "Delta Goodrem",
+  "song": "Eclipse",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QMm2aqdsrOU",
+    "https://www.youtube-nocookie.com/embed/xlze1NdwlII",
+    "https://www.youtube-nocookie.com/embed/KsFY11nOQDo",
+    "https://www.youtube-nocookie.com/embed/elQn7Gd0imk",
+    "https://www.youtube-nocookie.com/embed/SVKuGnqxW-8",
+    "https://www.youtube-nocookie.com/embed/F4JXWDNTQSA",
+    "https://www.youtube-nocookie.com/embed/mr4gGncmXNk"
+  ],
+  "bpm": 136,
+  "tone": "D minor",
+  "artistPeople": [
+    "Delta Lea Goodrem"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Dan Shipton, Ross Nicholson",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Delta Goodrem",
+    "Ferras Alqaisi",
+    "Jonas Myrin",
+    "Michael Fatkin"
+  ],
+  "broadcaster": "SBS",
+  "commentators": [
+    "Courtney Act",
+    "Daniel Estrin"
+  ],
+  "jury": [
+    "Erica Padilla",
+    "Indiana Marie Ella Massara",
+    "Kelley Michelle Abbey",
+    "Matt Gilbertson",
+    "Michael Ross",
+    "Millie Millgate",
+    "Mitchell Churi"
+  ],
+  "spokesperson": "Dami Im"
+}

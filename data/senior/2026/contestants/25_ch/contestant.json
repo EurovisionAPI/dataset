@@ -1,0 +1,55 @@
+{
+  "id": 25,
+  "country": "CH",
+  "artist": "Veronica Fusaro",
+  "song": "Alice",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ujoHtVkrx54",
+    "https://www.youtube-nocookie.com/embed/PfpYGAzW5dM",
+    "https://www.youtube-nocookie.com/embed/CemYta_p454",
+    "https://www.youtube-nocookie.com/embed/ZJGXlJ-rk-Y",
+    "https://www.youtube-nocookie.com/embed/-9ZwUk9icMY",
+    "https://www.youtube-nocookie.com/embed/-hzq5EK7CZM",
+    "https://www.youtube-nocookie.com/embed/nctwpN3Dvvc"
+  ],
+  "bpm": 167,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Veronica Fusaro"
+  ],
+  "backings": [
+    "Dea Norberg"
+  ],
+  "dancers": [
+    "Agnes Lindgren",
+    "Celine Diop",
+    "Milena Jacuniak",
+    "Pauline Eddeborn"
+  ],
+  "stageDirector": "Fredrik Rydman",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Charlie McClean",
+    "Veronica Fusaro"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Ellis Cavallini",
+    "Gian-Andrea Costa",
+    "Nicolas Tanner",
+    "Sven Epiney",
+    "Victoria Turrian"
+  ],
+  "jury": [
+    "Jannik Rouven Till",
+    "Jessana Nemitz",
+    "Krishna Panakal",
+    "Lukas Manuel Hobi",
+    "Noemi Schenk",
+    "Pierre Smets",
+    "Valentina Londino"
+  ],
+  "spokesperson": "Livio Chistell"
+}

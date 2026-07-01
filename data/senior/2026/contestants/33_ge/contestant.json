@@ -1,0 +1,44 @@
+{
+  "id": 33,
+  "country": "GE",
+  "artist": "Bzikebi",
+  "song": "On Replay",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6LzvIh9FQ0Q",
+    "https://www.youtube-nocookie.com/embed/coh-lygCINY",
+    "https://www.youtube-nocookie.com/embed/aeYjzT0b4L8",
+    "https://www.youtube-nocookie.com/embed/KKRipBk7Y_E",
+    "https://www.youtube-nocookie.com/embed/NCmeuN9Z7GI",
+    "https://www.youtube-nocookie.com/embed/gMJ15_tgQiQ"
+  ],
+  "bpm": 130,
+  "tone": "C minor",
+  "artistPeople": [
+    "George Shiolashvili",
+    "Mariam Kikuashvili",
+    "Mariam Tatulashvili"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Sagiv Karpel",
+  "composers": [
+    "George Kukhianidze"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Lizi-Pop"
+  ],
+  "writers": null,
+  "broadcaster": "GPB",
+  "commentators": null,
+  "jury": [
+    "Ani Tatinashvili",
+    "Eliso Shengelia",
+    "Giorgi Asanishvili",
+    "Irine Sanikidze",
+    "Kakhaber Grigalashvili",
+    "Medea Kavtaradze",
+    "Onise Kakhniashvili"
+  ],
+  "spokesperson": "Mariam Shengelia"
+}

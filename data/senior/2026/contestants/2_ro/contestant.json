@@ -1,0 +1,58 @@
+{
+  "id": 2,
+  "country": "RO",
+  "artist": "Alexandra Căpitănescu",
+  "song": "Choke Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TpMQ6dhcvvE",
+    "https://www.youtube-nocookie.com/embed/xJgWNtg6YPo",
+    "https://www.youtube-nocookie.com/embed/f2byUc4L9wo",
+    "https://www.youtube-nocookie.com/embed/yr2ELdzBsiw",
+    "https://www.youtube-nocookie.com/embed/vAKW5JVxIBM",
+    "https://www.youtube-nocookie.com/embed/ws4aH2iz3j8",
+    "https://www.youtube-nocookie.com/embed/Jk6o53G-mX4"
+  ],
+  "bpm": 125,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Alexandra Căpitănescu"
+  ],
+  "backings": [
+    "Bogdan Stoican",
+    "Luca-Alexandru Șofron",
+    "Matei-Mihail Cohal",
+    "Thomas Cîrcotă"
+  ],
+  "dancers": [
+    "Daria Cristea"
+  ],
+  "stageDirector": "Jan Bors",
+  "composers": [
+    "Alexandra Căpitănescu",
+    "Călin-Alexandru Grăjdan",
+    "Elvis-Claudiu Silitră",
+    "Ștefan Condrea"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Alexandra Căpitănescu",
+    "Elvis-Claudiu Silitră"
+  ],
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": [
+    "Bogdan Stănescu",
+    "Ilinca",
+    "Kyrie Mendel"
+  ],
+  "jury": [
+    "Ana Teodora Găitanovici",
+    "Anca Lupeș",
+    "Crina Mona Mardari",
+    "Cristian Marica-Rădoi",
+    "Denis Giuliano Costea",
+    "Francesca Elena Nicolescu",
+    "Gabriel Scîrlet"
+  ],
+  "spokesperson": "Eda Marcus"
+}

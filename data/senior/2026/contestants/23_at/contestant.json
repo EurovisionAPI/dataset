@@ -1,0 +1,52 @@
+{
+  "id": 23,
+  "country": "AT",
+  "artist": "Cosmó",
+  "song": "Tanzschein",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/54QfFpYXFH4",
+    "https://www.youtube-nocookie.com/embed/F9YqxdIzPQk",
+    "https://www.youtube-nocookie.com/embed/IPvJbGy5_o0",
+    "https://www.youtube-nocookie.com/embed/zPGP9ZphxiY",
+    "https://www.youtube-nocookie.com/embed/rxuzqCafHbQ",
+    "https://www.youtube-nocookie.com/embed/HoBaDtTcSBA",
+    "https://www.youtube-nocookie.com/embed/uXnqX-to7X8"
+  ],
+  "bpm": 130,
+  "tone": "C minor",
+  "artistPeople": [
+    "Benjamin Gedeon"
+  ],
+  "backings": [
+    "Sandro Hummitsch"
+  ],
+  "dancers": [
+    "Daxia Webers",
+    "Renae Francis Hughes",
+    "Reuben Williamson",
+    "Tyresse Hare"
+  ],
+  "stageDirector": "Dan Shipton, Ross Nicholson",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Benjamin Gedeon",
+    "Elias Stejskal",
+    "Ella Stern"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": [
+    "Ilia Hollweg",
+    "Jakob Stiedl",
+    "Lena Schaur",
+    "Lukas Perman",
+    "Michael Bencsics",
+    "Nastja Zahour",
+    "Tina Ruprechter"
+  ],
+  "spokesperson": "Philipp Hansa"
+}

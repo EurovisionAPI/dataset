@@ -1,0 +1,51 @@
+{
+  "id": 26,
+  "country": "EE",
+  "artist": "Vanilla Ninja",
+  "song": "Too Epic To Be True",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FfvawqmkXnA",
+    "https://www.youtube-nocookie.com/embed/pf-oPWrkXFw",
+    "https://www.youtube-nocookie.com/embed/8Brb0M3UgEA",
+    "https://www.youtube-nocookie.com/embed/tpxEjJ2ixj0",
+    "https://www.youtube-nocookie.com/embed/YfJSJPfUYNk",
+    "https://www.youtube-nocookie.com/embed/Nd8iB7acrZ4",
+    "https://www.youtube-nocookie.com/embed/63NltvIt_FI"
+  ],
+  "bpm": 167,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Kerli Kivilaan",
+    "Lenna Kuurmaa",
+    "Piret Järvis"
+  ],
+  "backings": [
+    "Borka Hess",
+    "Dagmar Oja",
+    "Kaire Vilgats"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sven Lõhmus"
+  ],
+  "broadcaster": "ERR",
+  "commentators": [
+    "Aleksandr Hobotov",
+    "Julia Kalenda",
+    "Marko Reikop"
+  ],
+  "jury": [
+    "Alexander Makarov",
+    "Eva Palm",
+    "Inger Fridolin",
+    "Isabella Runge",
+    "Kaidi Klein",
+    "Karl Killing",
+    "Sebastian Koljak"
+  ],
+  "spokesperson": "Getter Jaani"
+}

@@ -1,0 +1,55 @@
+{
+  "id": 7,
+  "country": "MD",
+  "artist": "Satoshi",
+  "song": "Viva, Moldova",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CKV15yxAsIQ",
+    "https://www.youtube-nocookie.com/embed/sJjTOalT4DY",
+    "https://www.youtube-nocookie.com/embed/k340WWX6zHk",
+    "https://www.youtube-nocookie.com/embed/ymDo829OcRg",
+    "https://www.youtube-nocookie.com/embed/AjnHzpiQjQc",
+    "https://www.youtube-nocookie.com/embed/2IYuzG0HUXI",
+    "https://www.youtube-nocookie.com/embed/HB9XBfLtayY"
+  ],
+  "bpm": 135,
+  "tone": "A minor",
+  "artistPeople": [
+    "Vlad Sabajuc"
+  ],
+  "backings": [
+    "Aliona Moon",
+    "Daniel Nistrean",
+    "Evgheni Rasenco",
+    "Lana Caraus",
+    "Vlad Nebunu"
+  ],
+  "dancers": null,
+  "stageDirector": "Roman Burlaca",
+  "composers": [
+    "Andrei Vulpe",
+    "Cătălin Temciuc",
+    "Vlad Sabajuc",
+    "Vasile Advahov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Vlad Sabajuc"
+  ],
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Elena Stegari",
+    "Radu Canțîr"
+  ],
+  "jury": [
+    "Andrei Zapsa",
+    "Catalina Solomac",
+    "Corina Caireac",
+    "Ilona Stepan",
+    "Pavel Orlov",
+    "Stanislav Goncear",
+    "Victoria Cusnir"
+  ],
+  "spokesperson": "Rita Engleza"
+}

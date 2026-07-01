@@ -1,0 +1,54 @@
+{
+  "id": 31,
+  "country": "AM",
+  "artist": "Simón",
+  "song": "Paloma Rumba",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Pw8UJGEDF-4",
+    "https://www.youtube-nocookie.com/embed/5EXoK-lgocw",
+    "https://www.youtube-nocookie.com/embed/6GuYXD7am4c",
+    "https://www.youtube-nocookie.com/embed/HHc0r1Glqqc",
+    "https://www.youtube-nocookie.com/embed/lH-X76Wo9XI",
+    "https://www.youtube-nocookie.com/embed/-oIj3CXHlPY",
+    "https://www.youtube-nocookie.com/embed/p1TzmG1l0v0"
+  ],
+  "bpm": 150,
+  "tone": "E major",
+  "artistPeople": [
+    "Simon Hovhannisyan"
+  ],
+  "backings": null,
+  "dancers": [
+    "Anka Davtyan",
+    "Arsen Oricci",
+    "Ashot Nrkrarants",
+    "Elvira Girfanova",
+    "Jon Suqiasian"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Lilith Navasardyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "David Tserunyan",
+    "Eva Voskanian",
+    "Roza Kostandyan"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Hamlet Arakelyan",
+    "Hrachuhi Utmazyan"
+  ],
+  "jury": [
+    "Anahit Adamyan",
+    "Anna Grigoryan",
+    "Erik Karapetyan",
+    "Jan Abrahamyan",
+    "Naire Stepanyan",
+    "Nick Egibyan",
+    "Rudik Ter-Galstyan"
+  ],
+  "spokesperson": "Parg"
+}

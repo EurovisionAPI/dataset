@@ -1,0 +1,54 @@
+{
+  "id": 19,
+  "country": "SE",
+  "artist": "Felicia",
+  "song": "My System",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6pmj0jbFKGU",
+    "https://www.youtube-nocookie.com/embed/az6XIorzZxM",
+    "https://www.youtube-nocookie.com/embed/W7AZN_me8eA",
+    "https://www.youtube-nocookie.com/embed/hQt-ZCGVVW4",
+    "https://www.youtube-nocookie.com/embed/JXLRzNLoOb4",
+    "https://www.youtube-nocookie.com/embed/GcyN-64k-Lk",
+    "https://www.youtube-nocookie.com/embed/sn_kYEbWGIw"
+  ],
+  "bpm": 143,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Felicia Agneta Eriksson"
+  ],
+  "backings": [
+    "Melanie Wehbe"
+  ],
+  "dancers": [
+    "Daniel Gürow",
+    "Daniel Koivunen",
+    "Lamin Holmén",
+    "Niklas Arleryd"
+  ],
+  "stageDirector": "Keisha von Arnold",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Audun Agnar Gulbrandsen",
+    "Emily Harbakk",
+    "Felicia Eriksson",
+    "Julie Bergan",
+    "Theresa Rex"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Edward af Sillén"
+  ],
+  "jury": [
+    "Cornelia Jakobs",
+    "Dennis Bröchner",
+    "Ella Tiritiello",
+    "Marlene Strand",
+    "Mathias Lugoboni",
+    "Michael Kim Jerry Mårtensson",
+    "William Eric Schmatz"
+  ],
+  "spokesperson": "Jakob Norrgård"
+}

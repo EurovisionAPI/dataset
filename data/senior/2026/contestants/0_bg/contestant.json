@@ -1,0 +1,42 @@
+{
+  "id": 0,
+  "country": "BG",
+  "artist": "Dara",
+  "song": "Bangaranga",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EltgrumKJfk",
+    "https://www.youtube-nocookie.com/embed/J3oGYo_mekw",
+    "https://www.youtube-nocookie.com/embed/Cgu6QuMrwKI",
+    "https://www.youtube-nocookie.com/embed/4Mxq2WCAhT4",
+    "https://www.youtube-nocookie.com/embed/_pkC9J6BPFY",
+    "https://www.youtube-nocookie.com/embed/5wh8G2y9-Ys",
+    "https://www.youtube-nocookie.com/embed/DCf_fGMTSkY"
+  ],
+  "bpm": 136,
+  "tone": "C# major",
+  "artistPeople": ["Darina Yotova"],
+  "backings": ["Victoria Chalkitis"],
+  "dancers": [
+    "Ellinea Afroditi Aina",
+    "Iker Cederblom Herrera",
+    "Lisa Högström",
+    "Mateo Rolando Cordova Pomo"
+  ],
+  "stageDirector": "Fredrik Rydman, Keisha von Arnold",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": ["Anne Judith Stokke Wik", "Cristian Tarcea", "Darina Yotova", "Dimitris Kontopoulos"],
+  "broadcaster": "BNT",
+  "commentators": ["Elena Rosberg", "Petko Kralev"],
+  "jury": [
+    "Kostadin Todorov Filipov",
+    "Krassimir Nikolov Gyulmezov",
+    "Krisiya Marinova Todorova",
+    "Maria Ilieva",
+    "Stefan Mihaylov Dimitrov",
+    "Valeria Valerieva Voykova",
+    "Yoanna Dragneva"
+  ],
+  "spokesperson": "Vladimira Ilieva"
+}

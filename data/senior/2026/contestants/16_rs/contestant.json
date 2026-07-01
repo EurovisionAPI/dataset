@@ -1,0 +1,61 @@
+{
+  "id": 16,
+  "country": "RS",
+  "artist": "Lavina",
+  "song": "Kraj mene",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0Nuwjfp06Xc",
+    "https://www.youtube-nocookie.com/embed/uyfdKvR1nJM",
+    "https://www.youtube-nocookie.com/embed/931yYfZH2F8",
+    "https://www.youtube-nocookie.com/embed/DXRju7b21z4",
+    "https://www.youtube-nocookie.com/embed/xfyubEU1PR8",
+    "https://www.youtube-nocookie.com/embed/N5pzWJuPFrY",
+    "https://www.youtube-nocookie.com/embed/XWsvSjQqOlk"
+  ],
+  "bpm": 79,
+  "tone": "G# minor",
+  "artistPeople": [
+    "Luka Aranđelović",
+    "Andrija Cvetanović",
+    "Pavle Samardžić",
+    "Bojan Ilić",
+    "Nikola Petrović",
+    "Pavle Aranđelović"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Milica Soldatović Mikić",
+  "composers": [
+    "Andrija Cvetanović",
+    "Bojan Ilić",
+    "Luka Aranđelović",
+    "Nikola Petrović",
+    "Pavle Aranđelović",
+    "Pavle Samardžić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Andrija Cvetanović",
+    "Bojan Ilić",
+    "Ivan Jegdić",
+    "Luka Aranđelović",
+    "Nikola Petrović",
+    "Pavle Aranđelović",
+    "Pavle Samardžić"
+  ],
+  "writers": null,
+  "broadcaster": "RTS",
+  "commentators": [
+    "Duška Vučinić-Lučić"
+  ],
+  "jury": [
+    "Aleksandra Kovač",
+    "Anđela Vranić",
+    "Dušan Alagić",
+    "Ivan Mileusnić",
+    "Jelena Tomašević",
+    "Mari Mari",
+    "Mateja Blažić"
+  ],
+  "spokesperson": "Kristina Radenković"
+}

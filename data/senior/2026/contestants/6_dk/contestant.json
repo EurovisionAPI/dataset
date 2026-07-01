@@ -1,0 +1,52 @@
+{
+  "id": 6,
+  "country": "DK",
+  "artist": "Søren Torpegaard Lund",
+  "song": "Før vi går hjem",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5lBWuEZ2qyo",
+    "https://www.youtube-nocookie.com/embed/eGh1JqdkeE8",
+    "https://www.youtube-nocookie.com/embed/lqXYe1SHNZA",
+    "https://www.youtube-nocookie.com/embed/vKCsNbrt5yI",
+    "https://www.youtube-nocookie.com/embed/NFjMU73Nk4I",
+    "https://www.youtube-nocookie.com/embed/zVE4G2uopok",
+    "https://www.youtube-nocookie.com/embed/4kTCgMbyfXI"
+  ],
+  "bpm": 130,
+  "tone": "C minor",
+  "artistPeople": [
+    "Søren Torpegaard Lund"
+  ],
+  "backings": null,
+  "dancers": [
+    "Aviaya Rønnow Steinø",
+    "Laura Sund",
+    "Magnus Kofoed",
+    "Malik With",
+    "Nefertiti Moeglin Pedersen"
+  ],
+  "stageDirector": "Ralf Richardt Strøbech, Toniah Pedersen",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Clara Sofie Fabricius",
+    "Søren Torpegaard Lund",
+    "Thomas Meilstrup",
+    "Valdemar Littauer Bendixen"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "jury": [
+    "Basim",
+    "Birgitte Næss-Schmidt",
+    "Cristian Oprea",
+    "Karl-Frederik Reichhardt",
+    "Lise Cabble",
+    "Oliver Adelborg",
+    "Svea Stegmann"
+  ],
+  "spokesperson": "Sissal Jóhanna Norðberg Niclasen"
+}

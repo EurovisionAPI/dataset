@@ -1,0 +1,56 @@
+{
+  "id": 32,
+  "country": "SM",
+  "artist": "Senhit",
+  "song": "Superstar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VhwoT8ah9R8",
+    "https://www.youtube-nocookie.com/embed/tC3eHYO38do",
+    "https://www.youtube-nocookie.com/embed/xR33DSWLiv8",
+    "https://www.youtube-nocookie.com/embed/84ZJdkqcaDw",
+    "https://www.youtube-nocookie.com/embed/MY7i16XYfOw",
+    "https://www.youtube-nocookie.com/embed/jTRTXKI7YmI",
+    "https://www.youtube-nocookie.com/embed/leReQ27F8Us"
+  ],
+  "bpm": 130,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Senhit Zadik Zadik"
+  ],
+  "backings": [
+    "Anders Deeno Nielsen",
+    "Boy George",
+    "James Mulford",
+    "Kate Ivory Jordan",
+    "Marion Fagbemi"
+  ],
+  "dancers": null,
+  "stageDirector": "Dan Shipton, Ross Nicholson",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Anderz Wrethov",
+    "Boy George",
+    "John Emil Johansson",
+    "Jonathan Bellini",
+    "Kill J",
+    "Senhit",
+    "Thomas Stengaard"
+  ],
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Anna Gaspari",
+    "Gigi Restivo"
+  ],
+  "jury": [
+    "Alberto Carlo Braschi",
+    "Amalia Gozi",
+    "Elia Rinaldi",
+    "Fabrizio Raggi",
+    "Martin Minotti",
+    "Sara Raschi",
+    "Sofia Checcetti"
+  ],
+  "spokesperson": "Kelly Joyce"
+}

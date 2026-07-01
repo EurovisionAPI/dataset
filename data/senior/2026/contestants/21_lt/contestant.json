@@ -1,0 +1,51 @@
+{
+  "id": 21,
+  "country": "LT",
+  "artist": "Lion Ceccah",
+  "song": "Sólo quiero más",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RYmEt4mm_oU",
+    "https://www.youtube-nocookie.com/embed/_0kkvvTc3hQ",
+    "https://www.youtube-nocookie.com/embed/mPZMHqSsoeo",
+    "https://www.youtube-nocookie.com/embed/7vfjX-KkcKs",
+    "https://www.youtube-nocookie.com/embed/yeYEYUHDgyc",
+    "https://www.youtube-nocookie.com/embed/QTITz2ZL0Uo",
+    "https://www.youtube-nocookie.com/embed/SeYY-foPft0"
+  ],
+  "bpm": 125,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Tomas Alenčikas"
+  ],
+  "backings": [
+    "Diana Anisko",
+    "Greta Paukštė",
+    "Justa Rubežiūtė",
+    "Justinas Stanevičius"
+  ],
+  "dancers": null,
+  "stageDirector": "Mantas Frolenko, Povilas Varvuolis",
+  "composers": [
+    "Aurimas Galvelis",
+    "Tomas Alenčikas"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Tomas Alenčikas"
+  ],
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Ramūnas Zilnys"
+  ],
+  "jury": [
+    "Benas Kukenys",
+    "Darius Dapkus",
+    "Justė Komskytė-Vaiciekiūtė",
+    "Kamilė Tumelytė",
+    "Marijanas Staniulėnas",
+    "Paulina Skrabytė",
+    "Rokas Jančiauskas"
+  ],
+  "spokesperson": "Lukas Radzevičius"
+}

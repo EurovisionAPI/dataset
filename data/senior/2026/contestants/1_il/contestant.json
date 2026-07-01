@@ -1,0 +1,54 @@
+{
+  "id": 1,
+  "country": "IL",
+  "artist": "Noam Bettan",
+  "song": "Michelle",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/E2aL4xRzNXI",
+    "https://www.youtube-nocookie.com/embed/L9JVTSHKeqc",
+    "https://www.youtube-nocookie.com/embed/j2uPlJndByI",
+    "https://www.youtube-nocookie.com/embed/iYYHAqrD-L8",
+    "https://www.youtube-nocookie.com/embed/-r_8HZzuplk"
+  ],
+  "bpm": 115,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Noam Bettan"
+  ],
+  "backings": null,
+  "dancers": [
+    "Daniel Ben Avraham",
+    "Eden Zino",
+    "Jenia Gaponova",
+    "Lihi Freud",
+    "Yasmin Hachmon"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Nadav Aharoni",
+    "Tzlil Klifi"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Nadav Aharoni",
+    "Noam Bettan",
+    "Tzlil Klifi",
+    "Yuval Raphael"
+  ],
+  "writers": null,
+  "broadcaster": "KAN",
+  "commentators": [
+    "Akiva Novik",
+    "Asaf Liberman"
+  ],
+  "jury": [
+    "Ido Porath",
+    "Lihi Mayra Toledano",
+    "Mei Finegold",
+    "Michaela Hazani",
+    "Noy Ben Haim",
+    "Ohad Hitman",
+    "Roi Delmedigo"
+  ],
+  "spokesperson": "Lior Suchard"
+}

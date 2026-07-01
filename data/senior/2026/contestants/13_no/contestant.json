@@ -1,0 +1,51 @@
+{
+  "id": 13,
+  "country": "NO",
+  "artist": "Jonas Lovv",
+  "song": "Ya ya ya",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/e7GWq-GeeD0",
+    "https://www.youtube-nocookie.com/embed/FcFaMMTz5-M",
+    "https://www.youtube-nocookie.com/embed/MasllzWk_bQ",
+    "https://www.youtube-nocookie.com/embed/E597VdaKg1A",
+    "https://www.youtube-nocookie.com/embed/7Alvjx6W2BU",
+    "https://www.youtube-nocookie.com/embed/5W3tQkxb97Y",
+    "https://www.youtube-nocookie.com/embed/kySpRPlfMek"
+  ],
+  "bpm": 130,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Jonas Lovv Hellesøy"
+  ],
+  "backings": [
+    "Anna Hedblom",
+    "Kajsa Widlund Sulutvedt",
+    "Martin Meneilly",
+    "Sondre Skaftun",
+    "Truls Prestegard"
+  ],
+  "dancers": null,
+  "stageDirector": "Mona Berntsen",
+  "composers": [
+    "Sondre Skaftun"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jonas Lovv"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Marte Stokstad"
+  ],
+  "jury": [
+    "Daniel Grindeland",
+    "Hanne Margrethe Fredriksen Sørvaag",
+    "Ingrid Vårvik",
+    "Janne Monsen Tveit",
+    "Jørn Kristian Dahl",
+    "Kevin Haugan",
+    "Regina Tucker"
+  ],
+  "spokesperson": "Elisabeth Andreassen"
+}

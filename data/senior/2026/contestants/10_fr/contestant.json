@@ -1,0 +1,55 @@
+{
+  "id": 10,
+  "country": "FR",
+  "artist": "Monroe",
+  "song": "Regarde",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/L0jwLyIJaQQ",
+    "https://www.youtube-nocookie.com/embed/YwwE7zqQ6XM",
+    "https://www.youtube-nocookie.com/embed/f1RDzzLzFBs",
+    "https://www.youtube-nocookie.com/embed/ZI3_MTy7TlA",
+    "https://www.youtube-nocookie.com/embed/zEZfyGMuQLo",
+    "https://www.youtube-nocookie.com/embed/pNUfLYETjAw",
+    "https://www.youtube-nocookie.com/embed/-vk-6hIS22E"
+  ],
+  "bpm": 94,
+  "tone": "C minor",
+  "artistPeople": [
+    "Monroe Vata Rigby"
+  ],
+  "backings": null,
+  "dancers": [
+    "Alexandre Marchal",
+    "Margaux Colemonts",
+    "Marie Bugnon",
+    "Shanon Zadigue",
+    "Sharlyne Say"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Christopher Cohen",
+    "Fred Savio",
+    "Fredie Marche",
+    "Maxime Morise"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Fred Savio"
+  ],
+  "writers": null,
+  "broadcaster": "FT",
+  "commentators": [
+    "Camille Cerf",
+    "Stéphane Bern"
+  ],
+  "jury": [
+    "Benjamin Kern",
+    "Clément Julia",
+    "Delphine Malem",
+    "François Troller",
+    "Myla Rosenfeld",
+    "Thomas Isle",
+    "Valérie Zipper"
+  ],
+  "spokesperson": "Magali Ripoll"
+}

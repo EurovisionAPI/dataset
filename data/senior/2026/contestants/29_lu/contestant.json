@@ -1,0 +1,53 @@
+{
+  "id": 29,
+  "country": "LU",
+  "artist": "Eva Marija",
+  "song": "Mother Nature",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-oTfj9ysTJ0",
+    "https://www.youtube-nocookie.com/embed/4WA162bl1Fo",
+    "https://www.youtube-nocookie.com/embed/bXIOlWnDzaY",
+    "https://www.youtube-nocookie.com/embed/YR9vbRsfCsY",
+    "https://www.youtube-nocookie.com/embed/sXCy2umOUkM",
+    "https://www.youtube-nocookie.com/embed/aCRP5ue6cTI",
+    "https://www.youtube-nocookie.com/embed/YeA_FwR_mzs"
+  ],
+  "bpm": 115,
+  "tone": "C major",
+  "artistPeople": [
+    "Eva Marija Kavaš Puc"
+  ],
+  "backings": [
+    "Christina Kerschner",
+    "Helena May",
+    "Maria Broberg",
+    "Marina Zettl",
+    "Susanne Georgi"
+  ],
+  "dancers": null,
+  "stageDirector": "Mariia Hrygorashchenko, Nataliia Lysenkova, Nataliia Rovenska",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Eva Marija",
+    "Kill J",
+    "Maria Broberg",
+    "Thomas Stengaard"
+  ],
+  "broadcaster": "RTL",
+  "commentators": [
+    "Raoul Roos",
+    "Roger Saurfeld"
+  ],
+  "jury": [
+    "Charel Storn",
+    "Laura Thorn",
+    "Letizia Lovece",
+    "Marie Gales",
+    "Melvyn Schartz",
+    "Naomi Ayé Vaidovics Suárez",
+    "Paul Bradshaw"
+  ],
+  "spokesperson": "Hana Sofia Lopes"
+}

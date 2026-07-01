@@ -1,0 +1,50 @@
+{
+  "id": 11,
+  "country": "PL",
+  "artist": "Alicja",
+  "song": "Pray",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NRTkNIyT_S0",
+    "https://www.youtube-nocookie.com/embed/WsmVIlscdJU",
+    "https://www.youtube-nocookie.com/embed/bWgdnuww4eY",
+    "https://www.youtube-nocookie.com/embed/n8NDcrmtxJM",
+    "https://www.youtube-nocookie.com/embed/a7KOSjHkKMI",
+    "https://www.youtube-nocookie.com/embed/o6CY_nCLIiE",
+    "https://www.youtube-nocookie.com/embed/GOKhEP2BhSs"
+  ],
+  "bpm": 125,
+  "tone": "C minor",
+  "artistPeople": [
+    "Alicja Maria Szemplińska"
+  ],
+  "backings": null,
+  "dancers": [
+    "Krystian Rzymkiewicz",
+    "Oskar Borkowski",
+    "Stefano Silvino",
+    "Włodek Kołobycz"
+  ],
+  "stageDirector": "Kamil Staszczyszyn",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alicja Szemplińska",
+    "Sinclair Alan Malcolm",
+    "Weronika Gabryelczyk"
+  ],
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": [
+    "Eliza Orzechowska",
+    "Filip Kuncewicz",
+    "Jasiek Piwowarczyk",
+    "Maurycy Żółtański",
+    "Staś Kukulski",
+    "Viki Gabor",
+    "Wiktoria Kida"
+  ],
+  "spokesperson": "Aleksandra Budka"
+}

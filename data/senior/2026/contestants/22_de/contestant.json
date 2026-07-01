@@ -1,0 +1,57 @@
+{
+  "id": 22,
+  "country": "DE",
+  "artist": "Sarah Engels",
+  "song": "Fire",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KnKVUztvN3M",
+    "https://www.youtube-nocookie.com/embed/FpGjPN1E2DE",
+    "https://www.youtube-nocookie.com/embed/8zjFGH4_Te8",
+    "https://www.youtube-nocookie.com/embed/AzvRc3eH_rA",
+    "https://www.youtube-nocookie.com/embed/0UhMcQOqGnQ",
+    "https://www.youtube-nocookie.com/embed/vGe6yJJ2XsM",
+    "https://www.youtube-nocookie.com/embed/o2U6zHZmde4"
+  ],
+  "bpm": 115,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Sarah Lombardi"
+  ],
+  "backings": [
+    "Alana-Rose Dixon",
+    "Kasey Robinson",
+    "LaShay Harvey",
+    "Milana Braun"
+  ],
+  "dancers": null,
+  "stageDirector": "Sagiv Karpel",
+  "composers": [
+    "Dario Schürmann",
+    "Luisa Heinemann",
+    "Raphael Lott",
+    "Valentin Boes"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dario Schürmann",
+    "Luisa Heinemann",
+    "Raphael Lott",
+    "Sarah Engels",
+    "Valentin Boes"
+  ],
+  "writers": null,
+  "broadcaster": "SWR",
+  "commentators": [
+    "Thorsten Schorn"
+  ],
+  "jury": [
+    "Alina Stiegler",
+    "Bela Marton",
+    "Hajat Joy Berhanu",
+    "Jules Kalmbacher",
+    "Len Clare",
+    "Sophia Gruber",
+    "Udo Dahmen"
+  ],
+  "spokesperson": "Wavvyboi"
+}

@@ -1,0 +1,54 @@
+{
+  "id": 9,
+  "country": "GR",
+  "artist": "Akylas",
+  "song": "Ferto",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Rfd-6uAG4Rc",
+    "https://www.youtube-nocookie.com/embed/G0y1sZ4CxaE",
+    "https://www.youtube-nocookie.com/embed/VlwIKCFYQyw",
+    "https://www.youtube-nocookie.com/embed/NGwNTd_DA9s",
+    "https://www.youtube-nocookie.com/embed/B4nifaEmihU",
+    "https://www.youtube-nocookie.com/embed/JRvbyUQ6t-w",
+    "https://www.youtube-nocookie.com/embed/iJJU9xkv3b4"
+  ],
+  "bpm": 150,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Akylas Mytilinaios"
+  ],
+  "backings": null,
+  "dancers": [
+    "Christos Nikolaou",
+    "Konstantinos Makripidis",
+    "Michalis Michailidis",
+    "Parthena Chorozidou"
+  ],
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Akylas Mytilinaios",
+    "Theofilos Pouzbouris",
+    "Tom Papatanice"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Akylas Mytilinaios",
+    "Orpheus Nonis"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "jury": [
+    "Alexis Karakatsanis",
+    "Athina Klimi",
+    "Christina Kaliakatsou",
+    "Dimitrios Meidanis",
+    "Giannis Christodoulopoulos",
+    "Marina Spanou",
+    "Panagiotis Nikolaidis"
+  ],
+  "spokesperson": "Klavdia Papadopoulou"
+}

@@ -1,0 +1,63 @@
+{
+  "id": 27,
+  "country": "PT",
+  "artist": "Bandidos do Cante",
+  "song": "Rosa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kWXyEWtB7KM",
+    "https://www.youtube-nocookie.com/embed/8emG9PghYXg",
+    "https://www.youtube-nocookie.com/embed/r4uiRP4rAbg",
+    "https://www.youtube-nocookie.com/embed/uNbQczpaKC0",
+    "https://www.youtube-nocookie.com/embed/_Lixvkr3MiQ",
+    "https://www.youtube-nocookie.com/embed/TryYWkk69Tg",
+    "https://www.youtube-nocookie.com/embed/YFKYkEWmfpM"
+  ],
+  "bpm": 83,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Duarte Farias",
+    "Francisco Pestana",
+    "Francisco Raposo",
+    "Luís Aleixo",
+    "Miguel Costa",
+    "Sara Fernandes"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Duarte Farias",
+    "Francisco Pestana",
+    "Francisco Raposo",
+    "Luís Aleixo",
+    "Miguel Costa"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Bluay",
+    "Duarte Farias",
+    "Francisco Pestana",
+    "Francisco Raposo",
+    "Gonçalo Narciso",
+    "Gui Alface",
+    "Kasha",
+    "Luís Aleixo",
+    "Miguel Costa"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "José Carlos Malato",
+    "Nuno Galopim"
+  ],
+  "jury": [
+    "Beatriz Fonseca",
+    "Carolina Pires Gonçalves",
+    "Jorge Fernando",
+    "Luís Gustavo Paixão",
+    "Mário Rui Vieira",
+    "Matilde Maria Almeida",
+    "Pedro Mimoso"
+  ],
+  "spokesperson": "Victoria Nicole"
+}

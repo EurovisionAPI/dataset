@@ -1,0 +1,53 @@
+{
+  "id": 14,
+  "country": "HR",
+  "artist": "Lelek",
+  "song": "Andromeda",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7J05a7u3NGs",
+    "https://www.youtube-nocookie.com/embed/-qtoDzlS-rk",
+    "https://www.youtube-nocookie.com/embed/5JXpBZgiHkY",
+    "https://www.youtube-nocookie.com/embed/jMzQ2JETMJs",
+    "https://www.youtube-nocookie.com/embed/KAu-LGeJTEs",
+    "https://www.youtube-nocookie.com/embed/voR4Nh9TUng",
+    "https://www.youtube-nocookie.com/embed/y1MGvQTWZ8I"
+  ],
+  "bpm": 115,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Inka Večerina Perušić",
+    "Judita Štorga",
+    "Korina Olivia Rogić",
+    "Lara Brtan",
+    "Marina Ramljak"
+  ],
+  "backings": [
+    "Marin Novaković"
+  ],
+  "dancers": null,
+  "stageDirector": "Jasmin Cvišić",
+  "composers": [
+    "Filip Lacković",
+    "Lazar Pajić",
+    "Zorja"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Tomislav Roso"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": [
+    "Devin Juraj",
+    "Doris Karamatić",
+    "Duško Mandić",
+    "Igor Barberić",
+    "Lu Jakelić",
+    "Martina Validžić",
+    "Vlatka Kladarić"
+  ],
+  "spokesperson": "Doris Pinčić"
+}

@@ -1,0 +1,44 @@
+{
+  "id": 17,
+  "country": "MT",
+  "artist": "Aidan",
+  "song": "Bella",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/03FaNB7J0A4",
+    "https://www.youtube-nocookie.com/embed/FpG_DV2jAQo",
+    "https://www.youtube-nocookie.com/embed/YA7Ku_P59Dk",
+    "https://www.youtube-nocookie.com/embed/E_g9gGBIZhM",
+    "https://www.youtube-nocookie.com/embed/eqg8lrxGL7o",
+    "https://www.youtube-nocookie.com/embed/r6QaTlm9xio",
+    "https://www.youtube-nocookie.com/embed/Le1iHypDikg"
+  ],
+  "bpm": 77,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Aidan Cassar"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Dan Shipton",
+  "composers": [
+    "Aidan Cassar",
+    "Joep Van Den Boom",
+    "Sarah Bonnici"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Aidan Cassar"
+  ],
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": null,
+  "jury": [
+    "Andrea Frendo",
+    "Giselle Calleja",
+    "Julia Cassar",
+    "Mychael Bartolo Chircop",
+    "Sigmund Mifsud",
+    "Stephen Mintoff"
+  ],
+  "spokesperson": "Mya Scicluna"
+}

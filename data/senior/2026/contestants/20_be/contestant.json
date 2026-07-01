@@ -1,0 +1,55 @@
+{
+  "id": 20,
+  "country": "BE",
+  "artist": "Essyla",
+  "song": "Dancing on the Ice",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/idypOezpL_w",
+    "https://www.youtube-nocookie.com/embed/hz8CWouTIoo",
+    "https://www.youtube-nocookie.com/embed/9sfI4g6DWTU",
+    "https://www.youtube-nocookie.com/embed/XC-GUTz2wXE",
+    "https://www.youtube-nocookie.com/embed/G_AGdUQNb7c",
+    "https://www.youtube-nocookie.com/embed/0l6HyouZh7o",
+    "https://www.youtube-nocookie.com/embed/_ohYeSoLNdI"
+  ],
+  "bpm": 120,
+  "tone": "D major",
+  "artistPeople": [
+    "Alice Van Eesbeeck"
+  ],
+  "backings": null,
+  "dancers": [
+    "Axel Remezo",
+    "Julien Maniquet",
+    "Max Lukaina",
+    "Tom Van de Weghe"
+  ],
+  "stageDirector": "David Vandenplas, Elena Gambardella",
+  "composers": [
+    "Emil Stengele",
+    "Alice Van Eesbeeck",
+    "Nicolas d’Avell"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Barbara Petitjean",
+    "Alice Van Eesbeeck"
+  ],
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Fanny Jandrain",
+    "Jean-Louis Lahaye",
+    "Peter Van de Veire"
+  ],
+  "jury": [
+    "Anthony Marsala",
+    "Elia Fragione",
+    "Lejla Burazerovic",
+    "Lou-Marine Vanden Abeelen",
+    "Nicolas Beckers",
+    "Rino Gallo",
+    "Yoann Frederic"
+  ],
+  "spokesperson": "Sandra Kim"
+}

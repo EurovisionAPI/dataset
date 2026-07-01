@@ -1,0 +1,56 @@
+{
+  "id": 5,
+  "country": "FI",
+  "artist": "Linda Lampenius & Pete Parkkonen",
+  "song": "Liekinheitin",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CmPkrjTtrwE",
+    "https://www.youtube-nocookie.com/embed/i8vlDO89YQA",
+    "https://www.youtube-nocookie.com/embed/GS91CAAddZA",
+    "https://www.youtube-nocookie.com/embed/vtElm1dHUNo",
+    "https://www.youtube-nocookie.com/embed/WgX3JahjOWM",
+    "https://www.youtube-nocookie.com/embed/s_bpfY7r5dU",
+    "https://www.youtube-nocookie.com/embed/RzBWYaUGozI"
+  ],
+  "bpm": 143,
+  "tone": "G minor",
+  "artistPeople": [
+    "Linda Magdalena Cullberg Lampenius",
+    "Pete Eemeli Parkkonen"
+  ],
+  "backings": [
+    "Hanna Marttila",
+    "Heini Ikonen",
+    "Jepa Lambert"
+  ],
+  "dancers": null,
+  "stageDirector": "Reija Wäre",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Antti Riihimäki",
+    "Lauri Halavaara",
+    "Linda Lampenius",
+    "Pete Parkkonen",
+    "Vilma Alina Lähteenmäki"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Eva Frantz",
+    "Galyna Sergeyeva",
+    "Johan Lindroos",
+    "Levan Tvaltvadze",
+    "Mikko Silvennoinen"
+  ],
+  "jury": [
+    "Anni Pauliina Lerche",
+    "Ella Kerttu Kristiina Mäntynen",
+    "Erno Ilari Kulmala",
+    "Ilkka Wirtanen",
+    "Kari Jukka Antero Hynninen",
+    "Marja Riina Annikki Kokko",
+    "Sofia Ruija"
+  ],
+  "spokesperson": "Jaana Pelkonen"
+}
