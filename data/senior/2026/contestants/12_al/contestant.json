@@ -12,10 +12,10 @@
     "https://www.youtube-nocookie.com/embed/IcJ-WTD4XiE",
     "https://www.youtube-nocookie.com/embed/qQX5G51XWN0"
   ],
-  "bpm": 112,
+  "bpm": 111,
   "tone": "C minor",
   "artistPeople": [
-    "Alis Kallaçi"
+    "Alis Kallacej"
   ],
   "backings": [
     "Ariana Kraljić",
@@ -23,10 +23,10 @@
     "Harri Baumgartner",
     "Stefan Nagl"
   ],
-  "dancers": "Rajmonda Bulku",
+  "dancers": ["Rajmonda Bulku"],
   "stageDirector": "Dan Shipton, Ross Nicholson",
   "composers": [
-    "Alis Kallaçi"
+    "Alis Kallacej"
   ],
   "conductor": null,
   "lyricists": [

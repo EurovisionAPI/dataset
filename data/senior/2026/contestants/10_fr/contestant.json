@@ -2,7 +2,7 @@
   "id": 10,
   "country": "FR",
   "artist": "Monroe",
-  "song": "Regarde !",
+  "song": "Regarde",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/L0jwLyIJaQQ",
     "https://www.youtube-nocookie.com/embed/YwwE7zqQ6XM",
@@ -12,8 +12,8 @@
     "https://www.youtube-nocookie.com/embed/pNUfLYETjAw",
     "https://www.youtube-nocookie.com/embed/-vk-6hIS22E"
   ],
-  "bpm": 95,
-  "tone": "C# major",
+  "bpm": 94,
+  "tone": "C minor",
   "artistPeople": [
     "Monroe Vata Rigby"
   ],
@@ -37,7 +37,7 @@
     "Fred Savio"
   ],
   "writers": null,
-  "broadcaster": "France 2",
+  "broadcaster": "FT",
   "commentators": [
     "Camille Cerf",
     "Stéphane Bern"

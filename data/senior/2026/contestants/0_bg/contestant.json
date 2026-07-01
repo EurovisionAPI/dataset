@@ -1,7 +1,7 @@
 {
   "id": 0,
   "country": "BG",
-  "artist": "DARA",
+  "artist": "Dara",
   "song": "Bangaranga",
   "videoUrls": [
     "https://www.youtube-nocookie.com/embed/EltgrumKJfk",
@@ -14,10 +14,8 @@
   ],
   "bpm": 136,
   "tone": "C# major",
-  "artistPeople": [
-    "Darina Yotova"
-  ],
-  "backings": "Victoria Halkiti",
+  "artistPeople": ["Darina Yotova"],
+  "backings": ["Victoria Chalkitis"],
   "dancers": [
     "Ellinea Afroditi Aina",
     "Iker Cederblom Herrera",
@@ -28,25 +26,17 @@
   "composers": null,
   "conductor": null,
   "lyricists": null,
-  "writers": [
-    "Anne Judith Wik",
-    "Cristian Tarcea",
-    "Darina Yotova ",
-    "Dimitris Kontopoulos"
-  ],
+  "writers": ["Anne Judith Stokke Wik", "Cristian Tarcea", "Darina Yotova", "Dimitris Kontopoulos"],
   "broadcaster": "BNT",
-  "commentators": [
-    "Elena Rosberg",
-    "Petko Kralev"
-  ],
+  "commentators": ["Elena Rosberg", "Petko Kralev"],
   "jury": [
-    "Joanna Nickolova Dragneva",
     "Kostadin Todorov Filipov",
     "Krassimir Nikolov Gyulmezov",
     "Krisiya Marinova Todorova",
     "Maria Ilieva",
     "Stefan Mihaylov Dimitrov",
-    "Valeria Valerieva Voykova"
+    "Valeria Valerieva Voykova",
+    "Yoanna Dragneva"
   ],
   "spokesperson": "Vladimira Ilieva"
 }
