@@ -9,7 +9,7 @@ The data is obtained from the [ESC Home](https://eschome.net/), [Eurovision Worl
 You can find more information on the [website](https://eurovisionapi.runasp.net/).
 
 ## Dataset structure 🚧 Work in progress 🚧
-### Data folder
+### Data folder (`data/`)
 It is organized into three main sections:
 
 | Path | Contents |
@@ -215,8 +215,8 @@ Each song/entry of the edition.
 
 *(In junior, `Score` doesn't have the per-country `votes` breakdown like in senior.)*
 
-### Images folder
-Inside `images/logos/` folder there are the logo image files for each contest edition (senior and junior). Files are organized by edition and then by year.
+### Images folder (`images/`)
+It contains the logo image files for each contest edition (senior and junior). Files are organized by edition and then by year.
 
 ## 🙌 Contributions welcome!
 We truly appreciate any contribution to improve the dataset!
