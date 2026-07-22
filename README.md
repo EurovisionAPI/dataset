@@ -218,6 +218,18 @@ Each song/entry of the edition.
 ### Images folder (`images/`)
 It contains the logo image files for each contest edition (senior and junior). Files are organized by edition and then by year.
 
+```
+logos/
+├── junior/
+│   ├── 1956.png
+│   ├── 1957.png
+│   └── ...
+└── senior/
+    ├── 2003.png
+    ├── 2004.png
+    └── ...
+```
+
 ## 🙌 Contributions welcome!
 We truly appreciate any contribution to improve the dataset!
 If you notice any missing data, feel free to help by adding it.
