@@ -76,7 +76,7 @@ contestants/
 The directory name follows the format:
 
 ```
-<running-order>_<country-code>
+<placement-order>_<country-code>
 ```
 
 Example:
@@ -129,7 +129,7 @@ lyrics/
 |---|---|
 | `o_` | Original lyrics |
 | `t_` | Translation |
-| `v_` | Translation |
+| `v_` | Version adapted to the language (the translation of the lyrics can differ from the original) |
 
 ---
 
