@@ -180,7 +180,7 @@ The following naming conventions are used:
 | `date`          | string          | Date in UTC                     |
 | `time`          | string          | Time in UTC                     |
 | `performances`  | `Performance[]` | Results for the contestants     |
-| `disqualifieds` | int[]           | IDs of contestants disqualified |
+| `disqualifieds` | int[]           | IDs of disqualified contestants |
 
 #### `Performance`
 
