@@ -1,0 +1,29 @@
+{
+  "id": 3,
+  "country": "SM",
+  "artist": "Violamarie",
+  "song": "Ruota panoramica",
+  "videoUrls": [
+    "https://www.youtube.com/embed/YMcaWkRdn-k"
+  ],
+  "bpm": 125,
+  "tone": "D major",
+  "artistPeople": [
+    "Viola Marie Ledda"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Denny Montesi",
+    "Emilio Munda",
+    "Piero Romitelli"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

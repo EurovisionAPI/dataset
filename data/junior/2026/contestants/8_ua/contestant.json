@@ -1,0 +1,27 @@
+{
+  "id": 8,
+  "country": "UA",
+  "artist": "Erika Kolesnichenko",
+  "song": "Not a Lullaby",
+  "videoUrls": [
+    "https://www.youtube.com/embed/stJO0MBxIWk"
+  ],
+  "bpm": 78,
+  "tone": "E minor",
+  "artistPeople": [
+    "Erika Kolesnichenko"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Svitlana Tarabarova"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

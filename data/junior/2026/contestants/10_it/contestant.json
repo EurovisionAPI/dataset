@@ -1,0 +1,32 @@
+{
+  "id": 10,
+  "country": "IT",
+  "artist": "Matteo Trullu",
+  "song": "Che cos'è l'amore?",
+  "videoUrls": [
+    "https://www.youtube.com/embed/DzIbIe2e8TY"
+  ],
+  "bpm": 93,
+  "tone": "C# major",
+  "artistPeople": [
+    "Matteo Trullu"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Fabio Zanolini",
+    "Gregorio Castellani"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Fabio Zanolini",
+    "Gregorio Castellani",
+    "Luca Faccini"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

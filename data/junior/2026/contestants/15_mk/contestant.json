@@ -1,0 +1,29 @@
+{
+  "id": 15,
+  "country": "MK",
+  "artist": "Ana Stojanoska",
+  "song": "Idnata jas",
+  "videoUrls": [
+    "https://www.youtube.com/embed/OzoGCmqHT9g"
+  ],
+  "bpm": 120,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Ana Stojanoska"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nikola Micevski"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ilcho Nechovski"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

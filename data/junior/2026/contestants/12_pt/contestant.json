@@ -1,0 +1,27 @@
+{
+  "id": 12,
+  "country": "PT",
+  "artist": "Salvador Rio",
+  "song": "Alma",
+  "videoUrls": [
+    "https://www.youtube.com/embed/cbo83iUI1f8"
+  ],
+  "bpm": 75,
+  "tone": "E major",
+  "artistPeople": [
+    "Salvador Rio"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Diogo Piçarra"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

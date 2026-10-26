@@ -1,0 +1,31 @@
+{
+  "id": 13,
+  "country": "IE",
+  "artist": "Caleb Kirwan & Naomi Gribben",
+  "song": "Níos láidre",
+  "videoUrls": [
+    "https://www.youtube.com/embed/NQ1RP524qJg"
+  ],
+  "bpm": 142,
+  "tone": "A major",
+  "artistPeople": [
+    "Caleb Kirwan",
+    "Naomi Gribben"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ben Pyne",
+    "Larissa Tormey",
+    "Remy Borsboom",
+    "Shauna Carrick"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

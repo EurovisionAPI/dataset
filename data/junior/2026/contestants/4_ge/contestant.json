@@ -1,0 +1,29 @@
+{
+  "id": 4,
+  "country": "GE",
+  "artist": "Davit Lomidze",
+  "song": "Sun on the Rooftops",
+  "videoUrls": [
+    "https://www.youtube.com/embed/XgV2kSS3FO8"
+  ],
+  "bpm": 138,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Davit Lomidze"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Giga Kukhianidze"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Irina Sanikidze"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": 9,
+  "country": "CY",
+  "artist": "Harry Georgiou",
+  "song": "Who I Can Be",
+  "videoUrls": [
+    "https://www.youtube.com/embed/4BDAKKj5sGo"
+  ],
+  "bpm": 91,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Harry Georgiou"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Anna-Klara Folin",
+    "Laurell Barker",
+    "Nathalie Brydolf",
+    "Thomas Stengaard",
+    "Victoria Chalkitis"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

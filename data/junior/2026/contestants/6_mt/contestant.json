@@ -1,0 +1,34 @@
+{
+  "id": 6,
+  "country": "MT",
+  "artist": "Beppe",
+  "song": "Blue Bird",
+  "videoUrls": [
+    "https://www.youtube.com/embed/vlM4vMxZeQ0"
+  ],
+  "bpm": 60,
+  "tone": "C major",
+  "artistPeople": [
+    "Beppe Caruana"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Matthew Caruana",
+    "Matthew James Borg",
+    "Matthew Mercieca"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Beppe Caruana",
+    "Matthew Caruana",
+    "Matthew James Borg",
+    "Matthew Mercieca"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

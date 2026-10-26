@@ -1,0 +1,30 @@
+{
+  "id": 5,
+  "country": "PL",
+  "artist": "Wiktor Sas",
+  "song": "Gravity",
+  "videoUrls": [
+    "https://www.youtube.com/embed/8rYZkPBZskk"
+  ],
+  "bpm": 130,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Wiktor Sas"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Antoni Alagierski",
+    "Małgorzata Uściłowska",
+    "Mikołaj Trybulec",
+    "Ulrich Harrison"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

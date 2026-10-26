@@ -1,0 +1,29 @@
+{
+  "id": 14,
+  "country": "AL",
+  "artist": "Eslin Kurti",
+  "song": "Kërce me mua",
+  "videoUrls": [
+    "https://www.youtube.com/embed/WVrgb32h1pw"
+  ],
+  "bpm": 117,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Eslin Kurti"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Enis Mullaj"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Eriona Rushiti"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

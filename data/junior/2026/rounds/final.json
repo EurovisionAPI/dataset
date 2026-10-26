@@ -1,0 +1,359 @@
+{
+  "date": "2026-10-24",
+  "time": "19:00:00",
+  "disqualifieds": null,
+  "performances": [
+    {
+      "contestantId": 0,
+      "running": 8,
+      "place": 1,
+      "scores": [
+        {
+          "name": "total",
+          "points": 202,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 103,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 99,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 1,
+      "running": 16,
+      "place": 2,
+      "scores": [
+        {
+          "name": "total",
+          "points": 184,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 108,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 76,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 2,
+      "running": 6,
+      "place": 3,
+      "scores": [
+        {
+          "name": "total",
+          "points": 165,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 114,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 51,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 3,
+      "running": 5,
+      "place": 4,
+      "scores": [
+        {
+          "name": "total",
+          "points": 148,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 70,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 78,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 4,
+      "running": 15,
+      "place": 5,
+      "scores": [
+        {
+          "name": "total",
+          "points": 145,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 94,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 51,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 5,
+      "running": 7,
+      "place": 6,
+      "scores": [
+        {
+          "name": "total",
+          "points": 144,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 83,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 61,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 6,
+      "running": 9,
+      "place": 7,
+      "scores": [
+        {
+          "name": "total",
+          "points": 136,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 86,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 50,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 7,
+      "running": 1,
+      "place": 8,
+      "scores": [
+        {
+          "name": "total",
+          "points": 126,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 71,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 55,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 8,
+      "running": 11,
+      "place": 9,
+      "scores": [
+        {
+          "name": "total",
+          "points": 106,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 38,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 68,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 9,
+      "running": 2,
+      "place": 10,
+      "scores": [
+        {
+          "name": "total",
+          "points": 98,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 52,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 46,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 10,
+      "running": 10,
+      "place": 11,
+      "scores": [
+        {
+          "name": "total",
+          "points": 87,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 41,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 46,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 11,
+      "running": 4,
+      "place": 12,
+      "scores": [
+        {
+          "name": "total",
+          "points": 68,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 9,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 59,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 12,
+      "running": 3,
+      "place": 13,
+      "scores": [
+        {
+          "name": "total",
+          "points": 64,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 14,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 50,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 13,
+      "running": 13,
+      "place": 14,
+      "scores": [
+        {
+          "name": "total",
+          "points": 64,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 20,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 44,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 14,
+      "running": 14,
+      "place": 15,
+      "scores": [
+        {
+          "name": "total",
+          "points": 62,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 19,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 43,
+          "votes": null
+        }
+      ]
+    },
+    {
+      "contestantId": 15,
+      "running": 12,
+      "place": 16,
+      "scores": [
+        {
+          "name": "total",
+          "points": 57,
+          "votes": null
+        },
+        {
+          "name": "jury",
+          "points": 6,
+          "votes": null
+        },
+        {
+          "name": "online",
+          "points": 51,
+          "votes": null
+        }
+      ]
+    }
+  ]
+}

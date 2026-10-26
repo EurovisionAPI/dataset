@@ -1,0 +1,28 @@
+{
+  "id": 7,
+  "country": "NL",
+  "artist": "Maria",
+  "song": "Stronger Together",
+  "videoUrls": [
+    "https://www.youtube.com/embed/QSNNO5BvUng"
+  ],
+  "bpm": 103,
+  "tone": "A major",
+  "artistPeople": [
+    "Maria René Dragan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Mell Jonk",
+    "Ton Dijkman"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

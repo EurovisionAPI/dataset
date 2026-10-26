@@ -1,0 +1,29 @@
+{
+  "id": 0,
+  "country": "AM",
+  "artist": "Naré",
+  "song": "Boo!",
+  "videoUrls": [
+    "https://www.youtube.com/embed/tx7-BGygj3o"
+  ],
+  "bpm": 120,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Naré Kerobyan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lilit Navasardyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Grigor Kyokchyan"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

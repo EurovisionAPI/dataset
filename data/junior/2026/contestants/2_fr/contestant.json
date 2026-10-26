@@ -1,0 +1,28 @@
+{
+  "id": 2,
+  "country": "FR",
+  "artist": "Alec",
+  "song": "Comment tu vas ?",
+  "videoUrls": [
+    "https://www.youtube.com/embed/bOD4V-m1OcU"
+  ],
+  "bpm": 127,
+  "tone": "B major",
+  "artistPeople": [
+    "Alec Burette"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alec Burette",
+    "Malory Legardinier"
+  ],
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

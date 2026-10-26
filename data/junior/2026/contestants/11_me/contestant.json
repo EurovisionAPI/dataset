@@ -1,0 +1,30 @@
+{
+  "id": 11,
+  "country": "ME",
+  "artist": "Mija Vujović",
+  "song": "Muzika nas spaja",
+  "videoUrls": [
+    "https://www.youtube.com/embed/NAGSARC-sV4"
+  ],
+  "bpm": 100,
+  "tone": "E major",
+  "artistPeople": [
+    "Mija Vujović"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Marko Kon"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Marko Kon",
+    "Vasilije Čolan"
+  ],
+  "writers": null,
+  "broadcaster": null,
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}
