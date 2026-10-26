@@ -241,15 +241,11 @@ To contribute:
 #### 👦👧 Junior
 
 <!-- JUNIOR-START -->
-
 No missing data
-
 <!-- JUNIOR-END -->
 
 #### 🧔👩 Senior
 
 <!-- SENIOR-START -->
-
 No missing data
-
 <!-- SENIOR-END -->
